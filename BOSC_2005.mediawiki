@@ -2,6 +2,6 @@
 title: BOSC 2005
 ---
 
-[[Image:Bosc-2005-logo]]
+[[Image:Bosc-2005-logo.png]]
 
 [[Category:BOSC]] [[Category:Conferences]]
