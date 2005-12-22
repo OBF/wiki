@@ -2,7 +2,48 @@
 title: Main Page
 ---
 
-Wiki software successfully installed.
+==About Us==
 
-Please see [http://meta.wikipedia.org/wiki/MediaWiki_i18n documentation on customizing the interface]
-and the [http://meta.wikipedia.org/wiki/MediaWiki_User%27s_Guide User's Guide] for usage and configuration help.
+The Open Bioinformatics Foundation or O|B|F is a non profit, volunteer run organization focused on supporting [[wp:open source|open source]] programming in [[wp:bioinformatics|bioinformatics]].
+
+The foundation grew out of the volunteer projects Bioperl, BioJava and Biopython and was formally incorporated in order to handle our modest requirements of hardware ownership, domain name management and funding for conferences and workshops.The Foundation does not participate directly in the development or structure of the open source work, but as the members of the foundation are drawn from the member projects, there is clear commonality of direction and purpose. Occasionally the O|B|F directors may make announcements about our direction or purpose (a recent one was on the licensing of academic software) when the board feels there is a need to clarify matters, but in general we prefer to remain simply the administrative support organization for our member projects.
+
+Our main activities are:
+
+* Underwriting and supporting the BOSC conferences
+* Organizing and supporting developer-centric "hackathon" events
+* Managing our servers, colocation facilities, bank account & other assets
+
+We are incorporated in the state of Delaware, USA as a not-for-profit company.
+
+==BOSC==
+Bioinformatics Open Source Conference or [[BOSC]] is held annually in conjunction with [http://www.iscb.org ISCB's] meeting ISMB.  We will be holding [[BOSC 2006]] at [[http://ismb2006.cbi.cnptia.embrapa.br/ ISMB 2006]] in [[wp:Fortaleza, Brazil|Fortaleza, Brazil]].
+
+See some of the [[Past BOSC conferences]].
+
+==Board of Directors==
+The board can be contacted via email at [mailto:board@open-bio.org board@open-bio.org]
+
+'''President'''
+: [[bp:Jason Stajich|Jason Stajich]]
+: [[bp:BioPerl|BioPerl]] core developer. Graduate Student at [http://www.duke.edu/ Duke University].
+
+'''Treasurer'''
+: [[bp:Chris Dagdigian|Chris Dagdigian]]
+: [[bp:BioPerl|BioPerl]] co-founder & O|B|F sysadmin. Employed by [http://www.bioteam.net the BioTeam].
+
+'''Secretary'''
+: Andrew Dalke 
+: Representing [http://www.biopython.org BioPython] & [http://www.dalkescientific.com Dalke Scientific]
+
+'''Parlimentarian'''
+: [[bp:Hilmar Lapp|Hilmar Lapp]]
+: Representing [[bp:BioPerl|BioPerl]].  Employed by [http://www.gnf.org Genomics Institute of the Novartis Research Foundation].
+
+'''At-large member'''
+: [[bp:Ewan Birney|Ewan Birney]], ''Past President''
+: [[bp:BioPerl|BioPerl]] core developer.  Coordinator of the [http://www.ebi.ac.uk EBI] half of the [http://www.ensembl.org Ensembl] genome annotation project.
+
+'''At-large member'''
+: [[bp:Steven Brenner|Steven E. Brenner]]
+: [http://compbio.berkeley.edu Associate Professor] at University of California, Berkeley.
