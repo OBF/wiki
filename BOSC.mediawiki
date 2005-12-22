@@ -1,0 +1,7 @@
+---
+title: BOSC
+---
+
+'''B'''ioinformatics '''O'''pen '''S'''ource '''C'''onference held annually to promote and facilitate [[wp:open source|open source]] development of [[wp:bioinformatics|bioinformatics]] tools.  The conferences provide a means for developers and users to interact and share ideas about software developer and practical techniques in bioinformatics.
+
+See some of the [[Upcoming BOSC conference]] and [[Past BOSC conferences]].
