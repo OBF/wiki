@@ -3,9 +3,10 @@ title: BioPerl Heidelberg 1999
 ---
 
 A [[bp:BioPerl|BioPerl]] workshop was held in [[wp:Heidelberg, Germany|Heidelberg, Germany]] in conjuction with ISMB1999.
-
 [[Image:Bioperl-Heidelberg-1999-5.jpg|frame|German Cancer Research Center (DKFZ) in Heidelberg.]]
 [[Image:Bioperl-Heidelberg-1999-4.jpg|frame|The lecture hall in the DKFZ communications center where the workshop was held.]]
 [[Image:Bioperl-Heidelberg-1999-1.jpg|frame|During a break, a side meeting is held to talk about features planned for the next bioperl release.]]
 [[Image:Bioperl-Heidelberg-1999-2.jpg|frame|During ISMB, an introduction meeting and planning session was held with some of the volunteers.]]
 [[Image:Bioperl-Heidelberg-1999-3.jpg|frame|[[bp:Ewan Birney|Ewan Birney]] & [[bp:Steve Chervitz|Steve Chervitz]] nail down code committments and responsibilities from volunteer developers.]]
+
+[[Category:Conferences]]
