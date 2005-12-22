@@ -4,4 +4,5 @@ title: BOSC 2001
 
 [[Image:Bosc-2001-logo.gif]]
 
+[http://gallery.open-bio.org/gallery/bosc2001 Pictures] from the 2001 conference.
 [[Category:BOSC]] [[Category:Conferences]]
