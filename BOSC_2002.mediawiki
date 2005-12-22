@@ -4,4 +4,8 @@ title: BOSC 2002
 
 [[Image:Bosc-2002-logo.png]]
 
+[http://open-bio.org/bosc2002 BOSC 2002 website]
+
+[http://gallery.open-bio.org/gallery/bosc2002 Pictures] from the conference
+
 [[Category:BOSC]] [[Category:Conferences]]
