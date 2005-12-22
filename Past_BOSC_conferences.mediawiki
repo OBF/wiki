@@ -1,0 +1,11 @@
+---
+title: Past BOSC conferences
+---
+
+Previous BOSC conferences
+* [[BOSC 2005]] Detroit, MI USA
+* [[BOSC 2004]] Glasgow, UK
+* [[BOSC 2003]] Brisbane, Australia
+* [[BOSC 2002]] Edmonton, Canada
+* [[BOSC 2001]] Copenhagen, Denmark
+* [[BOSC 2000]] San Diego, CA USA
