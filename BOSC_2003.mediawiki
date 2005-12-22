@@ -1,0 +1,32 @@
+---
+title: BOSC 2003
+---
+
+[[Image:Bosc-2003-logo.gif]]
+
+==The conference==
+
+The 4th annual Bioinformatics Open Source Conference (BOSC'2003) is organized by the not-for-profit Open Bioinformatics Foundation. The meeting will take place June 27-28, 2003 in Brisbane, Australia and is one of several special Interest Group (SIG) meetings occuring in conjunction with the 11th International Confernce on Intelligent Systems for Molecular Biology.
+
+The focus of the meeting will be on current and emerging open source informatics tools and toolkits. BOSC provides a forum for developers, project groups, users and interested parties to meet personally, exchange ideas and collaborate together.
+
+The morning and afternoon sessions will feature talks from submitted abstracts. A communal wireless network will be available and evening BoF sessions willl bring together project groups and people with specialized interests.
+
+'''REGISTER ONLINE FOR BOSC'2003 & ISMB AT:'''
+https://www.cteusa.com/iscb2/
+
+==MEETING SCHEDULE & ABSTRACTS==
+
+The program is now available. This is more recent than the version sent to be printed. (Bioruby and Biopython slots have been swapped.)
+: Program at: [[BOSC 2003 program]]
+: Abstracts at: [[BOSC 2003 talks]]
+
+==Lightning-talk Speakers wanted!==
+
+The program committe is currently seeking speakers for the lightning talks at BOSC 2003. Lightning talks are quick - only five minutes long - and a great opportunity for you to give people a quick summary of your open source project, code, idea, or vision of the future. 
+
+If you are interested in giving a lightning talk at BOSC 2003, please email [mailto:bosc@open-bio.org bosc@open-bio.org] the following:
+* a brief title and summary (one or two lines)
+* a URL for the project page, if applicable
+
+We will accept entries on-line until BOSC starts.
