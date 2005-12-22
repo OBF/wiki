@@ -10,7 +10,7 @@ The foundation grew out of the volunteer projects Bioperl, BioJava and Biopython
 
 Our main activities are:
 
-* Underwriting and supporting the BOSC conferences
+* Underwriting and supporting the [[BOSC]] conferences
 * Organizing and supporting developer-centric "hackathon" events
 * Managing our servers, colocation facilities, bank account & other assets
 
