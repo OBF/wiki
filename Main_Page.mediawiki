@@ -17,7 +17,7 @@ Our main activities are:
 We are incorporated in the state of Delaware, USA as a not-for-profit company.
 
 ==BOSC==
-Bioinformatics Open Source Conference or [[BOSC]] is held annually in conjunction with [http://www.iscb.org ISCB's] meeting ISMB.  We will be holding [[BOSC 2006]] at [[http://ismb2006.cbi.cnptia.embrapa.br/ ISMB 2006]] in [[wp:Fortaleza, Brazil|Fortaleza, Brazil]].
+Bioinformatics Open Source Conference or [[BOSC]] is held annually in conjunction with [http://www.iscb.org ISCB's] meeting ISMB.  We will be holding [[BOSC 2006]] at [http://ismb2006.cbi.cnptia.embrapa.br/ ISMB 2006] in [[wp:Fortaleza, Brazil|Fortaleza, Brazil]].
 
 See some of the [[Past BOSC conferences]].
 
