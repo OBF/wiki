@@ -1,0 +1,15 @@
+---
+title: Newsletters
+---
+
+__TOC__
+==OBF Newsletters==
+Here are some newsletters sumamarizing project progress
+* [[Newsletter:2002 Summer]]
+
+==Project specific milestones==
+===[[bp:BioPerl|BioPerl]]===
+* [http://bioperl.org/pipermail/bioperl-announce-l/2004-December/000220.html 2004 summary]
+===BioJava===
+===BioPython===
+===BioRuby===
