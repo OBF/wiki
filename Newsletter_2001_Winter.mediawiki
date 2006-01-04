@@ -207,78 +207,49 @@ Two new efforts have been initiated recently
 ===BioMOBY===
  (http://biomoby.org) ** site online **
 
-BioMOBY is an international group of biological data hosts, biological data service providers, and coders whose aim is to achieve a maximum amount of data interoperability between host institutions. The website provides an online resource formodules, scripts, and schema for developers of MOBY-related
-     software. CVS access will be available shortly.
+BioMOBY is an international group of biological data hosts, biological data service providers, and coders whose aim is to achieve a maximum amount of data interoperability between host institutions. The website provides an online resource formodules, scripts, and schema for developers of MOBY-related software. CVS access will be available shortly.
 
-     BioMOBY project admin: Mark Wilkinson <mwilkinson@gene.pbi.nrc.ca>
+BioMOBY project admin: Mark Wilkinson <mwilkinson@gene.pbi.nrc.ca>
 
-  o BioSOAP (http://biosoap.org) ** future site **
+===BioSOAP (http://biosoap.org)===
+ ** future site **
 
-     biosoap.org will aim to develop a bridge system between the core
-     objects of bioperl and biojava as well as between the current
-     perl-based Ensembl and the upcoming java port of it. It will
-     hopefully allow such things as perl scripts running with java
-     objects, as well as over-the-net object oriented programming. It
-     is in its infancy, so any support, advice and suggestions will be
-     most appreciated.
+biosoap.org will aim to develop a bridge system between the core objects of bioperl and biojava as well as between the current perl-based Ensembl and the upcoming java port of it. It will hopefully allow such things as perl scripts running with java objects, as well as over-the-net object oriented programming. It is in its infancy, so any support, advice and suggestions will be most appreciated.
 
-     BioSOAP project admin: Elia Stupka <elia@ebi.ac.uk>
+BioSOAP project admin: Elia Stupka <elia@ebi.ac.uk>
 
-  o biostandards.org
-
-     We've had this domain name for a while and have done nothing with
-     it. Suggestions welcome.
-
-
+===biostandards.org===
+We've had this domain name for a while and have done nothing with it. Suggestions welcome.
 
 -------------------------------------------------------------------------
-UPCOMING EVENTS
+==UPCOMING EVENTS==
 -------------------------------------------------------------------------
 
-2-Part Open Bioinformatics Hackathon in USA and South Africa !
+===2-Part Open Bioinformatics Hackathon in USA and South Africa !===
 
- This is an early sneak-peek announcement. Details will follow  from
- the actual organizers.
+This is an early sneak-peek announcement. Details will follow from the actual organizers.
 
- O'Reilly & Associates (http://www.ora.com) and Electric Genetics
- (http://www.egenetics.com) are going to jointly hold two open-bio
- hackathons. The hackfest will start with a three-day event as part of
- the O'Reilly Bioinformatics Technology Conference in Arizona in late
- January and continue with a seven-day session in Cape Town, South
- Africa scheduled for late February. The event is invitation only and
- attendees will have all travel and accomodation expenses paid.
+O'Reilly & Associates (http://www.ora.com) and Electric Genetics (http://www.egenetics.com) are going to jointly hold two open-bio hackathons. The hackfest will start with a three-day event as part of the O'Reilly Bioinformatics Technology Conference in Arizona in late January and continue with a seven-day session in Cape Town, South Africa scheduled for late February. The event is invitation only and attendees will have all travel and accomodation expenses paid.
 
- This is very exiting news, more details will be announced.
-
+This is very exiting news, more details will be announced.
 
 Open-Bio at the O'Reilly Bioinformatics Technology Conference, Jan 2002
+Conference site:  http://conferences.oreilly.com/biocon/
 
- Conference site:  http://conferences.oreilly.com/biocon/
+It appears that many of our project admins and developers are going to be attending the ORA conference in January. Ewan Birney is giving a keynote address and several Open Bio people are giving talks and/or tutorials at the conference.
 
- It appears that many of our project admins and developers are going
- to be attending the ORA conference in January. Ewan Birney is giving
- a keynote address and several Open Bio people are giving talks and/or
- tutorials at the conference.
+In addition to the tutorial sessions, the OBF will also have a conference booth in the exhibit hall and we have been invited by the conference staff to organize and host informal Bird Of a Feather ("BOF") sessions as necessary.
 
- In addition to the tutorial sessions, the OBF will also have a
- conference booth in the exhibit hall and we have been invited by the
- conference staff to organize and host informal Bird Of a Feather ("BOF")
- sessions as necessary.
+We have already committed to hosting the following BOF sessions at the conference:
 
- We have already committed to hosting the following BOF sessions at
- the conference:
+* Bioperl developers
+* new Bioperl users
+* Biopython users & developers
 
-     o Bioperl developers
-     o new Bioperl users
-     o Biopython users & developers
-
- HOST YOUR OWN BOF! If you are interested in hosting/moderating a
- gathering of like-minded individuals at the conference please respond
- to Andrew Dalke <dalke@dalkescientific.com>. We need to know (a) who
- you are and (b) what BOF topic you propose to host.
-
+HOST YOUR OWN BOF! If you are interested in hosting/moderating a gathering of like-minded individuals at the conference please respond to Andrew Dalke <dalke@dalkescientific.com>. We need to know (a) who you are and (b) what BOF topic you propose to host.
 
 -------------------------------------------------------------------------
+
 ==CALL FOR VOLUNTEERS==
 -------------------------------------------------------------------------
 
