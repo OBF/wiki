@@ -48,7 +48,7 @@ It has become obvious over the past year that this "umbrella" group while functi
 Long talked about it was finally decided at BOSC'2001 in Copenhagen that we should take the plunge and incorporate the group as a formal not-for-profit entity. The goals of the new organization are the same as before: providing administrative, financial and technical support to our ongoing and future projects.
 
 The new entity will be called the "Open Bioinformatics Foundation"
-
+===Board of Directors===
 The current Directors for 2001/2002 are as follows:
 
 * Ewan Birney	       (European Bioinformatics Institute)
@@ -57,11 +57,13 @@ The current Directors for 2001/2002 are as follows:
 * Chris Dagdigian    (Blackstone Computing Inc.)
 * Hilmar Lapp	       (Novartis Research Foundation)
 
+===Corporate Officers==
 The Directors have chosen corporate Officers for the following positions:
 * Ewan Birney, President & Chief Executive Officer
 * Chris Dagdigian, Treasurer & Chief Financial Officer
 * Andrew Dalke, Secretary
 
+===Address===
 A rented mailbox serves as our official corporate address:
 
   Open Bioinformatics Foundation
@@ -80,6 +82,7 @@ In particular we'd like to acknowledge the assistance and guidance of Dan Appelm
 HellerEhrman. His attorney bio can be read online at http://www.hewm.com/attorneys/attorneyBio.asp?attorneyID=341
 
 -------------------------------------------------------------------------
+
 ==FINANCES==
 -------------------------------------------------------------------------
 
