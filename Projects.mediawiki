@@ -1,0 +1,18 @@
+---
+title: Projects
+---
+
+The O|B|F currently serves as the main host for following projects
+* [http://www.biojava.org BioJava]
+* [[bp:BioPerl|BioPerl]]
+* [http://biopipe.org BioPipe]
+* [http://www.biopython.org BioPython]
+* [http://www.biodas.org DAS]
+* [http://www.biomoby.org MOBY]
+
+We provide code and mailing list hosting for 
+* [http://www.emboss.org EMBOSS]
+
+The following projects are affiliated with O|B|F
+* [http://www.bioruby.org BioRuby]
+* [http://www.gmod.org/ggb Generic Genome Browser] - part of [http://www.gmod.org GMOD]
