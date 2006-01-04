@@ -109,30 +109,30 @@ Our goal in general with BOSC meetings is to make the registration fee as low as
 BOSC'2001 (Denmark) Conference financial breakdown:
 
   Total number of attendees: 163
- 
+  
   Our fixed costs per attendee were 880 DKK per person
+  
+ Income received:
+  Academic:	57 @ 1100 DKK = 62700.00 DKK
+  Corporate:	68 @ 1400 DKK = 95200.00 DKK
+  Student:	38 @ 880  DKK = 33440.00 DKK
  
-  Income received:
-	 Academic:	57 @ 1100 DKK = 62700.00 DKK
-	 Corporate:	68 @ 1400 DKK = 95200.00 DKK
-	 Student:	38 @ 880  DKK = 33440.00 DKK
+ Total income: 191340.00 DKK
+  
+ Expenses:
+  Meeting expenses (fixed) 158933.00 DKK
+  Extra AV costs		  19582.00 DKK
+  Poster stands		   2640.00 DKK
+  Extra flipcharts	    594.00 DKK
  
-	 Total income: 191340.00 DKK
- 
-  Expenses:
-	Meeting expenses (fixed) 158933.00 DKK
-	Extra AV costs		  19582.00 DKK
-	Poster stands		   2640.00 DKK
-	Extra flipcharts	    594.00 DKK
- 
-	 Total expenses: 181749.00 DKK
- 
-	 BOSC'2001 PROFIT: 9591.00 DKK ($1,177.00 US Dollars)
+  Total expenses: 181749.00 DKK
+  BOSC'2001 PROFIT: 9591.00 DKK ($1,177.00 US Dollars)
  
 BOSC Pictures available at [http://open-bio.org/bosc2001/bosc2001_pics/ http://open-bio.org/bosc2001/bosc2001_pics/] 
 (editor's note, also see [http://gallery.open-bio.org gallery site])
 
 -------------------------------------------------------------------------
+
 ==SERVER & CONNECTIVITY UPDATE==
 -------------------------------------------------------------------------
 
