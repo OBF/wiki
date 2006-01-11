@@ -12,17 +12,6 @@ Aug 4-5, 2006 '''BOSC 2006'''
 
 ==Keynote Speakers==
 
-<div class='eventful-sticker'>
-<script type='text/javascript'><!--
-eventful_description = false;
-eventful_venue       = true;
-eventful_date        = true;
-eventful_time        = false;
-eventful_css         = 'http://eventful.com/css/stickers/eventful.css';
-//--></script>
-<script type='text/javascript' src='http://eventful.com/calendars/C0-001-000003150-4/sticker.js?v=2&amp;date_format=%25b%20%25e%2C%20%25Y'></script>
-</div>
-
 ==Agenda==
 
 ==Program committee==
