@@ -10,7 +10,7 @@ Information coming shortly
 
 Aug 4-5, 2006 '''BOSC 2006'''
 
-<a href="http://eventful.com/calendars/C0-001-000003150-4/sticker.js?v=2&amp;date_format=%25b%20%25e%2C%20%25Y">BOSC Eventful Calendar</a>
+[http://eventful.com/calendars/C0-001-000003150-4/sticker.js?v=2&amp;date_format=%25b%20%25e%2C%20%25Y BOSC Eventful Calendar]
 
 ==Keynote Speakers==
 
