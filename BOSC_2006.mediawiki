@@ -13,7 +13,7 @@ Aug 4-5, 2006 '''BOSC 2006'''
 [http://eventful.com/groups/G0-001-000014747-0 BOSC Eventful Group]
 
 ==Keynote Speakers==
-[http://ca.expasy.org/people/amos.html Amos Baroch]
+[http://ca.expasy.org/people/amos.html Amos Baroch] of the Swiss Institute of Bioinformatics
 
 ==Agenda==
 
