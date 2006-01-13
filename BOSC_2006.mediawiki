@@ -4,7 +4,7 @@ title: BOSC 2006
 
 [[Image:Pear.png|The Bosc Pair]]
 <br><br>
-The 7th annual Bioinformatics Open Source Conference ([[BOSC]]'2006) will take place in [[wp:Fortaleza, Brazil|Fortaleza, Brazil]], and is one of several Special Interest Group (SIG) meetings occurring in conjunction with the 14th [http://ismb2006.cbi.cnptia.embrapa.br/  International Conference on Intelligent Systems for Molecular Biology]. 
+The 7th annual Bioinformatics Open Source Conference ([[BOSC]]'2006) will take place in [[wp:Fortaleza, Brazil|Fortaleza, Brazil]], as one of several Special Interest Group (SIG) meetings occurring in conjunction with the [http://ismb2006.cbi.cnptia.embrapa.br/ 14th International Conference on Intelligent Systems for Molecular Biology]. 
 
 
 ==Important Dates==
@@ -25,6 +25,14 @@ August 4-5, 2006 - BOSC Conference
 [http://ca.expasy.org/people/amos.html Amos Baroch] of the Swiss Institute of Bioinformatics
 
 ==Agenda==
+
+===Call for Papers===
+
+===Call for Lightning Talks and Demos===
+
+===Call for Birds of a Feather===
+
+===Call for Volunteers===
 
 ==Program committee==
 '''Chair''', [mailto:darin.london@duke.edu Darin London], [http://www.duke.edu Duke University]
