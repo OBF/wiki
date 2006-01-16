@@ -15,5 +15,19 @@ title: Projects
 
 ==Affiliated projects==
 * [http://www.gmod.org/ggb Generic Genome Browser] - part of [http://www.gmod.org GMOD]
-* [http://www.pasteur.fr/recherche/unites/sis/Pise/ Pise]
-* [http://industry.ebi.ac.uk/openBQS/ openBQS]
+* [http://www.gmod.org/schema/ Chado] - The GMOD DB schema
+* [http://www.pasteur.fr/recherche/unites/sis/Pise/ Pise] - a tool to generate Web interfaces software for submitting jobs to these interfaces
+* [http://industry.ebi.ac.uk/openBQS/ openBQS] - Bibliographic query system
+* [http://blipkit.org BlipKit] - Chris Mungall's Prolog toolkit for Bioinformatics and BioMedical Informatics
+* [http://skam.sourceforge.net/ BioMake &amp; Skam] - Task management tool, similar to makefiles
+
+==Other related projects==
+* [http://biophp.org BioPHP]
+* [http://www.yandell-lab.org/cgl/ CGL] - Comparative Genomics Library
+
+==Ontologies and Definitions==
+* [http://www.fruitfly.org/chaos-xml/ Chaos-XML] - File format based on the sequence modules of the Chado relational schema
+* [http://song.sourceforge.net/ Sequence Ontology]
+* [http://geneontology.org/ Gene Ontology]
+* [http://wikiomics.org Wikiomics]
+* [http://www.fruitfly.org/~cjm/obol/ Obol]
