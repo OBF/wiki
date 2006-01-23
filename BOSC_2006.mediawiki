@@ -29,8 +29,9 @@ August 4-5, 2006 - BOSC Conference
 ===Notes on Submissions===
   * The Open Bioinformatics Foundation is dedicated to promoting the practice and philosophy of Open Source Software development 
   within the Biological Research Community.  To promote this mission, the organizing committee will favor submissions for projects that apply a 
-  recognized Open Source License, or adhere to the general Open Source Philosophy. <br>See the following websites for further details:
+  recognized Open Source License, or adhere to the general Open Source Philosophy.
 
+See the following websites for further details:
    [href="http://www.opensource.org/licenses/ Recognized Open Source Licenses]
    [href="http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
 
