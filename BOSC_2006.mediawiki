@@ -35,8 +35,8 @@ for 25-minute talks and others for shorter "lightning" talks. Accepted
 abstracts will be published on the BOSC web site.
 
 
-If you are interested in speaking at BOSC 2005, 
- please send us before April 26, 2005:
+If you are interested in speaking at BOSC 2006, 
+ please send us before June 5th, 2006:
  
  * an abstract (no more than a few paragraphs)
  * a URL for the project page, if applicable
