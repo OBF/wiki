@@ -10,6 +10,8 @@ __TOC__
 ===Financial Overview===
 ===Website and Mailing list statistics===
 ===BOSC Reports===
+''Contributed by Darin London''
+
 Each year, the O|B|F sponsors the Bioinformatics Open Source Conference ([[BOSC]]) as a Special Interest Group in association with the International Systems in Molecular Biology Conference ([[ISMB]]) sponsored by the International Society for Computational Biology ([[ISCB]]).  The conferences over the last two years have been very successful, and we look forward to continuing to serve the Open Source Bioinformatics Community, and the wider research community in 2006.
 ====BOSC 2004====
 [[BOSC 2004]] was held along with [http://www.iscb.org/ismbeccb2004 ISMB 2004] in [[wp:Glasgow, Scotland|Glasgow, Scotland]].  The conference was a great success, with 136 people in attendance.  Our Keynote address featured Wolfgang Huber, delivering an inciteful overview of the very popular [http://bioconductor.org/ BioConductor] Open Source application system, for which he is responsible.  His talk was followed, over the course of two days, by eleven excellent 20-minute presentations selected from a
