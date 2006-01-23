@@ -84,7 +84,10 @@ On the community side a small group of dedicated supporters continued to man the
 
 [[PISE]]
 
-===[[BioPython]]===
+===BioPython===
+''Contributed by Iddo Friedberg''
+
+[[BioPython]]
 
 ===DAS===
 [[DAS]]
