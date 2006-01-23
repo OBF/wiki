@@ -79,7 +79,10 @@ On the community side a small group of dedicated supporters continued to man the
 ===GMOD===
 ''Contributed by Scott Cain'' ...
 
-===[[PISE]]===
+===PISE===
+''Contributed by Catherine Letondal''
+
+[[PISE]]
 
 ===[[BioPython]]===
 
