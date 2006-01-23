@@ -26,6 +26,8 @@ August 4-5, 2006 - BOSC Conference
 
 ==Agenda==
 
+===Notes on Submissions===
+
 ===Call for Speakers and Abstracts===
 The BOSC organizing committee is currently seeking abstracts
 for talks at BOSC 2006.  BOSC is a great opportunity for you to tell the community about 
