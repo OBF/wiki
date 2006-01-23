@@ -1,0 +1,5 @@
+---
+title: ISMB
+---
+
+'''I'''ntelligent '''S'''ystems in '''M'''olecular '''B'''iology conference [http://www.iscb.org/events/event_board.php organized by] the [[ISCB]].
