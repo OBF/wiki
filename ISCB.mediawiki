@@ -2,4 +2,4 @@
 title: ISCB
 ---
 
-'''I'''nternational '''S'''ociety for '''C'''omputational '''B'''iology or [[wp:ISCB|ISCB]] is the society which promotes [[wp:computational biology|ISCB]] sciences.
+'''I'''nternational '''S'''ociety for '''C'''omputational '''B'''iology or [http://www.iscb.org ISCB] is the society which promotes [[wp:computational biology|ISCB]] sciences.
