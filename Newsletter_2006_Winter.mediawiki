@@ -66,7 +66,7 @@ One of the core goals is to role out biojava1.5 including the biojavax APIs. Fol
 Another area for development in 2006 will be improving biojava's abilities in data integration and interaction with semantic web technologies like [http://www.w3.org/RDF/ RDF] by building on code developed by Matthew Pocock when he was experimenting with his bjv2 API.
 
 ===[[BioPerl]]===
-he last 2 years in [[BioPerl]] have been characterized by significant acceptance and use by the academic and commercial communities.  Up until 2003 roughly [[bp:BioPerl publications#2003|100 papers]] were published referring to the BioPerl package. Since then more than [[bp:BioPerl publications#2006|200 articles]] have appeared that cite BioPerl, primarily in the areas of genome annotation and database construction.  These figures, and data on Web site use, show a steady increase in the popularity of BioPerl. 
+The last 2 years in [[BioPerl]] have been characterized by significant acceptance and use by the academic and commercial communities.  Up until 2003 roughly [[bp:BioPerl publications#2003|100 papers]] were published referring to the BioPerl package. Since then more than [[bp:BioPerl publications#2006|200 articles]] have appeared that cite BioPerl, primarily in the areas of genome annotation and database construction.  These figures, and data on Web site use, show a steady increase in the popularity of BioPerl. 
 
 On the development side there has been much work on standardizing documentation and increased testing, a full "bug sweep", and a developer's release, version 1.5.  In addition some 100 new modules have been added in the last 2 years, for a total of 816 modules and roughly 340,000 lines of code. 
 
