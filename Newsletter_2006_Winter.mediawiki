@@ -76,7 +76,8 @@ On the development side there has been much work on standardizing documentation 
 
 On the community side a small group of dedicated supporters continued to man the bioperl-l mailing list, which receives a steady stream of queries. The most exciting news in this area is the new Wiki-based BioPerl site which has been created in the last few months and will be released in January 2006.
 
-===[[GMOD]]===
+===GMOD===
+''Contributed by Scott Cain'' ...
 
 ===[[PISE]]===
 
