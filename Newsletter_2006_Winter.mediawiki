@@ -35,7 +35,7 @@ Large-Scale Trends in the Evolution of Gene Structures within 11 Animal Genomes
 ====CONTACT US====
 General questions and comments about CGL should be directed to [mailto:myandell_AT_fruitfly.org myandell-at-fruitfly.org].
 
-===[[BioJava]]===
+===BioJava===
 ''Mark Schreiber'', 18th Jan 2006
 
 ====Biojava in 2005====
