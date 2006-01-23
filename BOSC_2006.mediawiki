@@ -27,6 +27,11 @@ August 4-5, 2006 - BOSC Conference
 ==Agenda==
 
 ===Notes on Submissions===
+  * The Open Bioinformatics Foundation is dedicated to promoting
+the practice and philosophy of Open Source Software development
+within the Biological Research Community.  Submissions for
+topics concerning the development, or use of software containing
+a
 
 ===Call for Speakers and Abstracts===
 The BOSC organizing committee is currently seeking abstracts
