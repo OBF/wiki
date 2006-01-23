@@ -86,7 +86,8 @@ On the community side a small group of dedicated supporters continued to man the
 
 ===[[BioPython]]===
 
-===Bio[[DAS]]===
+===DAS===
+[[DAS]]
 
 ===Bio[[MOBY]]===
 
