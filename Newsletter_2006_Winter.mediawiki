@@ -141,6 +141,7 @@ Several projects which use BioPython in their code base are:
 
 
 Many thanks to all the contributers, too numerous to be mentioned here [http://biopython.org/participants/].
+Releases this year were managed by Iddo Friedberg (1.40 beta) and Michiel de-Hoon [http://bonsai.ims.u-tokyo.ac.jp/~mdehoon/] (1.41).
 
 ===DAS===
 [[DAS]]
