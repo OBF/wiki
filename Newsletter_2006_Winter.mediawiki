@@ -61,7 +61,7 @@ Large-Scale Trends in the Evolution of Gene Structures within 11 Animal Genomes
 General questions and comments about CGL should be directed to [mailto:myandell_AT_fruitfly.org myandell-at-fruitfly.org].
 
 ===BioJava===
-''Contributed by Mark Schreiber''
+''Contributed by [[Mark Schreiber]]''
 ====Biojava in 2005====
 2005 saw an increasing amount of activity for biojava. The long awaited [http://www.biojava.org/download14.html biojava1.4] was finally released in June which re-energised the project. A big spike in web activity for the biojava web-site was observed shortly after the release. Hits per day increased from about 6000 per day to about 10K per day after the release. The binary (JAR) distribution of biojava 1.4 has been downloaded more than 4000 times since it's release with a typical month seeing about 700 downloads.
 
