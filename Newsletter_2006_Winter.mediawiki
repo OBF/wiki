@@ -134,7 +134,7 @@ About 20 new modules were added in 2005, and for a full list please see the rele
 In 2005, Bio[[Moby]] enjoyed its most successful year so far!  This was the year that it emerged from its adolescence as "just an amusing prototype", to mature into a serious codebase with a rigorous test suite, increasingly comprehensive documentation, and a formal RFC procedure for code changes.  The number of independent Moby Web Service registries has grown to 5 (Canada, Germany, Spain, Australia, and the Philippines), and the number of interoperable services in the primary public registry at UBC in Vancouver exceeds 500.  Powerful and intuitive tooling for service providers and for end-users has also become available in the past year, lowering the bar for participation and use, and greatly enhancing the accessibility of the BioMoby platform for the "newbie".  The BioMoby community of core developers has doubled this year, and we have continued the tradition of having face-to-face developers meetings every 6 months to ensure that the project does not stagnate.  Moby continues to enjoy a strong base of financial support from the original Genome Canada award, and from a strong and productive collaboration with the UK-based myGrid project, in addition to the many participating members worldwide who invest their own resources into tooling and core code improvements.  We predict that 2006 will be the year that BioMoby truly appears on the biologist's radar and starts making a difference to the lives of researchers around the world!
 
 ===BlipKit===
-''Chris Mungall''
+''Contributed by [[Chris Mungall]]''
 
 
 Blipkit (Biological Logic Programming Knowledge Integration Kit), aka
