@@ -129,16 +129,18 @@ About 20 new modules were added in 2005. Notable newcomers are an NCBI XML parse
 
 Several projects which use BioPython in their code base are:
 
-Joined Assessment of Functional Annotation (JAFA) [http://jafa.burnham.org]
+* Joined Assessment of Functional Annotation (JAFA) [http://jafa.burnham.org]
 
-Text mining tools at Stanford University [http://bionlp.stanford.edu/] 
+* Text mining tools at Stanford University [http://bionlp.stanford.edu/] 
 
-The '''TRA'''ns'''M'''embrane-'''P'''rotein '''L'''abelling '''E'''nvironment from BioDec [http://www.biodec.com/products]
+* The '''TRA'''ns'''M'''embrane-'''P'''rotein '''L'''abelling '''E'''nvironment from BioDec [http://www.biodec.com/products]
 
-The upcoming Schneider suite [http://schneider.sourceforge.net/]
+* The upcoming Schneider suite [http://schneider.sourceforge.net/]
+
+* A Google homepage script for calculating oligo melting temperatures: [http://www.bioinformatica.info/modulomt2.xml]
 
 
-A Google homepage script for calculating oligo melting temperatures: [http://www.bioinformatica.info/modulomt2.xml]
+Many thanks to all the contributers, too numerous to be mentioned here [http://biopython.org/participants/].
 
 ===DAS===
 [[DAS]]
