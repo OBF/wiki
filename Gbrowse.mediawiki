@@ -1,0 +1,5 @@
+---
+title: Gbrowse
+---
+
+#REDIRECT [[bp:Gbrowse]]
