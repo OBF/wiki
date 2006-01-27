@@ -98,13 +98,15 @@ On the development side there has been much work on standardizing documentation 
 On the community side a small group of dedicated supporters continued to man the bioperl-l mailing list, which receives a steady stream of queries. The most exciting news in this area is the new Wiki-based BioPerl site which has been created in the last few months and will be released in January 2006.
 
 ===GMOD===
-''Contributed by Scott Cain'' 
+''Contributed by [[Scott Cain]]'' 
 
-The Generic Model Organism Database (GMOD) Project is a largely open source project to develop a complete set of software for creating and administering a model organism database. Components of this project include genome visualization and editing tools, literature curation tools, a robust database schema (known as Chado), and a generic web front end.  Several established model organism databases contribute to the project, including WormBase, the Saccharomyces Genome Database, FlyBase, Gramene, TAIR, the Rat Genome Database, and EcoCyc.  Many components of GMOD rely on BioPerl, including one of the "flagship" projects, the [http://www.gmod.org/gbrowse Generic Genome Browser (GBrowse)], the widely adopted, web-based genome feature visualizer.  Over 150 organizations have adopted some tools from GMOD.
+The Generic Model Organism Database ([[GMOD]]) Project is a largely open source project to develop a complete set of software for creating and administering a model organism database. Components of this project include genome visualization and editing tools, literature curation tools, a robust database schema (known as Chado), and a generic web front end.  Several established model organism databases contribute to the project, including WormBase, the [http://www.yeastgenome.org Saccharomyces Genome Database], [http://www.flybase.net FlyBase], [http://www.gramene.org Gramene], [http://www.arabidopsis.org TAIR], the [http://rgd.mcw.edu/ Rat Genome Database], and [http://ecocyc.org/ EcoCyc].  Many components of GMOD rely on [[BioPerl]], including one of the "flagship" projects, the [[Gbrowse|Generic Genome Browser (GBrowse)]], the widely adopted, web-based genome feature visualizer.  Over 150 organizations have adopted some tools from GMOD.
 
+===Chado===
 ''add stuff here from Chris Mungall about chado, including a few adopting orgs, like [http://www.dictybase.org/ dictyBase] and [http://paramecium.cgm.cnrs-gif.fr/db/index ParameciumDB]''
 
-For more information, please see http://www.gmod.org/ or contact Scott Cain (cain@cshl.edu).
+===Contact info==
+For more information, please see [http://www.gmod.org www.gmod.org] or contact Scott Cain ([mailto:cain_A@T_cshl.edu cain@cshl.edu]).
 
 ===PISE===
 ''Contributed by Catherine Letondal''
