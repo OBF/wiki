@@ -115,15 +115,30 @@ For more information, please see [http://www.gmod.org www.gmod.org] or contact S
 [[PISE]]
 
 ===BioPython===
-''Contributed by [[Iddo Friedberg]]''
+''Contributed by Iddo Friedberg [http://iddo-friedberg.org]''
 
-[[BioPython]]
 
-[[BioPython]] has had two releases in 2005, both comprising of major additions to the code base. With 518 members subscribed to the general mailing list, and 210 on the developers list, BioPython has grown to become an important tool for computational biology. Traffic on the developers list is high, with contributions and patches submitted on a weekly basis. Currently the project comprises of some 237,000 lines of code.
 
-Python's forte is it's ease of use for non-programmers, which makes it an ideal language for life scientists who wish to program. On the other hand, [[BioPython]]'s documentation, as in many collaborative projects, has sorely been lagging behind developement. Thanks to efforts made by a few of our members, the  documentation basis has been greatly improved. We see the impact of this in the mailing list, where many emails start with "I am new to programming and to Python, and I have been using Biopython so far and it is great! I just have one problem..." (We sometimes even manage to help with that one problem). 
+Biopython [http://biopython.org] has had two releases in 2005, both comprising of major additions to the code base. With 518 members subscribed to the general mailing list, and 210 on the developers list, Biopython has grown to become an important tool for computational biology. Traffic on the developers list is high, with contributions and patches submitted on a weekly basis. Currently the project comprises of some 237,000 lines of code.
 
-About 20 new modules were added in 2005, and for a full list please see the release notes [http://biopython.org/].
+Python's forte is it's ease of use for non-programmers, which makes it an ideal language for life scientists who wish to program. This ease of coding is on of the hallmarks of BioPython. However, Biopython's documentation, as in many voluntary collaborative projects, has sorely been lagging behind developement. Thanks to efforts made by a few of our members, the  documentation basis has been greatly improved. We see the impact of this in the mailing list, where many emails start with "I am new to programming and to Python, and I have been using Biopython so far and it is great! I just have one problem..." (We sometimes even manage to help with that one problem). Ease of use has also made Biopython a tool of choice for teaching Bioinformatics [http://biopython.org/documentation/].
+
+Biopython's ease of use does not mean it is a beginner's tool only. Biopython is very comprehensive, having parsers for all major sequence formats; mmCIF and PDB parsers for structures; pairwise and multiple sequence alignment suites; machine learning tools, and more. Most major bioinformatics databases have an associated Biopython module.
+
+About 20 new modules were added in 2005. Notable newcomers are an NCBI XML parser, a BLAT parser, a MEME parser... For a full list please see the release notes [http://biopython.org/].
+
+Several projects which use BioPython in their code base are:
+
+Joined Assessment of Functional Annotation (JAFA) [http://jafa.burnham.org]
+
+Text mining tools at Stanford University [http://bionlp.stanford.edu/] 
+
+The '''TRA'''ns'''M'''embrane-'''P'''rotein '''L'''abelling '''E'''nvironment from BioDec [http://www.biodec.com/products]
+
+The upcoming Schneider suite [http://schneider.sourceforge.net/]
+
+
+A Google homepage script for calculating oligo melting temperatures: [http://www.bioinformatica.info/modulomt2.xml]
 
 ===DAS===
 [[DAS]]
