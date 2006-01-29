@@ -103,10 +103,10 @@ On the community side a small group of dedicated supporters continued to man the
 
 The Generic Model Organism Database ([[GMOD]]) Project is a largely open source project to develop a complete set of software for creating and administering a model organism database. Components of this project include genome visualization and editing tools, literature curation tools, a robust database schema (known as Chado), and a generic web front end.  Several established model organism databases contribute to the project, including WormBase, the [http://www.yeastgenome.org Saccharomyces Genome Database], [http://www.flybase.net FlyBase], [http://www.gramene.org Gramene], [http://www.arabidopsis.org TAIR], the [http://rgd.mcw.edu/ Rat Genome Database], and [http://ecocyc.org/ EcoCyc].  Many components of GMOD rely on [[BioPerl]], including one of the "flagship" projects, the [[Gbrowse|Generic Genome Browser (GBrowse)]], the widely adopted, web-based genome feature visualizer.  Over 150 organizations have adopted some tools from GMOD.
 
-===Chado===
+====Chado====
 ''add stuff here from Chris Mungall about chado, including a few adopting orgs, like [http://www.dictybase.org/ dictyBase] and [http://paramecium.cgm.cnrs-gif.fr/db/index ParameciumDB]''
 
-===Contact info===
+====Contact info====
 For more information, please see [http://www.gmod.org www.gmod.org] or contact Scott Cain ([mailto:cain_A@T_cshl.edu cain@cshl.edu]).
 
 ===PISE===
@@ -114,10 +114,16 @@ For more information, please see [http://www.gmod.org www.gmod.org] or contact S
 
 [[PISE]]
 
+[http://www.pasteur.fr/recherche/unites/sis/Pise/ Pise] is an interface generator for programs running under Unix. More precisely, it is a software system which, given an XML description of a program's parameters, generates source code for a user interface, as a component of a system where the user can easily chain programs by pull-down menus. A perl/[[BioPerl]] API generator has also been developed as well as a Python/[[BioPython]] API.
+
+About 300 molecular biology programs have been defined under Pise, including various sequence analysis, phylogeny, alignment, structural analysis (RNA, secondary and tertiary structure) and gene prediction programs. Pise has been in production for more than 8 years at the [http://www.pasteur.fr Pasteur Institute] (about 1500 submitted jobs a day during the last year) ([http://bioweb.pasteur.fr/ bioweb.pasteur.fr]). The whole system, e.g generators and the complete set of already defined interfaces is also installed in several other sites, namely for interfacing [[EMBOSS]] programs. Other users have developed new programs' interfaces (in genetic analysis, primer design, and imaging analysis). We are also aware of projects for building a new GUI generator.
+
+The project is now evolving towards a rewritten version, called Mobyle. Mobyle is programmed in Python in a more robust and maintainable way. It extends the wrapping mechanism to  Web servers and Web services (mainly using Biomoby). The web portal will provide more advanced navigation features, enabling the user to search for services or re-use uploaded data and parameterizing.  See [1] for a more detailed description.
+
+[1]  B.Neron, P. Tuffery, C.Letondal (2005) [http://www.pasteur.fr/~letondal/Mobyle/neron_nettab.pdf Mobyle: a Web portal framework for bioinformatics analyses], poster presented at NETTAB 2005.
+
 ===Biopython===
 ''Contributed by Iddo Friedberg [http://iddo-friedberg.org]''
-
-
 
 Biopython [http://biopython.org] has had two releases in 2005, both comprising of major additions to the code base. With 518 members subscribed to the general mailing list, and 210 on the developers list, Biopython has grown to become an important tool for the computational biology community. Traffic on the developers list is high, with contributions and patches submitted on a weekly basis. Currently the project comprises of some 237,000 lines of code.
 
@@ -130,15 +136,10 @@ About 20 new modules were added in 2005. Notable newcomers are an NCBI XML parse
 Several projects which use Biopython in their code base are:
 
 * Joined Assessment of Functional Annotation (JAFA) [http://jafa.burnham.org]
-
 * Text mining tools at Stanford University [http://bionlp.stanford.edu/] 
-
 * The '''TRA'''ns'''M'''embrane-'''P'''rotein '''L'''abelling '''E'''nvironment from BioDec [http://www.biodec.com/products]
-
 * The upcoming Schneider suite [http://schneider.sourceforge.net/]
-
 * A Google homepage script for calculating oligo melting temperatures: [http://www.bioinformatica.info/modulomt2.xml]
-
 
 Many thanks to all the contributors, too numerous to be mentioned here [http://biopython.org/participants/].
 The  2005 releases were managed by Iddo Friedberg (1.40 beta) and Michiel de Hoon [http://bonsai.ims.u-tokyo.ac.jp/~mdehoon/] (1.41).
