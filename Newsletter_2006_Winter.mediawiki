@@ -139,7 +139,7 @@ Several projects which use Biopython in their code base are:
 * Text mining tools at Stanford University [http://bionlp.stanford.edu/] 
 * The '''TRA'''ns'''M'''embrane-'''P'''rotein '''L'''abelling '''E'''nvironment from BioDec [http://www.biodec.com/products]
 * The upcoming Schneider suite [http://schneider.sourceforge.net/]
-* A Google homepage script for calculating oligo melting temperatures: [http://www.bioinformatica.info/modulomt2.xml]
+* A Google homepage script for calculating oligo melting temperatures: [http://www.bioinformatica.info/modules.php?op=modload&name=News&file=article&sid=301&mode=thread&order=0&thold=0]
 
 Many thanks to all the contributors, too numerous to be mentioned here [http://biopython.org/participants/].
 The  2005 releases were managed by Iddo Friedberg (1.40 beta) and Michiel de Hoon [http://bonsai.ims.u-tokyo.ac.jp/~mdehoon/] (1.41).
