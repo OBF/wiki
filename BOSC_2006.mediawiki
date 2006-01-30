@@ -73,7 +73,7 @@ about the activities of the various Open Source Projects,
 and, in some cases, even take an active role influencing
 the future of Open Source Software development.  If
 you would like to create a BOF, just sign up for a
-wiki account, login, and edit [[BOSC-BOF-2006 this page]].
+wiki account, login, and edit the [[Birds-of-a-Feather]] page.
 
 ===Call for Volunteers===
 
