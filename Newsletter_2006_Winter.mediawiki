@@ -19,7 +19,7 @@ The 2005 Open Bioinformatics Foundation board meeting was held during the [[BOSC
 * [[Jason Stajich]] was newly elected into the Board and elected President
 * [[Hilmar Lapp]] was elected parliamentarian
 
-In addition the Board agreed to bylaws governing the [[OBF Board]], [[OBF membership]] as well as elections.
+In addition the Board agreed to bylaws governing the [[Board|OBF Board]], [[OBF membership]] as well as elections.
 
 ===Financial Overview===
 ''Chris Dagdigian''
