@@ -13,13 +13,13 @@ __TOC__
 
 ===2005 OBF Board Meeting Report===
 
-The 2005 Open Bioinformatics Foundation board meeting was held during the [[BOSC 2005]] conference in Detroit, MI.  Several items of buisiness were attended to including several personnel changes.
+The 2005 Open Bioinformatics Foundation board meeting was held during the [[BOSC 2005]] conference in Detroit, MI.  Several items of business were attended to including several personnel changes.
 
-* Past President [[Ewan Birney]] was replaced by [[Jason Stajich]]
-* [[Hilmar Lapp]] was elected parlimentarian
-* [[Ewan Birney]] was added as an at-large
+* Past President [[Ewan Birney]] resigned and elected into the Board as at-large director
+* [[Jason Stajich]] was newly elected into the Board and elected President
+* [[Hilmar Lapp]] was elected parliamentarian
 
-In addition the Board agreed to guidelines for [[Membership requirements]] for [[OBF members]].
+In addition the Board agreed to bylaws governing the [[OBF Board]], [[OBF membership]] as well as elections.
 
 ===Financial Overview===
 ''Chris Dagdigian''
