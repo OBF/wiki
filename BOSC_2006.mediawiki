@@ -58,7 +58,8 @@ Abstracts chosen for presentation will be announced June 19th, 2006
 ===Call for Lightning Talks and Demos===
 
 ===Call for Birds of a Feather Meeting Ideas===
-  One of the more popular activities at BOSC are
+
+One of the more popular activities at BOSC are
 the Birds-of-a-Feather sub meetings that people
 organize at the end of each days session.  These
 are free form meetings organized by the attendees
@@ -70,7 +71,9 @@ discuss completely new ideas.  These meetings offer
 a unique opportunity for individuals to explore more
 about the activities of the various Open Source Projects,
 and, in some cases, even take an active role influencing
-the future of Open Source Software development.
+the future of Open Source Software development.  If
+you would like to create a BOF, just sign up for a
+wiki account, login, and edit [BOSC-BOF-2006 this page].
 
 ===Call for Volunteers===
 
