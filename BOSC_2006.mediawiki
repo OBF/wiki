@@ -44,23 +44,14 @@ If you are interested in speaking at BOSC 2006, please send us before '''June 5t
 Abstracts will be accepted for submission until June 5th, 2006.  Abstracts chosen for presentation will be announced June 19th, 2006 (before the [[ISMB]] Early Registration Deadline).
 
 ===Call for Lightning Talks and Demos===
-The program committee is currently seeking speakers for the lightning 
-talks. Lightning talks are quick - only five minutes long - and a great
-opportunity for you to give people a quick summary of your open source project,
-code, idea, or vision of the future.  Or, if you are
-involved in the development of novel Open Source Software, you could
-use the time to give a quick demonstration of your work.
+The program committee is currently seeking speakers for the lightning talks. Lightning talks are quick - only five minutes long - and a great opportunity for you to give people a quick summary of your open source project, code, idea, or vision of the future.  Or, if you are involved in the development of novel Open Source Software, you could use the time to give a quick demonstration of your work.
 
-If you are interested in giving a Lightning Talk or Software Demonstration
-at BOSC 2006, please send us:
+If you are interested in giving a Lightning Talk or Software Demonstration at BOSC 2006, please send us:
+* a brief title and summary (one or two lines)
+* a URL for the project page, if applicable
+* information about the open source license used for your software or your release plans.
 
- * a brief title and summary (one or two lines)
- * a URL for the project page, if applicable
- * information about the open source license used for your software or 
-   your release plans.
-
-We will accept entries on-line until BOSC starts, but
-space for demos and lightning talks is limited.
+We will accept entries on-line until BOSC starts, but space for demos and lightning talks is limited.
 
 ===Call for Birds of a Feather Meeting Ideas===
 
