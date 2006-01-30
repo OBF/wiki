@@ -17,7 +17,7 @@ The board can be contacted via email at [mailto:board@open-bio.org board@open-bi
 : Andrew Dalke 
 : Representing [http://www.biopython.org BioPython] & [http://www.dalkescientific.com Dalke Scientific]
 
-'''Parlimentarian'''
+'''Parliamentarian'''
 : [[bp:Hilmar Lapp|Hilmar Lapp]]
 : Representing [[bp:BioPerl|BioPerl]].  Employed by [http://www.gnf.org Genomics Institute of the Novartis Research Foundation].
 
