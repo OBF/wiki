@@ -34,24 +34,14 @@ See the following websites for further details:
 * [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
 
 ===Call for Speakers and Abstracts===
-The BOSC organizing committee is currently seeking abstracts
-for talks at BOSC 2006.  BOSC is a great opportunity for you to tell the community about 
-your use, development, or philosophy of open source software development 
-in bioinformatics. The committee will select several submitted abstracts 
-for 25-minute talks. Accepted abstracts will be published on the BOSC web site.
+The BOSC organizing committee is currently seeking abstracts for talks at BOSC 2006.  BOSC is a great opportunity for you to tell the community about your use, development, or philosophy of open source software development in bioinformatics. The committee will select several submitted abstracts for 25-minute talks. Accepted abstracts will be published on the BOSC web site.
 
+If you are interested in speaking at BOSC 2006, please send us before '''June 5th, 2006''': 
+* an abstract (no more than a few paragraphs)
+* a URL for the project page, if applicable
+* information about the open source license used for your software or your release plans.
 
-If you are interested in speaking at BOSC 2006, 
- please send us before June 5th, 2006:
- 
- * an abstract (no more than a few paragraphs)
- * a URL for the project page, if applicable
- * information about the open source license used for your software or 
-   your release plans.
-
-Abstracts will be accepted for submission until June 5th, 2006.
-Abstracts chosen for presentation will be announced June 19th, 2006 
-(before the ISMB Early Registration Deadline).
+Abstracts will be accepted for submission until June 5th, 2006.  Abstracts chosen for presentation will be announced June 19th, 2006 (before the [[ISMB]] Early Registration Deadline).
 
 ===Call for Lightning Talks and Demos===
 The program committee is currently seeking speakers for the lightning 
