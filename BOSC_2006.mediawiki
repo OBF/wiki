@@ -33,6 +33,8 @@ See the following websites for further details:
 * [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
 * [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
 
+All submissions should be emailed to the BOSC mailing list at '''bosc@open-bio.org'''.
+
 ===Call for Speakers and Abstracts===
 The BOSC organizing committee is currently seeking abstracts for talks at BOSC 2006.  BOSC is a great opportunity for you to tell the community about your use, development, or philosophy of open source software development in bioinformatics. The committee will select several submitted abstracts for 25-minute talks. Accepted abstracts will be published on the BOSC web site.
 
