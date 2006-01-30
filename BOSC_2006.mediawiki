@@ -63,7 +63,7 @@ code, idea, or vision of the future.  Or, if you are
 involved in the development of novel Open Source Software, you could
 use the time to give a quick demonstration of your work.
 
-If you are interested in giving a lightning talk or Software Demonstration
+If you are interested in giving a Lightning Talk or Software Demonstration
 at BOSC 2006, please send us:
 
  * a brief title and summary (one or two lines)
