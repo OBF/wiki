@@ -2,7 +2,7 @@
 title: Bylaws
 ---
 
-'''Open-Bio Foundation (OBF) Bylaws: Membership, Nomination To And Election Of The Board'''
+= Open-Bio Foundation (OBF) Bylaws:<br>Membership, Nomination To And Election Of The Board =
 
 ==ARTICLE I – MEMBERSHIP==
 # Any individual, business or organization having an interest in the objectives of the OBF shall be eligible to apply for membership. 
