@@ -3,7 +3,7 @@ title: Membership
 ---
 
 == Membership application ==
-The OBF is actively inviting professionals, students, and others active in the Open Source Software arena in the life sciences to join the OBF as a member. The membership body was formally established at the [[Minutes:2005_BOSC_Meeting|2005 Board of Directors]] meeting. As laid out in the [http://news.open-bio.org/archives/uploads/OBF-Election-Bylaws-1.pdf OBF Bylaws], officers in the Board of Directors will be elected by the membership among nominees, and candidates for future Directors will be nominated from the membership when seats are added or a term expires.
+The OBF is actively inviting professionals, scientists, students, and others active in the Open Source Software arena in the life sciences to join the OBF as a member. The membership body was formally established at the [[Minutes:2005_BOSC_Meeting|2005 Board of Directors]] meeting. As laid out in the [http://news.open-bio.org/archives/uploads/OBF-Election-Bylaws-1.pdf OBF Bylaws], officers in the Board of Directors will be elected by the membership among nominees, and candidates for future Directors will be nominated from the membership when seats are added or a term expires.
 
 The eligibility criteria are met by anyone who is &quot;interested in the business of OBF&quot;, and there are no dues at present. You can join throughout the year by filling out the application form and mailing it to the OBF. The best time and place to join though is at the annual BOSC conference, because attendees are automatically deemed eligible based on the fact that they attend BOSC, and forms may just be dropped off at a designated place or with any Board member.
 
