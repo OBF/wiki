@@ -11,7 +11,8 @@ __TOC__
 ===President's Report===
 ''Jason Stajich''
 
-===2005 OBF Board Meeting Report===
+===2005 O|B|F Board Meeting Report===
+"Jason Stajich" &amp; "Hilmar Lapp"
 
 The 2005 Open Bioinformatics Foundation board meeting was held during the [[BOSC 2005]] conference in Detroit, MI.  Several items of business were attended to including several personnel changes.
 
