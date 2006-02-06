@@ -60,7 +60,7 @@ Have a look at the main reference for CGL:
 Large-Scale Trends in the Evolution of Gene Structures within 11 Animal Genomes
 [[bp:Mark Yandell|Mark Yandell]], [[bp:Chris Mungall|Chris J. Mungall]], Chris Smith, Simon Prochnik , Joshua Kaminker, George Hartzell, [[bp:Suzanna Lewis|Suzanna Lewis]] and Gerald M. Rubin. ''In press'' [http://compbiol.plosjournals.org PloS Computational Biology].
 
-====Contactt us====
+====Contact us====
 General questions and comments about CGL should be directed to [mailto:myandell_AT_fruitfly.org myandell-at-fruitfly.org].
 
 ===BioJava===
