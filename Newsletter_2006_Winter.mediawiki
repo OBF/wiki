@@ -115,13 +115,13 @@ The  2005 releases were managed by Iddo Friedberg[http://iddo-friedberg.org] (1.
 ===BioSQL===
 ''Contributed by Hilmar Lapp''
 
-BioSQL is a generic relational model for storing biological sequences, their features and annotation, and terms belonging to an ontology or controlled vocabulary. The model imposes a unifying view on data sources as diverse as UniProt, GenBank, Unigene, or LocusLink (or Entrez Gene). BioSQL is the designated persistence API between the Bio* toolkits.
+BioSQL is a generic relational model for storing biological sequences, their features and annotation, and terms belonging to an ontology or controlled vocabulary. The [http://cvs.open-bio.org/cgi-bin/viewcvs/viewcvs.cgi/*checkout*/biosql-schema/doc/biosql-ERD.pdf?content-type=application/pdf model] imposes a unifying view on data sources as diverse as UniProt, GenBank, Unigene, or LocusLink (or Entrez Gene). BioSQL is the [http://open-bio.org/bosc2003/slides/Persistent_Bioperl_BOSC03.pdf designated persistence API] between the Bio* toolkits.
 
-Originally created by Ewan Birney in 2001 to de/serialize BioPerl sequence objects, the present revision of the BioSQL schema is primarily the result of a major review of the model by Hilmar Lapp and Aaron Mackey at the Singapore Hackathon in 2003. Except for very minor changes, the model has essentially been stable since then and will be named 1.0 upon official release. Several post-1.0 extensions have already been discussed.
+Originally created by [[Ewan Birney]] in 2001 to de/serialize [[bp:BioPerl|BioPerl]] sequence objects, the present revision of the BioSQL schema is primarily the result of a major review of the model by [[Hilmar Lapp]] and [[Aaron Mackey]] at the Singapore Hackathon in 2003. Except for very minor changes, the model has essentially been stable since then and will be named 1.0 upon official release. Several post-1.0 extensions have already been discussed.
 
-BioSQL is being used at multiple places worldwide, both academic and commercial. It has been used as a component in several published scientific works; a Google Scholar search returns 30 hits. The release of the 1.0 version of the model is imminent, and an article describing the model and its strengths is in preparation. Both will hopefully further increase its consideration and adoption by developers and scientists in the life science field.
+BioSQL is being used at multiple places worldwide, both academic and commercial. It has been used as a component in several published scientific works; a [http://scholar.google.com/scholar?q=biosql Google Scholar search] returns 30 hits. The schema is fully supported by object-relational bridges for BioPerl ([[bp:Bioperl_db|Bioperl-db]]) and Biojava (Biojavax). Biopython and Bioruby support BioSQL for storing and retrieving sequence objects, but don't fully leverage the ontology model. The release of the 1.0 version of the model is imminent, and an article describing the model and its strengths is in preparation. Both will hopefully further increase its consideration and adoption by developers and scientists in the life science field.
 
-Contact: The project home page is at [http://www.biosql.org]. The mailing list is biosql-l&#64;open-bio&#46;org.
+Contact: The project home page is at http://www.biosql.org. The mailing list is biosql-l&#64;open-bio&#46;org.
 
 ===BlipKit===
 ''Contributed by [[Chris Mungall]]''
