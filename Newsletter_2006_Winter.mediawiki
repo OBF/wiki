@@ -172,9 +172,10 @@ General questions and comments about CGL should be directed to [mailto:myandell_
 The Generic Model Organism Database ([[GMOD]]) Project is a largely open source project to develop a complete set of software for creating and administering a model organism database. Components of this project include genome visualization and editing tools, literature curation tools, a robust database schema (known as Chado), and a generic web front end.  Several established model organism databases contribute to the project, including WormBase, the [http://www.yeastgenome.org Saccharomyces Genome Database], [http://www.flybase.net FlyBase], [http://www.gramene.org Gramene], [http://www.arabidopsis.org TAIR], the [http://rgd.mcw.edu/ Rat Genome Database], and [http://ecocyc.org/ EcoCyc].  Many components of GMOD rely on [[BioPerl]], including one of the "flagship" projects, the [[Gbrowse|Generic Genome Browser (GBrowse)]], the widely adopted, web-based genome feature visualizer.  Over 150 organizations have adopted some tools from GMOD.
 
 ====Chado====
-''add stuff here from Chris Mungall about chado, including a few adopting orgs, like [http://www.dictybase.org/ dictyBase] and [http://paramecium.cgm.cnrs-gif.fr/db/index ParameciumDB]''
 
+Chado is a relational schema for model organisms designed around the principles of modularity and extensibility via ontologies. The sequence module lies at the core of the schema, and is used for representing genomic features, their relationships and properties. In 2005 the phylogeny module was added, and the genetics and phenotypes modules were put into use by [http://www.flybase.org/ FlyBase].
 
+''add stuff here from Scott Cain about chado, including a few adopting orgs, like [http://www.tigr.org/ TIGR] [http://www.dictybase.org/ dictyBase] and [http://paramecium.cgm.cnrs-gif.fr/db/index ParameciumDB]. [http://www.nescent.org/ NESCENT] are considering Chado for evolutionary model organisms''
 
 ===PISE===
 ''Contributed by Catherine Letondal''
