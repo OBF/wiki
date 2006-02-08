@@ -174,8 +174,7 @@ The Generic Model Organism Database ([[GMOD]]) Project is a largely open source 
 ====Chado====
 ''add stuff here from Chris Mungall about chado, including a few adopting orgs, like [http://www.dictybase.org/ dictyBase] and [http://paramecium.cgm.cnrs-gif.fr/db/index ParameciumDB]''
 
-====Contact info====
-For more information, please see [http://www.gmod.org www.gmod.org] or contact Scott Cain ([mailto:cain_A@T_cshl.edu cain@cshl.edu]).
+
 
 ===PISE===
 ''Contributed by Catherine Letondal''
