@@ -1,0 +1,8 @@
+---
+title: Hackathon
+---
+
+Text here about hackathons
+
+* 2002 hackathon [blog] [pictures]
+* Pictures from the last hackathon in [http://gallery.open-bio.org/gallery2/v/2003hackathon/ 2003]
