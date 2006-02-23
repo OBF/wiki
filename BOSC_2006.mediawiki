@@ -23,6 +23,9 @@ August 4-5, 2006 - BOSC Conference
 
 ==Keynote Speakers==
 [http://ca.expasy.org/people/amos.html Amos Bairoch] of the Swiss Institute of Bioinformatics
+Alberto M.R. Davila of the DBBM, Instituto Oswaldo Cruz, Rio de Janeiro, Brasil
+  - [http://www.annalsnyas.org/cgi/content/abstract/1026/1/41 Paper on need to bridge the Genomics Divide]
+  - [http://www.biowebdb.org/index.html/publications.html other publications]
 
 ==Agenda==
 
