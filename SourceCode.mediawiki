@@ -33,4 +33,4 @@ The following command should be executed as one line. The specific example shows
 * The login and checkout procedure should only have to be done once. To update the source directories in the future it should be possible just to enter the top level directory and issue the following command:
     cvs update
 
-==Downloading and updating code via Anonymous Rsync==
+==Downloading and updating code via Anonymous RSYNC==
