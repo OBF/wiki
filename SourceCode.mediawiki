@@ -4,7 +4,7 @@ title: SourceCode
 
 =Do you really want to be here? =
 
-This server has been set up to provide anonymous CVS access to the source code repositories belonging to the Open Bioinformatics Foundation. You can find the "real" project websites by following the links at the top of this page.
+This documents the process of obtaining anonymous CVS or RSYNC based access to the source code repositories belonging to the Open Bioinformatics Foundation. You can find the "real" project websites by following the links at the top of this page, the project websites themselves will have download links to the official prepackaged software releases. 
 
 How to browse our code repositories via the web:
 
