@@ -35,7 +35,7 @@ The following command should be executed as one line. The specific example shows
 
 ==Downloading and updating code via Anonymous Rsync==
 
-The code.open-bio.org server also offers up read-only copies of source code repositories via anonymous [[wp:rsync | rsync]]. 
+The code.open-bio.org server also offers up read-only copies of source code repositories via anonymous [[wp:Rsync | rsync]]. 
 
 To see a list of available rsync modules, try this command:
 
