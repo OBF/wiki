@@ -15,7 +15,7 @@ http://code.open-bio.org/cgi/viewcvs.cgi
 * Make sure that CVS is installed on your system.
 * Pick the repository that you wish to use
     * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biopython | /home/repository/biopython]
-    * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biojava | /home/repository/biojava]
+    * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biojava |/home/repository/biojava]
     * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioperl | /home/repository/bioperl]
     * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biodas | /home/repository/biodas]
     * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=moby | /home/repository/moby]
