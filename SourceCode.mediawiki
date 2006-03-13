@@ -10,7 +10,7 @@ This page documents the process of obtaining anonymous CVS or RSYNC based access
 
 http://code.open-bio.org/cgi/viewcvs.cgi
 
-==How to anonymously download code direct from our CVS repositories==
+==Downloading and updating code via Anonymous CVS==
 
 (1) Make sure that CVS is installed on your system.
 
