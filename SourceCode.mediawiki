@@ -28,7 +28,7 @@ http://code.open-bio.org/cgi/viewcvs.cgi
     * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biojava /home/repository/biojava]
     * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioperl /home/repository/bioperl]
     * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biodas /home/repository/biodas]
-    * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=moby /home/repository/moby]
+    * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biomoby /home/repository/moby]
     * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biocorba /home/repository/biocorba]
     * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biosql /home/repository/biosql]
     * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioruby /home/repository/bioruby]
