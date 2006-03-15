@@ -78,7 +78,7 @@ We will accept entries on-line until BOSC starts, but space for demos and lightn
 
 ===Call for Birds of a Feather Meeting Ideas===
 
-One of the more popular activities at BOSC are the Birds-of-a-Feather sub meetings that people organize at the end of each days session.  These are free form meetings organized by the attendees themselves.  Traditionally, some BOF's have been formed to allow developers and users of individual [[OBF]] software to meet each other face-to-face to discuss the project, but other meetings have been formed to discuss completely new ideas.  These meetings offer a unique opportunity for individuals to explore more
+One of the more popular activities at BOSC are the Birds-of-a-Feather sub-meetings that people organize at the end of each days session.  These are free form meetings organized by the attendees themselves.  Traditionally, some BOF's have been formed to allow developers and users of individual [[OBF]] software to meet each other face-to-face to discuss the project, but other meetings have been formed to discuss completely new ideas.  These meetings offer a unique opportunity for individuals to explore more
 about the activities of the various Open Source Projects, and, in some cases, even take an active role influencing the future of Open Source Software development.  If
 you would like to create a BOF, just sign up for a wiki account, login, and edit the [[BOSC_2006/Birds-of-a-Feather]] page.
 
