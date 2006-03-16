@@ -36,7 +36,7 @@ Corporate : $200 ($300 after June-26th)<br>
 Academic : $175 ($275 after June-26th)<br>
 Student : $150 ($250 after June-26th)<br>
 
-==================================================
+<nowiki>==================================================</nowiki>
 Sig-only Rate (not registering for ISMB):<br>
 
 Corporate : $250 ($350 after June-26th)<br>
