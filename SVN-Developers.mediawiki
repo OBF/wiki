@@ -19,4 +19,4 @@ svn checkout svn+ssh://dev.open-bio.org/home/svn-repositories/blipkit
 
 == Additional SVN documentation ==
 
-[http://svnbook.red-bean.com/en/1.1/index.html | Version Control with SVN ]
+[http://svnbook.red-bean.com/en/1.1/index.html Version Control with SVN ]
