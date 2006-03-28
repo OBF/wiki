@@ -16,3 +16,7 @@ Blipkit access is achieved via methods such as this:
 <pre>
 svn checkout svn+ssh://dev.open-bio.org/home/svn-repositories/blipkit
 </pre>
+
+== Additional SVN documentation ==
+
+[http://svnbook.red-bean.com/en/1.1/index.html | Version Control with SVN ]
