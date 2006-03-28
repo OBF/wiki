@@ -12,7 +12,7 @@ For security and access control reasons we are not running a daemonized svnserve
 
 == Hosted repositories ==
 === blipkit ===
-Blipkit access is achieved via methods such as this:
+Blipkit developer access is achieved only via an SSH tunnel:
 <pre>
 svn checkout svn+ssh://dev.open-bio.org/home/svn-repositories/blipkit
 </pre>
