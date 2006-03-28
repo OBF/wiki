@@ -1,0 +1,8 @@
+---
+title: SVN-Developers
+---
+
+This page is for open-bio affiliated developers who are making use of SVN based version control systems rather than the traditional CVS based systems. 
+
+
+For security and access control reasons we are not running a daemonized svnserver process or allowing access via HTTP through the Apache mod_DAV/svn module methods. The SVN access method that fits best with our current developer and security model is to run svnserver in "tunnel" mode on a per-user basis. This means developers will connect and authenticate via encrypted SSH sessions before svnserver is invoked. In this scenario svnserver is launched in tunnel mode and runs <em>as the user who invoked it</em>.
