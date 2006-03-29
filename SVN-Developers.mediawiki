@@ -20,7 +20,7 @@ Not implemented yet. We will set up a standalone anonymous SVN server for public
 === blipkit ===
 Blipkit developer access is achieved only via an SSH tunnel:
 <pre>
-svn checkout svn+ssh://dev.open-bio.org/home/svn-repositories/blipkit
+svn checkout svn+ssh://dev.open-bio.org/home/svn-repositories/blipkit/trunk blipkit
 </pre>
 
 == Additional SVN documentation ==
