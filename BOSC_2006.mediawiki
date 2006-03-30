@@ -11,8 +11,8 @@ The 7th annual Bioinformatics Open Source Conference ([[BOSC]] 2006) will take p
 
 Aug 4-5, 2006 '''BOSC 2006'''
 
-[http://eventful.com/groups/G0-001-000014747-0 BOSC Eventful Group] : This site provides an ICAL feed which will include all deadlines associated with BOSC 2006
-[http://www.open-bio.org/boscblog/ BOSC Announcement Blog]
+[http://eventful.com/groups/G0-001-000014747-0 BOSC Eventful Group] : This site provides an ICAL feed which will include all deadlines associated with BOSC 2006 <br>
+[http://www.open-bio.org/boscblog/ BOSC Announcement Blog] : This Blog will contain all Important BOSC announcements.  You can include it in any RSS Reader.
 
 March 15, 2006 (delayed to March 27, 2006) - [https://www.cteusa.com/iscb6/ ISMB Online Registration]<br>
 June 5, 2006 - BOSC Abstracts for Full Talks Due<br>
