@@ -1,0 +1,5 @@
+---
+title: Open Bioinformatics Foundation:About
+---
+
+The [[OBF|Open Bioinformatics Foundation]] wiki site provides information about the foundation, activities, and [[BOSC|sponsored conferences]].
