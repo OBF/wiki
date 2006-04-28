@@ -1,0 +1,5 @@
+---
+title: BioSQL
+---
+
+A relational database schema for representing sequence and feature data in a [[wp:RDMS|RDMS]].  See [http://www.biosql.org biosql.org].
