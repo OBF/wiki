@@ -4,5 +4,7 @@ title: Hackathon
 
 Text here about hackathons
 
-* 2002 hackathon [blog] [pictures]
-* Pictures from the last hackathon in [http://gallery.open-bio.org/gallery2/v/2003hackathon/ 2003]
+* 2002 hackathon [http://gallery.open-bio.org/gallery2/v/hackathon2002/ pictures].
+** This gathering worked on the [[BioSQL]] and [[bp:OBDA]] standards.
+* 2003 hackathon [http://gallery.open-bio.org/gallery2/v/2003hackathon/ pictures].
+** This gathering focused more on [[BioSQL]] and [[bp:OBDA]] as well as several supporting projects from the different toolkits.
