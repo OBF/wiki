@@ -2,4 +2,9 @@
 title: EMBOSS
 ---
 
-European Molecular Biology Open Source Suite or EMBOSS.  See [http://www.emboss.org ww.emboss.org] for more information.
+European Molecular Biology Open Software Suite or EMBOSS.
+
+The EMBOSS project is based at the [http://www.ebi.ac.uk/ European Bioinformatics Institute] in Hinxton, near Cambridge in the United Kingdom. EMBOSS started in 1996 as package of applications for sequence analysis.
+
+
+See [http://www.emboss.org www.emboss.org] for more information.
