@@ -1,0 +1,37 @@
+---
+title: BOSC 2006 Invitation
+---
+
+== BOSC 2006 ==
+[[Image:Pear.png|The Bosc Pair]]  
+
+<br><br>
+
+To:  Profesor Jose H. Lopez Prato&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From: Darin London<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laboratorio de Computación de Alto Rendimiento-LCAR.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chairperson BOSC 2006<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universidad Nacional Experimental del Táchira. UNET.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Decanato de investigación<br>
+
+Re: Invitation to Speak
+
+Dear Profesor Lopez,<br>
+On behalf of the BOSC organizing committee, I would like to invite you
+to present a full talk on Bioinformants.  Your contribution will be part
+of an excellent conference linuep, making BOSC 2006 a memorable event.
+Thank you very much for your submission.  If you have any questions,
+please send me an email.  For more information about the Bioinformatics Open
+Source Conference, please visit the official BOSC 2006 website at:
+
+http://www.open-bio.org/wiki/BOSC_2006
+
+For more information about the Open Bioinformatics Foundation, please visit the official OBF
+website at:
+
+http://www.open-bio.org
+
+Sincerely,
+
+
+
+Darin London<br>
+BOSC Chairperson
