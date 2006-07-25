@@ -12,7 +12,7 @@ title: BOSC 2006/Schedule
 | Call To Order
 |- 
 | 9:00am
-| [[Abstracts#BioPostgres | Stott Parker: BioPostgres]]
+| [[BOSC_2006/Abstracts#BioPostgres | Stott Parker: BioPostgres]]
 | KeyNote: Alberto M.R. Davilla: The BiowebDB Consortium: A Bridge for Bioinformatics Development
 |- 
 | 9:30am
