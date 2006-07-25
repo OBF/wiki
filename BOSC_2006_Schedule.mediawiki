@@ -16,24 +16,24 @@ title: BOSC 2006/Schedule
 | KeyNote: Alberto M.R. Davilla: The BiowebDB Consortium: A Bridge for Bioinformatics Development
 |- 
 | 9:30am
-| [[Abstracts#GObase | Ruey-Lung Hsiao: GObase: A Graph Database System for Managing and Exploring Gene Ontology]]
+| [[BOSC_2006/Abstracts#GObase | Ruey-Lung Hsiao: GObase: A Graph Database System for Managing and Exploring Gene Ontology]]
 | &nbsp;
 |- 
 | 10:00am
-| [[Abstracts#BioMoby | Martin Senger: BioMoby Helping the Crop Scientists]]
-| [[Abstracts#CaIntegrator | Subhashree Madhavan: CaIntegrator - An Open Source Translational Informatics Platform to Integrate Clinical Trials and High Throughput Molecular Analysis in Support of Transition to Tailored Therapy ]]
+| [[BOSC_2006/Abstracts#BioMoby | Martin Senger: BioMoby Helping the Crop Scientists]]
+| [[BOSC_2006/Abstracts#CaIntegrator | Subhashree Madhavan: CaIntegrator - An Open Source Translational Informatics Platform to Integrate Clinical Trials and High Throughput Molecular Analysis in Support of Transition to Tailored Therapy ]]
 |-
 | 10:30am
 | Coffee
 | Coffee
 |- 
 | 11:00am
-| [[Abstracts#XRATE | Ian Holmes: XRATE: Scheme-y trees, phylo-HMMs and phylo-grammars]]
-| [[Abstrats#SHOGUN | Soren Sonnenburg: SHOGUN - A Large Scale Machine Learning Toolbox for Biological Sequence Analysis]]
+| [[BOSC_2006/Abstracts#XRATE | Ian Holmes: XRATE: Scheme-y trees, phylo-HMMs and phylo-grammars]]
+| [[BOSC_2006/Abstrats#SHOGUN | Soren Sonnenburg: SHOGUN - A Large Scale Machine Learning Toolbox for Biological Sequence Analysis]]
 |- 
 | 11:30am
-| [[Abstracts#Twease | Matt Wood: Twease: Searching Medline, One Sentence at a Time]]
-| [[Abstracts#XMLPipeDB | Kam Dalquist: XMLPipeDB: A Reusable, Open Source Tool Chain for Building Relational Databases from XML Sources]]
+| [[BOSC_2006/Abstracts#Twease | Matt Wood: Twease: Searching Medline, One Sentence at a Time]]
+| [[BOSC_2006/Abstracts#XMLPipeDB | Kam Dalquist: XMLPipeDB: A Reusable, Open Source Tool Chain for Building Relational Databases from XML Sources]]
 |- 
 | 12:00
 | Lunch
@@ -41,10 +41,10 @@ title: BOSC 2006/Schedule
 |- 
 | 1:30pm
 | Talk Cancelled
-| [[Abstracts#BioRuby | Toshiaki Katayama: BioRuby Shell and BioRuby Tools]]
+| [[BOSC_2006/Abstracts#BioRuby | Toshiaki Katayama: BioRuby Shell and BioRuby Tools]]
 |- 
 | 2:00pm
-| [[Abstracts#ZMap | Roy Storey: The ZMap Genome Annotation Viewer]]
+| [[BOSC_2006/Abstracts#ZMap | Roy Storey: The ZMap Genome Annotation Viewer]]
 | [[Abstracts#NESCent |  Hilmar Lapp: Informatics for Evolutionary Science and Synthesis]]
 |- 
 | 2:30pm
