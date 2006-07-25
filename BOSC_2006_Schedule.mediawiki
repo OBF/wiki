@@ -45,11 +45,11 @@ title: BOSC 2006/Schedule
 |- 
 | 2:00pm
 | [[BOSC_2006/Abstracts#ZMap | Roy Storey: The ZMap Genome Annotation Viewer]]
-| [[Abstracts#NESCent |  Hilmar Lapp: Informatics for Evolutionary Science and Synthesis]]
+| [[BOSC_2006/Abstracts#NESCent |  Hilmar Lapp: Informatics for Evolutionary Science and Synthesis]]
 |- 
 | 2:30pm
-| [[Lightning Talks]]
-| [[Lightning Talks]]
+| [[BOSC_2006/Lightning Talks Thursday]]
+| [[BOSC_2006/Lightning Talks Friday]]
 |- 
 | 3:30pm
 | Coffee
@@ -57,9 +57,9 @@ title: BOSC 2006/Schedule
 |- 
 | 4:00pm
 | KeyNote: Amos Bairoch: UniProtKB and bioinformatics open source: where do we go from here?
-| [[Lightning Talks]]
+| [[BOSC_2006/Lightning Talks Thursday]]
 |- 
 | 5:00pm
-| [[Birds Of A Feather Friday]]
-| [[Birds of A Feather Saturday]]
+| [[BOSC_2006/Birds Of A Feather Friday]]
+| [[BOSC_2006/Birds of A Feather Saturday]]
 |}
