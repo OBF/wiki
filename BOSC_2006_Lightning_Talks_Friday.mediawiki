@@ -4,28 +4,22 @@ title: BOSC 2006/Lightning Talks Friday
 
 {| border="1" cellspacing="0" cellpadding="5" align="center"
 ! &nbsp;
-! This
-! is
+! Lightning Talk (5 Minute Talk + 3 Minute Question)
 |-
 | 2:30pm 
-| a
-| table
+| Mitsuteru Nakao: b-src.cbrc.jp: a source-code search engine for bionformatics.
 |-
 | 2:40pm
-| a
-| table
+| Samuel Kerrien: IntAct Software Demo
 |-
 | 2:50pm
-| a
-| table
+| Heikki Lehvaslaiho: CoordinateMapper
 |-
 | 3:00pm
-| a
-| table
+| Johann Visagie: A Tool for Collaborative Online Development of Bio-Ontologies
 |-
 | 3:10pm
-| a
-| table
+| &nbsp;
 |-
 | 3:20pm
 | &nbsp;
