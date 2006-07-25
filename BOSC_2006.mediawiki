@@ -62,6 +62,8 @@ See the following websites for further details:
 All submissions should be emailed to the BOSC mailing list at '''bosc@open-bio.org'''.
 
 ===Call for Speakers and Abstracts===
+After intense scrutiny of a very competitive group of submissions, the following [[BOSC_2006/Abstracts | Abstracts]] have been chosen to present full talks at BOSC 2006.
+
 The BOSC organizing committee is currently seeking abstracts for talks at BOSC 2006.  BOSC is a great opportunity for you to tell the community about your use, development, or philosophy of open source software in bioinformatics. The committee will select several submitted abstracts for 25-minute talks. Accepted abstracts will be published on the BOSC web site.
 
 If you are interested in speaking at BOSC 2006, please send us before '''June 5th, 2006''': 
