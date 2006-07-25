@@ -48,8 +48,8 @@ title: BOSC 2006/Schedule
 | [[BOSC_2006/Abstracts#NESCent |  Hilmar Lapp: Informatics for Evolutionary Science and Synthesis]]
 |- 
 | 2:30pm
-| [[BOSC_2006/Lightning Talks Thursday]]
 | [[BOSC_2006/Lightning Talks Friday]]
+| [[BOSC_2006/Lightning Talks Saturday]]
 |- 
 | 3:30pm
 | Coffee
@@ -57,7 +57,7 @@ title: BOSC 2006/Schedule
 |- 
 | 4:00pm
 | KeyNote: Amos Bairoch: UniProtKB and bioinformatics open source: where do we go from here?
-| [[BOSC_2006/Lightning Talks Thursday]]
+| [[BOSC_2006/Lightning Talks Saturday]]
 |- 
 | 5:00pm
 | [[BOSC_2006/Birds Of A Feather Friday]]
