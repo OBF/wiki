@@ -46,9 +46,9 @@ Student : $225 ($325 after June-26th)<br>
 
 ==Agenda==
 
-===[Schedule]===
+===BOSC 2006 Schedule===
 
-The Schedule Has Been Posted
+The [[BOSC_2006/Schedule | BOSC 2006 Schedule]] Has Been Posted
 
 ===Notes on Submissions===
  The Open Bioinformatics Foundation is dedicated to promoting the practice and philosophy of Open Source Software development within the 
