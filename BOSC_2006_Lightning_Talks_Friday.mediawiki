@@ -23,5 +23,4 @@ title: BOSC 2006/Lightning Talks Friday
 |-
 | 3:20pm
 | &nbsp;
-| &nbsp;
 |}
