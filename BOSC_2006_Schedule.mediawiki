@@ -29,7 +29,7 @@ title: BOSC 2006/Schedule
 |- 
 | 11:00am
 | [[BOSC_2006/Abstracts#XRATE | Ian Holmes: XRATE: Scheme-y trees, phylo-HMMs and phylo-grammars]]
-| [[BOSC_2006/Abstrats#SHOGUN | Soren Sonnenburg: SHOGUN - A Large Scale Machine Learning Toolbox for Biological Sequence Analysis]]
+| [[BOSC_2006/Abstracts#SHOGUN | Soren Sonnenburg: SHOGUN - A Large Scale Machine Learning Toolbox for Biological Sequence Analysis]]
 |- 
 | 11:30am
 | [[BOSC_2006/Abstracts#Twease | Matt Wood: Twease: Searching Medline, One Sentence at a Time]]
