@@ -129,35 +129,19 @@ CaIntegrator website: http://caintegrator.nci.nih.gov REMBRANDT (caIntegrator re
 
 ==SHOGUN==
 
-Subha Madhavan, Ph.D. , National Cancer Institute
+Soren Sonnenburg, Fraunhofer Institut, Max Planck Society.
 
-Saturday August 5th, 10:00am
+Saturday August 5th, 11:00am
 
-Progress in finding better therapies for cancer treatment is hampered by the lack of opportunity to integrate biomedical data from disparate sources to enable translation of therapies from bench to bedside and back. Hence, a critical factor in the advancement of biomedical research and delivery is the ease with which data from clinical trials can be integrated, redistributed and analyzed both within and across functional domains. Novel biomedical informatics infrastructure and tools are essential for developing individualized patient treatment regimens based on the specific genomic signatures in each patientsed gene expression, Copy number Abnormality (CNA), SNPs, clinical trials data etc.) in a cohesive fashion.
+We have developed a Machine Learning toolbox, called SHOGUN, which is designed for large scale sequence analysis tasks appearing in computational biology. It features a number of machine learning algorithms such as Support Vector Machines [3] for classification and regression, but also Hidden Markov Models, Multiple Kernel Learning [1, 8], Linear Discriminant Analysis, Linear Programming Machines and Perceptrons. Most of these algorithms are able to deal with several different data types including sparse vectors and sequences.
 
-Following are some of the high-level features of the caIntegrator framework:
+SHOGUN provides a generic SVM object interfacing to seven different SVM implementations, among them are LibSVM[2] and SVMlight[5], two state-of-the-art SVM implementations. Each of these can be combined with a variety of kernels. The toolbox not only provides efficient implementations of the most common kernels, like the linear, polynomial, Gaussian and sigmoid kernel, but also comes with a number of recently proposed string kernels including the Fischer & TOP kernel [4, 15], the Spectrum kernel [6], the locality improved kernel [16] and the weighted dregree kernel [7, 13]. For most of the sequence kernels we have implemented optimized data structures such as tries to speed-up training and evaluation of SVMs.
 
-- N-Tiered Architecture: The caIntegrator framework is implemented using Java 2 Enterprise Edition, a Data Warehouse, and various other open source technologies. It is designed to conform to an n- tiered architecture that includes several layers: A web-based graphical user interface, a business object layer, server components that process the queries and result sets, a data access layer and a data warehouse.
+We have successfully used this toolbox to tackle the following sequence analysis problems: Protein Super Family classification[15], Splice Site Prediction[10, 11], Interpreting the SVM Classifier [12, 8], Splice Form Prediction[7], Alternative Splicing[9] and Promotor Prediction[ 14]. Some of them come with no less than 10 million training examples, others with 7 billion test examples.
 
-- A Common set of interfaces (APIs) and a domain object model: The domain object model called CGOM (Clinical Genomics Object Model) provides standardized programmatic access to the integrated biomedical data collected in the caIntegrator data system. The model represents data from clinical trials, microarray-based gene expression, SNP genotyping and copy number experiments, and Immunohistochemistry-based protein assays. Clinical domain objects in CGOM allow access to Clinical trial protocol, treatment arms, patient information, sample histology, clinical observations and assessments. Genomic domain objects allow access to biospecimen information, raw experimental data, in-silico transformation and analyses performed on the raw experimental datasets and biomarker findings. The application's user interface communicates with its caIntegrator-based middle-tier services via domain as well as business objects.
+SHOGUN is implemented in C++ and interfaces to MatlabTM, R, Octave and Python/Numarray. The Source Code is freely available at http://www.fml.mpg.de/raetsch/projects/shogun under the GNU General Public License, Version 2.
 
-- A real-time analytical service that provides on-the-fly computational analysis capability for caIntegrator applications and currently supports class comparison analysis, principal component analysis and clustering analysis. It is designed to easily incorporate other types of analysis in the future, and scale to provide performance.
-
-- The caIntegrator data system consists of a star schema database, which contains the clinical, and annotation data as dimensions, pre-calculated gene expression copy number data as facts. For performance reasons, normalized gene expression data used by the real time analysis module is stored as R-binary files.
-
-- A plotting interface to allow visualization of genomic data (copy number scatter plots and ideogram) via the webGenome application (http://webgenome.nci.nih.gov).
-
-The overall goal of the caIntegrator project is to provide a caBIG-compatible (https://cabig.nci.nih.gov/guidelines_documentation) framework with the infrastructural components needed to develop enterprise level translational applications. One such reference implementation at NCICB is REMBRANDT (Repository of Molecular BRAin Neoplasia DaTa) - http://rembrandt.nci.nih.gov. REMBRANDT is a powerful and intuitive informatics system designed to integrate genetic and clinical information from brain tumor clinical trials for improved research, disease diagnosis, and treatment. It provides researchers with the ability to perform ad hoc querying and reporting across multiple data domains, such as Gene Expression, Chromosomal aberrations and Clinical data. Scientists are able to answer basic questions related to a patient or patient population and view the integrated data sets in a variety of contexts. Tools that link data to other annotations such as cellular pathways, gene ontology terms and genomic information are embedded within this system. Two other cancer study applications that are being developed using the caIntegrator framework are:
-
-- I-SPY Breast cancer trial: The primary object of the I SPY Trial is to identify surrogate markers of response to neoadjuvant chemotherapy that are predictive of pathologic remissions and survival in Stage III breast cancer. Goal is to identify Molecular markers and/or MRI results that predict 3-year disease-free survival in these patients.
-
-- CGEMS: Cancer Genetic Markers of Susceptibility (CGEMS) is an NCI project to identify genetic alterations that make people susceptible to prostate and breast cancers. Goal of CGEMS is to analyze the entire genome for most common type of SNPs that are associated with each of these diseases.
-
-caIntegrator knowledge framework offers a paradigm for rapid sharing of information and accelerates the process of analyzing results from various biomedical studies with the ultimate goal to rapidly change routine patient care.
-
-Resources:
-
-CaIntegrator website: http://caintegrator.nci.nih.gov REMBRANDT (caIntegrator reference implementation): http://rembrandt.nci.nih.gov REMBRANDT application URL: http://rembrandt-db.nci.nih.gov CaIntegrator open source license: http://ncicb.nci.nih.gov/download/caintegratorlicenseagreement.jsp
+References F. R. Bach, G. R. G. Lanckriet, and M. I. Jordan. Multiple kernel learning, conic duality, and the SMO algorithm. In C. E. Brodley, editor, Twenty-first international conference on Machine learning. ACM, 2004. C.-C. Chang and C.-J. Lin. Libsvm: Introduction and benchmarks. Technical report, Department of Computer Science and Information Engineering, National Taiwan University, Taipei, 2000.
 
 ==XMLPipeDB==
 
