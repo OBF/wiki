@@ -46,6 +46,10 @@ Student : $225 ($325 after June-26th)<br>
 
 ==Agenda==
 
+===[Schedule]===
+
+The Schedule Has Been Posted
+
 ===Notes on Submissions===
  The Open Bioinformatics Foundation is dedicated to promoting the practice and philosophy of Open Source Software development within the 
  Biological Research Community. To promote this mission, the organizing committee will favor submissions for projects that apply a recognized 
