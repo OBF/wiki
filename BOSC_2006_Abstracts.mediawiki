@@ -37,7 +37,7 @@ website: www.go-base.org license: GNU General Public License
 
 ==BioMoby==
 
-Martin Senger, Ph.D, International Rice Research Institute, Philippines
+Martin Senger, International Rice Research Institute, Philippines
 
 Friday August 4th, 10:00am
 
