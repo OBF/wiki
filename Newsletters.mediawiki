@@ -5,6 +5,7 @@ title: Newsletters
 __TOC__
 ==OBF Newsletters==
 Here are some newsletters sumamarizing project progress
+* [[Newsletter:2006 Winter]]
 * [[Newsletter:2002 Summer]]
 * [[Newsletter:2001 Winter]]
 
