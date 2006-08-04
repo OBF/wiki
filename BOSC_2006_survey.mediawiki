@@ -29,11 +29,11 @@ Long Talks: 1 2 3<br>
 Lightning Talks: 1 2 3<br>
 BoFs: 1 2 3<br>
 <br>
-8. Please rate the following, 1 being extremely useful, 3 being no use at all:
+8. Please rate the following, 1 being extremely useful, 3 being no use at all:<br>
 BOSC event-db RSS: 1 2 3<br>
 BOSC Blog:1 2 3<br>
 <br>
-8. The BOSC organizing committee are constantly thinking about new formats for the meeting.<br>
+9. The BOSC organizing committee are constantly thinking about new formats for the meeting.<br>
 With 1 being the best, and 5 being the worst, please rank the following (use each rank only once):<br>
 Long Talks: 1 2 3 4 5<br>
 Lightning Talks: 1 2 3 4 5<br>
@@ -41,14 +41,14 @@ BoFs: 1 2 3 4 5<br>
 Hands On Tutorial: 1 2 3 4 5<br>
 Round Table Discussion on issues in developing Open Source Software: 1 2 3 4 5<br>
 <br>
-9. What is your opinion about BOSC association with ISMB<br>
+10. What is your opinion about BOSC association with ISMB<br>
 very poor poor alright good very good<br>
 <br>
-10. Would you attend BOSC if it was not associated with ISMB? Yes No<br>
+11. Would you attend BOSC if it was not associated with ISMB? Yes No<br>
 <br><br><br><br><br>
-11. At this stage, are you planning to attend BOSC 2006? Yes No<br>
+12. At this stage, are you planning to attend BOSC 2006? Yes No<br>
 <br><br><br><br><br>
-12. What were your expectations of the meeting? Were they met?<br>
+13. What were your expectations of the meeting? Were they met?<br>
 <br><br><br><br><br>
 14. Can you describe any programs at other conferences that you have attended that would be effective
 in BOSC conferences.<br>
