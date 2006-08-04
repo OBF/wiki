@@ -6,30 +6,24 @@ title: BOSC 2006/Lightning Talks Saturday
 ! &nbsp;
 ! Lightning Talk (5 Minute Talk + 3 Minute Question)
 |-
-| 2:30pm 
-| Tom Oinn: Raven: Fine Grained Runtime Code Integration for Java via RSS
-|-
-| 2:40pm
+| 2:30pm
 | Michel Kerszberg: ctrl- Dev : a computing tool to study the mechanics of the embryo
 |-
-| 2:50pm
+| 2:40pm
 | Jay Bergeron: A Tool for Laboratory Automation
 |-
-| 3:00pm
+| 2:50pm
 | Kazuharu Arakawa: G-language Project Update
 |-
-| 3:10pm
+| 3:00pm
 | Alberto Labarga: EBI SOAP WebServices
 |-
-| 3:20pm
-| Stephen Gordon Lenk: MCPrimers
+| 3:10pm
+| Kevin Clancy: Matched Reagents Database
 |-
 | 3:30pm
 | Coffee
 |-
 | 4:00pm
-| Kevin Clancy: Matched Reagents Database
-|-
-| 4:20pm
 | Reinhard Simon: Visualizing SSR data from a Genbank
 |}
