@@ -5,7 +5,7 @@ title: BOSC 2006/survey
 ==BOSC 2006 Evaluation Form==
 
 1. Which best describes your background?:<br>
-Biologist Bioinformatician ComputerScientist Other (please specify below)<br>
+Biologist  Bioinformatician  Computer Scientist  Other (please specify below)<br><br><br>
 <br>
 2. Which type of delegate are you at BOSC/ISMB?:<br>
 Academic/Government Student Coorporate<br>
