@@ -28,5 +28,5 @@ title: BOSC 2006/Lightning Talks Saturday
 | Coffee
 |-
 | 4:00pm
-| Fumikazu KONISHI: RIKEN Ajax Browser Computing (RABC), A Pervasive Infrastructure for Browser Computing.
+| Fumikazu Konishi: RIKEN Ajax Browser Computing (RABC), A Pervasive Infrastructure for Browser Computing.
 |}
