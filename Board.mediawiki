@@ -7,7 +7,7 @@ The board can be contacted via email at [mailto:board@open-bio.org board@open-bi
 
 '''President'''
 : [[bp:Jason Stajich|Jason Stajich]]
-: [[bp:BioPerl|BioPerl]] core developer. Graduate Student at [http://www.duke.edu/ Duke University].
+: [[bp:BioPerl|BioPerl]] core developer. [http://pmb.berkeley.edu/~taylor/people/js.html Postdoc] at [http://www.berkeley.edu/ University of California, Berkeley].
 
 '''Treasurer'''
 : [[bp:Chris Dagdigian|Chris Dagdigian]]
