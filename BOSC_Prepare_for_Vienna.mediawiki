@@ -6,10 +6,9 @@ This page has been set up to provide a forum for discussion regarding the planni
 
 BOSC Mandate:
 
-# Provide a forum for Open Source Bioinformatics Developers to meet and network to discuss current projects, and possibly hatch new projects based on percieved needs within the developer community.
-# Provide a forum for users of Open Source Software to interact with, or even get involved with the developer community.
-# Educate the research community on the value and need for Open Source Software.
-
+#  provide developers with a forum for displaying the results of their development efforts to the wider research community;
+# provide a focused environment for developers and users to interact and share ideas about software development, and practical techniques in bioinformatics;
+# Inform the Research Community of important developments occuring within the Open Source Bioinformatics Developer community. 
 
 To this end, the BOSC conference must endeavor to meet these goals using the 16 hours of time that we are alloted during the two day ISMB SIG.  Some suggestions that I have recieved for how to do this are:
 
@@ -24,3 +23,7 @@ Comments/questions to consider:
 # How do we facilitate the integration of disperate communities, or at least avoid excessive fragmentation.  Suppose we create separate sessions for, say, Project Updates, and Emerging Informatics.  What is going to prevent the developers from choosing to skip the Emerging Informatics session because they dont get anything out of it?  Isn't one goal of BOSC to provide a forum for the discussion of new areas where Bioinformatics Infrastructure, especially Open Source Infrastructure, is needed?  Remember that it is perfectly acceptable for people to wander from SIG to SIG with the price of their admission.  They are not a captive audience.
 # In relation to the above, how do we prevent one community from completely taking over the conference for their own purposes?
 # How do we ensure that BOSC stays relevant to the wider ISMB-SIG audience?  Is this important?
+
+
+==ideas==
+# Create A Developer Challenge Forum.  The year before BOSC (possibly at the end of each BOSC), teams of developers would be called on to submit a proposal for the development of a significant software product.  Each team would be given a wiki on the upcoming BOSC 2XXX wiki site where they would communicate significant problems, resolutions, and achievements.  At BOSC, there could be a session where these teams present the results of their work.  If we had outside funding, we might be able to award travel fellowships to the team voted to have done the best work by the BOSC community, but we might need other criteria to be met before they could be entered into the competition?
