@@ -26,3 +26,61 @@ Comments/questions to consider:
 # Organize a forum for informal, relaxed discussion and socializing among BOSC attendees, such as a dinner or visit to a local pub after the days activities.
 # Organize a forum for inter-SIG collaboration.  Possibly create a slot to allow someone from the other SIGs to present needs, ideas to the Open Source Community, while also supporting the export of our own ideas to their SIGs.
 # Create A Developer Challenge Forum.  The year before BOSC (possibly at the end of each BOSC), teams of developers would be called on to submit a proposal for the development of a significant software product.  Each team would be given a wiki on the upcoming BOSC 2XXX wiki site where they would communicate significant problems, resolutions, and achievements.  At BOSC, there could be a session where these teams present the results of their work.  If we had outside funding, we might be able to award travel fellowships to the team voted to have done the best work by the BOSC community, but we might need other criteria to be met before they could be entered into the competition?
+
+== Thoughts from Andrew ==
+
+This is something I wrote up for the board list on a thread related to this topic.  I've extracted the part where I talk about what I want to see in a conference.
+
+=== I want something very hands on.  ===
+"hacker sessions" in old-skool parlance.  The current phrase is "bar camp".  See http://en.wikipedia.org/wiki/BarCamp and  http://barcamp.org/ .
+
+People don't just show up and give talks or demos.  They also come to code.  For examples mostly based on this year's abstracts, people might write new services for BioMOBY and Taverna, try out ZMap and provide feedback, use some of the BioPostgres extensions, or learn a bit of Ruby through bioruby.  BOSC is open source so we have the advantage that anyone can install the software on their laptops.
+
+This means some preparation beforehand, like the "Ridiculously Easy MOBY Service Creation" document at http://biomoby.open-bio.org/CVS_CONTENT/moby-live/Java/docs/deployingServices.html
+
+I don't like training seminars though.
+
+A popular event I've seen elsewhere is a "bake off" as a way to compare/contrast two technologies.  To me the most famous of these was "the Great CHI'97 Browse-Off" was reproduced in part at BayCHI in http://www.baychi.org/calendar/19970812/
+
+One topic:  "using your web framework of choice, make a blah" where blah can be "biosql browser" or "BLAST job manager" or ...
+
+Another: load the same data set into different tools (eg, annotation data in Apollo, GBrowse, etc) and evaluate some common use cases, a la the browse off.
+
+
+=== I want discussion about newer technology ===
+
+Some of the hot topics over the last couple of years: P2P, tagging and folksonomies, AJAX, Ruby on Rails, Web 2.0.  How might these affect bioinformatics?  Collaborative tagging of GenBank records?  What about using off-the-shelf P2P libraries for collaborative curation?  Dojo-style widget sets for highly-interactive browser-based sequence display? Setting up RSS/Atom feeds for job process notification?
+
+The current BOSC schedule is derived from a scientific program where people show results.  By its nature it won't include wild ideas which may be the seeds of the next generation of software.
+
+=== I want more emphasis on software development ===
+
+I mean this as something stronger than "programming" but not to the point of "software engineering" (I don't think the field is mature enough yet for there to be "engineering.")
+
+I think bioinformatics - and chemical informatics and structural biology and molecular modeling  - are years behind the times in how to write software.  Here are some things to think about:
+
+* how many bioinformatics GUIs support undo/redo?  How does one implement such a system?
+
+* how many applications had any usability/human-centered design/user testing as an explicit part of the development process?
+
+* do any of the projects have a buildbot system continuously checking that the code in version control works, along with enough tests to make that check meaningful?
+
+* what do the web-based projects used for automated testing of their servers?
+
+* does anyone do fuzz testing?  Security analysis?  What about a "break my web app" session where us black-hat wannabes find flaws and exploits in others' servers?
+
+That's not saying commercial non-bioinformatics software do these. I'm saying that bioinformatics software, and the culture of writing bioinformatics software, should stretch and include good modern development practices and techniques.
+
+But this has nothing to do with science and nearly every software developer in this field has a science background so regards these topics as having less importance or uninteresting, assuming any knowledge at all.  So says my experience.
+
+That lack of interest, btw, is part of a general frustration I have with scientific software development.  Good software is often seen as second to good science, when it should be an essential part of doing good science.  I've found many of the talks at BOSC pretty boring because they only cover programming.  I'm very good at programming and don't need a 20 minute lecture for each topic.
+
+Tangentially, what about a round-table discussion somewhere for people to hear different viewpoints on a set of topics?
+
+=== closing ===
+
+If a future BOSC was arranged along the above lines then I would be very excited to go.  I know of almost nothing like it in the bio/chem software fields.  The closest would be sprints and hackathons, but this isn't either.  It's more like an informally structured educational environment in which to learn about about the state-of-the-art for software in and outside of bioinformatics.
+
+Doing this would almost totally alter the current BOSC format.  Such a change may be too much for next year, but perhaps chaning one day would work.  The first day is my preference.
+
+Would people go for it?  I don't know.  I would like to think so.
