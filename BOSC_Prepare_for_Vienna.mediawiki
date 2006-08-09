@@ -26,6 +26,7 @@ Comments/questions to consider:
 # Organize a forum for informal, relaxed discussion and socializing among BOSC attendees, such as a dinner or visit to a local pub after the days activities.
 # Organize a forum for inter-SIG collaboration.  Possibly create a slot to allow someone from the other SIGs to present needs, ideas to the Open Source Community, while also supporting the export of our own ideas to their SIGs.
 # Create A Developer Challenge Forum.  The year before BOSC (possibly at the end of each BOSC), teams of developers would be called on to submit a proposal for the development of a significant software product.  Each team would be given a wiki on the upcoming BOSC 2XXX wiki site where they would communicate significant problems, resolutions, and achievements.  At BOSC, there could be a session where these teams present the results of their work.  If we had outside funding, we might be able to award travel fellowships to the team voted to have done the best work by the BOSC community, but we might need other criteria to be met before they could be entered into the competition?
+# Do more targeted invitations to people who would give interesting talks.  Hilmar pointed out the zebrafish project does usability testing including videotaping people using their system.  I would be interested in knowing more about that.
 
 == Thoughts from Andrew ==
 
