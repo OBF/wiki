@@ -1007,3 +1007,140 @@ and the names for the individual segments are
    http://www.wormbase.org/genome/C_briggsae/CB25/cb25.fpc4470
    http://www.wormbase.org/genome/C_briggsae/CB25/cb25.fpc4500
 </pre>
+
+=== S. cerevisiae ===
+
+===Release 20020505 5 May 2003====
+
+The name for the assembly is
+<pre>
+  http://www.yeastgenome.org/genome/S_cerevisiae/20020505/
+</pre>
+and the name for the individual segments are
+<pre>
+http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr01
+http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr02
+http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr03
+http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr04
+http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr05
+http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr06
+http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr07
+http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr08
+http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr09
+http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr10
+http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr11
+http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr12
+http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr13
+http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr14
+http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr15
+http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr16
+http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chrmt
+</pre>
+
+====Release 20030103 3 January 2003====
+
+The name for the assembly is
+<pre>
+  http://www.yeastgenome.org/genome/S_cerevisiae/20030103/
+</pre>
+and the name for the individual segments are
+<pre>
+http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr01
+http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr02
+http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr03
+http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr04
+http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr05
+http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr06
+http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr07
+http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr08
+http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr09
+http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr10
+http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr11
+http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr12
+http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr13
+http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr14
+http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr15
+http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr16
+http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chrmt
+</pre>
+
+====Release 20040103 3 January 2004====
+
+The name for the assembly is
+<pre>
+  http://www.yeastgenome.org/genome/S_cerevisiae/20040103/
+</pre>
+and the name for the individual segments are
+<pre>
+http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr01
+http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr02
+http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr03
+http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr04
+http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr05
+http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr06
+http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr07
+http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr08
+http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr09
+http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr10
+http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr11
+http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr12
+http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr13
+http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr14
+http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr15
+http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr16
+http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chrmt
+</pre>
+
+====Release 20050101 1 January 2005====
+
+The name for the assembly is
+<pre>
+  http://www.yeastgenome.org/genome/S_cerevisiae/20050101/
+</pre>
+and the name for the individual segments are
+<pre>
+http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr01
+http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr02
+http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr03
+http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr04
+http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr05
+http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr06
+http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr07
+http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr08
+http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr09
+http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr10
+http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr11
+http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr12
+http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr13
+http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr14
+http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr15
+http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr16
+http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chrmt
+</pre>
+
+====Release 20060128 28 January 2006====
+
+The name for the assembly is
+<pre>
+http://www.yeastgenome.org/genome/S_cerevisiae/20060128/
+</pre>
+and the name for the individual segments are
+<pre>
+http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr01
+http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr02
+http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr03
+http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr04
+http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr05
+http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr06
+http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr07
+http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr08
+http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr09
+http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr10
+http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr11
+http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr12
+http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr13
+http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr14
+http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr15
+http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr16
+http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chrmt
+</pre>
