@@ -1008,6 +1008,173 @@ and the names for the individual segments are
    http://www.wormbase.org/genome/C_briggsae/CB25/cb25.fpc4500
 </pre>
 
+=== M. musculus ===
+
+====Release 32.1 31 March 2003====
+
+The name for the assembly is
+<pre>
+  http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/
+</pre>
+and the name for the individual segments are
+<pre>
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chr1
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chr2
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chr3
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chr4
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chr5
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chr6
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chr7
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chr8
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chr9
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chr10
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chr11
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chr12
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chr13
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chr14
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chr15
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chr16
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chr17
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chr18
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chr19
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chrX
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chrY
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chrUn
+</pre>
+
+====Release 33.1 2 Sep 2004====
+
+The name for the assembly is
+<pre>
+  http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/
+</pre>
+and the name for the individual segments are
+<pre>
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chr1
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chr2
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chr3
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chr4
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chr5
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chr6
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chr7
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chr8
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chr9
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chr10
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chr11
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chr12
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chr13
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chr14
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chr15
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chr16
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chr17
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chr18
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chr19
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chrX
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chrY
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chrMT
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chrUn
+</pre>
+
+====Release 34.1 19 May 2005====
+
+The name for the assembly is
+<pre>
+  http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/
+</pre>
+and the name for the individual segments are
+<pre>
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chr1
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chr2
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chr3
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chr4
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chr5
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chr6
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chr7
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chr8
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chr9
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chr10
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chr11
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chr12
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chr13
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chr14
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chr15
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chr16
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chr17
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chr18
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chr19
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chrX
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chrY
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chrMT
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chrUn
+</pre>
+
+====Release 35.1 12 December 2005====
+
+The name for the assembly is
+<pre>
+  http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/
+</pre>
+and the name for the individual segments are
+<pre>
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chr1
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chr2
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chr3
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chr4
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chr5
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chr6
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chr7
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chr8
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chr9
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chr10
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chr11
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chr12
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chr13
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chr14
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chr15
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chr16
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chr17
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chr18
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chr19
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chrX
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chrY
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chrMT
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chrUn
+</pre>
+
+====Release 36.1 8 May 2006====
+
+The name for the assembly is
+<pre>
+  http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/
+</pre>
+and the name for the individual segments are
+<pre>
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chr1
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chr2
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chr3
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chr4
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chr5
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chr6
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chr7
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chr8
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chr9
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chr10
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chr11
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chr12
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chr13
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chr14
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chr15
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chr16
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chr17
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chr18
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chr19
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chrX
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chrY
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chrMT
+http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chrUn
+</pre>
+
+
 === S. cerevisiae ===
 
 ====Release 20020505 5 May 2002====
