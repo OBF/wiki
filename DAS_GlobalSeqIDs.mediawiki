@@ -1010,7 +1010,7 @@ and the names for the individual segments are
 
 === S. cerevisiae ===
 
-===Release 20020505 5 May 2003====
+====Release 20020505 5 May 2003====
 
 The name for the assembly is
 <pre>
