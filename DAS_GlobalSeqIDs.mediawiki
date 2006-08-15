@@ -8,6 +8,226 @@ The list of global identifiers is based on community consensus.  As new builds a
 
 == Global Sequence Identifiers ==
 
+=== H. sapiens ===
+
+====Release 33 6 June 2003====
+
+The name for the assembly is
+<pre>
+  http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/
+</pre>
+and the name for the individual segments are
+<pre>
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chr1
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chr2
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chr3
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chr4
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chr5
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chr6
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chr7
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chr8
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chr9
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chr10
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chr11
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chr12
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chr13
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chr14
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chr15
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chr16
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chr17
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chr18
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chr19
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chr20
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chr21
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chr22
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chrX
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chrY
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chrMT
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chrUn
+</pre>
+
+
+====Release 34.1 14 October 2003====
+
+The name for the assembly is
+<pre>
+  http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/
+</pre>
+and the name for the individual segments are
+<pre>
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chr1
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chr2
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chr3
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chr4
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chr5
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chr6
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chr7
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chr8
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chr9
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chr10
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chr11
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chr12
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chr13
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chr14
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chr15
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chr16
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chr17
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chr18
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chr19
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chr20
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chr21
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chr22
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chrX
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chrY
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chrMT
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chrUn
+</pre>
+
+====Release 34.2 28 January 2004====
+
+
+The name for the assembly is
+<pre>
+  http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/
+</pre>
+and the name for the individual segments are
+<pre>
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chr1
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chr2
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chr3
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chr4
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chr5
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chr6
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chr7
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chr8
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chr9
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chr10
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chr11
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chr12
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chr13
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chr14
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chr15
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chr16
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chr17
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chr18
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chr19
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chr20
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chr21
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chr22
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chrX
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chrY
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chrMT
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chrUn
+</pre>
+
+
+====Release 34.3 10 March 2004====
+
+The name for the assembly is
+<pre>
+  http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/
+</pre>
+and the name for the individual segments are
+<pre>
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chr1
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chr2
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chr3
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chr4
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chr5
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chr6
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chr7
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chr8
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chr9
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chr10
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chr11
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chr12
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chr13
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chr14
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chr15
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chr16
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chr17
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chr18
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chr19
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chr20
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chr21
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chr22
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chrX
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chrY
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chrMT
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chrUn
+</pre>
+
+====Release 35.1 26 August 2004====
+
+The name for the assembly is
+<pre>
+  http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/
+</pre>
+and the name for the individual segments are
+<pre>
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chr1
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chr2
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chr3
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chr4
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chr5
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chr6
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chr7
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chr8
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chr9
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chr10
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chr11
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chr12
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chr13
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chr14
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chr15
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chr16
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chr17
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chr18
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chr19
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chr20
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chr21
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chr22
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chrX
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chrY
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chrMT
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chrUn
+</pre>
+
+====Release 36.1 9 March 2006====
+
+The name for the assembly is
+<pre>
+  http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/
+</pre>
+and the name for the individual segments are
+<pre>
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chr1
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chr2
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chr3
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chr4
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chr5
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chr6
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chr7
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chr8
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chr9
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chr10
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chr11
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chr12
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chr13
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chr14
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chr15
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chr16
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chr17
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chr18
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chr19
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chr20
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chr21
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chr22
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chrX
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chrY
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chrMT
+http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chrUn
+</pre>
 === D. melanogaster ===
 
 ====Release 3.1 2 March 2004====
