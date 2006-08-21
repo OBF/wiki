@@ -19,7 +19,7 @@ The board can be contacted via email at [mailto:board@open-bio.org board@open-bi
 
 '''Parliamentarian'''
 : [[bp:Hilmar Lapp|Hilmar Lapp]]
-: Representing [[bp:BioPerl|BioPerl]].  Employed by [http://www.gnf.org Genomics Institute of the Novartis Research Foundation].
+: Representing [[bp:BioPerl|BioPerl]].  Employed by the [http://www.nescent.org/ National Evolutionary Synthesis Center] (NESCent).
 
 '''At-large member'''
 : [[bp:Ewan Birney|Ewan Birney]], ''Past President''
