@@ -3,6 +3,7 @@ title: Past BOSC conferences
 ---
 
 Previous BOSC conferences
+* [[BOSC 2006]] Fortaleza, Brasil
 * [[BOSC 2005]] Detroit, MI USA
 * [[BOSC 2004]] Glasgow, UK
 * [[BOSC 2003]] Brisbane, Australia
