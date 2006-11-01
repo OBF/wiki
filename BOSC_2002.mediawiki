@@ -6,6 +6,6 @@ title: BOSC 2002
 
 [http://open-bio.org/bosc2002 BOSC 2002 website]
 
-[http://gallery.open-bio.org/gallery/bosc2002 Pictures] from the conference
+[http://gallery.open-bio.org/gallery2/v/bosc2002 Pictures] from the conference
 
 [[Category:BOSC]] [[Category:Conferences]]
