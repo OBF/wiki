@@ -19,6 +19,15 @@ Comments/questions to consider:
 # How do we ensure that BOSC stays relevant to the wider ISMB-SIG audience?  Is this important?
 
 
+==deadlines==
+* Friday Dec. 15th.  Submit Proposal for BOSC to ISCB Organizing Committee
+* ??? Some time in Dec. call for community feedback if we want input for categories/speakers to create/invite
+* ??? Early January. Announce and Call for Papers??? BOSC 2007
+* ??? Secondary Call???
+* ??? Submission due date
+* ??? A few days before June 1(early reg deadline) Announce Accepted Speakers
+* July 19,20  BOSC 2007
+
 ==ideas==
 # Create separate sessions for different categories of talks.  These should include, but not be limited to, a section for project updates by the developers of various projects.  Define better requirements for acceptance of submission to each of the talk sessions, and communicate these requirements in the call for speakers.
 # Shorten the talk times, to allow more time for discussion and questions.
@@ -108,3 +117,4 @@ This could be a separate session.  It would probably be best to invite the OBF d
 
 ==Links of Interest==
 [[BOSC/Prepare for Vienna/ExampleSchedule | Example Schedule]]
+[[http://www.iscb.org/ismbeccb2007/deadlines/ | ISMB 2007 Deadlines]]
