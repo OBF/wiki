@@ -117,4 +117,5 @@ This could be a separate session.  It would probably be best to invite the OBF d
 
 ==Links of Interest==
 [[BOSC/Prepare for Vienna/ExampleSchedule | Example Schedule]]
-[[http://www.iscb.org/ismbeccb2007/deadlines/ | ISMB 2007 Deadlines]]
+
+[http://www.iscb.org/ismbeccb2007/deadlines ISMB 2007 Deadlines]
