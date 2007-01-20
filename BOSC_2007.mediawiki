@@ -9,4 +9,4 @@ The 8th annual Bioinformatics Open Source Conference ([[BOSC]] 2007) will ''tena
 
 We have submitted a proposal for BOSC to be held at ISMB2007 but are still waiting for notification that it is approved.
 
-[[Catgory:Conferences]] [[Category:BOSC]]
+[[Category:Conferences]] [[Category:BOSC]]
