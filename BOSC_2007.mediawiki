@@ -1,0 +1,12 @@
+---
+title: BOSC 2007
+---
+
+[[Image:Pear.png|The Bosc Pair]]
+
+
+The 8th annual Bioinformatics Open Source Conference ([[BOSC]] 2007) will ''tenatively'' take place in [[wp:Vienna, Austria|Vienna, Austria]], as one of several Special Interest Group (SIG) meetings occurring in conjunction with the [http://www.iscb.org/ismbeccb2007/ 15th International Conference on Intelligent Systems for Molecular Biology]. 
+
+We have submitted a proposal for BOSC to be held at ISMB2007 but are still waiting for notification that it is approved.
+
+[[Catgory:Conferences]] [[Category:BOSC]]
