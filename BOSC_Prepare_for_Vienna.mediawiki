@@ -125,7 +125,7 @@ This could be a separate session.  It would probably be best to invite the OBF d
 1st Day:<br />
 8:35 Call To Order, Announcements while people mill in<br /> 
 9:00 Keynote: Carole Goble On Significant Challenges to Developing Bioinformtics Software<br />
-10:00 Currently Intractable Problems In Bioiformatics: Five to ten minute talks presenting a hard area of computer science or bioinformatics relevant to the community and as yet not thoroughly solved. Talks would be of the form of a use case which currently cannot be satisfied with readily available toolkits and a summary of the problem. An hour of these, so six to eight?<br /> 
+10:00 Currently Intractable Problems In Bioiformatics: Five to ten minute talks presenting a hard area of computer science or bioinformatics relevant to the community and as yet not thoroughly solved. Talks would be of the form of a use case which currently cannot be satisfied with readily available toolkits and a summary of the problem.<br /> 
 10:30 coffee<br />
 10:50 More Currently Intractable Problems<br />
 11:50 Break For Lunch<br />
