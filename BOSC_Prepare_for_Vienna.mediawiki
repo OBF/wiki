@@ -148,3 +148,74 @@ This could be a separate session.  It would probably be best to invite the OBF d
 3:30 coffee<br />
 4:00 Ideas for Solving Currently Intractable Problems in Bioinformatics:  Here is the chance for developers to present ideas for using current technologies, or developing new technologies, to solve issues presented in the Keynote Session on Day 1.  Those presenting problems in the first day are required to summarize ideas revolving around their submitted problem<br />
 5:30 Dismiss
+
+
+[[Image:Pear.png|The Bosc Pair]]
+
+The 8th annual Bioinformatics Open Source Conference ([[BOSC]] 2007) will take place in [[wp:Vienna, Austria|Vienna, Austria]], as one of several Special Interest Group (SIG) meetings occurring in conjunction with the [http://www.iscb.org/ismbeccb2007/ 15th International Conference on Intelligent Systems for Molecular Biology]. 
+
+==Important Dates==
+
+July 19,20 '''BOSC 2007'''
+
+[http://eventful.com/groups/G0-001-000014747-0 BOSC Eventful Group] : This site provides an ICAL feed which will include all deadlines associated with BOSC 2007 <br>
+[http://www.open-bio.org/boscblog/ BOSC Announcement Blog] : This Blog will contain all Important BOSC announcements.  You can include it in any RSS Reader.
+
+
+==Keynote Speakers==
+Carol Goble
+
+==Fees==
+
+SIG Rate (registering for ISMB as well):<br>
+
+Corporate : TBA<br>
+Academic : TBA<br>
+Student : TBA<br>
+
+<nowiki>==================================================</nowiki>
+
+Sig-only Rate (not registering for ISMB):<br>
+
+Corporate : TBA<br>
+Academic : TBA<br>
+Student : TBA<br>
+
+==Agenda==
+
+===BOSC 2007 Schedule===
+
+The [[BOSC_2007/Schedule | BOSC 2007 Schedule]] Has Been Posted
+
+===Notes on Submissions===
+ The Open Bioinformatics Foundation is dedicated to promoting the practice and philosophy of Open Source Software development within the 
+ Biological Research Community. To promote this mission, the organizing committee will favor submissions for projects that apply a recognized 
+ Open Source License, or adhere to the general Open Source Philosophy.
+
+See the following websites for further details:
+* [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
+* [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
+
+All submissions should be emailed to the BOSC mailing list at '''bosc@open-bio.org'''.
+
+===Call for Speakers and Abstracts===
+This year BOSC is requesting submissions for a variety of different venues.
+
+# Currently Intractable Problems In Bioiformatics: This session will follow the Keynote, and will be devoted to the delineation of areas of Information Technology or Bionformatics which are currently not solved or serviced by the current suite of Bioinformatics Software in existence.  Speakers are invited to submit a detailed use case which currently cannot be satisfied with readily available toolkits and a summary of the problem sufficient to engage developers into discussions on how to solve the problem.  The last venue of day two will be devoted to allowing attendees to present ideas for solving these problems. Talks will be 5 minutes long, with a few minutes for questions for the audience.  All problems, and ideas for solution will be published on the BOSC web site.
+
+# New Informatics Technologies in Bioinformatics:  This venue is devoted to the development of systems which make use of newer Information Technology practices, such as WebServices (SOAP or REST), Folksonomies/Tagging, RSS, Social Networking, and other design patterns collectively described as [http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html web 2.0 ]. Talks will be 10 minutes long, with a few minutes for questions from the audience.  All abstracts will be published on the BOSC website.
+
+# Open Source Software Presentations:  This venue will be allow speakers to present talks on their use, development, or philosophy of open source software in bioinformatics to the BOSC attendees. The committee will select several submitted abstracts for 20-minute talks, with a few minutes for questions afterward. Accepted abstracts will be published on the BOSC web site.
+
+# Discussions of Software Design:  This venue will allow speakers to to present on Design Practices in their Open Source Project, or an Open Source Project they have used and were happy with, or present ideas on the practice of Software Design which would benifit the Open Source Developer Community.  Talks will be 5 minutes long, with a few minutes for questions afterward.  Accepted abstracts will be published on the BOSC web site.
+
+===Call For Wifi Workshops===
+This year, the BOSC committee will enhance the infrastructure for what were currently labeled Birds of a Feather sessions with a wireless router.  This will allow groups to interact with software or websites much more while they are discussing their favorite projects. The BOSC committee will accept ideas for these up to the last day of the conference, on a first come-first-served basis until no more space is left in the conference room.
+
+===Call for Volunteers===
+The BOSC Organizing Committee would like to invite attendees
+to take a more active role in making BOSC a successful conference
+by volunteering your services.  The following opportunities for 
+assistance exist:
+
+* Set up, Clean up:  Volunteers are needed to help set up and clean up any aspects of the conference room that are not done by the conference organizers.
