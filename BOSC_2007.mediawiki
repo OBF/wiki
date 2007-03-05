@@ -10,8 +10,8 @@ This year is shaping up to be very exciting.  We have changed our format to add 
 
 ==Important Dates==
 
-May 14th   '''Abstract/Use Case Submission Deadline'''
-May 28th   '''Notification of Accepted Talks'''
+May 14th   '''Abstract/Use Case Submission Deadline'''<br>
+May 28th   '''Notification of Accepted Talks'''<br>
 June 1     '''Early Registration Discount Cutoff Date'''<br>
 July 19,20 '''BOSC 2007'''
 
