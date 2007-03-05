@@ -59,12 +59,14 @@ This year BOSC is requesting submissions for a variety of different venues.  All
 # Discussions of Software Design and Engineering:  This venue will allow speakers to to present Design Practices in their Open Source Project, or an Open Source Project they have used and were happy with, or present ideas on the practice of Software Design which would benifit the Open Source Developer Community.  Talks will be 5 minutes long, with a few minutes for questions afterward.  Accepted abstracts will be published on the BOSC web site.
 
 
-All submissions must be sent, along with the following information, to the bosc mailing list ('''bosc@open-bio.org'''):
+All submissions must be sent, along with the following information, to the bosc mailing list ('''bosc@open-bio.org''') by May 14th, 2007:
 
 # Abstract (no more than a few paragraphs) or Use Case
 # Open Source License (if talking about your Software)
 # project website (if talking about your Software)
 # at least one contact email (personal or list)
+
+Accepted speakers will be contacted by the BOSC organizing committee on May 28, 2007.
 
 ===Call For Wifi Workshops===
 This year, the BOSC committee will enhance the infrastructure for what were currently labeled Birds of a Feather sessions with a wireless router.  This will allow groups to interact with software or websites much more while they are discussing their favorite projects. The BOSC committee will accept ideas for these up to the last day of the conference, on a first come-first-served basis until no more space is left in the conference room.
