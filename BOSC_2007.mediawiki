@@ -17,7 +17,7 @@ July 19,20 '''BOSC 2007'''
 [http://www.open-bio.org/boscblog/ BOSC Announcement Blog] : This Blog will contain all Important BOSC announcements.  You can include it in any RSS Reader.
 
 ==Keynote Speakers==
-[http://www.cs.man.ac.uk/~carole/ Carol Goble]
+[http://www.cs.man.ac.uk/~carole/ Carol Goble]  Will be speaking about the "Seven Deadly Bio-Sins".
 
 ==Fees==
 
