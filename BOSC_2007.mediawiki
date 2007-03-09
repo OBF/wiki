@@ -48,7 +48,7 @@ Sig-only Rate (not registering for ISMB):
 ==Agenda==
 
 ===Notes on Submissions===
-The [[OBF|Open Bioinformatics Foundation]], which is the sole sponsor of BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the Biological Research Community. For this reason, any talk submitted to be presented at BOSC which concerns a specific software system to be used by the research community must be licensed with a recognized Open Source License, and available for download according to the dictates of that license, in order to be considered for acceptance.
+The [[OBF|Open Bioinformatics Foundation]], which is the sole sponsor of BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the Biological Research Community. For this reason, in order to be considered for acceptance, any talk submitted to be presented at BOSC which concerns a specific software system to be used by the research community must be licensed with a recognized Open Source License, and be available for download by anyone using ftp, cvs/subversion, or as a tar/zip file from the Project Website.
 
 See the following websites for further details:
 * [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
