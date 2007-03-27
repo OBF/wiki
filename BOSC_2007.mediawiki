@@ -23,27 +23,7 @@ July 19,20 '''BOSC 2007'''
 
 ==Fees==
 
-SIG Rate (registering for ISMB as well):
-{| border="0"
-|-
-| '''Corporate''' || TBA
-|-
-| '''Academic''' || TBA
-|-
-| '''Student''' || TBA
-|-
-|}
-
-Sig-only Rate (not registering for ISMB):
-{| border=0
-|-
-| '''Corporate''' || TBA
-|-
-| '''Academic''' || TBA
-|-
-| '''Student''' || TBA
-|-
-|}
+[http://www.iscb.org/ismbeccb2007/registration/ Please See the ISMB Registration Site for Details]
 
 ==Agenda==
 
