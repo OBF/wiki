@@ -14,7 +14,11 @@ The SVN client protocol makes <b>multiple</b> connections to the svnserver binar
 
 === Public SVN Access ===
 
-Not implemented yet. We will set up a standalone anonymous SVN server for public read-only access to hosted repositories. It will function the same way that http://code.open-bio.org currently provides anonymous CVS and RSYNC access to the public. It is highly likely, in fact, that when we deploy public SVN access it will be via http://code.open-bio.org.
+Partially implemented at this time, we now have a web based SVN viewer installed:
+
+http://code.open-bio.org/svnweb/
+
+Methods for anonymously checking out SVN repositories are still being worked on. It is highly likely, in fact, that when we deploy public SVN access it will be via http://code.open-bio.org.
 
 == Hosted repositories ==
 === blipkit ===
