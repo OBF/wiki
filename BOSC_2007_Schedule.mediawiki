@@ -56,7 +56,7 @@ title: BOSC 2007 Schedule
 | [Software Design And Engineering] Kam Dahlquist: An Open Source Framework for Teaching Bioinformatics
 |-
 | 1:45pm
-| Iddo Friedberg: BioPython Project Update
+| Peter Cock: BioPython Project Update
 | &nbsp;
 |- 
 | 2:00pm
