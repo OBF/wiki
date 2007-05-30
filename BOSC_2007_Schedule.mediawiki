@@ -29,51 +29,54 @@ title: BOSC 2007 Schedule
 |-
 | 10:20
 | [New Technology] Mitch Skinner: AJAX GBrowse: Community Genome Annotation Made Easy
-| Break Or Over Run Area
+| [Software Design And Engineering] Kam Dahlquist: An Open Source Framework for Teaching Bioinformatics
 |-
 | 10:30am
 | Coffee
 | Coffee
 |- 
 | 11:00am
-| [New Technology] Rafael C. Jimenez: Dasty2: A Web Client for Visualizing Protein Sequence Features 
-| [OS Software] Carol Lushbough: BioStream: An Extensible Database Tool for Biologists
+| [New Technology] Rafael C. Jimenez: Dasty2: A Web Client for Visualizing Protein Sequence Features
+| [Software Design And Engineering] James Taylor: Tools to Facilitate Large Scale COmparative Genomic Analysis 
 |- 
 | 11:20am
 | [New Technology] Taavi Hupponen: EMBRACE Web Services
-| [OS Software] Goran Sandberg: Mitrion-C Accellerated NCBI Blast Application
+| [Lightning Talk] Carol Lushbough: BioStream: An Extensible Database Tool for Biologists
 |- 
-| 11:40am
-| [New Technology] Krishakant Shanbhag: CaGrid Cancer Biomedical Informatics Grid
-| Break or Over Run Area
+| 11:30am
+| &nbsp;
+| [Lightning Talk] Goran Sandberg: Mitrion-C Accellerated NCBI Blast Application
 |-
+| 11:40
+| [New Technology] Krishakant Shanbhag: CaGrid Cancer Biomedical Informatics Grid
+| Break for Lunch, or Overflow of Talks
 | 12:00
 | Lunch
 | Lunch
 |- 
 | 1:30pm
 | Martin Senger: BioMoby Project Update
-| [Software Design And Engineering] Kam Dahlquist: An Open Source Framework for Teaching Bioinformatics
+| Interactive Wifi Workshops
 |-
 | 1:45pm
 | Peter Cock: BioPython Project Update
-| &nbsp;
+| Interactive Wifi Workshops
 |- 
 | 2:00pm
 | Richard Holland: BioJava Project Update
-| [Software Design And Engineering] James Taylor: Tools to Facilitate Large Scale COmparative Genomic Analysis
+| Interactive Wifi Workshops
 |- 
 | 2:15pm
 | Arek Kasprzyk: BioMart Project Update
-| &nbsp;
+| Interactive Wifi Workshops
 |-
 | 2:30pm
 | Peter Rice: EMBOSS Project Update
-| &nbsp;
+| Interactive Wifi Workshops
 |- 
 | 2:45
 | Toshiaki Katayama: BioRuby Project Update
-| &nbsp;
+| Interactive Wifi Workshops
 |-
 | 3:00pm
 | BioPerl Project Update
