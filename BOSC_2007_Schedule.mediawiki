@@ -49,6 +49,7 @@ title: BOSC 2007 Schedule
 |-
 | 11:40
 | [New Technology] Krishakant Shanbhag: CaGrid Cancer Biomedical Informatics Grid
+|-
 | Break for Lunch, or Overflow of Talks
 | 12:00
 | Lunch
