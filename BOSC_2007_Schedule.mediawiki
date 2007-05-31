@@ -60,7 +60,7 @@ title: BOSC 2007 Schedule
 | Interactive Wifi Workshops
 |-
 | 1:45pm
-| Tom Oinn: Taverna Project Update
+| Tom Oinn: MyGrid/Taverna Project Update
 | Interactive Wifi Workshops
 |- 
 | 2:00pm
