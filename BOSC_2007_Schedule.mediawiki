@@ -60,7 +60,7 @@ title: BOSC 2007 Schedule
 | Interactive Wifi Workshops
 |-
 | 1:45pm
-| Peter Cock: BioPython Project Update
+| Tom Oinn: Taverna Project Update
 | Interactive Wifi Workshops
 |- 
 | 2:00pm
@@ -72,7 +72,7 @@ title: BOSC 2007 Schedule
 | Interactive Wifi Workshops
 |-
 | 2:30pm
-| Peter Rice: EMBOSS Project Update
+| Peter Cock: BioPython Project Update
 | Interactive Wifi Workshops
 |- 
 | 2:45
@@ -84,7 +84,7 @@ title: BOSC 2007 Schedule
 | Interactive Wifi Workshops
 |-
 | 3:20pm
-| Discuss the Creation of an OBF Distribution CD
+| Peter Rice: EMBOSS Project Update
 | Interactive Wifi Workshops
 |-
 | 3:30pm
@@ -92,7 +92,7 @@ title: BOSC 2007 Schedule
 | Coffee
 |- 
 | 4:00pm
-| Interactive Wifi Workshops
+| Discuss the Creation of an OBF Distribution CD
 | Interactive Wifi Workshops
 |- 
 | 5:00pm
