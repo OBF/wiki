@@ -4,8 +4,8 @@ title: BOSC 2007 Schedule
 
 {| border="1" cellspacing="0" cellpadding="10" align="center"
 ! &nbsp;
-! Thursday July 7th
-! Friday July 8th
+! Thursday July 19th
+! Friday July 20th
 |- 
 | 8:45am
 | Call To Order
