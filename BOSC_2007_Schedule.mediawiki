@@ -43,12 +43,12 @@ title: BOSC 2007 Schedule
 | [New Technology] Taavi Hupponen: EMBRACE Web Services
 | [Software Design And Engineering] James Taylor: Tools to Facilitate Large Scale COmparative Genomic Analysis 
 |- 
-| 11:30am
-| &nbsp;
-| [Lightning Talk] Carol Lushbough: BioStream: An Extensible Database Tool for Biologists
-|-
 | 11:40
 | [New Technology] Krishakant Shanbhag: CaGrid Cancer Biomedical Informatics Grid
+| [Lightning Talk] Carol Lushbough: BioStream: An Extensible Database Tool for Biologists
+|-
+| 11:50
+| &nbsp;
 | [Lightning Talk] Goran Sandberg: Mitrion-C Accellerated NCBI Blast Application
 |-
 | 12:00
