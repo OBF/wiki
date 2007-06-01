@@ -25,11 +25,11 @@ title: BOSC 2007 Schedule
 |-
 | 10:00
 | [New Technology] James Taylor: The Galaxy Framework for Computational Biology Tool Integration
-| [OS Software] Kam Dahlquist: XMLPipeDB: A Reusable, Open Source Tool Chain for Building Relational Databases from XML Sources
+| [OS Software] Ian Holmes: XRATE: Scheme-y trees, phylo-HMMs and phylo-grammars
 |-
 | 10:20
 | [New Technology] Mitch Skinner: AJAX GBrowse: Community Genome Annotation Made Easy
-| [Software Design And Engineering] Kam Dahlquist: An Open Source Framework for Teaching Bioinformatics
+| [OS Software] Kam Dahlquist: XMLPipeDB: A Reusable, Open Source Tool Chain for Building Relational Databases from XML Sources
 |-
 | 10:30am
 | Coffee
@@ -37,19 +37,19 @@ title: BOSC 2007 Schedule
 |- 
 | 11:00am
 | [New Technology] Rafael C. Jimenez: Dasty2: A Web Client for Visualizing Protein Sequence Features
-| [Software Design And Engineering] James Taylor: Tools to Facilitate Large Scale COmparative Genomic Analysis 
+| [Software Design And Engineering] Kam Dahlquist: An Open Source Framework for Teaching Bioinformatics
 |- 
 | 11:20am
 | [New Technology] Taavi Hupponen: EMBRACE Web Services
-| [Lightning Talk] Carol Lushbough: BioStream: An Extensible Database Tool for Biologists
+| [Software Design And Engineering] James Taylor: Tools to Facilitate Large Scale COmparative Genomic Analysis 
 |- 
 | 11:30am
 | &nbsp;
-| [Lightning Talk] Goran Sandberg: Mitrion-C Accellerated NCBI Blast Application
+| [Lightning Talk] Carol Lushbough: BioStream: An Extensible Database Tool for Biologists
 |-
 | 11:40
 | [New Technology] Krishakant Shanbhag: CaGrid Cancer Biomedical Informatics Grid
-| Break for Lunch, or Overflow of Talks
+| [Lightning Talk] Goran Sandberg: Mitrion-C Accellerated NCBI Blast Application
 |-
 | 12:00
 | Lunch
