@@ -44,7 +44,7 @@ title: BOSC 2007 Schedule
 | [Software Design And Engineering] James Taylor: Tools to Facilitate Large Scale COmparative Genomic Analysis 
 |- 
 | 11:40
-| [New Technology] Krishakant Shanbhag: CaGrid Cancer Biomedical Informatics Grid
+| [New Technology] Krishnakant Shanbhag: CaGrid Cancer Biomedical Informatics Grid
 | [Lightning Talk] Carol Lushbough: BioStream: An Extensible Database Tool for Biologists
 |-
 | 11:50
