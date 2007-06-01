@@ -83,7 +83,7 @@ title: BOSC 2007 Schedule
 | BioPerl Project Update
 | Interactive Wifi Workshops
 |-
-| 3:20pm
+| 3:15pm
 | Peter Rice: EMBOSS Project Update
 | Interactive Wifi Workshops
 |-
