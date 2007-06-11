@@ -41,7 +41,7 @@ title: BOSC 2007 Schedule
 |- 
 | 11:20am
 | [New Technology] Taavi Hupponen: EMBRACE Web Services
-| [Software Design And Engineering] James Taylor: Tools to Facilitate Large Scale COmparative Genomic Analysis 
+| [Software Design And Engineering] James Taylor: Tools to Facilitate Large Scale Comparative Genomic Analysis 
 |- 
 | 11:40
 | [New Technology] Krishnakant Shanbhag: CaGrid Cancer Biomedical Informatics Grid
@@ -57,7 +57,7 @@ title: BOSC 2007 Schedule
 |- 
 | 1:30pm
 | Martin Senger: BioMoby Project Update
-| Interactive Wifi Workshops
+| [Lightning Talk] Eric Jain: beta.uniprot.org -- Another Piece of Life Sciences Infrastructure Built on Open Source Software
 |-
 | 1:45pm
 | Tom Oinn: MyGrid/Taverna Project Update
