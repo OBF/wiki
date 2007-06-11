@@ -13,38 +13,38 @@ title: BOSC 2007 Schedule
 |- 
 | 9:00am
 | Keynote Speaker: Carole Goble
-| [OS Software] Jan Taubert: The ONDEX Data Integration Framework
+| [[BOSC_2007_Abstracts#.5BOS_Software.5D_The_ONDEX_Data_Integration_Framework | [OS Software] Jan Taubert: The ONDEX Data Integration Framework]]
 |- 
 | 9:20am
 | &nbsp;
-| [OS Software] Subhashree Madhavan: CGEMS: An Open-Source caIntegrator Application to support Whole Genome Association Studies
+| [[BOSC_2007_Abstracts#.5BOS_Software.5D_CGEMS:_An_Open-Source_caIntegrator_Application_to_support_Whole_Genome_Association_Studies |  [OS Software] Subhashree Madhavan: CGEMS: An Open-Source caIntegrator Application to support Whole Genome Association Studies]]
 |- 
 | 9:40am
 | &nbsp;
-| [OS Software] Eric Just: Modware: An Object-Oriented Perl Interface to the Chado Schema
+| [[BOSC_2007_Abstracts#.5BOS_Software.5D_Modware:_An_Object-Oriented_Perl_Interface_to_the_Chado_Schema | [OS Software] Eric Just: Modware: An Object-Oriented Perl Interface to the Chado Schema]]
 |-
 | 10:00
-| [New Technology] James Taylor: The Galaxy Framework for Computational Biology Tool Integration
-| [OS Software] Ian Holmes: XRATE: Scheme-y trees, phylo-HMMs and phylo-grammars
+| [[BOSC_2007_Abstracts#.5BNew_Technology.5D_The_Galaxy_Framework_for_Computational_Biology_Tool_Integration | [New Technology] James Taylor: The Galaxy Framework for Computational Biology Tool Integration]]
+| [[BOSC_2007_Abstracts#.5BOS_Software.5D_XRATE:_Scheme-y_trees.2C_phylo-HMMs_and_phylo-grammars | [OS Software] Ian Holmes: XRATE: Scheme-y trees, phylo-HMMs and phylo-grammars]]
 |-
 | 10:20
-| [New Technology] Mitch Skinner: AJAX GBrowse: Community Genome Annotation Made Easy
-| [OS Software] Kam Dahlquist: XMLPipeDB: A Reusable, Open Source Tool Chain for Building Relational Databases from XML Sources
+| [[BOSC_2007_Abstracts#.5BNew_Technology.5D_AJAX_GBrowse:_Community_Genome_Annotation_Made_Easy | [New Technology] Mitch Skinner: AJAX GBrowse: Community Genome Annotation Made Easy]]
+| [[BOSC_2007_Abstracts#.5BOS_Software.5D_XMLPipeDB:_A_Reusable.2C_Open_Source_Tool_Chain_for_Building_Relational_Databases_from_XML_Sources | [OS Software] Kam Dahlquist: XMLPipeDB: A Reusable, Open Source Tool Chain for Building Relational Databases from XML Sources]]
 |-
 | 10:30am
 | Coffee
 | Coffee
 |- 
 | 11:00am
-| [New Technology] Rafael C. Jimenez: Dasty2: A Web Client for Visualizing Protein Sequence Features
-| [Software Design And Engineering] Kam Dahlquist: An Open Source Framework for Teaching Bioinformatics
+| [[BOSC_2007_Abstracts#.5BNew_Technology.5D_Dasty2:_A_Web_Client_for_Visualizing_Protein_Sequence_Features | [New Technology] Rafael C. Jimenez: Dasty2: A Web Client for Visualizing Protein Sequence Features]]
+| [[BOSC_2007_Abstracts#.5BSoftware_Design_And_Engineering.5D_An_Open_Source_Framework_for_Teaching_Bioinformatics | [Software Design And Engineering] Kam Dahlquist: An Open Source Framework for Teaching Bioinformatics]]
 |- 
 | 11:20am
-| [New Technology] Taavi Hupponen: EMBRACE Web Services
-| [Software Design And Engineering] James Taylor: Tools to Facilitate Large Scale Comparative Genomic Analysis 
+| [[BOSC_2007_Abstracts#.5BNew_Technology.5D_EMBRACE_Web_Services | [New Technology] Taavi Hupponen: EMBRACE Web Services]]
+| [[BOSC_2007_Abstracts#.5BSoftware_Design_And_Engineering.5D_Tools_to_Facilitate_Large_Scale_Comparative_Genomic_Analysis | [Software Design And Engineering] James Taylor: Tools to Facilitate Large Scale Comparative Genomic Analysis]] 
 |- 
 | 11:40
-| [New Technology] Krishnakant Shanbhag: CaGrid Cancer Biomedical Informatics Grid
+| [[BOSC_2007_Abstracts#.5BNew_Technology.5D_CaGrid_Cancer_Biomedical_Informatics_Grid | [New Technology] Krishnakant Shanbhag: CaGrid Cancer Biomedical Informatics Grid]]
 | [Lightning Talk] Carol Lushbough: BioStream: An Extensible Database Tool for Biologists
 |-
 | 11:50
@@ -61,31 +61,31 @@ title: BOSC 2007 Schedule
 |-
 | 1:45pm
 | Tom Oinn: MyGrid/Taverna Project Update
-| Interactive Wifi Workshops
+| [[Wifi_Workshops | Interactive Wifi Workshops]]
 |- 
 | 2:00pm
 | Richard Holland: BioJava Project Update
-| Interactive Wifi Workshops
+| [[Wifi_Workshops | Interactive Wifi Workshops]]
 |- 
 | 2:15pm
 | Arek Kasprzyk: BioMart Project Update
-| Interactive Wifi Workshops
+| [[Wifi_Workshops | Interactive Wifi Workshops]]
 |-
 | 2:30pm
 | Peter Cock: BioPython Project Update
-| Interactive Wifi Workshops
+| [[Wifi_Workshops | Interactive Wifi Workshops]]
 |- 
 | 2:45
 | Toshiaki Katayama: BioRuby Project Update
-| Interactive Wifi Workshops
+| [[Wifi_Workshops | Interactive Wifi Workshops]]
 |-
 | 3:00pm
 | BioPerl Project Update
-| Interactive Wifi Workshops
+| [[Wifi_Workshops | Interactive Wifi Workshops]]
 |-
 | 3:15pm
 | Peter Rice: EMBOSS Project Update
-| Interactive Wifi Workshops
+| [[Wifi_Workshops | Interactive Wifi Workshops]]
 |-
 | 3:30pm
 | Coffee
@@ -93,9 +93,9 @@ title: BOSC 2007 Schedule
 |- 
 | 4:00pm
 | Discuss the Creation of an OBF Distribution CD
-| Interactive Wifi Workshops
+| [[Wifi_Workshops | Interactive Wifi Workshops]]
 |- 
 | 5:00pm
-| Interactive Wifi Workshops
-| Interactive Wifi Workshops
+| [[Wifi_Workshops | Interactive Wifi Workshops]]
+| [[Wifi_Workshops | Interactive Wifi Workshops]]
 |}
