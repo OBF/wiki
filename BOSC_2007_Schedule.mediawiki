@@ -61,31 +61,31 @@ title: BOSC 2007 Schedule
 |-
 | 1:45pm
 | Tom Oinn: MyGrid/Taverna Project Update
-| [[Wifi_Workshops | Interactive Wifi Workshops]]
+| [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
 |- 
 | 2:00pm
 | Richard Holland: BioJava Project Update
-| [[Wifi_Workshops | Interactive Wifi Workshops]]
+| [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
 |- 
 | 2:15pm
 | Arek Kasprzyk: BioMart Project Update
-| [[Wifi_Workshops | Interactive Wifi Workshops]]
+| [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
 |-
 | 2:30pm
 | Peter Cock: BioPython Project Update
-| [[Wifi_Workshops | Interactive Wifi Workshops]]
+| [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
 |- 
 | 2:45
 | Toshiaki Katayama: BioRuby Project Update
-| [[Wifi_Workshops | Interactive Wifi Workshops]]
+| [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
 |-
 | 3:00pm
 | BioPerl Project Update
-| [[Wifi_Workshops | Interactive Wifi Workshops]]
+| [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
 |-
 | 3:15pm
 | Peter Rice: EMBOSS Project Update
-| [[Wifi_Workshops | Interactive Wifi Workshops]]
+| [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
 |-
 | 3:30pm
 | Coffee
@@ -93,9 +93,9 @@ title: BOSC 2007 Schedule
 |- 
 | 4:00pm
 | Discuss the Creation of an OBF Distribution CD
-| [[Wifi_Workshops | Interactive Wifi Workshops]]
+| [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
 |- 
 | 5:00pm
-| [[Wifi_Workshops | Interactive Wifi Workshops]]
-| [[Wifi_Workshops | Interactive Wifi Workshops]]
+| [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
+| [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
 |}
