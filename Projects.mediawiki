@@ -17,7 +17,7 @@ title: Projects
 * [http://www.gmod.org/ggb Generic Genome Browser] - part of [http://www.gmod.org GMOD]
 * [http://www.gmod.org/schema/ Chado] - The GMOD DB schema
 * [http://www.pasteur.fr/recherche/unites/sis/Pise/ Pise] - a tool to generate Web interfaces software for submitting jobs to these interfaces
-* [http://industry.ebi.ac.uk/openBQS/ openBQS] - Bibliographic query system
+* openBQS - Bibliographic query system
 * [http://blipkit.org BlipKit] - Chris Mungall's Prolog toolkit for Bioinformatics and BioMedical Informatics
 * [http://skam.sourceforge.net/ BioMake &amp; Skam] - Task management tool, similar to makefiles
 
