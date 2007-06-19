@@ -61,7 +61,7 @@ title: BOSC 2007 Schedule
 |-
 | 1:45pm
 | Tom Oinn: MyGrid/Taverna Project Update
-| [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
+| [Lightning Talk] Toshiaki Katayama -- Introduction of the Japanese Open Bio* community
 |- 
 | 2:00pm
 | Richard Holland: BioJava Project Update
