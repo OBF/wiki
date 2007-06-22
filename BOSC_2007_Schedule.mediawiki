@@ -29,7 +29,7 @@ title: BOSC 2007 Schedule
 |-
 | 10:20
 | [[BOSC_2007_Abstracts#.5BNew_Technology.5D_AJAX_GBrowse:_Community_Genome_Annotation_Made_Easy | [New Technology] Mitch Skinner: AJAX GBrowse: Community Genome Annotation Made Easy]]
-| [[BOSC_2007_Abstracts#.5BOS_Software.5D_XMLPipeDB:_A_Reusable.2C_Open_Source_Tool_Chain_for_Building_Relational_Databases_from_XML_Sources | [OS Software] Kam Dahlquist: XMLPipeDB: A Reusable, Open Source Tool Chain for Building Relational Databases from XML Sources]]
+| [[BOSC_2007_Abstracts#.5BOS_Software.5D_E-Cell_3D:_3-Dimensional_Visualization_Front-End_for_E-Cell_Simulation_Environment | [OS Software] Kazuharu Arakawa: E-Cell 3D: 3-Dimensional Visualization Front-End for E-Cell Simulation Environment]]
 |-
 | 10:30am
 | Coffee
@@ -37,19 +37,19 @@ title: BOSC 2007 Schedule
 |- 
 | 11:00am
 | [[BOSC_2007_Abstracts#.5BNew_Technology.5D_Dasty2:_A_Web_Client_for_Visualizing_Protein_Sequence_Features | [New Technology] Rafael C. Jimenez: Dasty2: A Web Client for Visualizing Protein Sequence Features]]
-| [[BOSC_2007_Abstracts#.5BSoftware_Design_And_Engineering.5D_An_Open_Source_Framework_for_Teaching_Bioinformatics | [Software Design And Engineering] Kam Dahlquist: An Open Source Framework for Teaching Bioinformatics]]
+| [[BOSC_2007_Abstracts#.5BOS_Software.5D_XMLPipeDB:_A_Reusable.2C_Open_Source_Tool_Chain_for_Building_Relational_Databases_from_XML_Sources | [OS Software] Kam Dahlquist: XMLPipeDB: A Reusable, Open Source Tool Chain for Building Relational Databases from XML Sources]]
 |- 
 | 11:20am
 | [[BOSC_2007_Abstracts#.5BNew_Technology.5D_EMBRACE_Web_Services | [New Technology] Taavi Hupponen: EMBRACE Web Services]]
-| [[BOSC_2007_Abstracts#.5BSoftware_Design_And_Engineering.5D_Tools_to_Facilitate_Large_Scale_Comparative_Genomic_Analysis | [Software Design And Engineering] James Taylor: Tools to Facilitate Large Scale Comparative Genomic Analysis]] 
+| [[BOSC_2007_Abstracts#.5BSoftware_Design_And_Engineering.5D_An_Open_Source_Framework_for_Teaching_Bioinformatics | [Software Design And Engineering] Kam Dahlquist: An Open Source Framework for Teaching Bioinformatics]] 
 |- 
 | 11:40
 | [[BOSC_2007_Abstracts#.5BNew_Technology.5D_CaGrid_Cancer_Biomedical_Informatics_Grid | [New Technology] Krishnakant Shanbhag: CaGrid Cancer Biomedical Informatics Grid]]
-| [Lightning Talk] Carol Lushbough: BioStream: An Extensible Database Tool for Biologists
+| [[BOSC_2007_Abstracts#.5BSoftware_Design_And_Engineering.5D_Tools_to_Facilitate_Large_Scale_Comparative_Genomic_Analysis | [Software Design And Engineering] James Taylor: Tools to Facilitate Large Scale Comparative Genomic Analysis]]
 |-
 | 11:50
 | &nbsp;
-| [Lightning Talk] Goran Sandberg: Mitrion-C Accellerated NCBI Blast Application
+| &nbsp;
 |-
 | 12:00
 | Lunch
@@ -65,15 +65,15 @@ title: BOSC 2007 Schedule
 |- 
 | 2:00pm
 | Richard Holland: BioJava Project Update
-| [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
+| [Lightning Talk] Kazuharu Arakawa -- G-Language Project
 |- 
 | 2:15pm
 | Arek Kasprzyk: BioMart Project Update
-| [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
+| [Lightning Talk] Carol Lushbough: BioStream: An Extensible Database Tool for Biologists
 |-
 | 2:30pm
 | Peter Cock: BioPython Project Update
-| [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
+| [Lightning Talk] Goran Sandberg: Mitrion-C Accellerated NCBI Blast Application
 |- 
 | 2:45
 | Toshiaki Katayama: BioRuby Project Update
@@ -99,3 +99,5 @@ title: BOSC 2007 Schedule
 | [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
 | [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
 |}
+<br>
+[[BOSC_2007 | Back To BOSC 2007 Home]]
