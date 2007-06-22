@@ -142,6 +142,42 @@ Since the development of XRATE, a collection of phylo-grammars has begun to accu
 * Project URL: http://biowiki.org/dart
 * License: GPL
 
+==[OS Software] E-Cell 3D: 3-Dimensional Visualization Front-End for E-Cell Simulation Environment==
+
+Kazuharu Arakawa, Institute for Advanced Biosciences, Keio  University
+
+Cell simulation realizes theoretical experiments in silico to  
+enhance our understanding of dynamic cellular activities through  
+integrative systems biology approaches. E-Cell Simulation  
+Environment version 3 (E-Cell SE 3) is a potential platform for  
+this purpose, which allows object-oriented simulations with  
+multiple algorithms and timescales.
+However, simulation results that are typically shown in multiple  
+graphs representing the time-course progression of the changes in  
+the concentrations of cellular components is not scalable, and this  
+approach quickly becomes too intricate for human interpretations as  
+the number of components in the model increases.
+
+Here we present a novel interface for this system using 3D graphics  
+to aid the understanding of highly complex systems by researchers  
+in the process of modeling through intuitive visualization. New  
+interface designated E-Cell 3D is developed with Quartz graphics  
+API and OpenGL on MacOS X, and visualizes the components and the  
+reaction networks among the components in 3-dimensional space.  
+Components of the model stored in Systems Biology Markup Language  
+(SBML) XML file are automatically laid out in 3-D space, and time- 
+course progression of the components are simulated using E-Cell SE  
+3, and are visualized through the E-Cell 3D visualization engine.  
+This visualization approach allows the user to capture the entire  
+system at a glance, and aids the heuristics of system biologists in  
+the process of modeling. The software and documentations are freely  
+available at http://www.e-cell.org/.
+
+* License: GPL
+* Website: http://www.e-cell.org/
+* Contact E-mail: gaou@sfc.keio.ac.jp
+
+
 ==[OS Software] XMLPipeDB: A Reusable, Open Source Tool Chain for Building Relational Databases from XML Sources==
 
 Kam Dalquist, Department of Biology, Loyola Marymount University
