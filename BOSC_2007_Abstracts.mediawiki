@@ -210,3 +210,6 @@ The 'bx-python' packages is an open-source library and associated command line t
 * Data structures for working with intervals on sequences, including 'binned bitsets' which act just like chromosome sized bit arrays, but lazily allocate regions and allow large blocks of all set or all unset bits to be stored compactly, without the user needing to worry about sequence size. 
 
 These components and the included command line tools are also a core part of the Galaxy analysis platform (http://g2.bx.psu.edu), in particular its support for genome scale interval operations and working with alignments. Combined with Galaxy, 'bx-python' facilitates integrate analysis by making it incredibly easy to develop tools for performing large scale analysis efficiently, and making those tools available via the web to data producers such as experimental biologists.
+
+<br>
+[[BOSC_2007 | Back To BOSC 2007 Home]]
