@@ -69,11 +69,11 @@ title: BOSC 2007 Schedule
 |- 
 | 2:15pm
 | Arek Kasprzyk: BioMart Project Update
-| [Lightning Talk] Carol Lushbough: BioStream: An Extensible Database Tool for Biologists
+| [Lightning Talk] Henrik Abelsson: Mitrion-C Accellerated NCBI Blast Application
 |-
 | 2:30pm
 | Peter Cock: BioPython Project Update
-| [Lightning Talk] Goran Sandberg: Mitrion-C Accellerated NCBI Blast Application
+| [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
 |- 
 | 2:45
 | Toshiaki Katayama: BioRuby Project Update
