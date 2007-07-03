@@ -73,7 +73,7 @@ title: BOSC 2007 Schedule
 |-
 | 2:30pm
 | Peter Cock: BioPython Project Update
-| [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
+| [Lightning Talk] Shawn Houston: The Compute Portal Project
 |- 
 | 2:45
 | Toshiaki Katayama: BioRuby Project Update
