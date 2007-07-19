@@ -90,12 +90,8 @@ title: BOSC 2007 Schedule
 | 3:30pm
 | Coffee
 | Coffee
-|- 
+|-
 | 4:00pm
-| Ensembl Project Update
-| [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
-|- |- 
-| 4:30pm
 | Discuss the Creation of an OBF Distribution CD
 | [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
 |- 
