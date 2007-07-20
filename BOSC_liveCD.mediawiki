@@ -7,7 +7,7 @@ title: BOSC/liveCD
 
 This page is a summary of the discussion at the Bioinformatics Open Source Conference (BOSC) in Vienna on the 19th July 2007. The focus is the possibility of an 'enriched' software distribution, curated to add extra value and built into a Debian based LiveCD.
 
-Debian's package management and procedures guarantee primarily technical reliabiliry - they ensure that the software will install (so it has dependencies defined etc) and run successfully on a given architecture. They do not, however, guarantee that the software is
+Debian's package management and procedures guarantee primarily technical reliability - they ensure that the software will install (so it has dependencies defined etc) and run successfully on a given architecture. They do not, however, guarantee that the software is
 
 * used for the right set of problems
 * employed in concert with the best suite of complementary tools
@@ -107,4 +107,4 @@ Design of a web / wiki page
 
 == Related work ==
 
-* [[ http://www.biolinux.org/ | BioLinux ]]
+* [ http://www.biolinux.org/ BioLinux ]
