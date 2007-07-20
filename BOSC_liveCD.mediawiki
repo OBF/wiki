@@ -103,3 +103,8 @@ Design of a web / wiki page
 * to announce to the community and ask for contribution
 * assignment of packaging tasks to the community of Debian-Developers.
 * You have just finished reading it - success!
+
+
+== Related work ==
+
+* [[ http://www.biolinux.org/ | BioLinux ]]
