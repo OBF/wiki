@@ -2,4 +2,80 @@
 title: BOSC/liveCD
 ---
 
-Text to be added.
+[[Image:Pear.png|The Bosc Pair]]
+=BOSC Software Distribution=
+
+This page is a summary of the discussion at the Bioinformatics Open Source Conference (BOSC) in Vienna on the 19th July 2007. The focus is the possibility of an 'enriched' software distribution, curated to add extra value and built into a Debian based LiveCD.
+
+Debian's package management and procedures guarantee primarily technical reliabiliry - they ensure that the software will install (so it has dependencies defined etc) and run successfully on a given architecture. They do not, however, guarantee that the software is
+
+* used for the right set of problems
+* employed in concert with the best suite of complementary tools
+
+work at its full potential and be fully understood by the user.
+The 'enrichment' is therefore in terms of a set of added content and metadata for each application that is provided.
+
+Making this available as a LiveCD allows for very quick evaluation of tools. It may particularly appeal to (self-trained?) bioinformaticians working in wet-lab environments. Another major concern is its applicability for the use in training courses - today's students are tomorrow's scientists. Please send in requests for further adaptations.
+
+==What we add==
+
+* All applications must be categorized
+** Who is the software for?
+** Which domains does it address?
+** What pre-requisites are required (in terms of expertise rather than other software, for example we can assume that BioRuby is only going to be useful if you can first use the base Ruby language)
+* All applications have tutorial material, comprising
+** usage scenarios
+** example inputs, data files
+** screen capture video of the tutorial examples
+* Meta-level entry to realm of software solutions:
+** Expert endorsement, Find a 'foo-omics' expert and get her to pick the set of tools she uses most commonly
+*** Make sure we include them!
+*** Make this grouping available somehow and use it as a 'here's how you get started doing foo-omics'
+** Have an umbrella tutorial linking to each tool tutorial
+** Possibly by creating specific 'foo-omics' user with pre-set application menus configured?
+
+==Aggregate Configuration==
+
+If we bundle all the tools certain configuration issues (i.e. tool X needing to know where tool Y is installed) can be solved before the user hits them. This implies we can identify useful sets of applications but see the 'expert endorsement' bit above.
+
+==Book==
+
+Dead tree technology is still in favour.
+
+Self publishing websites such as lulu.com can turn a PDF into a book and publish on demand - no up front cost to us! We would have to do all the typesetting though.
+
+Distributing printed copy of the tutorials + the live CD or DVD would be fantastic for training, basically a bioinformatics mres module or three in a box.
+
+==Link to Debian==
+
+* The Debian community has invested considerable effort already in providing packages for Bioinformatics and Scientific Computing in general:
+** [http://www.debian.org/devel/debian-med/ Debian-Med]
+** [http://dirk.eddelbuettel.com/quantian.html Quantian]
+
+Strong communication between "upstream" BOSC developers and package maintainer expected. Packages that are provided in addition through this BOSC initiative are hoped to find their way into the Debian main distribution.  (package needs to comply with [http://www.debian.org/social_contract#guidelines Debian Free Software Guidelines] and [http://www.debian.org/doc/debian-policy/ Debian Policy] for that)
+* overcoming communication barriers with people from the other (biology/computational) sides
+
+==Who?==
+
+* Steffen Möller volunteers as a link to the debian community and  to help with expertise in packaging
+
+* Kazuharu Arakawa offers their work on a Knoppix (also Debian)-based Bioinformatics CD that is accompanied by a Japanese book (Knoppix for Bio Project: http://knob.sourceforge.jp) and http://ez-tune-livecd.sourceforge.jp/pukiwiki/ (Live CD creator)
+
+* Darin London
+
+* Tom Oinn
+ 
+==Getting it started==
+
+Seed of 10 packages
+
+To get this started we plan to pick (somewhere around) ten packages drawn from the assorted participants at BOSC this year.
+
+* Tom actively invites
+* Tom passively awaits requests for participation from Developers
+* Expecting to extend ez-tune-livecd 
+
+Design of a web / wiki page 
+* to announce to the community and ask for contribution
+* assignment of packaging tasks to the community of Debian-Developers.
+* You have just finished reading it - success!
