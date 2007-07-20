@@ -174,9 +174,8 @@ the process of modeling. The software and documentations are freely
 available at http://www.e-cell.org/.
 
 * License: GPL
-* Website: http://www.e-cell.org/
+* Website: http://ecell3d.iab.keio.ac.jp/
 * Contact E-mail: gaou@sfc.keio.ac.jp
-
 
 ==[OS Software] XMLPipeDB: A Reusable, Open Source Tool Chain for Building Relational Databases from XML Sources==
 
