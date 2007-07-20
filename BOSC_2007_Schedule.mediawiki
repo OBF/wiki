@@ -96,7 +96,7 @@ title: BOSC 2007 Schedule
 | [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
 |-
 | 4:15pm
-| Discuss the Creation of an [[liveCD | OBF Distribution CD]]
+| Discuss the Creation of an [[BOSC/liveCD | OBF Distribution CD]]
 | [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
 |- 
 | 5:00pm
