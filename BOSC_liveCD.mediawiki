@@ -34,6 +34,31 @@ Making this available as a LiveCD allows for very quick evaluation of tools. It 
 ** Have an umbrella tutorial linking to each tool tutorial
 ** Possibly by creating specific 'foo-omics' user with pre-set application menus configured?
 
+
+=== Example applications ===
+
+* Basic command line tools: emboss, fasta, blast
+
+* PDB viewer (preferably one without the MOTIF-1980 look)
+
+
+
+
+=== Example data ===
+
+* Full GenBank file for a bacteria (like E. Coli), FASTA of proteins and nuclear types of genetic elements
+
+* SwissProt (in which format?) - discussion: is quite large, in particular text and xml format (1.1GB and 2.1 GB), but FASTA is 121M
+
+* Some nice PDB files for viewing structure in flashing 3d (JMol and friends)
+
+
+Preferably we should have the same example represented in different forms and shapes.
+
+
+
+
+
 ==Aggregate Configuration==
 
 If we bundle all the tools certain configuration issues (i.e. tool X needing to know where tool Y is installed) can be solved before the user hits them. This implies we can identify useful sets of applications but see the 'expert endorsement' bit above.
