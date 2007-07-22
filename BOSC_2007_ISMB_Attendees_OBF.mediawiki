@@ -5,7 +5,7 @@ title: BOSC 2007/ISMB Attendees/OBF
 ==Main Mission of the Open Bioinformatics Foundation O|B|F==
 
 * OBF Supports Open Source
-**The [http://www.opensource.org] website is the primary repository of information for all things Open Source
+**The [http://www.opensource.org opensource.org website] is the primary repository of information for all things Open Source
 **Some of the best Bioinformatics Software in existence is Open Source:
 *** [http://emboss.sourceforge.net/ EMBOSS]
 *** [http://www.ensembl.org Ensembl]
