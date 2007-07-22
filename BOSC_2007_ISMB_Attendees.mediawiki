@@ -4,7 +4,7 @@ title: BOSC 2007/ISMB Attendees
 
 [[BOSC_2007]]
 
-[[BOSC_2007/ISMB_Attendees/BOSC_History]]
+[[Past_BOSC_conferences]]
 
 [[BOSC_2007/ISMB_Attendees/History]]
 
