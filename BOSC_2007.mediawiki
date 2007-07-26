@@ -66,7 +66,7 @@ Accepted speakers will be contacted by the BOSC organizing committee on May 28, 
 This year, the BOSC committee will enhance the infrastructure for what were currently labeled Birds of a Feather sessions with a wireless router.  This will allow groups to interact with software or websites much more while they are discussing their favorite projects. The BOSC committee will accept ideas for these up to the last day of the conference, on a first come-first-served basis until no more space is left in the conference room.
 
 ===Let's Create an OBF Software CD!===
-This year we will be devoting a small BOSC session to the task of laying the groundwork for the creation and management of a single CD of OBF applications, and libraries for easy installation.  The goal is to start the process of creating a CD to distribute for the next BOSC.
+This year we will be devoting a small BOSC session to the task of laying the groundwork for the creation and management of a single CD of OBF applications, and libraries for easy installation.  The goal is to start the process of [BOSC/liveCD creating a CD] to distribute for the next BOSC.
 
 ===Call for Volunteers===
 The BOSC Organizing Committee would like to invite attendees
