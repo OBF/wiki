@@ -34,3 +34,5 @@ title: BOSC/Organization
 * Run the conference.
 * After the conference, there will be a meeting between the ISMB and SIG coordinators, usually Sunday or Monday.  On some years, they have wanted the SIGs to present something to the ISMB attendees about the SIG.
 * Meet with OBF board to discuss future plans.
+
+[[Category:BOSC]]
