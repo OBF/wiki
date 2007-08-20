@@ -38,11 +38,8 @@ Making this available as a LiveCD allows for very quick evaluation of tools. It 
 === Example applications ===
 
 * Basic command line tools: emboss, fasta, blast
-
+* Sequence-level protein domain finders: mafft, t-coffee, hmmer
 * PDB viewer (preferably one without the MOTIF-1980 look)
-
-
-
 
 === Example data ===
 
