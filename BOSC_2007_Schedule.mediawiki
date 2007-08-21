@@ -13,7 +13,7 @@ title: BOSC 2007 Schedule
 |- 
 | 9:00am
 | Keynote Speaker: Carole Goble [http://www.slideshare.net/dullhunk/the-seven-deadly-sins-of-bioinformatics slides]
-| [[BOSC_2007_Abstracts#.5BOS_Software.5D_The_ONDEX_Data_Integration_Framework | [OS Software] Jan Taubert: The ONDEX Data Integration Framework]] [ http://www.slideshare.net/bosc/the-ondex-data-integration-framework slides]
+| [[BOSC_2007_Abstracts#.5BOS_Software.5D_The_ONDEX_Data_Integration_Framework | [OS Software] Jan Taubert: The ONDEX Data Integration Framework]] [http://www.slideshare.net/bosc/the-ondex-data-integration-framework slides]
 |- 
 | 9:20am
 | &nbsp;
