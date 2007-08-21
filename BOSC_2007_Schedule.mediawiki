@@ -12,8 +12,8 @@ title: BOSC 2007 Schedule
 | Call To Order
 |- 
 | 9:00am
-| Keynote Speaker: Carole Goble [http://www.slideshare.net/dullhunk/the-seven-deadly-sins-of-bioinformatics slides]
-| [[BOSC_2007_Abstracts#.5BOS_Software.5D_The_ONDEX_Data_Integration_Framework | [OS Software] Jan Taubert: The ONDEX Data Integration Framework]] [http://www.slideshare.net/bosc/the-ondex-data-integration-framework slides]
+| Keynote Speaker: Carole Goble [http://www.slideshare.net/dullhunk/the-seven-deadly-sins-of-bioinformatics **SLIDES**]
+| [[BOSC_2007_Abstracts#.5BOS_Software.5D_The_ONDEX_Data_Integration_Framework | [OS Software] Jan Taubert: The ONDEX Data Integration Framework]] [http://www.slideshare.net/bosc/the-ondex-data-integration-framework **SLIDES**]
 |- 
 | 9:20am
 | &nbsp;
@@ -21,14 +21,13 @@ title: BOSC 2007 Schedule
 |- 
 | 9:40am
 | &nbsp;
-| [[BOSC_2007_Abstracts#.5BOS_Software.5D_Modware:_An_Object-Oriented_Perl_Interface_to_the_Chado_Schema | [OS Software] Eric Just: Modware: An Object-Oriented Perl Interface to the Chado Schema]] [http://www.slideshare.net/bosc/modware slides]
-|-
+| [[BOSC_2007_Abstracts#.5BOS_Software.5D_Modware:_An_Object-Oriented_Perl_Interface_to_the_Chado_Schema | [OS Software] Eric Just: Modware: An Object-Oriented Perl Interface to the Chado Schema]] [http://www.slideshare.net/bosc/modware **SLIDES**]
 | 10:00
-| [[BOSC_2007_Abstracts#.5BNew_Technology.5D_The_Galaxy_Framework_for_Computational_Biology_Tool_Integration | [New Technology] James Taylor: The Galaxy Framework for Computational Biology Tool Integration]] [http://www.slideshare.net/bosc/galaxy slides]
+| [[BOSC_2007_Abstracts#.5BNew_Technology.5D_The_Galaxy_Framework_for_Computational_Biology_Tool_Integration | [New Technology] James Taylor: The Galaxy Framework for Computational Biology Tool Integration]] [http://www.slideshare.net/bosc/galaxy **SLIDES**]
 | [[BOSC_2007_Abstracts#.5BOS_Software.5D_XRATE:_Scheme-y_trees.2C_phylo-HMMs_and_phylo-grammars | [OS Software] Ian Holmes: XRATE: Scheme-y trees, phylo-HMMs and phylo-grammars]]
 |-
 | 10:20
-| [[BOSC_2007_Abstracts#.5BNew_Technology.5D_AJAX_GBrowse:_Community_Genome_Annotation_Made_Easy | [New Technology] Mitch Skinner: AJAX GBrowse: Community Genome Annotation Made Easy]] [http://genome.biowiki.org/info/BOSC_2007/slides.html slides]
+| [[BOSC_2007_Abstracts#.5BNew_Technology.5D_AJAX_GBrowse:_Community_Genome_Annotation_Made_Easy | [New Technology] Mitch Skinner: AJAX GBrowse: Community Genome Annotation Made Easy]] [http://genome.biowiki.org/info/BOSC_2007/slides.html **SLIDES**]
 | [[BOSC_2007_Abstracts#.5BOS_Software.5D_E-Cell_3D:_3-Dimensional_Visualization_Front-End_for_E-Cell_Simulation_Environment | [OS Software] Kazuharu Arakawa: E-Cell 3D: 3-Dimensional Visualization Front-End for E-Cell Simulation Environment]]
 |-
 | 10:30am
@@ -36,16 +35,16 @@ title: BOSC 2007 Schedule
 | Coffee
 |- 
 | 11:00am
-| [[BOSC_2007_Abstracts#.5BNew_Technology.5D_Dasty2:_A_Web_Client_for_Visualizing_Protein_Sequence_Features | [New Technology] Rafael C. Jimenez: Dasty2: A Web Client for Visualizing Protein Sequence Features]] [http://www.slideshare.net/bosc/dastyt2 slides]
-| [[BOSC_2007_Abstracts#.5BOS_Software.5D_XMLPipeDB:_A_Reusable.2C_Open_Source_Tool_Chain_for_Building_Relational_Databases_from_XML_Sources | [OS Software] Kam Dahlquist: XMLPipeDB: A Reusable, Open Source Tool Chain for Building Relational Databases from XML Sources]] [http://www.slideshare.net/bosc/xmlpipedb slides]
+| [[BOSC_2007_Abstracts#.5BNew_Technology.5D_Dasty2:_A_Web_Client_for_Visualizing_Protein_Sequence_Features | [New Technology] Rafael C. Jimenez: Dasty2: A Web Client for Visualizing Protein Sequence Features]] [http://www.slideshare.net/bosc/dastyt2 **SLIDES**]
+| [[BOSC_2007_Abstracts#.5BOS_Software.5D_XMLPipeDB:_A_Reusable.2C_Open_Source_Tool_Chain_for_Building_Relational_Databases_from_XML_Sources | [OS Software] Kam Dahlquist: XMLPipeDB: A Reusable, Open Source Tool Chain for Building Relational Databases from XML Sources]] [http://www.slideshare.net/bosc/xmlpipedb **SLIDES**]
 |- 
 | 11:20am
-| [[BOSC_2007_Abstracts#.5BNew_Technology.5D_EMBRACE_Web_Services | [New Technology] Taavi Hupponen: EMBRACE Web Services]] [http://www.slideshare.net/bosc/embrace-web-services slides]
-| [[BOSC_2007_Abstracts#.5BSoftware_Design_And_Engineering.5D_An_Open_Source_Framework_for_Teaching_Bioinformatics | [Software Design And Engineering] Kam Dahlquist: An Open Source Framework for Teaching Bioinformatics]] [http://www.slideshare.net/bosc/an-open-source-framework-for-teaching-bioinformatics slides]
+| [[BOSC_2007_Abstracts#.5BNew_Technology.5D_EMBRACE_Web_Services | [New Technology] Taavi Hupponen: EMBRACE Web Services]] [http://www.slideshare.net/bosc/embrace-web-services **SLIDES**]
+| [[BOSC_2007_Abstracts#.5BSoftware_Design_And_Engineering.5D_An_Open_Source_Framework_for_Teaching_Bioinformatics | [Software Design And Engineering] Kam Dahlquist: An Open Source Framework for Teaching Bioinformatics]] [http://www.slideshare.net/bosc/an-open-source-framework-for-teaching-bioinformatics **SLIDES**]
 |- 
 | 11:40
-| [[BOSC_2007_Abstracts#.5BNew_Technology.5D_CaGrid_Cancer_Biomedical_Informatics_Grid | [New Technology] Krishnakant Shanbhag: CaGrid Cancer Biomedical Informatics Grid]] [http://www.slideshare.net/bosc/cagrid-10-service-infrastructure slides]
-| [[BOSC_2007_Abstracts#.5BSoftware_Design_And_Engineering.5D_Tools_to_Facilitate_Large_Scale_Comparative_Genomic_Analysis | [Software Design And Engineering] James Taylor: Tools to Facilitate Large Scale Comparative Genomic Analysis]] [http://www.slideshare.net/bosc/software-engineering slides]
+| [[BOSC_2007_Abstracts#.5BNew_Technology.5D_CaGrid_Cancer_Biomedical_Informatics_Grid | [New Technology] Krishnakant Shanbhag: CaGrid Cancer Biomedical Informatics Grid]] [http://www.slideshare.net/bosc/cagrid-10-service-infrastructure **SLIDES**]
+| [[BOSC_2007_Abstracts#.5BSoftware_Design_And_Engineering.5D_Tools_to_Facilitate_Large_Scale_Comparative_Genomic_Analysis | [Software Design And Engineering] James Taylor: Tools to Facilitate Large Scale Comparative Genomic Analysis]] [http://www.slideshare.net/bosc/software-engineering **SLIDES**]
 |-
 | 11:50
 | &nbsp;
@@ -60,27 +59,27 @@ title: BOSC 2007 Schedule
 | [Lightning Talk] Eric Jain: beta.uniprot.org -- Another Piece of Life Sciences Infrastructure Built on Open Source Software
 |-
 | 1:45pm
-| Tom Oinn: MyGrid/Taverna Project Update [http://www.slideshare.net/bosc/taverna-2-in-pictures slides]
-| [Lightning Talk] Toshiaki Katayama -- Introduction of the Japanese Open Bio* community [http://open-bio.jp/archive/20070720_BOSC/BOSC2007-OBJ.pdf slides]
+| Tom Oinn: MyGrid/Taverna Project Update [http://www.slideshare.net/bosc/taverna-2-in-pictures **SLIDES**]
+| [Lightning Talk] Toshiaki Katayama -- Introduction of the Japanese Open Bio* community [http://open-bio.jp/archive/20070720_BOSC/BOSC2007-OBJ.pdf **SLIDES**]
 |- 
 | 2:00pm
 | Richard Holland: BioJava Project Update
 | [Lightning Talk] Kazuharu Arakawa -- G-Language Project
 |- 
 | 2:15pm
-| Arek Kasprzyk: BioMart Project Update [http://www.slideshare.net/bosc/biomart-update slides]
+| Arek Kasprzyk: BioMart Project Update [http://www.slideshare.net/bosc/biomart-update **SLIDES**]
 | [Lightning Talk] Henrik Abelsson: Mitrion-C Accellerated NCBI Blast Application
 |-
 | 2:30pm
-| Peter Cock: BioPython Project Update [http://www.slideshare.net/bosc/biopython slides]
+| Peter Cock: BioPython Project Update [http://www.slideshare.net/bosc/biopython **SLIDES**]
 | [Lightning Talk] Shawn Houston: The Compute Portal Project
 |- 
 | 2:45
-| Toshiaki Katayama: BioRuby Project Update [http://bioruby.org/archive/doc/BR070719-bosc.pdf slides]
+| Toshiaki Katayama: BioRuby Project Update [http://bioruby.org/archive/doc/BR070719-bosc.pdf **SLIDES**]
 | [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
 |-
 | 3:00pm
-| Jason Stajich: BioPerl Project Update [http://www.slideshare.net/bosc/bioperl-project-update slides]
+| Jason Stajich: BioPerl Project Update [http://www.slideshare.net/bosc/bioperl-project-update **SLIDES**]
 | [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
 |-
 | 3:15pm
