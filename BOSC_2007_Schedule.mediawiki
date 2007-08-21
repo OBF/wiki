@@ -60,7 +60,7 @@ title: BOSC 2007 Schedule
 | [Lightning Talk] Eric Jain: beta.uniprot.org -- Another Piece of Life Sciences Infrastructure Built on Open Source Software
 |-
 | 1:45pm
-| Tom Oinn: MyGrid/Taverna Project Update
+| Tom Oinn: MyGrid/Taverna Project Update [http://www.slideshare.net/bosc/taverna-2-in-pictures slides]
 | [Lightning Talk] Toshiaki Katayama -- Introduction of the Japanese Open Bio* community [http://open-bio.jp/archive/20070720_BOSC/BOSC2007-OBJ.pdf slides]
 |- 
 | 2:00pm
