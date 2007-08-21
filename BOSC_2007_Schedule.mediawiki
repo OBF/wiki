@@ -45,7 +45,7 @@ title: BOSC 2007 Schedule
 |- 
 | 11:40
 | [[BOSC_2007_Abstracts#.5BNew_Technology.5D_CaGrid_Cancer_Biomedical_Informatics_Grid | [New Technology] Krishnakant Shanbhag: CaGrid Cancer Biomedical Informatics Grid]] [http://www.slideshare.net/bosc/cagrid-10-service-infrastructure slides]
-| [[BOSC_2007_Abstracts#.5BSoftware_Design_And_Engineering.5D_Tools_to_Facilitate_Large_Scale_Comparative_Genomic_Analysis | [Software Design And Engineering] James Taylor: Tools to Facilitate Large Scale Comparative Genomic Analysis]] http://www.slideshare.net/bosc/software-engineering slides]
+| [[BOSC_2007_Abstracts#.5BSoftware_Design_And_Engineering.5D_Tools_to_Facilitate_Large_Scale_Comparative_Genomic_Analysis | [Software Design And Engineering] James Taylor: Tools to Facilitate Large Scale Comparative Genomic Analysis]] [http://www.slideshare.net/bosc/software-engineering slides]
 |-
 | 11:50
 | &nbsp;
