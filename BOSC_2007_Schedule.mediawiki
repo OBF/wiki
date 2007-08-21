@@ -22,6 +22,7 @@ title: BOSC 2007 Schedule
 | 9:40am
 | &nbsp;
 | [[BOSC_2007_Abstracts#.5BOS_Software.5D_Modware:_An_Object-Oriented_Perl_Interface_to_the_Chado_Schema | [OS Software] Eric Just: Modware: An Object-Oriented Perl Interface to the Chado Schema]] [http://www.slideshare.net/bosc/modware **SLIDES**]
+|-
 | 10:00
 | [[BOSC_2007_Abstracts#.5BNew_Technology.5D_The_Galaxy_Framework_for_Computational_Biology_Tool_Integration | [New Technology] James Taylor: The Galaxy Framework for Computational Biology Tool Integration]] [http://www.slideshare.net/bosc/galaxy **SLIDES**]
 | [[BOSC_2007_Abstracts#.5BOS_Software.5D_XRATE:_Scheme-y_trees.2C_phylo-HMMs_and_phylo-grammars | [OS Software] Ian Holmes: XRATE: Scheme-y trees, phylo-HMMs and phylo-grammars]]
