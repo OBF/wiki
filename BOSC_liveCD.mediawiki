@@ -104,3 +104,4 @@ Design of a web / wiki page
 == Related work ==
 
 * [http://www.biolinux.org/ BioLinux]
+* [http://www.debian.org/devel/debian-med/ Debian-Med]
