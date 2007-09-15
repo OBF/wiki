@@ -93,13 +93,7 @@ To get this started we plan to pick (somewhere around) ten packages drawn from t
 
 * Tom actively invites
 * Tom passively awaits requests for participation from Developers
-* Expecting to extend ez-tune-livecd 
-
-Design of a web / wiki page 
-* to announce to the community and ask for contribution
-* assignment of packaging tasks to the community of Debian-Developers.
-* You have just finished reading it - success!
-
+* Expecting to extend ez-tune-livecd
 
 == Related work ==
 
