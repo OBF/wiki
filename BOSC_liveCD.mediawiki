@@ -87,7 +87,20 @@ Strong communication between "upstream" BOSC developers and package maintainer e
 
 ==Getting it started==
 
-Seed of 10 packages
+Seed of 10 packages.
+
+Available:
+
+* BioPerl
+* EMBOSS
+* Alignment tools (ClustalW, T-Coffee, Muscle, MAFFT, et al.)
+
+Aiming at:
+
+* [http://tarverna.sf.net Taverna]
+* [http://www.biomart.org BioMart]
+
+which are all a bit more difficult because of Java library versioning which is not yet established.
 
 To get this started we plan to pick (somewhere around) ten packages drawn from the assorted participants at BOSC this year.
 
