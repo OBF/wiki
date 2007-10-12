@@ -127,5 +127,6 @@ To get this started we plan to pick (somewhere around) ten packages drawn from t
 
 == Related work ==
 
+* [http://nebc.nox.ac.uk/biolinux.html Bio-Linux] - by the [http://www.nerc.ac.uk NERC] Environmental Bioinformatics Centre ([http://nebc.nox.ac.uk/ NEBC])
 * [http://www.biolinux.org/ BioLinux]
 * [http://www.debian.org/devel/debian-med/ Debian-Med]
