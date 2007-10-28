@@ -36,6 +36,8 @@ There are quite a few orphan wiki sites right now - [http://obda.open-bio.org ob
 
 A potential crazy idea is to consolidate the content into a single wiki and just have project namespaces i.e. BioJava:Main_Page instead of the domain names (domain names would preferentially redirect to main page of a project i.e. biojava.org would link to wiki.open-bio.org/BioJava:Main_Page for example.  Is this a good idea? Bad Idea?  Harder to identify project branding with this I know, but some of the definition pages like [[bp:MSA |multiple sequence alignment tools]] is harder.
 
+* I think keeping the wikis separate is better, though I can also see the benefit of consolidating some of the definition pages into one space, as well as moving anything which relates to more than one project (BioSQL, OBDA, etc).  Maybe use the OBF wiki for that and link to those pages where needed? --[[User:Cjfields|Cjfields]] 17:51, 28 October 2007 (EDT)
+
 ===Ideas===
 
 If you have any feedback about how we move forward with web and web2.0 content for OBF let me know.  We don't currently do much for networking developers and users, but we could try and emphasize things like facebook, linked in, scilink.com, or nature network as possible ways to try and connect everyone up a little more effectively beyond the mailing lists.  
