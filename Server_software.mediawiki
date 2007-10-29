@@ -42,7 +42,6 @@ A potential crazy idea is to consolidate the content into a single wiki and just
 
 If you have any feedback about how we move forward with web and web2.0 content for OBF let me know.  We don't currently do much for networking developers and users, but we could try and emphasize things like facebook, linked in, scilink.com, or nature network as possible ways to try and connect everyone up a little more effectively beyond the mailing lists.
 
-
 * There is also the open source social networking site [http://www.ohloh.net/ Ohloh]. See the [http://www.ohloh.net/projects/6798?p=BioJava Biojava] and [http://www.ohloh.net/projects/6685?p=BioPerl BioPerl] projects there. --[[User:Andreas|Andreas]] 06:40, 29 October 2007 (EDT)
 
 ==Mailing lists==
