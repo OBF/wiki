@@ -13,6 +13,8 @@ What would need from the project leaders is some sort of schedule.  So you'd nee
 
 I don't think you HAVE to make a release before the changeover, but you just need to get your project coordinated so everyone knows about the ways to get code out.  
 
+* BioPerl has a preliminary CVS to SVN [http://www.bioperl.org/wiki/CVS_to_SVN_Migration migration page] on the wiki to track progress; it just needs to be updated and eventually moved into the full SVN docs once they are up. --[[User:Cjfields|Cjfields]] 11:59, 29 October 2007 (EDT)
+
 ===How will people access the machines?===
 * We will still have people use SSH to get onto the dev.open-bio.org machine to make commits so we will still have to give shell accounts on the dev machine.
 ** for security reasons we have chosen not run any apache or webdav on dev so we can't do SVN over https.  I would be willing to consider it, but I don't know what the potential security flaws are here and our code repositories are an important asset so we have tried to keep the machine as locked down as possible.
@@ -22,7 +24,6 @@ I don't think you HAVE to make a release before the changeover, but you just nee
 
 
 ChrisD - what do you think?  Can we go ahead and get and start the wheels turning on testing all of these things so that once a project is ready to transition we can just implement the changeover in a few hours?  I know you have svnweb installed - is there any more testing that needs to be done?  Can you look either rsync or svnsyncing the test bioperl repository in /home/svn-repositories?
-
 
 ==Web 2.0 @ OBF==
 
