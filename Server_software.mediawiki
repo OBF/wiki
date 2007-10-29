@@ -40,7 +40,10 @@ A potential crazy idea is to consolidate the content into a single wiki and just
 
 ===Ideas===
 
-If you have any feedback about how we move forward with web and web2.0 content for OBF let me know.  We don't currently do much for networking developers and users, but we could try and emphasize things like facebook, linked in, scilink.com, or nature network as possible ways to try and connect everyone up a little more effectively beyond the mailing lists.  
+If you have any feedback about how we move forward with web and web2.0 content for OBF let me know.  We don't currently do much for networking developers and users, but we could try and emphasize things like facebook, linked in, scilink.com, or nature network as possible ways to try and connect everyone up a little more effectively beyond the mailing lists.
+
+
+* There is also the open source social networking site [http://www.ohloh.net/ Ohloh]. See the [http://www.ohloh.net/projects/6798?p=BioJava Biojava] and [http://www.ohloh.net/projects/6685?p=BioPerl BioPerl] projects there. --[[User:Andreas|Andreas]] 06:40, 29 October 2007 (EDT)
 
 ==Mailing lists==
 We have had a steady set of volunteers dealing with mailing lists to moderate spam and other things.  The [[Volunteers]] list had coordinated some of this. I'd like to check and see if this is still working well.  Can we improve how moderation is done in any way - are there new software tools out there to make it easier to go to one place and see all the mail that needs to be moderated?
