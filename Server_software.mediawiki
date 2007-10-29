@@ -38,6 +38,8 @@ A potential crazy idea is to consolidate the content into a single wiki and just
 
 * I think keeping the wikis separate is better, though I can also see the benefit of consolidating some of the definition pages into one space, as well as moving anything which relates to more than one project (BioSQL, OBDA, etc).  Maybe use the OBF wiki for that and link to those pages where needed? --[[User:Cjfields|Cjfields]] 17:51, 28 October 2007 (EDT)
 
+* I quite like [http://openid.net OpenID] as a single sign on system between multiple web sites. Would be nice to install the [http://www.mediawiki.org/wiki/Extension:OpenID OpenID plugin]. This could be used to identify the same user between our different wikis --[[User:Andreas|Andreas]] 07:07, 29 October 2007 (EDT)
+
 ===Ideas===
 
 If you have any feedback about how we move forward with web and web2.0 content for OBF let me know.  We don't currently do much for networking developers and users, but we could try and emphasize things like facebook, linked in, scilink.com, or nature network as possible ways to try and connect everyone up a little more effectively beyond the mailing lists.
