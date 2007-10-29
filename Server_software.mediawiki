@@ -54,6 +54,8 @@ Part of some future stuff we'd like to do in OBF is recruit some more people to 
 
 I would also like to see us keep more of the history pages describing who and what have worked on the projects on  the wikis.  This is important to both give people credit for the work they did and for us to keep track of our history on the different projects.
 
+* you could consider installing automated tools to visualize the historic growth of CVS and SVN projects like [http://statcvs.sourceforge.net/ StatCVS] and [http://statsvn.org/ StatSVN] --[[User:Andreas|Andreas]] 06:44, 29 October 2007 (EDT)
+
 We are making strides to get the OBF as a 503(c) organization and so it will be important to show the progress we make if we solicit donations from corporations.
 
 ==History==
