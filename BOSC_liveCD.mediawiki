@@ -70,7 +70,7 @@ Distributing printed copy of the tutorials + the live CD or DVD would be fantast
 ==Link to Debian==
 
 * The Debian community has invested considerable effort already in providing packages for Bioinformatics and Scientific Computing in general:
-** [http://www.debian.org/devel/debian-med/ Debian-Med]
+** [http://www.debian.org/devel/debian-med/ Debian-Med] ([http://wiki.debian.org/DebianMed wiki], [http://debian-med.alioth.debian.org portal])
 ** [http://dirk.eddelbuettel.com/quantian.html Quantian]
 
 Strong communication between "upstream" BOSC developers and package maintainer expected. Packages that are provided in addition through this BOSC initiative are hoped to find their way into the Debian main distribution.  (package needs to comply with [http://www.debian.org/social_contract#guidelines Debian Free Software Guidelines] and [http://www.debian.org/doc/debian-policy/ Debian Policy] for that)
