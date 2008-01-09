@@ -4,7 +4,7 @@ title: SourceCode
 
 =Anonymous access to the latest hosted source code repositories=
 
-This page documents the process of obtaining anonymous [[wp:Concurrent_Versions_System | CVS]] or [[wp:Rsync | RSYNC]] based access to the source code repositories hosted by the Open Bioinformatics Foundation. These methods are useful for obtaining cutting edge sourcecode and developer snapshots. 
+This page documents the process of obtaining anonymous [[wp:Concurrent_Versions_System | CVS]], [[wp:SVN | SVN]] or [[wp:Rsync | RSYNC]] based access to the source code repositories hosted by the Open Bioinformatics Foundation. These methods are useful for obtaining cutting edge sourcecode and developer snapshots. 
 
 == Note to casual users ==
 
