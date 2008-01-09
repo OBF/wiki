@@ -26,6 +26,9 @@ Projects using Subversion repositories:  http://code.open-bio.org/svnweb/
 
 * Make sure that [[wp:Concurrent_Versions_System | CVS]] is installed on your system.
 * Pick the repository that you wish to use
+
+     IMPORTANT NOTE (Starting in 2008): BioPerl and BioJava are switching from CVS to Subversion for source code version control management. At some point the CVS links below for BioPerl and BioJava will be removed. 
+
     * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biopython /home/repository/biopython]
     * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biojava /home/repository/biojava]
     * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioperl /home/repository/bioperl]
