@@ -81,7 +81,7 @@ The following example shows how to obtain the latest Bioperl codebase snapshot u
 
 If you encounter an error while using the SVN client or SVN Web interface, the likely cause is that our server is in the middle of replicating the repository from the primary source. While the mirror and replication process occurs, it is not unusual for SVN client functionality to break temporarily. The final step of our codebase replication process is to explicitly re-verify the health and status of each repository. 
 
-* SVN repositories are mirrored hourly
-* SVN repositories are verified and repaired (if necessary) every 15 minutes
+* Anonymous SVN repositories are mirrored hourly
+* Anonymous SVN repositories are verified and repaired (if necessary) every 15 minutes
 
 If a SVN client error occurs for longer than 15 minutes, please report this to: support@helpdesk.open-bio.org
