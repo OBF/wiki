@@ -76,3 +76,12 @@ To see what SVN modules the BioJava project is making available, try this comman
 The following example shows how to obtain the latest Bioperl codebase snapshot using anonymous SVN, it will check out the latest copy of bioperl-live/ from the "SVN trunk" and will locally store it in a directory named "bioperl-live" on your system:
 
   svn co svn://code.open-bio.org/bioperl/bioperl-live/trunk bioperl-live
+
+==Troubleshoowting Anonymous SVN==
+
+If you encounter an error while using the SVN client or SVN Web interface, the likely cause is that our server is in the middle of replicating the repository from the primary source. While the mirror and replication process occurs, it is not unusual for SVN client functionality to break temporarily. The final step of our codebase replication process is to explicitly re-verify the health and status of each repository. 
+
+* SVN repositories are mirrored hourly
+* SVN repositories are verified and repaired (if necessary) every 15 minutes
+
+If a SVN client error occurs for longer than 15 minutes, please report this to: support@helpdesk.open-bio.org
