@@ -77,7 +77,7 @@ The following example shows how to obtain the latest Bioperl codebase snapshot u
 
   svn co svn://code.open-bio.org/bioperl/bioperl-live/trunk bioperl-live
 
-==Troubleshoowting Anonymous SVN==
+==Troubleshooting Anonymous SVN==
 
 If you encounter an error while using the SVN client or SVN Web interface, the likely cause is that our server is in the middle of replicating the repository from the primary source. While the mirror and replication process occurs, it is not unusual for SVN client functionality to break temporarily. The final step of our codebase replication process is to explicitly re-verify the health and status of each repository. 
 
