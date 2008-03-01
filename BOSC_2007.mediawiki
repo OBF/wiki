@@ -28,7 +28,7 @@ July 19,20 '''BOSC 2007'''
 [[BOSC_2007_Wifi_Workshops]]
 
 ==Keynote Speaker==
-[http://www.cs.man.ac.uk/~carole/ Carole Goble]  Will be speaking about the "Seven Deadly Bio-Sins".
+[http://www.cs.man.ac.uk/~carole/ Carole Goble]  will be speaking about the "Seven Deadly Bio-Sins".
 
 ==Fees==
 
