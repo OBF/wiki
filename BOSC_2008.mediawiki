@@ -15,5 +15,6 @@ One of the hallmarks of BOSC is the coming together of the open source developer
 The call for speakers and abstracts will open on Monday, March 11.
 
 ==Notes on Submissions==
+To be considered for acceptance, software systems representing the central topic in a presentation submitted to BOSC must be licensed with a recognized Open Source License, and be freely available for download in source code form.
 
 [[Category:BOSC Conferences]]
