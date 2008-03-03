@@ -6,7 +6,10 @@ title: BOSC 2008
 
 BOSC 2008
 
-=Agenda=
+=Overview=
+The Bioinformatics Open Source Conference (BOSC) is sponsored by the Open Bioinformatics Foundation (O|B|F), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development within the biological research community. To be considered for acceptance, software systems representing the central topic in a presentation submitted to BOSC must be licensed with a recognized Open Source License, and be freely available for download in source code form.
+Many Open Source bioinformatics packages are widely used by the research community across many application areas and form a cornerstone in enabling research in the genomic and post-genomic era. Open source bioinformatics software has facilitated rapid innovation and dissemination of new computational methods as well as informatics infrastructure. Since the work of the Open Source Bioinformatics Community represents some of the most cutting edge of Bioinformatics in general, the overall themes for the conference this year are emerging technologies and hard problems in bioinformatics.  Topics under this umbrella include infrastructure and data modeling, web 2.0 technologies, workflows, visualization, and best practices of software design and engineering.  We will also have a series of update talks about the main Open Source Bioinformatics Software suites. 
+One of the hallmarks of BOSC is the coming together of the open source developer community in one location.  A face-to-face meeting of this community creates synergy where participants can work together to create use cases, prototype working code, or run bootcamps for developers from other projects as short, informal, and hands-on tutorials in new software packages and emerging technologies.  In short, BOSC is not just a conference for presentations of completed work, but is a dynamic meeting where collaborative work gets done.
 
 =Call for Speakers and Abstracts=
 
