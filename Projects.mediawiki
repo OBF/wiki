@@ -8,6 +8,7 @@ title: Projects
 * [http://biopipe.org BioPipe]
 * [http://www.biopython.org BioPython]
 * [http://www.bioruby.org BioRuby]
+* [http://biosql.org BioSQL]
 * [http://www.biodas.org DAS] and their list of [http://biodas.org/wiki/GlobalSeqIDs Global Sequence Identifiers]
 * [http://www.biomoby.org MOBY]
 * [http://www.emboss.org EMBOSS]
