@@ -15,6 +15,10 @@ One of the hallmarks of BOSC is the coming together of the open source developer
 The call for speakers and abstracts will open on Monday, March 11.
 
 ==Notes on Submissions==
-To be considered for acceptance, software systems representing the central topic in a presentation submitted to BOSC must be licensed with a recognized Open Source License, and be freely available for download in source code form.
+The [[OBF|Open Bioinformatics Foundation]], which is the sole sponsor of BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the Biological Research Community. For this reason, in order to be considered for acceptance, any talk submitted to be presented at BOSC which concerns a specific software system to be used by the research community must be licensed with a recognized Open Source License, and be available for download by anyone using ftp, cvs/subversion, or as a tar/zip file from the Project Website.
+
+See the following websites for further details:
+* [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
+* [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
 
 [[Category:BOSC Conferences]]
