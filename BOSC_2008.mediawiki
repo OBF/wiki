@@ -13,9 +13,13 @@ One of the hallmarks of BOSC is the coming together of the open source developer
 
 =Important Dates=
 March 10:  Call for speakers and abstracts opens.
+
 May 11:  Abstract submission deadline.
+
 June 2:  Notification of accepted talks.
+
 June 4:  Early registration discount cut-off.
+
 July 18-19:  BOSC 2008!
 
 =Call for Speakers and Abstracts=
