@@ -4,7 +4,8 @@ title: BOSC 2008
 
 [[Image:Pear.png|The Bosc Pair]]
 
-BOSC 2008
+The 9th annual Bioinformatics Open Source Conference (BOSC 2008) will take place in [[wp:Toronto|Toronto, Ontario, Canada]], as one of several Special Interest Group (SIG) meetings occurring in conjunction with the 16th Intelligent Systems for Molecular Biology Conference ([http://www.iscb.org/ismb2008/ ISMB 2008]). 
+
 
 =Overview=
 The Bioinformatics Open Source Conference (BOSC) is sponsored by the Open Bioinformatics Foundation (O|B|F), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development within the biological research community. Many Open Source bioinformatics packages are widely used by the research community across many application areas and form a cornerstone in enabling research in the genomic and post-genomic era. Open source bioinformatics software has facilitated rapid innovation and dissemination of new computational methods as well as informatics infrastructure. Since the work of the Open Source Bioinformatics Community represents some of the most cutting edge of Bioinformatics in general, the overall themes for the conference this year are emerging technologies and hard problems in bioinformatics.  Topics under this umbrella include infrastructure and data modeling, web 2.0 technologies, workflows, visualization, and best practices of software design and engineering.  We will also have a series of update talks about the main Open Source Bioinformatics Software suites. 
