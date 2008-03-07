@@ -44,6 +44,6 @@ Please see the [http://www.iscb.org/ismb2008/registration.php ISMB registration 
 
 For more information, contact the organizers, Kam Dahlquist and Darin London, at bosc@open-bio.org.
 
-NOTE:  Abstracts submissions will not be accepted via e-mail this year.  All abstracts must be submitted through the Open Conference Systems interface which will open Monday, March 10, 2008.  
+NOTE:  Abstract submissions will not be accepted via e-mail this year.  All abstracts must be submitted through the Open Conference Systems interface which will open Monday, March 10, 2008.  
 
 [[Category:BOSC Conferences]]
