@@ -34,6 +34,8 @@ See the following websites for further details:
 * [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
 * [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
 
+NOTE:  Abstracts submissions will not be accepted via e-mail this year.  All abstracts must be submitted through the Open Conference Systems interface which will open Monday, March 10, 2008.
+
 =Registration=
 
 Please see the [http://www.iscb.org/ismb2008/registration.php ISMB registration site] for details.  Online registration opened March 6, 2008.
