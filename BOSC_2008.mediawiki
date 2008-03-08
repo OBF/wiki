@@ -27,6 +27,8 @@ July 18-19:  BOSC 2008!
 
 Abstract submissions will open on Monday, March 10.
 
+All abstracts must be submitted through our [Open Conference Systems http://events.open-bio.org/BOSC2008/openconf.php] site.
+
 This year, BOSC is accepting abstract submissions on the conference theme "Tackling Hard Problems with Emerging Technologies".  The conference theme reflects that there are new technologies emerging on both the scientific front (new sequencing technologies, etc.) and the IT front (workflows, mashup/web 2.0, improvements in all of the major programming languages, etc.), which may allow the open source community to solve problems that were previously intractable.  Abstracts may be submitted for the following topics.
 
 '''1.  Cyberinfrastructure''' -   This includes topics such as, infrastructure and data modeling, and Web 2.0 technologies such as Peer-to-Peer computing, zeroconf, and web-services, folksonomies/tagging, RSS, and Social Networking.
