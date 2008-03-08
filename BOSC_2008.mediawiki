@@ -25,7 +25,20 @@ July 18-19:  BOSC 2008!
 
 =Call for Speakers and Abstracts=
 
-The call for speakers and abstracts will open on Monday, March 10.
+Abstract submissions will open on Monday, March 10.
+
+This year, BOSC is accepting abstract submissions on the conference theme "Tackling Hard Problems with Emerging Technologies".  The conference theme reflects that there are new technologies emerging on both the scientific front (new sequencing technologies, etc.) and the IT front (workflows, mashup/web 2.0, improvements in all of the major programming languages, etc.), which may allow the open source community to solve problems that were previously intractable.  Abstracts may be submitted for the following topics.
+
+1.  '''Cyberinfrastructure''' -   This includes topics such as, infrastructure and data modeling, and Web 2.0 technologies such as Peer-to-Peer computing, zeroconf, and web-services, folksonomies/tagging, RSS, and Social Networking.
+
+2.  '''Grid Computing and Workflow Management and Discovery''' - We particularly invite talks that report progress in making workflow systems easier to use and on how to do distributed-collaborative research , e.g. workflows that encompass the coordination of systems running in different parts of the world.
+
+3.  '''Visualization''' - Visualization is a maturing area of open source software development.  We particularly invite talks that demonstrate innovative visualization systems in the context of workflows.
+
+4.  '''Open Source Software''' - Speakers will present talks on the use, development, or philosophy of open source software in bioinformatics. 
+
+5.  Bio* Open Source Project Updates - 
+
 
 ==Notes on Submissions==
 The [[OBF|Open Bioinformatics Foundation]], which is the sole sponsor of BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the Biological Research Community. For this reason, in order to be considered for acceptance, any talk submitted to be presented at BOSC which concerns a specific software system to be used by the research community must be licensed with a recognized Open Source License, and be available for download by anyone using ftp, cvs/subversion, or as a tar/zip file from the Project Website.
