@@ -37,7 +37,7 @@ This year, BOSC is accepting abstract submissions on the conference theme "Tackl
 
 4.  '''Open Source Software''' - Speakers will present talks on the use, development, or philosophy of open source software in bioinformatics. 
 
-5.  Bio* Open Source Project Updates - We invite abstracts from the representatives of the open source projects sponsored by or affiliated to the O|B|F (see [Projects]). 
+5.  Bio* Open Source Project Updates - We invite abstracts from the representatives of the open source projects sponsored by or affiliated to the O|B|F (see [[Projects|Projects]]). 
 
 
 ==Notes on Submissions==
