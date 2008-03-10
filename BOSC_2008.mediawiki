@@ -52,7 +52,7 @@ See the following websites for further details:
 * [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
 
 ===How Do I Submit?===
-Abstract submissions will not be accepted via e-mail this year.  All abstracts must be submitted through our [http://events.open-bio.org/BOSC2008/openconf.php Open Conference Systems] site which will open Monday, March 10, 2008.
+Abstract submissions will not be accepted via e-mail this year.  All abstracts must be submitted through our [http://events.open-bio.org/BOSC2008/openconf.php Open Conference Systems] site.
 
 You will need to prepare a short, 50-word abstract, and a full abstract to upload as a PDF file or plain text file.
 
