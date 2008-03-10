@@ -24,10 +24,11 @@ June 4:  Early registration discount cut-off.
 July 18-19:  BOSC 2008!
 
 =Call for Speakers and Abstracts=
-
 Abstract submissions will open on Monday, March 10.
 
 All abstracts must be submitted through our [http://events.open-bio.org/BOSC2008/openconf.php Open Conference Systems] site. Unlike previous years, submissions by e-mail will not be accepted.
+
+==Session Topics==
 
 This year, BOSC is accepting abstract submissions on the conference theme "Tackling Hard Problems with Emerging Technologies".  The conference theme reflects that there are new technologies emerging on both the scientific front (new sequencing technologies, etc.) and the IT front (workflows, mash-up, web 2.0, improvements in all of the major programming languages, etc.), which may allow the open source community to solve problems that were previously intractable.  Abstracts may be submitted for the following topics.
 
@@ -42,13 +43,18 @@ This year, BOSC is accepting abstract submissions on the conference theme "Tackl
 '''5.  Bio* Open Source Project Updates''' - We invite abstracts from the representatives of the open source projects sponsored by or affiliated to the O|B|F (see [[Projects|Projects]]). 
 
 ==Notes on Submissions==
+===Open Source License Requirement===
+
 The [[OBF|Open Bioinformatics Foundation]], which is the sole sponsor of BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the Biological Research Community. For this reason, in order to be considered for acceptance, any talk submitted to be presented at BOSC which concerns a specific software system to be used by the research community must be licensed with a recognized Open Source License, and be available for download by anyone using ftp, cvs/subversion, or as a tar/zip file from the Project Website.
 
 See the following websites for further details:
 * [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
 * [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
 
-NOTE:  Abstract submissions will not be accepted via e-mail this year.  All abstracts must be submitted through our [http://events.open-bio.org/BOSC2008/openconf.php Open Conference Systems] site which will open Monday, March 10, 2008.
+===How Do I Submit?===
+Abstract submissions will not be accepted via e-mail this year.  All abstracts must be submitted through our [http://events.open-bio.org/BOSC2008/openconf.php Open Conference Systems] site which will open Monday, March 10, 2008.
+
+You will need to prepare a short, 50-word abstract, and a full abstract to upload as a PDF file or plain text file.
 
 =Registration=
 
