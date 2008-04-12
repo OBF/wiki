@@ -68,4 +68,4 @@ Chair of the conference and of the organizing committee is [http://myweb.lmu.edu
 
 NOTE:  Abstract submissions will not be accepted via e-mail this year.  All abstracts must be submitted through our [http://events.open-bio.org/BOSC2008/openconf.php Open Conference Systems] site which will open Monday, March 10, 2008.  
 
-[[Category:BOSC Conferences]]
+[[Category:BOSC]] [[Category:Conferences]]
