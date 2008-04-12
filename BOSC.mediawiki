@@ -7,6 +7,6 @@ title: BOSC
 # provide a focused environment for developers and users to interact and share ideas about software development, and practical techniques in bioinformatics; 
 # Inform the Research Community of important developments occuring within the Open Source Bioinformatics Developer community.
 
-Find out about the [[Upcoming BOSC conference]]
+Find out about the [[Upcoming BOSC conference]], or research [[Past BOSC conferences]].
 
-Research [[Past BOSC conferences]].
+[[Category:BOSC Conferences]]
