@@ -14,3 +14,5 @@ Previous BOSC conferences:
 
 Other conferences
 * A [[bp:BioPerl|BioPerl]] [[BioPerl Heidelberg 1999|workshop]] was held in conjunction with ISMB'99 in Heidelberg, Germany.
+
+[[Category:BOSC Conferences]]
