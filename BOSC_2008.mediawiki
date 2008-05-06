@@ -58,6 +58,10 @@ You will need to prepare a short, 50-word abstract, and a full abstract to uploa
 
 The deadline for submissions is May 11, 2008.
 
+NOTE: The Open Conference Systems abstract submission system will tell you to upload a "paper". This refers to your one-page full abstract. The one-page abstract will appear in the SIG booklet distributed by ISMB and no other papers will be published from this conference. There will not be a poster session at BOSC, only presentations.
+
+Accepted talks will be 10-20 minutes, depending on the session. You will be notified of the length of your talk upon abstract acceptance.
+
 =Registration=
 
 Please see the [http://www.iscb.org/ismb2008/registration.php ISMB registration site] for details.  Online registration opened March 6, 2008.
