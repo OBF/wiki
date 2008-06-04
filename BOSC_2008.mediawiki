@@ -23,7 +23,7 @@ June 2:  Notification of accepted talks.
 
 '''June 4:  Early registration discount cut-off.  TODAY!'''
 
-June 6:  Authors of accepted talks must notify the Program Committee of their acceptance by e-mailing bosc@open-bio.org (revised abstracts must be posted to [http://events.open-bio.org/BOSC2008/openconf.php Open Conference Systems] site.
+June 6:  Authors of accepted talks must notify the Program Committee of their acceptance by e-mailing [mailto:bosc%40open-bio%2eorg bosc&#64;open-bio&#46;org] (revised abstracts must be posted to the [http://events.open-bio.org/BOSC2008/openconf.php Open Conference Systems]site.
 
 June 9-13:  Schedule posted on this web site.  Call for lightning talks and "Birds of a Feather" Sessions opens.
 
