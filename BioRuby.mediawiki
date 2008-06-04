@@ -10,9 +10,6 @@ title: BioRuby
 * [http://bioruby-doc.org BioRubyDoc Community Wiki]
 
 
-{{bioinformatics-stub}}
-{{Compu-library-stub}}
-
 [[Category:Bioinformatics software]]
 
 [[vi:BioRuby]]
