@@ -190,7 +190,7 @@ Last year at BOSC, we reported that we used the XMLPipeDB software tool chain to
 
 ==[Software Design And Engineering] An Open Source Framework for Teaching Bioinformatics==
 
-Kam Dalquist, Department of Biology, Loyola Marymount University
+Kam Dahlquist, Department of Biology, Loyola Marymount University
 
 Bioinformatics training can be categorized into three areas: tool use, algorithm design/theoretical foundations, and program development. Courses emphasizing tool use are usually targeted at biologists, while courses emphasizing algorithm design and theoretical foundations are usually targeted at computer scientists. However, there are few (if any) reports of courses that explicitly address how to teach the best practices of software development for scientific computing. Pedagogical practices in computer science itself are frequently disconnected from the expectations and skill sets required of computer scientists in industry or interdisciplinary research groups. Computer science undergraduates typically work alone instead of in a team, produce isolated programs from scratch instead of large modular projects, and throw away their code after the assignment has been graded instead of maintaining it over an extended period of time. Open source principles, culture, and tools can be leveraged to teach best practices of software development, including up-front project design, program and process documentation, quality control, data standards, and project management. Here we describe the implementation of an open source teaching framework for bioinformatics that grew out of the Recourse computer science curriculum development project at LMU (http://recourse.cs.lmu.edu/).
 
