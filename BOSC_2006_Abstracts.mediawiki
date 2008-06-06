@@ -145,7 +145,7 @@ References F. R. Bach, G. R. G. Lanckriet, and M. I. Jordan. Multiple kernel lea
 
 ==XMLPipeDB==
 
-Kam Dalquist, Department of Biology, Loyola Marymount University
+Kam Dahlquist, Department of Biology, Loyola Marymount University
 
 Saturday August 5th, 11:30am
 
