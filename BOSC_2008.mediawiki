@@ -21,7 +21,7 @@ May 11:  Abstract submission deadline.  All abstracts must be submitted through 
 
 June 2:  Notification of accepted talks.
 
-'''June 4:  Early registration discount cut-off.  TODAY!'''
+June 4:  Early registration discount cut-off.
 
 June 6:  Authors of accepted talks must notify the Program Committee of their acceptance by e-mailing [mailto:bosc%40open-bio%2eorg bosc&#64;open-bio&#46;org] (revised abstracts must be posted to the [http://events.open-bio.org/BOSC2008/openconf.php Open Conference Systems]site.
 
