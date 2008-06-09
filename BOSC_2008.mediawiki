@@ -50,7 +50,7 @@ We will accept entries on-line until BOSC starts, but space for demos and lightn
 ===Birds of a Feather Sessions===
 One of the more popular activities at BOSC are the Birds-of-a-Feather sub-meetings that people organize at the end of each days session.  These are free-form meetings organized by the attendees themselves.  Traditionally, some BOF's have been formed to allow developers and users of individual [[OBF]] software to meet each other face-to-face to discuss the project, but other meetings have been formed to discuss completely new ideas.  These meetings offer a unique opportunity for individuals to explore more about the activities of the various Open Source Projects, and, in some cases, even take an active role influencing the future of Open Source Software development.  If you would like to create a BOF, just sign up for a wiki account, login, and edit the [[BOSC_2008/Birds-of-a-Feather]] page.
 
-==Session Topics==
+==Main Session Topics==
 
 This year, BOSC is accepting abstract submissions on the conference theme "Tackling Hard Problems with Emerging Technologies".  The conference theme reflects that there are new technologies emerging on both the scientific front (new sequencing technologies, etc.) and the IT front (workflows, mash-up, web 2.0, improvements in all of the major programming languages, etc.), which may allow the open source community to solve problems that were previously intractable.  Abstracts may be submitted for the following topics.
 
