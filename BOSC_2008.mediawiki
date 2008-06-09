@@ -40,7 +40,7 @@ Follow this link to the current [[BOSC_2008_schedule]].
 ===Lightning Talks and Software Demonstrations===
 The program committee is currently seeking speakers for the lightning talks. Lightning talks are quick - only five minutes long - and a great opportunity for you to give people a quick summary of your open source project, code, idea, or vision of the future.  Or, if you are involved in the development of novel Open Source Software, you could use the time to give a quick demonstration of your work.
 
-If you are interested in giving a Lightning Talk or Software Demonstration at BOSC 2008, please e-mail us [mailto:bosc%40open-bio%2eorg bosc&#64;open-bio&#46;org]:
+If you are interested in giving a Lightning Talk or Software Demonstration at BOSC 2008, please e-mail us at [mailto:bosc%40open-bio%2eorg bosc&#64;open-bio&#46;org]:
 * a brief title and summary (one or two lines)
 * a URL for the project page, if applicable
 * the specific open source license used for your software or your release plans (NOTE: the Open Source License Requirement also applies to Lightning talks).
