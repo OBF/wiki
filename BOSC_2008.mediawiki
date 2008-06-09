@@ -31,10 +31,12 @@ June 9:  [[BOSC_2008_schedule]] posted.  Call for lightning talks and "Birds of 
 
 July 18-19:  BOSC 2008!
 
-=Call for Speakers and Abstracts=
-Abstract submissions have opened as of Monday, March 10.
+=Schedule=
+Abstract submissions for full presentations were closed as of, May 11, 2008.
 
-All abstracts must be submitted through our [http://events.open-bio.org/BOSC2008/openconf.php Open Conference Systems] site. Unlike previous years, submissions by e-mail will not be accepted.
+Follow this link to the current [[BOSC_2008_schedule]].
+
+==Call for Lightning Talks/Demos/Birds of a Feather Sessions==
 
 ==Session Topics==
 
@@ -64,7 +66,7 @@ Abstract submissions will not be accepted via e-mail this year.  All abstracts m
 
 You will need to prepare a short, 50-word abstract, and a full abstract to upload as a PDF file or plain text file.  Full abstracts must be one page in length.  Place the title and authors of the abstract at the top of the page and use 1 inch (2.5 cm) margins on the top, sides, and bottom of the page.
 
-The deadline for submissions is May 11, 2008.
+The deadline for abstract submissions for full presentations was May 11, 2008.
 
 NOTE: The Open Conference Systems abstract submission system will tell you to upload a "paper". This refers to your one-page full abstract. The one-page abstract will appear in the SIG booklet distributed by ISMB and no other papers will be published from this conference. There will not be a poster session at BOSC, only presentations.
 
