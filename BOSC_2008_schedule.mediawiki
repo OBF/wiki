@@ -363,7 +363,7 @@ mso-bidi-language:AR-SA'><br clear=all style='page-break-before:always'>
 style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;font-family:
 Arial'>Schedule (Day 2)</span></b></p>
 
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+<p class=MsoNormal></p>
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
  style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
@@ -373,62 +373,62 @@ Arial'>Schedule (Day 2)</span></b></p>
   <td width=638 colspan=3 valign=top style='width:6.65in;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:11.0pt'>Saturday, July 19<o:p></o:p></span></b></p>
+  style='font-size:11.0pt'>Saturday, July 19</span></b></p>
   <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></b></p>
+  style='font-size:11.0pt'></span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1'>
   <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>9:00-9:05<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>9:00-9:05</span></p>
   </td>
   <td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>Kam Dahlquist<o:p></o:p></span></p>
-  <p class=MsoNormal><span style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>Kam Dahlquist</span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'></span></p>
   </td>
   <td width=407 valign=top style='width:305.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>Announcements<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>Announcements</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2'>
   <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>9:05-9:30<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>9:05-9:30</span></p>
   </td>
   <td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>Mark Wilkinson<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>Mark Wilkinson</span></p>
   </td>
   <td width=407 valign=top style='width:305.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal><span style='font-size:11.0pt'>[workflows] Interoperability
-  with BioMoby – Past, Present, and Future<o:p></o:p></span></p>
+  with BioMoby – Past, Present, and Future</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3'>
   <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>9:30-9:55<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>9:30-9:55</span></p>
   </td>
   <td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>Joshua Orvis<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>Joshua Orvis</span></p>
   </td>
   <td width=407 valign=top style='width:305.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -436,27 +436,27 @@ Arial'>Schedule (Day 2)</span></b></p>
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal><span style='font-size:11.0pt'>[workflows] Ergatis: A
   Web-based Bioinformatics Pipeline Management and Collaborative Development
-  System<o:p></o:p></span></p>
+  System</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:4'>
   <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>9:55-10:15<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>9:55-10:15</span></p>
   </td>
   <td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>Aleksi Kallio<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>Aleksi Kallio</span></p>
   </td>
   <td width=407 valign=top style='width:305.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal><span style='font-size:11.0pt'>[workflows] Chipster – User
-  Friendly DNA Microarray Analysis Software<o:p></o:p></span></p>
+  Friendly DNA Microarray Analysis Software</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:5'>
@@ -464,69 +464,69 @@ Arial'>Schedule (Day 2)</span></b></p>
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:11.0pt'>10:15-10:45<o:p></o:p></span></b></p>
+  style='font-size:11.0pt'>10:15-10:45</span></b></p>
   </td>
   <td width=543 colspan=2 valign=top style='width:407.4pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:11.0pt'>Coffee Break<o:p></o:p></span></b></p>
+  style='font-size:11.0pt'>Coffee Break</span></b></p>
   <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></b></p>
+  style='font-size:11.0pt'></span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:6'>
   <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>10:45-11:10<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>10:45-11:10</span></p>
   </td>
   <td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>Jiten Bhagat<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>Jiten Bhagat</span></p>
   </td>
   <td width=407 valign=top style='width:305.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal><span style='font-size:11.0pt'>[workflows] myExperiment:
-  Social Software for Sharing Workflows<o:p></o:p></span></p>
+  Social Software for Sharing Workflows</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:7'>
   <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>11:10-11:30<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>11:10-11:30</span></p>
   </td>
   <td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>Todd Smith<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>Todd Smith</span></p>
   </td>
   <td width=407 valign=top style='width:305.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal><span style='font-size:11.0pt'>[workflows] BioHDF: Open Binary
-  File Formats for Large Scale Data Management<o:p></o:p></span></p>
+  File Formats for Large Scale Data Management</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:8'>
   <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>11:30-11:50<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>11:30-11:50</span></p>
   </td>
   <td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>Aaron Kitzmiller<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>Aaron Kitzmiller</span></p>
   </td>
   <td width=407 valign=top style='width:305.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -534,27 +534,27 @@ Arial'>Schedule (Day 2)</span></b></p>
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal><span style='font-size:11.0pt'>[open source software] The
   Open HeliSphere<sup>TM</sup> Project: True Open Source from the Inventors of
-  True Single Molecule Sequencing<o:p></o:p></span></p>
+  True Single Molecule Sequencing</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:9'>
   <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>11:50-12:10<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>11:50-12:10</span></p>
   </td>
   <td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>Ed Lee<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>Ed Lee</span></p>
   </td>
   <td width=407 valign=top style='width:305.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal><span style='font-size:11.0pt'>[open source software]
-  Apollo: a Sequence Annotation Editor (with demonstration to follow)<o:p></o:p></span></p>
+  Apollo: a Sequence Annotation Editor (with demonstration to follow)</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:10'>
@@ -562,93 +562,93 @@ Arial'>Schedule (Day 2)</span></b></p>
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:11.0pt'>12:30-1:30<o:p></o:p></span></b></p>
+  style='font-size:11.0pt'>12:30-1:30</span></b></p>
   </td>
   <td width=543 colspan=2 valign=top style='width:407.4pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:11.0pt'>Lunch<o:p></o:p></span></b></p>
+  style='font-size:11.0pt'>Lunch</span></b></p>
   <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></b></p>
+  style='font-size:11.0pt'></span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:11'>
   <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>1:30-1:50<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>1:30-1:50</span></p>
   </td>
   <td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>Hilmar Lapp<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>Hilmar Lapp</span></p>
   </td>
   <td width=407 valign=top style='width:305.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal><span style='font-size:11.0pt'>[bio*update] BioSQL
-  Reloaded: 1.0 Release, PhyloDB Module, and Future Features<o:p></o:p></span></p>
+  Reloaded: 1.0 Release, PhyloDB Module, and Future Features</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:12'>
   <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>1:50-2:10<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>1:50-2:10</span></p>
   </td>
   <td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>Syed Haider<o:p></o:p></span></p>
-  <p class=MsoNormal><span style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>Syed Haider</span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'></span></p>
   </td>
   <td width=407 valign=top style='width:305.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal><span style='font-size:11.0pt'>[bio*update] EMBRACE –
-  BioMart Developments and Future<o:p></o:p></span></p>
+  BioMart Developments and Future</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:13'>
   <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>2:10-2:30<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>2:10-2:30</span></p>
   </td>
   <td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>Tiago Antão <o:p></o:p></span></p>
-  <p class=MsoNormal><span style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>Tiago Antão </span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'></span></p>
   </td>
   <td width=407 valign=top style='width:305.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal><span style='font-size:11.0pt'>[bio*update] Biopython
-  Project Update<o:p></o:p></span></p>
+  Project Update</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:14'>
   <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>2:30-3:30<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>2:30-3:30</span></p>
   </td>
   <td width=543 colspan=2 valign=top style='width:407.4pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>Lightning Talks/Demos/BOFs<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>Lightning Talks/Demos/BOFs</span></p>
   <p class=MsoNormal><span style='font-size:11.0pt'>See
-  &lt;http://www.open-bio.org/wiki/BOSC_2008_schedule&gt; for updated listings<o:p></o:p></span></p>
+  &lt;http://www.open-bio.org/wiki/BOSC_2008_schedule&gt; for updated listings</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:15;height:4.45pt'>
@@ -656,30 +656,30 @@ Arial'>Schedule (Day 2)</span></b></p>
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt;height:4.45pt'>
   <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:11.0pt'>3:30-4:00<o:p></o:p></span></b></p>
+  style='font-size:11.0pt'>3:30-4:00</span></b></p>
   </td>
   <td width=543 colspan=2 valign=top style='width:407.4pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:4.45pt'>
   <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:11.0pt'>Coffee Break<o:p></o:p></span></b></p>
+  style='font-size:11.0pt'>Coffee Break</span></b></p>
   <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></b></p>
+  style='font-size:11.0pt'></span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:16;mso-yfti-lastrow:yes'>
   <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>4:00-5:30<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>4:00-5:30</span></p>
   </td>
   <td width=543 colspan=2 valign=top style='width:407.4pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>Lightning Talks/Demos/BOFs<o:p></o:p></span></p>
-  <p class=MsoNormal><span style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>Lightning Talks/Demos/BOFs</span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'></span></p>
   </td>
  </tr>
 </table>
