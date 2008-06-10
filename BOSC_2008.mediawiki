@@ -32,7 +32,7 @@ June 9:  [[BOSC_2008_schedule]] posted.  Call for lightning talks and [[BOSC_200
 July 18-19:  BOSC 2008!
 
 =Schedule=
-Abstract submissions for full presentations were closed as of, May 11, 2008.
+Abstract submissions for full presentations were closed as of May 11, 2008.
 
 Follow this link to the current [[BOSC_2008_schedule]].
 
