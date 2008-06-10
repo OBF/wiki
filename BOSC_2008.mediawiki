@@ -36,6 +36,9 @@ Abstract submissions for full presentations were closed as of, May 11, 2008.
 
 Follow this link to the current [[BOSC_2008_schedule]].
 
+You may also download the entire BOSC program as a PDF file (1971KB) [[Image:BOSC2008_program.pdf|BOSC 2008 Program]]
+
+
 ==Call for Lightning Talks/Demos/Birds of a Feather Sessions==
 ===Lightning Talks and Software Demonstrations===
 The program committee is currently seeking speakers for the lightning talks. Lightning talks are quick - only five minutes long - and a great opportunity for you to give people a quick summary of your open source project, code, idea, or vision of the future.  Or, if you are involved in the development of novel Open Source Software, you could use the time to give a quick demonstration of your work.
