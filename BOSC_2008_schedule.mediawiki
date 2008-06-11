@@ -326,22 +326,6 @@ Arial'>Schedule (Day 1)</span></b></p>
   <p class=MsoNormal><span style='font-size:11.0pt'>[lightning talk] SolexaTools: An Open Source Sequence Analysis Framework </span></p>
   </td>
  </tr> 
-<tr style='mso-yfti-irow:15'>
-  <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>3:15-3:30</span></p>
-  </td>
-  <td width=543 colspan=2 valign=top style='width:407.4pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>Additional Lightning
-  Talks/Demos/Birds of a Feather</span></p>
-  <p class=MsoNormal><span style='font-size:11.0pt'>See
-  &lt;http://www.open-bio.org/wiki/BOSC_2008_schedule&gt; for updated listings</span></p>
-  </td>
- </tr>
  <tr style='mso-yfti-irow:16'>
   <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
@@ -369,7 +353,7 @@ Arial'>Schedule (Day 1)</span></b></p>
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><span style='font-size:11.0pt'>Lightning Talks/Demos/BOFs</span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt'>Additional Lightning Talks/Demos/BOFs</span></p>
   <p class=MsoNormal><span style='font-size:11.0pt'></span></p>
   </td>
  </tr>
