@@ -27,7 +27,7 @@ June 4:  Early registration discount cut-off.
 
 June 6:  Authors of accepted talks must notify the Program Committee of their acceptance by e-mailing [mailto:bosc%40open-bio%2eorg bosc&#64;open-bio&#46;org] (revised abstracts must be posted to the [http://events.open-bio.org/BOSC2008/openconf.php Open Conference Systems]site.
 
-June 9:  [[BOSC_2008_schedule]] posted.  Call for lightning talks and [[BOSC_2008/Birds-of-a-Feather]] sessions opens.
+June 9:  [[BOSC 2008 schedule|Schedule for BOSC 2008]] posted.  Call for lightning talks and [[BOSC_2008/Birds-of-a-Feather|Birds of a Feather]] sessions opens.
 
 July 18-19:  BOSC 2008!
 
