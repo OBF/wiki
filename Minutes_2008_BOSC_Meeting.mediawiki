@@ -1,0 +1,27 @@
+---
+title: Minutes:2008 BOSC Meeting
+---
+
+=Agenda=
+* Old Business
+*# Approval of [[Minutes:2007_BOSC_Meeting|minutes from 2007]]
+* New Business
+*# Voting on the board appointments
+*#* Kam Dalhquist has already served as a major organizer for BOSC and is interested in helping lead the OBF to achieve more outreach and education.
+*#* Darin London has served as BOSC chair for the past 4 years
+*#* Procedure for appointment of additional BOD members
+*# Financial report (Treasurer)
+*# [[BOSC]]
+*#* Short 2007 report (attendance, talk highlights)
+*#* BOSC 2008 summary (attendance, talk hightlights)
+*#* Should BOSC 2009 to be held in conjuction with ISMB2009?
+*#* Possibilities for including submitted papers for a publication.
+*# OBF Membership accounting and drive to register more members
+*# OBF future directions
+*# Review of By-Laws (Parliamentarian)
+
+=Minutes=
+
+Minutes will go here
+
+[[Category:Minutes]] [[Category:BOD]]
