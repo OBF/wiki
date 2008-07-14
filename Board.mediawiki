@@ -2,7 +2,6 @@
 title: Board
 ---
 
-caactro
 ==Board of Directors==
 The board can be contacted via email at [mailto:board@open-bio.org board@open-bio.org]
 
