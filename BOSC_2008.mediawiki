@@ -36,6 +36,10 @@ Abstract submissions for full presentations were closed as of May 11, 2008, and 
 
 You may also download the entire BOSC program with the schedule and all abstracts as a [http://www.open-bio.org/w/images/b/b6/BOSC2008_program.pdf PDF file] (1971KB).
 
+==Audio/visual Information for Presenters==
+* Presenters are encouraged to bring their own laptops for their presentations.
+* If a presentor does not bring a laptop, he/she will be able to borrow one from one of the organizers.  In this case, please contact the organizing committee at bosc@open-bio.org to confirm arrangements.
+
 ==Call for Lightning Talks/Demos/Birds of a Feather Sessions==
 ===Lightning Talks and Software Demonstrations===
 The program committee is currently seeking speakers for the lightning talks. Lightning talks are quick - only five minutes long - and a great opportunity for you to give people a quick summary of your open source project, code, idea, or vision of the future.  Or, if you are involved in the development of novel Open Source Software, you could use the time to give a quick demonstration of your work.
