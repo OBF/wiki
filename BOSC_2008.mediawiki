@@ -44,6 +44,8 @@ You may also download the entire BOSC program with the schedule and all abstract
 
 ===Slide Availability===
 * In the spirit of open source and open access, the organizing committee would like to post your slides after your presentation at BOSC.
+* We will be using SlideShare, see [[BOSC_2007_Schedule | last year's BOSC]] for an example.
+* More details will be provided at BOSC.
 
 ==Call for Lightning Talks/Demos/Birds of a Feather Sessions==
 ===Lightning Talks and Software Demonstrations===
