@@ -38,7 +38,7 @@ You may also download the entire BOSC program with the schedule and all abstract
 
 ==Audio/visual Information for Presenters==
 * Presenters are encouraged to bring their own laptops for their presentations.
-* If a presentor does not bring a laptop, he/she will be able to borrow one from one of the organizers.  In this case, please contact the organizing committee at bosc@open-bio.org to confirm arrangements.
+* If a presentor does not bring a laptop, he/she will be able to borrow one from one of the organizers.  In this case, please contact the organizing committee at [mailto:bosc%40open-bio%2eorg bosc&#64;open-bio&#46;org] to confirm arrangements.
 
 ==Call for Lightning Talks/Demos/Birds of a Feather Sessions==
 ===Lightning Talks and Software Demonstrations===
