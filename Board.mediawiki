@@ -2,7 +2,7 @@
 title: Board
 ---
 
-==Board of Directors==
+=Board of Directors=
 The board can be contacted via email at [mailto:board@open-bio.org board@open-bio.org]
 
 '''President'''
@@ -14,8 +14,7 @@ The board can be contacted via email at [mailto:board@open-bio.org board@open-bi
 : [[bp:BioPerl|BioPerl]] co-founder & O|B|F sysadmin. Employed by [http://www.bioteam.net the BioTeam].
 
 '''Secretary'''
-: Andrew Dalke 
-: Representing [http://www.biopython.org BioPython] & [http://www.dalkescientific.com Dalke Scientific]
+: Currently Unfilled
 
 '''Parliamentarian'''
 : [[bp:Hilmar Lapp|Hilmar Lapp]]
@@ -25,10 +24,14 @@ The board can be contacted via email at [mailto:board@open-bio.org board@open-bi
 : [[bp:Ewan Birney|Ewan Birney]], ''Past President''
 : [[bp:BioPerl|BioPerl]] core developer.  Coordinator of the [http://www.ebi.ac.uk EBI] half of the [http://www.ensembl.org Ensembl] genome annotation project.
 
-
-==Board of Directors Meetings==
+=Board of Directors Meetings=
+* [[Minutes:2008 BOSC Meeting]]
 * [[Minutes:2007 BOSC Meeting]]
 * No Board Meeting was held in 2006. 
 * [[Minutes:2005 BOSC Meeting]]
 * [[Minutes:2004 BOSC Meeting]]
 * [[Minutes:2002 BOSC Meeting]]
+
+=Past Board Members=
+* Andrew Dalke, Representing [http://www.biopython.org BioPython] & [http://www.dalkescientific.com Dalke Scientific], Secretary.
+* [[bp:Steven Brenner|Steven E. Brenner]], [http://compbio.berkeley.edu Associate Professor] at University of California, Berkeley, At-large member.
