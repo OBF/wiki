@@ -25,12 +25,8 @@ The board can be contacted via email at [mailto:board@open-bio.org board@open-bi
 : [[bp:Ewan Birney|Ewan Birney]], ''Past President''
 : [[bp:BioPerl|BioPerl]] core developer.  Coordinator of the [http://www.ebi.ac.uk EBI] half of the [http://www.ensembl.org Ensembl] genome annotation project.
 
-'''At-large member'''
-: [[bp:Steven Brenner|Steven E. Brenner]]
-: [http://compbio.berkeley.edu Associate Professor] at University of California, Berkeley.
 
 ==Board of Directors Meetings==
-* [[Minutes:2008 BOSC Meeting]]
 * [[Minutes:2007 BOSC Meeting]]
 * No Board Meeting was held in 2006. 
 * [[Minutes:2005 BOSC Meeting]]
