@@ -834,6 +834,7 @@ Arial'>Schedule (Day 2)</span></b></p>
   <p class=MsoNormal><span style='font-size:11.0pt'>[demo] Ergatis - Joshua Orvis</span></p>
   <p class=MsoNormal><span style='font-size:11.0pt'>[demo] Apollo - Ed Lee</span></p>
   <p class=MsoNormal><span style='font-size:11.0pt'>[lightning talk] Genographer - Travis Banks</span></p>
+<p class=MsoNormal><span style='font-size:11.0pt'>[BOFs] See [[BOSC_2008/Birds-of-a-Feather]]</span></p>
 </td>
  </tr>
 </table>
