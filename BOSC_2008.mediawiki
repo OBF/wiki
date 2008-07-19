@@ -98,6 +98,10 @@ Accepted talks will be 10-20 minutes, depending on the session. You will be noti
 
 Please see the [http://www.iscb.org/ismb2008/registration.php ISMB registration site] for details.  Online registration opened March 6, 2008.
 
+=Feedback on BOSC 2008 and Planning for BOSC 2009=
+
+Give us your feedback on BOSC 2008 so we can plan for BOSC 2009, the 10th Annual BOSC!  Sign up and login to the discussion page and give us your suggestions, and volunteer for BOSC 2009.
+
 =Contact=
 
 Chair of the conference and of the organizing committee is [http://myweb.lmu.edu/kdahlqui/ Kam Dahlquist]. Aside from Dr. Dahlquist, the 2008 BOSC Organizing Committee consists of [http://www.bioperl.org/wiki/Chris_Dagdigian Chris Dagdigian], [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp], Darin London, and [http://www.bioperl.org/wiki/Jason_Stajich Jason Stajich]. For more information about the conference or the call for abstracts, please contact the organizers at [mailto:bosc%40open-bio%2eorg bosc&#64;open-bio&#46;org].
