@@ -223,7 +223,8 @@ Arial'>Schedule (Day 1)</span></b></p>
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal><span style='font-size:11.0pt'>[cyberinfrastructure]
-  BioDas Project Update [http://www.open-bio.org/w/images/6/6c/Jenkinson_BioDas_abstract.pdf Abstract]</span></p>
+  BioDas Project Update [http://www.open-bio.org/w/images/6/6c/Jenkinson_BioDas_abstract.pdf Abstract]  [http://www.slideshare.net/bosc_2008/andy-jenkinson-bosc-das-2008/ **SLIDES**]
+</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:11'>
