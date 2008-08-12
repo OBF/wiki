@@ -43,9 +43,8 @@ You may also download the entire BOSC program with the schedule and all abstract
 * A high speed internet connection will be available.
 
 ===Slide Availability===
-* In the spirit of open source and open access, the organizing committee would like to post your slides after your presentation at BOSC.
-* We will be using SlideShare, see [[BOSC_2007_Schedule | last year's BOSC]] for an example.
-* Presenters, please e-mail your slides to the organizers at [mailto:bosc%40open-bio%2eorg bosc&#64;open-bio&#46;org], if you have not done so already.
+* Slides from BOSC2008 have been posted on SlideShare.  See links to slides from the [[BOSC_2008_schedule|schedule]].
+* Presenters, if you have not already done so, please e-mail your slides to the organizers at [mailto:bosc%40open-bio%2eorg bosc&#64;open-bio&#46;org].
 
 ==Call for Lightning Talks/Demos/Birds of a Feather Sessions==
 ===Lightning Talks and Software Demonstrations===
