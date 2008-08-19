@@ -133,3 +133,4 @@ To get this started we plan to pick (somewhere around) ten packages drawn from t
 * [http://www.debian.org/devel/debian-med/ Debian-Med]
 * Egon Willighagen's ChemBio [http://chem-bla-ics.blogspot.com/2006/05/live-life-sciences-cd.html LiveCD]
 * [http://knob.sourceforge.jp Knoppix for Bio Project]
+* [http://biopuppy.org BioPuppy - Minimal Open Source Linux OS for BioInformatics]
