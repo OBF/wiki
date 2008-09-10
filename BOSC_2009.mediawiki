@@ -6,5 +6,7 @@ BOSC 2009 will be held in conjunction with [http://www.iscb.org/ismbeccb2009/ind
 
 If you wish to join the BOSC 2009 organizing committee, please send an e-mail to [mailto:bosc@open-bio.org bosc@open-bio.org].
 
+See [[Past BOSC conferences | past BOSC conferences]].
+
 [[Category:BOSC]] [[Category:Conferences]]
 [[Category:BOSC Conferences]]
