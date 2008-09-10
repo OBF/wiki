@@ -9,3 +9,4 @@ title: BOSC 2002
 [http://gallery.open-bio.org/gallery2/v/bosc2002 Pictures] from the conference
 
 [[Category:BOSC]] [[Category:Conferences]]
+[[Category:BOSC Conferences]]
