@@ -2,7 +2,7 @@
 title: BOSC 2009
 ---
 
-BOSC 2009 will be held in conjunction with [http://www.iscb.org/ismbeccb2009/index.php ISMB] in Stockholm, Sweden.  The ISMB meeting is taking place June 27 - July 2, 2009.  Generally BOSC is the two days before the main meeting, so, June 25-26, although this is not yet confirmed.
+BOSC 2009 will be held in conjunction with [http://www.iscb.org/ismbeccb2009/index.php ISMB] in Stockholm, Sweden.  The ISMB meeting is taking place June 27 - July 2, 2009.  Generally BOSC is the two days before the main meeting, in this case, June 25-26, although these dates are not yet confirmed.
 
 If you wish to join the BOSC 2009 organizing committee, please send an e-mail to [mailto:bosc@open-bio.org bosc@open-bio.org].
 
