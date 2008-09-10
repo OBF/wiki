@@ -81,3 +81,4 @@ assistance exist:
 * Historian/Photographers:  Volunteers are needed to help record aspects about BOSC 2007 for future reference.  Possibilities include blogging the conference, writing up a review article for the ISCB, etc..  The Photographer will take digital photographs of all speakers, recording each speakers name with their image name for easy inclusion on the BOSC summary website after the conference.  Pictures from past [[Past BOSC conferences]] are available in [http://gallery.open-bio.org our gallery].
 
 [[Category:BOSC]] [[Category:Conferences]]
+[[Category:BOSC Conferences]]
