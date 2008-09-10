@@ -114,3 +114,4 @@ If you'd like to become more involved with the BOSC conference, please email us 
 '''Chair''', [mailto:darin.london@duke.edu Darin London], [http://www.duke.edu Duke University]
 
 [[Category:Conferences]] [[Category:BOSC]]
+[[Category:BOSC Conferences]]
