@@ -6,7 +6,7 @@ title: BOSC 2009
 
 BOSC 2009 will be held for 2 days in conjunction with [http://www.iscb.org/ismbeccb2009/index.php the 17th Annual International Conference on Intelligent Systems for Molecular Biology (ISMB 2009)] in Stockholm, Sweden.  ISMB 2009 will  be held jointly with the 7th Annual European Conference on Computational Biology (ECCB 2009). The dates of ISMB/EECB 2009 are  June 27 - July 2, 2009.  
 
-If you wish to join the BOSC 2009 Steering Committee, please send an e-mail to [mailto:bosc@open-bio.org bosc@open-bio.org].  Conference planning is being discussed on the discussion page.
+If you wish to join the BOSC 2009 Steering Committee, please send an e-mail to [mailto:bosc@open-bio.org bosc@open-bio.org].  Conference planning is being discussed on the [[Talk:BOSC_2009 | Talk]] page.
 
 See [[Past BOSC conferences | past BOSC conferences]].
 
