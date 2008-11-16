@@ -39,9 +39,9 @@ title: Minutes:2008 BOSC Meeting
 '''Location:''' Radisson Habourfront, 5th floor poolside, July 19, 2008
 
 '''Present:''' 
-** current BoD members: Jason Stajich, Hilmar Lapp
-** Director nominee: Kam Dahlquist
-** Guests: Aaron Mackey, Mauricio Herrera Cuadro, Michael Heuer, Paul Gordon, Andrew Jenkinson, Saravanabamuttu Gnaneshan 
+* current BoD members: Jason Stajich, Hilmar Lapp
+* Director nominee: Kam Dahlquist
+* Guests: Aaron Mackey, Mauricio Herrera Cuadro, Michael Heuer, Paul Gordon, Andrew Jenkinson, Saravanabamuttu Gnaneshan 
 
 '''Meeting minutes:'''
 
