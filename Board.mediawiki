@@ -2,36 +2,35 @@
 title: Board
 ---
 
-=Board of Directors=
+== Board of Directors ==
 The board can be contacted via email at [mailto:board@open-bio.org board@open-bio.org]
 
 '''President'''
-: [[bp:Jason Stajich|Jason Stajich]]
-: [[bp:BioPerl|BioPerl]] core developer. [http://pmb.berkeley.edu/~taylor/people/js.html Postdoc] at [http://www.berkeley.edu/ University of California, Berkeley].
+:; [[bp:Jason Stajich|Jason Stajich]] : [[bp:BioPerl|BioPerl]] core developer. [http://pmb.berkeley.edu/~taylor/people/js.html Postdoc] at [http://www.berkeley.edu/ University of California, Berkeley].
 
 '''Treasurer'''
-: [[bp:Chris Dagdigian|Chris Dagdigian]]
-: [[bp:BioPerl|BioPerl]] co-founder & O|B|F sysadmin. Employed by [http://www.bioteam.net the BioTeam].
+:; [[bp:Chris Dagdigian|Chris Dagdigian]] : [[bp:BioPerl|BioPerl]] co-founder & O|B|F sysadmin. Employed by [http://www.bioteam.net the BioTeam].
 
 '''Secretary'''
 : Currently Unfilled
 
 '''Parliamentarian'''
-: [[bp:Hilmar Lapp|Hilmar Lapp]]
-: Representing [[bp:BioPerl|BioPerl]].  Employed by the [http://www.nescent.org/ National Evolutionary Synthesis Center] (NESCent).
+:; [[bp:Hilmar Lapp|Hilmar Lapp]] : Representing [[bp:BioPerl|BioPerl]].  Employed by the [http://www.nescent.org/ National Evolutionary Synthesis Center] (NESCent).
 
 '''At-large member'''
-: [[bp:Ewan Birney|Ewan Birney]], ''Past President''
-: [[bp:BioPerl|BioPerl]] core developer.  Coordinator of the [http://www.ebi.ac.uk EBI] half of the [http://www.ensembl.org Ensembl] genome annotation project.
+: Currently Unfilled
 
-=Board of Directors Meetings=
-* [[Minutes:2008 BOSC Meeting]]
-* [[Minutes:2007 BOSC Meeting]]
+=== Past Board Members ===
+; [[bp:Ewan Birney|Ewan Birney]] : ''Past President and At-large Member'',  [[bp:BioPerl|BioPerl]] core developer.  Coordinator of the [http://www.ebi.ac.uk EBI] half of the [http://www.ensembl.org Ensembl] genome annotation project.
+; Andrew Dalke : ''Past Secretary'', Representing [http://www.biopython.org BioPython] & [http://www.dalkescientific.com Dalke Scientific].
+; [[bp:Steven Brenner|Steven E. Brenner]] : ''Past At-large member'', [http://compbio.berkeley.edu Associate Professor] at University of California, Berkeley.
+
+== Board of Directors Meetings ==
+
+'''Minutes of Board Meetings:'''
+* [[Minutes:2008 BOSC Meeting| 2008 BOSC Meeting]]
+* [[Minutes:2007 BOSC Meeting| 2007 BOSC Meeting]]
 * No Board Meeting was held in 2006. 
-* [[Minutes:2005 BOSC Meeting]]
-* [[Minutes:2004 BOSC Meeting]]
-* [[Minutes:2002 BOSC Meeting]]
-
-=Past Board Members=
-* Andrew Dalke, Representing [http://www.biopython.org BioPython] & [http://www.dalkescientific.com Dalke Scientific], Secretary.
-* [[bp:Steven Brenner|Steven E. Brenner]], [http://compbio.berkeley.edu Associate Professor] at University of California, Berkeley, At-large member.
+* [[Minutes:2005 BOSC Meeting| 2005 BOSC Meeting]]
+* [[Minutes:2004 BOSC Meeting| 2004 BOSC Meeting]]
+* [[Minutes:2002 BOSC Meeting| 2002 BOSC Meeting]]
