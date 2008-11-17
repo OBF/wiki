@@ -10,6 +10,6 @@ Scheduled for Nov 19, 12:30 - 2PM PST via Conference call. Please email board@op
 ==New Business==
 # To vote on a new member to the board, Kam Dahlquist 
 # Discuss leadership changes and plan how Board membership will be expanded in the next year
-# BOSC 2009: planning is underway by BOSC committee, will discuss any input needed by BoD
+# [[BOSC 2009|BOSC 2009]]: planning is underway by BOSC committee, will discuss any input needed by BoD
 # Treasurer's financial report from summer 2008
 # Any purchase or server hosting decisions
