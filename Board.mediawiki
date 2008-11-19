@@ -12,7 +12,7 @@ The board can be contacted via email at [mailto:board@open-bio.org board@open-bi
 :; [[bp:Chris Dagdigian|Chris Dagdigian]] : [[bp:BioPerl|BioPerl]] co-founder & O|B|F sysadmin. Employed by [http://www.bioteam.net the BioTeam].
 
 '''Secretary'''
-: Currently Unfilled
+: Currently Unfilled. Duties carried out by Parliamentarian in the interim.
 
 '''Parliamentarian'''
 :; [[bp:Hilmar Lapp|Hilmar Lapp]] : Representing [[bp:BioPerl|BioPerl]].  Employed by the [http://www.nescent.org/ National Evolutionary Synthesis Center] (NESCent).
