@@ -5,7 +5,7 @@ title: Minutes:2008 ConfCall
 Scheduled for Nov 19, 12:30 - 2PM PST via Conference call. Please email board@open-bio.org to receive call-in information so we will know how many callers there will be.
 
 =Agenda=
-==Old Business==
+=== Old Business ===
 # Approve [[Minutes:2008_BOSC_Meeting#Minutes|minutes from BOSC 2008 Meeting]]
 === New Business ===
 # To vote on a new member to the board, Kam Dahlquist 
