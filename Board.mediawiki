@@ -18,7 +18,7 @@ The board can be contacted via email at [mailto:board@open-bio.org board@open-bi
 :; [[bp:Hilmar Lapp|Hilmar Lapp]] : Representing [[bp:BioPerl|BioPerl]].  Employed by the [http://www.nescent.org/ National Evolutionary Synthesis Center] (NESCent).
 
 '''At-large member'''
-: Currently Unfilled
+:; Kam Dahlquist : Assistant Professor at [http://myweb.lmu.edu/kdahlqui/ Loyala Marymount University], Los Angeles.
 
 === Past Board Members ===
 ; [[bp:Ewan Birney|Ewan Birney]] : ''Past President and At-large Member'',  [[bp:BioPerl|BioPerl]] core developer.  Coordinator of the [http://www.ebi.ac.uk EBI] half of the [http://www.ensembl.org Ensembl] genome annotation project.
