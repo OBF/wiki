@@ -8,7 +8,7 @@ BOSC 2009 will be held for 2 days in conjunction with [http://www.iscb.org/ismbe
 
 * If you wish to join the BOSC 2009 Organizing Committee, please send an e-mail to [mailto:bosc@open-bio.org bosc@open-bio.org].  Conference planning is being discussed on the [[Talk:BOSC_2009 | Talk]] page.
 * If you wish to be on the mailing list for BOSC-related announcements, including the call for abstracts and deadline reminders, please subscribe to the [http://lists.open-bio.org/mailman/listinfo/bosc-announce Bosc-announce] list.
-* Click [[[Media:Dahlquist_BOSC2009.pdf|here]] to view the BOSC 2009 SIG Proposal submitted and approved by the ISMB/ECCB 2009 SIG committee. 
+* Click [[Media:Dahlquist_BOSC2009.pdf|here]] to view the BOSC 2009 SIG Proposal submitted and approved by the ISMB/ECCB 2009 SIG committee. 
 
 See [[Past BOSC conferences | past BOSC conferences]].
 
