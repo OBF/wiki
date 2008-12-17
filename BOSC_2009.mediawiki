@@ -12,5 +12,20 @@ BOSC 2009 will be held for 2 days in conjunction with [http://www.iscb.org/ismbe
 
 See [[Past BOSC conferences | past BOSC conferences]].
 
+<!--===Open Source License Requirement===
+
+The [[OBF|Open Bioinformatics Foundation]], which is the sole sponsor of BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the Biological Research Community. For this reason, in order to be considered for acceptance, any talk submitted to be presented at BOSC which concerns a specific software system to be used by the research community must be licensed with a recognized Open Source License, and be available for download by anyone using ftp, cvs/subversion, or as a tar/zip file from the Project Website.
+
+See the following websites for further information:
+* [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
+* [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
+
+
+The abstract should clearly state:
+* The URL for the overall project web site
+* The URL for accessing the code
+* The particular Open Source License being used
+-->
+
 [[Category:BOSC]] [[Category:Conferences]]
 [[Category:BOSC Conferences]]
