@@ -63,7 +63,19 @@ See the following websites for further information:
 
 == Contact ==
 
-Chair of the conference and of the organizing committee is [http://myweb.lmu.edu/kdahlqui/ Kam Dahlquist]. Aside from Dr. Dahlquist, the 2008 BOSC Organizing Committee consists of [http://www.bioperl.org/wiki/Chris_Dagdigian Chris Dagdigian], [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp]. For more information about the conference or the call for abstracts, please contact the organizers at [mailto:bosc@openbio.org bosc@open-bio.org].
+Chair of the conference and of the organizing committee is [http://myweb.lmu.edu/kdahlqui/ Kam Dahlquist]. Aside from Dr. Dahlquist, the 2008 BOSC Organizing Committee consists of * [[bp:Hilmar Lapp|Hilmar Lapp]] (BioPerl, BioSQL, and NESCent)
+* Jens Lichtenberg (Ohio University)
+** Publications:  will be responsible for collecting, organizing, and formatting abstracts, making program (PDF for hard copy), and posting to the BOSC 2009 web site
+* Frank Drews (Ohio University)
+** Interest in mulitcore and gpgpu computing
+* Andrew Dalke (Dalke Scientific, Goteborg, Sweden)
+* Jim Procter (University of Dundee, Scotland)
+** Interest in a BOF/hackathon on Visualization
+*  Anton Nekrutenko (Penn State University)
+** Overlap with Data Management & Analysis SIG
+* Seán I. O' Donoghue
+** Interest in Visualization
+[http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp]. For more information about the conference or the call for abstracts, please contact the organizers at [mailto:bosc@openbio.org bosc@open-bio.org].
 
 [[Category:BOSC]] [[Category:Conferences]]
 [[Category:BOSC Conferences]]
