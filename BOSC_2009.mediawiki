@@ -4,7 +4,7 @@ title: BOSC 2009
 
 [[Image:Pear.png|The Bosc Pair]]
 
-BOSC 2009 will be held for 2 days in conjunction with [http://www.iscb.org/ismbeccb2009/index.php the 17th Annual International Conference on Intelligent Systems for Molecular Biology (ISMB 2009)] in Stockholm, Sweden.  ISMB 2009 will  be held jointly with the 7th Annual European Conference on Computational Biology (ECCB 2009). The dates of BOSC 2009 are June 27 - 28; the main ISMB/ECCB Conference runs June 29 - July 2, 2009.  
+BOSC 2009 will be held for 2 days in conjunction with [http://www.iscb.org/ismbeccb2009/index.php the 17th Annual International Conference on Intelligent Systems for Molecular Biology (ISMB 2009)] in Stockholm, Sweden.  ISMB 2009 will  be held jointly with the 7th Annual European Conference on Computational Biology (ECCB 2009). The dates of BOSC 2009 are June 27 - 28; the main ISMB/ECCB Conference runs June 29 - July 2, 2009.  Click here to see [[Past BOSC conferences | past BOSC conferences]].
 
 * If you wish to join the BOSC 2009 Organizing Committee, please send an e-mail to [mailto:bosc@open-bio.org bosc@open-bio.org].  Conference planning is being discussed on the [[Talk:BOSC_2009 | Talk]] page.
 * If you wish to be on the mailing list for BOSC-related announcements, including the call for abstracts and deadline reminders, please subscribe to the [http://lists.open-bio.org/mailman/listinfo/bosc-announce Bosc-announce] list.
@@ -28,8 +28,6 @@ In addition, we are asking all speakers to come prepared to lead an informal tut
 * Visualization
 There will also be updates from O|B|F-sponsored projects, and as always, abstracts may be submitted for open source software that does not fit neatly into the above categories.  Lightning Talks will also highlight very recent developments.
 
-
-See [[Past BOSC conferences | past BOSC conferences]].
 
 <!--===Open Source License Requirement===
 
