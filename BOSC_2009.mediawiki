@@ -61,7 +61,9 @@ See the following websites for further information:
 * [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
 
 
+== Contact ==
 
+Chair of the conference and of the organizing committee is [http://myweb.lmu.edu/kdahlqui/ Kam Dahlquist]. Aside from Dr. Dahlquist, the 2008 BOSC Organizing Committee consists of [http://www.bioperl.org/wiki/Chris_Dagdigian Chris Dagdigian], [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp]. For more information about the conference or the call for abstracts, please contact the organizers at [mailto:bosc@openbio.org bosc@open-bio.org].
 
 [[Category:BOSC]] [[Category:Conferences]]
 [[Category:BOSC Conferences]]
