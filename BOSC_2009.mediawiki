@@ -61,8 +61,6 @@ See the following websites for further information:
 * [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
 
 
-The abstract should clearly state:
-
 
 
 [[Category:BOSC]] [[Category:Conferences]]
