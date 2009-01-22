@@ -73,7 +73,7 @@ See the following websites for further information:
 
 === Members ===
 
-* [[bp:Hilmar Lapp|Hilmar Lapp]] (BioPerl, BioSQL, and NESCent)
+* [[bp:Hilmar Lapp|Hilmar Lapp]] (O|B|F, BioPerl, BioSQL, and NESCent)
 * Jens Lichtenberg (Ohio University)
 ** Publications
 * Frank Drews (Ohio University)
@@ -85,7 +85,6 @@ See the following websites for further information:
 ** Visualization
 *  Anton Nekrutenko (Penn State University)
 ** Overlap with Data Management & Analysis SIG
-
 
 For more information about the conference or the call for abstracts, please contact the organizers at [mailto:bosc@openbio.org bosc@open-bio.org].
 
