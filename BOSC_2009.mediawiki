@@ -30,11 +30,11 @@ This year’s conference will mark the 10th anniversary of BOSC.  To celebrate t
 * Reviews of open source software that compares and contrasts different solutions to the same bioinformatics problem.
 In addition, we are asking all speakers to come prepared to lead an informal tutorial on their software during a Birds of a Feather/hackathon session.  This year’s topics include:
 * Design Patterns in Bioinformatics [http://www.ohio.edu/cidds/welch/ Lonnie Welch]
-* Regulatory Genomics
-* Multicore and GPGPU computing
-* Data & Analysis Management (shared session with DAM SIG)
-* Computational Grids
-* Visualization
+* Regulatory Genomics [http://www.ohio.edu/cidds/welch/ Lonnie Welch]
+* Multicore and GPGPU computing [http://frankdrews.com/ Frank Drews]
+* Data & Analysis Management (shared session with DAM SIG) [http://www.bx.psu.edu/~anton/ Anton Nekrutenko]
+* Computational Grids [http://frankdrews.com/ Frank Drews]
+* Visualization [http://www-db.embl.de/jss/EmblGroupsHD/per_4631.html Seán O'Donoghue ]
 There will also be updates from O|B|F-sponsored projects, and as always, abstracts may be submitted for open source software that does not fit neatly into the above categories.  Lightning Talks will also highlight very recent developments.
 
 == Abstract Submission Information ==
