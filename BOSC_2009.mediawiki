@@ -38,10 +38,9 @@ There will also be updates from O|B|F-sponsored projects, and as always, abstrac
 
 == Abstract Submission Information ==
 
-The deadline for abstract submissions is Monday, April 13.
-Abstract submissions will not be accepted via e-mail this year.  All abstracts were submitted through our EasyChair site (opening soon).
+The deadline for abstract submissions is Monday, April 13. Abstract submissions will '''not''' be accepted via e-mail this year.  All abstracts are to be  submitted through our [https://www.easychair.org/login.cgi?conf=bosc2009 EasyChair conference site].
 
-Abstracts must be one page in length and submitted as a PDF file only.  Please observe the following formatting guidelines
+Abstracts must be one page in length and submitted '''as a PDF file only'''.  Please observe the following formatting guidelines
 * Use 1 inch (2.5 cm) margins on the top, sides, and bottom of the page.
 * List the title at the top of the page.
 * Next list the authors with the presenting author's name underlined.
@@ -54,12 +53,11 @@ Accepted talks will be 10-20 minutes, depending on the session. You will be noti
 
 ===Open Source License Requirement===
 
-The [[OBF|Open Bioinformatics Foundation]], which is the sole sponsor of BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the Biological Research Community. For this reason, in order to be considered for acceptance, any talk submitted to be presented at BOSC which concerns a specific software system to be used by the research community must be licensed with a recognized Open Source License, and be available for download by anyone using ftp, cvs/subversion, or as a tar/zip file from the Project Website.
+The [[OBF|Open Bioinformatics Foundation]], which is the sole sponsor of BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the biological research community. For this reason, in order to be considered for acceptance, any talk submitted to be presented at BOSC which concerns a specific software system to be used by the research community must be licensed with a recognized Open Source License, and be available for download, including source code, by anyone using ftp, cvs/subversion, or as a tar/zip file from the Project Website.
 
 See the following websites for further information:
 * [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
 * [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
-
 
 == Contact ==
 
