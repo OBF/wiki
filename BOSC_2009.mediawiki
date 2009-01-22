@@ -59,9 +59,9 @@ See the following websites for further information:
 * [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
 * [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
 
-== Contact ==
+== Organizing Committee ==
 
-=== Chair of Organizing Committee ===
+=== Chair ===
 
 * [http://myweb.lmu.edu/kdahlqui Kam D. Dahlquist] (Loyola Marymount University)
 ** Oversight of entire conference
@@ -86,7 +86,11 @@ See the following websites for further information:
 *  Anton Nekrutenko (Penn State University)
 ** Overlap with Data Management & Analysis SIG
 
-For more information about the conference or the call for abstracts, please contact the organizers at [mailto:bosc@openbio.org bosc@open-bio.org].
+== How to participate & contact ==
+
+* If you wish to join the BOSC 2009 Organizing Committee, please send an e-mail to [mailto:bosc@open-bio.org bosc@open-bio.org].  Conference planning is being discussed on the [[Talk:BOSC_2009 | Discussion]] page, you are welcome to add your ideas.
+* If you wish to be on the mailing list for BOSC-related announcements, including the call for abstracts and deadline reminders, please subscribe to the [http://lists.open-bio.org/mailman/listinfo/bosc-announce Bosc-announce] list.
+* For more information about the conference or the call for abstracts, please contact the organizers at [mailto:bosc@openbio.org bosc@open-bio.org].
 
 [[Category:BOSC]] [[Category:Conferences]]
 [[Category:BOSC Conferences]]
