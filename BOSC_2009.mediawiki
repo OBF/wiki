@@ -2,10 +2,14 @@
 title: BOSC 2009
 ---
 
-[[Image:Pear.png|The Bosc Pair]]
+[[Image:Pear.png|right|The Bosc Pair]]
 
-BOSC 2009 will be held for 2 days in conjunction with [http://www.iscb.org/ismbeccb2009/index.php the 17th Annual International Conference on Intelligent Systems for Molecular Biology (ISMB 2009)] in Stockholm, Sweden (which itself will be held jointly with the 7th European Conference on Computational Biology, ECCB 2009). The dates of BOSC 2009 are June 27 - 28; the main ISMB/ECCB Conference runs June 29 - July 2, 2009.  Click here to see [[Past BOSC conferences|past BOSC conferences]].
+BOSC 2009 will be held for 2 days in conjunction with [http://www.iscb.org/ismbeccb2009/index.php the 17th Annual International Conference on Intelligent Systems for Molecular Biology (ISMB 2009)] in Stockholm, Sweden (which itself will be held jointly with the 7th European Conference on Computational Biology, ECCB 2009). The dates of BOSC 2009 are June 27 - 28; the main ISMB/ECCB Conference runs June 29 - July 2, 2009.
 
+Please see [[Past BOSC conferences|past BOSC conferences]] for the previous 9 conferences.
+
+__NOTOC__
+<div style="float: right;">__TOC__</div>
 == Overview ==
 The Bioinformatics Open Source Conference (BOSC) is sponsored by the Open Bioinformatics Foundation (O|B|F), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development within the biological research community. 
 
