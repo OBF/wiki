@@ -32,7 +32,8 @@ In addition, we are asking all speakers to come prepared to lead an informal tut
 * '''Design Patterns in Bioinformatics''' (topic organizer: [http://www.ohio.edu/cidds/welch/ Lonnie Welch])
 * '''Regulatory Genomics''' (topic organizer: [http://www.ohio.edu/cidds/welch/ Lonnie Welch])
 * '''Multicore and GPGPU computing''' (topic organizer: [http://frankdrews.com/ Frank Drews])
-* '''Data & Analysis Management''' (shared session with DAM SIG) (topic organizer: [http://www.bx.psu.edu/~anton/ Anton Nekrutenko])
+* '''Data & Analysis Management''' (topic organizer: [http://www.bx.psu.edu/~anton/ Anton Nekrutenko])
+** Shared session with [http://www.dam-sig.org/ DAM SIG] for introduction of cutting edge applications that mold data sources and analysis tools into a singular medium benefitting both extremes on the user spectrum: experimentalists and computational researchers
 * '''Computational Grids''' (topic organizers: [http://www.inb.uni-luebeck.de/~moeller/ Steffen Moeller], [http://frankdrews.com/ Frank Drews])
 ** Presentation of projects in computational biology that adapted grid technologies for the research or services. How heterogeneous resources from multiple geographical locations were brought together to achieve what could barely could have been achieved alone.
 * '''Visualization''' (topic organizers: Jim Procter, [http://www-db.embl.de/jss/EmblGroupsHD/per_4631.html Seán O'Donoghue ])
