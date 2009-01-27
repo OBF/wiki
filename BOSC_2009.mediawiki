@@ -34,7 +34,7 @@ In addition, we are asking all speakers to come prepared to lead an informal tut
 * Multicore and GPGPU computing (topic organizer: [http://frankdrews.com/ Frank Drews])
 * Data & Analysis Management (shared session with DAM SIG) (topic organizer: [http://www.bx.psu.edu/~anton/ Anton Nekrutenko])
 * Computational Grids (topic organizer: [http://frankdrews.com/ Frank Drews])
-* Visualization (topic organizer: [Jim Procter, [http://www-db.embl.de/jss/EmblGroupsHD/per_4631.html Seán O'Donoghue ])
+* Visualization (topic organizer: Jim Procter, [http://www-db.embl.de/jss/EmblGroupsHD/per_4631.html Seán O'Donoghue ])
 There will also be updates from O|B|F-sponsored projects, and as always, abstracts may be submitted for open source software that does not fit neatly into the above categories.  Lightning Talks will also highlight very recent developments.
 
 == Abstract Submission Information ==
