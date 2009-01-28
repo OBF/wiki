@@ -60,7 +60,7 @@ Submissions for Lightning Talks (length ~5 minutes) will be accepted up until th
 
 === Open Source License Requirement ===
 
-The [[OBF|Open Bioinformatics Foundation]], which is the sole sponsor of BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the biological research community. For this reason, in order to be considered for acceptance, any talk submitted to be presented at BOSC which concerns a specific software system to be used by the research community must be licensed with a recognized Open Source License, and be available for download, including source code, by anyone using ftp, cvs/subversion, or as a tar/zip file from the Project Website.
+The [[OBF|Open Bioinformatics Foundation]], which is the sole sponsor of BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the biological research community. For this reason, if a submitted talk proposal concerns a specific software system for use by the research community, then that software must be licensed with a recognized Open Source License, and be available for download, including source code, by a tar/zip file accessed through ftp/http or through a widely used version control system like cvs/subversion/git/bazaar/Mercurial.
 
 See the following websites for further information:
 * [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
