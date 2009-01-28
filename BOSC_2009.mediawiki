@@ -66,6 +66,12 @@ See the following websites for further information:
 * [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
 * [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
 
+=== Post-conference Slide Availability ===
+
+* In the spirit of openness, we would like to make the presentation slides publicly available after the conference.
+* The organizers will be requesting an electronic copy of the slides for posting.
+* For example, see slides from BOSC 2008 on [http://www.slideshare.net/tag/bosc_2008 SlideShare].
+
 == Organizing Committee ==
 
 The organizing committee can be contacted by email at [mailto:bosc@openbio.org bosc@open-bio.org].
