@@ -90,7 +90,7 @@ The organizing committee can be contacted by email at [mailto:bosc@openbio.org b
 
 * [[bp:Hilmar Lapp|Hilmar Lapp]] (O|B|F, BioPerl, BioSQL, and NESCent)
 * Jens Lichtenberg (Ohio University)
-** Publications
+** Publications (responsible for managing the EasyChair site and making the abstract program)
 * Frank Drews (Ohio University)
 ** Multicore and gpgpu computing
 * Andrew Dalke (Dalke Scientific, Goteborg, Sweden)
