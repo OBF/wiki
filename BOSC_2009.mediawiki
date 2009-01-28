@@ -30,7 +30,7 @@ This year’s conference will mark the 10th anniversary of BOSC.  To celebrate t
 * Reviews of open source software that compares and contrasts different solutions to the same bioinformatics problem.
 In addition, we are asking all speakers to come prepared to lead an informal tutorial on their software during a Birds of a Feather/hackathon session.  This year’s topics include:
 * '''Design Patterns in Bioinformatics''' (topic organizer: [http://www.ohio.edu/cidds/welch/ Lonnie Welch])
-** Various recurring patterns have emerged in the field of bioinformataics.  The open source community has created many of these patterns, and this session will feature presentations that analyze and codify the bioinformatics patterns.  See http://hillside.net/patterns/ for definitions and examples of patterns.   
+** Various recurring patterns have emerged in the field of bioinformataics.  The open source community has created many of these patterns, and this session will feature presentations that analyze and codify bioinformatics patterns.  See http://hillside.net/patterns/ for definitions and examples of patterns.   
 * '''Regulatory Genomics''' (topic organizer: [http://www.ohio.edu/cidds/welch/ Lonnie Welch])
 ** This session will focus on open source software that is designed for decoding the regulatory aspects, i.e., the control systems, of the genomes.   
 * '''Multicore and GPGPU computing''' (topic organizer: [http://frankdrews.com/ Frank Drews])
