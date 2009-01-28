@@ -100,6 +100,8 @@ The organizing committee can be contacted by email at [mailto:bosc@openbio.org b
 ** Visualization
 *  Anton Nekrutenko (Penn State University)
 ** Overlap with Data Management & Analysis SIG
+* Steffen Moeller (Institut für Neuro- und Bioinformatik)
+** Computational grids
 
 == How to participate & contact ==
 
