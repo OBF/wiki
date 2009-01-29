@@ -37,8 +37,7 @@ In addition, we are asking all speakers to come prepared to lead an informal tut
 * '''Data & Analysis Management''' (topic organizer: [http://www.bx.psu.edu/~anton/ Anton Nekrutenko])
 ** Shared session with [http://www.dam-sig.org/ DAM SIG] for introduction of cutting edge applications that mold data sources and analysis tools into a singular medium benefitting both extremes on the user spectrum: experimentalists and computational researchers
 * '''Computational Grids''' (topic organizers: [http://www.inb.uni-luebeck.de/~moeller/ Steffen Moeller], [http://frankdrews.com/ Frank Drews])
-** Presentation of projects in computational biology that adapted grid technologies for their research or services. The speaker should explain how heterogeneous resources from multiple geographical locations were brought together to achieve what
-barely could have been achieved alone.
+** Presentation of projects in computational biology that adapted grid technologies for their research or services. The speaker should explain how heterogeneous resources from multiple geographical locations were brought together to achieve what barely could have been achieved alone.
 * '''Visualization''' (topic organizers: [http://www.compbio.dundee.ac.uk Jim Procter], [http://www-db.embl.de/jss/EmblGroupsHD/per_4631.html Seán O'Donoghue ])
 There will also be updates from O|B|F-sponsored projects, and as always, abstracts may be submitted for open source software that does not fit neatly into the above categories.  Lightning Talks will also highlight very recent developments.
 
