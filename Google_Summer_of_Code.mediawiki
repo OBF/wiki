@@ -85,22 +85,22 @@ When applying, (aside from the information requested by Google) please provide t
 
 === Open-Bio Projects involved ===
 
-; [[bp:Main Page|BioPerl]]
+; [[bp:Main Page|BioPerl]] :
 :* [[bp:Becoming_a_developer|Information for new developers]]
 :* [[bp:Mailing_lists|Mailing lists]]
 :* [http://bioperl.org/mailman/listinfo/bioperl-l developers mailing list]
 
-; [http://www.biojava.org Biojava]
+; [http://www.biojava.org Biojava] :
 
-; [http://www.biopython.org Biopython]
+; [http://www.biopython.org Biopython] :
 
-; [http://www.bioruby.org Bioruby]
+; [http://www.bioruby.org Bioruby] :
 
-; [http://biosql.org BioSQL]
+; [http://biosql.org BioSQL] :
 
-; [http://biolib.open-bio.org BioLib]
+; [http://biolib.open-bio.org BioLib] :
 
-; [http://emboss.sourceforge.net/ EMBOSS]
+; [http://emboss.sourceforge.net/ EMBOSS] :
 
 === [http://socghop.appspot.com/ Google Summer of Code 2009] ===
 
