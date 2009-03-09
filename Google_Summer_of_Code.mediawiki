@@ -1,0 +1,112 @@
+---
+title: Google Summer of Code
+---
+
+The O|B|F is applying for the first time for the [http://socghop.appspot.com/ Google Summer of Code] (GSoC) program as an umbrella organization for all O|B|F-affiliated projects. 
+
+On this page we are collecting ideas, possible projects, prerequisites, possible solution approaches, mentors, other people or channels to contact for more information or to bounce ideas off of, etc.
+
+== News ==
+
+*  08 Mar 2009: The project ideas page (the page you are looking at) is ready for adding project ideas. ''--[[User:Lapp|Lapp]]''
+
+== Contact ==
+
+Our organization administrators are [[User:Lapp|Hilmar Lapp]] ([mailto:hlapp%40gmx%2enet hlapp&#64;gmx&#46;net]) and Mauricio Herrera Cuadra ([mailto:mauricio%40open-bio%2eorg mauricio&#64;open-bio&#46;org]).
+
+If you are a student interested in applying for a Google Summer of Code project with our organization, please send any questions you have, projects you would like to propose, etc to the developer mailing list of the pertinent O|B|F project. 
+
+How do you know which project is pertinent and the address of its developer mailing list? The projects under the O|B|F umbrella are listed below, with home page and developer mailing lists. Each project idea lists the O|B|F project it is a part of; look it up in the list below and you have the information you need. If you want to propose your own project idea and the project to which you would contribute isn't obvious, send email to [mailto:open-bio-l%40open-bio%2eorg open-bio-l&#64;open-bio&#46;org].
+
+Some of us also hang out regularly on IRC, see the list of O|B|F projects below for information on which projects have a channel and the name of the channel. ''(If you do not have an IRC client installed, you might find the [http://en.wikipedia.org/wiki/List_of_IRC_clients comparison on Wikipedia], the [http://directory.google.com/Top/Computers/Software/Internet/Clients/Chat/IRC/ Google directory], or the [http://www.ircreviews.org/clients/ IRC Reviews] helpful. For Macs, [http://en.wikipedia.org/wiki/X-Chat X-Chat Aqua] works pretty well. If you have never used IRC, try the [http://irchelp.org/irchelp/ircprimer.html IRC Primer] at [http://irchelp.org/ IRC Help], which also has links to lots of other material.)''
+
+For applying, please make sure you read our [[#What_should_prospective_students_know.3F|documentation on information that students should know and guidelines we expect you to follow]] ''before'' you apply. We don't have a format template for application that you need to adhere to, but we do ask that you include specific kinds of information. What those are is documented under "[[#When you apply|When you apply]]."
+
+== Ideas ==
+
+''Note: if there is more than one mentor for a project, the primary mentor is in '''bold font'''. Biographical and other information on the mentors is linked to in the [[#Mentors|Mentors section]].''
+
+''Students: The below are only our project '''ideas''', albeit well thought-out ones. You are welcome to propose your own project if none of those below catches your interest, or if your idea is more exciting to you, provided it is still a contribution to one the O|B|F member projects (see list below). Just be aware that we can't guarantee finding an appropriate mentor, but if we like your proposal we will try.  Regardless of what you decide to do, make sure you read and follow the [[#What_should_prospective_students_know.3F|guidelines for students]] below.''
+
+=== Write a NEXUS parser in C&amp; ===
+''This is a template for how the student project ideas could be presented. Feel free to copy & paste & edit, and feel free to adjust the format.''
+; Rationale : C& is an amp'ed-up programming language that has not been invented yet but in a few years will dominate the programming world. The best way to prevent broken non-compliant NEXUS parsers written in C& from appearing is to write a good one now.
+; Approach : Re-implementations of NEXUS parsers inevitably tend to be broken or non-compliant. Hence, the best approach is to write a translator that translates a reference implementation to C&.
+; Challenges : C& has not been invented yet, so a lot of assumptions will have to be made.
+; Involved toolkits or projects : The [http://www.biocamp.org BioC&] toolkit has much of the needed framework.
+; Degree of difficulty and needed skills : Hard. The hardest part is probably inventing C&amp;. Writing the parser itself should be medium, unless C& was ill-designed for writing parsers. Knowledge of the BioC& toolkit will obviously help, as well as knowing the NEXUS format.
+; Mentors : Mike&amp;, founder of BioC&
+
+==Mentors==
+
+* [[User:Lapp|Hilmar Lapp]] (organization administrator)
+* [http://thebird.nl/pjwiki/wiki.pl Pjotr Prins]
+
+== What should prospective students know? ==
+
+=== Before you apply ===
+
+* If you want to apply with your own idea, determine which O|B|F project you would be contributing to, and [[#Contact|contact us]] early on so we can try to find a mentor.
+* Our scope for proposals that we will entertain is those extend one of affiliated toolkits. Project proposals that would create a new stand-alone piece of code are outside of our scope.  
+* We are most interested in students who give us evidence that they have already or might develop a sustained interest in becoming future contributors to one (or more) of our projects.
+* [[#Contact|Ask us questions]] about the project idea you have in mind.
+* Write a project proposal draft, include a project plan (see below), and [[#Contact|bounce those off of us]].
+
+
+Have I mentioned yet that you should [[#Contact|be in touch with us]] ''before'' you apply? The value of frequent and early communication in contributing to a distributed and collaboratively developed project can hardly be overemphasized. The same is true for becoming part of a community, even if only temporarily. 
+
+=== When you apply ===
+
+When applying, (aside from the information requested by Google) please provide the following in your application material.
+# Why you are interested in the project you are proposing, uniquely suited to undertake it, and what do you anticipate to gain from it.
+# Why are you interested in contributing to the O|B|F project that your work would be (or become) a part of? To what extent and in which ways do you anticipate to stay involved with the project?
+# A summary of your programming experience and skills.
+# Programs or projects you have previously authored or contributed to, in particular those available as open-source, including, if applicable, any past Summer of Code involvement.
+# A project plan for the project you are proposing, even if your proposed project is directly based on one of the ideas above.
+#* A project plan in principle divides up the whole project into a series of manageable milestones and timelines that, when all accomplished, logically lead to the end goal(s) of the project. Put in another way, a project plan explains what you expect you will need to be doing, and what you expect you need to have accomplished, at which time, so that at the end you reach the goals of the project.
+#* Do not take this part lightly. A compelling plan takes a significant amount of work. Empirically, applications with no or a hastily composed project plan have not been competitive, and a more thorough project plan can easily make an applicant outcompete another with more advanced skills.
+#* A good plan will require you to thoroughly think about the project itself and how one might want to go about the work.
+#* We don't expect you to have all the experience, background, and knowledge to come up with the final, real work plan on your own at the time you apply. We do expect your plan to demonstrate, however, that you have made the effort and thoroughly dissected the goals into tasks and successive accomplishments that make sense.
+#* We strongly recommend that you bounce your proposed project and your project plan draft off of us, using either the pertinent developers mailing list or the IRC channel(s). Through the project plan exercise you will inevitably discover that you are missing a lot of the pieces - we are there to help you fill those in as best as we can.
+# Your possibly conflicting obligations or plans for the summer during the coding period.
+#* Although there are no hard and fast rules about how much you can do in parallel to your Summer of Code project, we do expect the project to be your primary focus of attention over the summer. If you look at your Summer of Code project as a part-time occupation, please don't apply to us.
+#* That notwithstanding, if you have the time-management skills to manage other work obligations concurrent with your Summer of Code project, feel encouraged to make your case and support it with evidence.
+#* Most important of all, be upfront. If it turns out later that you weren't clear about other obligations, at best (i.e., if your accomplishment record at that point is spotless) it destroys our trust. Also, if you are accepted, don't take on additional obligations before discussing those with your mentor.
+#* One of the most common reasons for students to struggle or fail is being overstretched. Don't set yourself up for that - at best it would greatly diminish the amount of fun you'll have with your Summer of Code project.
+
+=== Other information ===
+
+* Our [ 2009 application document] with Google's questions and our answers
+* For questions of eligibility, see the [http://code.google.com/opensource/gsoc/2009/faqs.html#0_1_eligibility_83343977761348_13148542340972003 GSoC eligibility requirements for students]. These requirements must be met on April 20, 2009.
+* There is also a [http://groups.google.com/group/google-summer-of-code-discuss Google group for posting GSoC questions] (and receiving answers; note that you will need to sign up for the group) that relate to the program itself (and are not specific to our organization).
+* Students receive a stipend from Google if accepted. See the [http://code.google.com/opensource/gsoc/2009/faqs.html#0_1_administrivia_842873138659_49145328697313184 Google SoC FAQ on payments] for full documentation.
+
+== Reference Facts &amp; Links==
+
+=== Open-Bio Projects involved ===
+
+; [[bp:Main Page|BioPerl]]
+:* [[bp:Becoming_a_developer|Information for new developers]]
+:* [[bp:Mailing_lists|Mailing lists]]
+:* [http://bioperl.org/mailman/listinfo/bioperl-l developers mailing list]
+
+; [http://www.biojava.org Biojava]
+
+; [http://www.biopython.org Biopython]
+
+; [http://www.bioruby.org Bioruby]
+
+; [http://biosql.org BioSQL]
+
+; [http://biolib.open-bio.org BioLib]
+
+; [http://emboss.sourceforge.net/ EMBOSS]
+
+=== [http://socghop.appspot.com/ Google Summer of Code 2009] ===
+
+* Mentoring organizations apply between March 9-13, 2009. Accepted mentoring organizations will be published March 18. See [http://code.google.com/opensource/gsoc/2009/faqs.html#0_1_timeline_5354032302481437_ full set of timelines].
+* Google expects to accept around 150 mentoring organizations, a bit less than in 2008 (when they accepted 175). If the trend over the past years is any indication, this will be out of at least 3x as many organizations that apply.
+* Students apply between March 23-April 3, 2009. The [http://code.google.com/opensource/gsoc/2009/faqs.html#0_1_eligibility_83343977761348_13148542340972003 eligibility requirements for students] are in the GSoC FAQ.
+* [http://code.google.com/opensource/gsoc/2009/faqs.html#0_1_development_where_91701355_4247830955169275 Development occurs on-line], there is no requirement or expectation to travel, neither for students nor for mentors.
+
+[[Category:Summer of Code]]
