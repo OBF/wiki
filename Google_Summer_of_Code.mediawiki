@@ -40,7 +40,7 @@ For applying, please make sure you read our [[#What_should_prospective_students_
 ==Mentors==
 
 * Brad Chapman (MGH; Biopython)
-* [[bp:User:Cjfields|Chris Fields]]
+* [[bp:User:Cjfields|Chris Fields]] (U. Illinois, Chicago; BioPerl)
 * Mark Jensen (Fortinbras; BioPerl)
 * [[bp:User:Rogerhall|Roger Hall]] (U. of Arkansas; BioPerl)
 * [[User:Lapp|Hilmar Lapp]] (organization administrator)
