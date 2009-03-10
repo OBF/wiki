@@ -39,8 +39,11 @@ For applying, please make sure you read our [[#What_should_prospective_students_
 
 ==Mentors==
 
+* Brad Chapman (MGH; Biopython)
 * [[User:Lapp|Hilmar Lapp]] (organization administrator)
-* [http://thebird.nl/pjwiki/wiki.pl Pjotr Prins]
+* [http://thebird.nl/pjwiki/wiki.pl Pjotr Prins] (BioLib)
+* Jonathan Warren (Sanger Institute, UK; Biojava)
+* Scooter Willis (Scripps Florida; Biojava)
 
 == What should prospective students know? ==
 
