@@ -41,6 +41,7 @@ For applying, please make sure you read our [[#What_should_prospective_students_
 
 * Brad Chapman (MGH; Biopython)
 * Mark Jensen (Fortinbras; BioPerl)
+* Roger Hall (U. of Arkansas; BioPerl)
 * [[User:Lapp|Hilmar Lapp]] (organization administrator)
 * [http://thebird.nl/pjwiki/wiki.pl Pjotr Prins] (BioLib)
 * Joshua Udall (BioPerl)
