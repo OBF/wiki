@@ -86,7 +86,7 @@ its functionality, by
 
 ; Degree of difficulty and needed skills : Varies from medium to difficult. Good working knowledge of PERL is required; bioinformatics experience would be very helpful; familiarity with web service ideas would give some comfort to the mentee starting out. The mentor will assist both in coding strategies and providing background information in the biology. 
 
-; Mentors : [[User:Majensen|Mark Jensen]] ([http://www.bioperl.org/wiki/User:Majensen BioPerl page])
+; Mentors : [[bp:User:Majensen|Mark Jensen]]
 
 ==Mentors==
 
