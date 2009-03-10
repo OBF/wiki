@@ -93,7 +93,7 @@ its functionality, by
 * Brad Chapman (MGH; Biopython)
 * [[bp:User:Mauricio|Mauricio Herrera Cuadra]] (UNAM & Yahoo; backup org admin)
 * [[bp:User:Cjfields|Chris Fields]] (U. Illinois, Chicago; BioPerl)
-* [[bp:User:Majensen Mark Jensen]] (Fortinbras; BioPerl)
+* [[bp:User:Majensen|Mark Jensen]] (Fortinbras; BioPerl)
 * [[bp:User:Rogerhall|Roger Hall]] (U. of Arkansas; BioPerl)
 * [[User:Lapp|Hilmar Lapp]] (NESCent; org admin)
 * [http://thebird.nl/pjwiki/wiki.pl Pjotr Prins] (BioLib)
