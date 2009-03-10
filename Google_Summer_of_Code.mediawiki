@@ -37,6 +37,34 @@ For applying, please make sure you read our [[#What_should_prospective_students_
 ; Degree of difficulty and needed skills : Hard. The hardest part is probably inventing C&amp;. Writing the parser itself should be medium, unless C& was ill-designed for writing parsers. Knowledge of the BioC& toolkit will obviously help, as well as knowing the NEXUS format.
 ; Mentors : Mike&amp;, founder of BioC&
 
+
+=== Write a JEE5 webservice interface to BioSQL; ===
+; Rationale : 
+BioSQL is a intelligently designed database schema for storing sequence data and associated metadata. It does however lack any kind of user API. A sensible way to design an API for a BioSQL backed database would be to expose the API as webservices. This would allow the API to be language and database agnostic (unlike an API based on database proceedures). It would also allow data in BioSQL to be very loosely coupled into bioinformatics workflows. Once an API is in place one could even adopt modified SQL schemas underneath as long as the data access API still conforms to some specification. 
+
+; Approach : 
+Since the development of Java EE5 (and EJB3) the development of Enterprise Java Beans that interoperate with databases and webservices is exceptionally easy. In addition Java Session Beans can be readily exported as webservices with the addition of simple annotations, often no specific configuration is required. Free and open Java app servers (such as glassfish) that provide almost all of the management middleware for object relational mapping (ORM) and webservice deployment (and a whole host of other things) are available and relatively simple to use. Finally the free and open IDE Netbeans has excellent integration with Glassfish and Java EE5 (plus I am most experienced with this IDE so I can provide more help with it's use).  For these reasons I would suggest that Java EE5 is the most sensible approach to implementing this project.
+
+During a development meeting, in Tokyo in 2008, a preliminary EJB mapping to BioSQL was generated. What remains to be done is the development of a simple, well documented and well tested API specification and implementation that bioinformatics developers can use to perform CRUD (CReate, Update, Delete) functions on the database as well as useful search and retreival operations.
+
+In summary the project will define and document an API and expected behaivour and then implement the webservice interface. A set of unit tests will also be developed along with a proof-of-concept app that demonstrates use of the API.
+
+; Challenges : 
+* Designing and documenting the API so that it is simple and intuitive
+* Making simple queries simple and efficient and complex queries possible.
+* Making CRUD operations secure (only people with the right credentials should be able to delete the data).
+* Loaders for common file types.
+* [Nice to have] Making a test application that will call API methods with predefined arguments. This will let people make alternative implementations of the API while testing they are still compatible with the API. For example someone could make an entire implementation in Perl/ BioPerl and still have it validate against the API.
+
+; Involved toolkits or projects : 
+JavaEE5, BioSQL, parts of BioJava would be useful to steal for parsing.
+
+; Degree of difficulty and needed skills : 
+Medium to Hard. While the use of Java EE5 is now quite easy (esp with IDEs like Netbeans) there is quite a lot of concepts involved in the project (Webservices, ORM, EJBs etc). The hard part would be getting up to speed with those concepts. If you already know a lot of this then the project would only be medium difficulty. At minimum the student should be confident with Java and at least aware of some of the technologies. This is not the right project for a very new programmer.
+
+; Mentors : [http://www.linkedin.com/in/markjschreiber Mark Schreiber] (and anyone else who wants to help)
+
+
 === Expanding the scope and utility of '''''spa''Typer''', a tool for molecular epidemiology ===
 
 ; Rationale :
