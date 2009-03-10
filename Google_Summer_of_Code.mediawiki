@@ -123,9 +123,86 @@ like Perl (did I write OOP?), Python, JAVA, R or Ruby.
 
 '''Pjotr Prins''', Chris Fields
 
+=== BioSQL web interface and API on Google App Engine ===
+
+; Rationale : 
+The [http://www.biosql.org/wiki/Main_Page BioSQL] project provides a
+robust and well supported database schema for storing sequence data and
+associated annotations and features. It does not have a standard web interface
+or web facing API, both of which would provide improved access to scientific
+data. Deployment of BioSQL currently requires knowledge
+and administration of relational databases, which can hinder its use in
+smaller research laboratories that do not have public servers or experienced
+systems administrators.
+
+This proposal seeks to bridge this gap by providing a rapidly deployable
+[http://en.wikipedia.org/wiki/Cloud_computing cloud based] solution utilizing
+the established BioSQL backend. This system will allow scientists to share
+results in a standard format both early on during research and at the time of
+publication. By deploying on stable architectures, long term data access is
+ensured and not dependent on maintenance of local servers. Data archival for
+replication and expansion of ideas is an important part of the scientific process; this
+[http://www.portfolio.com/views/blogs/market-movers/2009/02/18/when-academic-papers-arent-replicable?tid=true
+recent blog review] summarizes some of the problems associated with primary data access.
+
+; Approach : 
+[http://code.google.com/appengine/ Google App Engine] provides a full
+development stack for rapidly building and deploying web applications. The
+platform provides free quotas which allow a small lab with a limited budget to
+make their data available, and also scales for larger projects with popular
+data sets.
+
+The student project expands an initial demonstration server (XXX Need to finish/
+get this online; URL here) to a full featured web application. The server side
+implementation will be programmed in Python, utilizing the Google App Engine 
+[http://code.google.com/appengine/docs/ developers toolkit]
+supplemented with the [http://biopython.org/wiki/Main_Page Biopython]
+libraries. The client web interface will be designed using HTML, CSS and
+javascript; the interface will utilize a full featured javascript
+library, such as  [http://jquery.com/ jQuery] and [http://jqueryui.com/ jQueryUI] 
+or [http://extjs.com/ ExtJS]. Client to server communication occurs
+using [http://en.wikipedia.org/wiki/Ajax_(programming) AJAX] techniques
+with [http://en.wikipedia.org/wiki/JSON JSON] for data exchange.
+
+In addition to the web interface, the server will also provide a programming
+interface using a [http://en.wikipedia.org/wiki/Representational_State_Transfer
+REST] API. This involves coordination with other proposed projects,
+including the proposed JEE5 Java webservice, to design a common interface.
+
+; Challenges : 
+* Familiarizing student with Python, Javascript and AJAX, as well as the
+  Google App Engine environment.
+* Initial implementation of BioSQL server interface with useful features.
+* Coordinating input from users on the
+  [http://lists.open-bio.org/mailman/listinfo/biosql-l BioSQL mailing list].
+  The student will need to solicit desired features from users and prioritize
+  based on implementation time and importance. See
+  [http://lists.open-bio.org/pipermail/biosql-l/2009-January/001464.html this
+  mailing list discussion] for an example of interest and initial ideas.
+* Designing the web interface for intuitive use.
+* Coordinating API development with other projects.
+
+; Involved toolkits or projects : 
+* [http://www.biosql.org/wiki/Main_Page BioSQL]
+* [http://biopython.org/wiki/Main_Page Biopython]
+* [http://code.google.com/appengine/ Google App Engine]
+* [http://www.python.org Python]
+* [http://jquery.com/ jQuery]; [http://jqueryui.com/ jQueryUI]
+* [http://extjs.com/ ExtJS]
+
+; Degree of difficulty and needed skills : 
+Medium to Hard. This requires a familiarity with current web frameworks and
+utilizes a number of existing libraries to allow the student to jump right
+into the development process. This requires the interested student to be comfortable
+with quickly learning outside libraries. Beyond programming, the project 
+will also involve creative thinking about interface and usability design.
+
+; Mentors : 
+Brad Chapman (plus...)
+
 ==Mentors==
 
-* Brad Chapman (MGH; Biopython)
+* [http://bcbio.wordpress.com/ Brad Chapman] (MGH; Biopython)
 * [[User:Mauricio|Mauricio Herrera Cuadra]] (Yahoo! Inc.; backup org admin)
 * [[bp:User:Cjfields|Chris Fields]] (U. Illinois, Chicago; BioPerl)
 * [[bp:User:Majensen|Mark Jensen]] (Fortinbras; BioPerl)
