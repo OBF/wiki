@@ -40,8 +40,10 @@ For applying, please make sure you read our [[#What_should_prospective_students_
 ==Mentors==
 
 * Brad Chapman (MGH; Biopython)
+* Mark Jensen (Fortinbras; BioPerl)
 * [[User:Lapp|Hilmar Lapp]] (organization administrator)
 * [http://thebird.nl/pjwiki/wiki.pl Pjotr Prins] (BioLib)
+* Joshua Udall (BioPerl)
 * Jonathan Warren (Sanger Institute, UK; Biojava)
 * Scooter Willis (Scripps Florida; Biojava)
 
