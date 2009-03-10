@@ -83,7 +83,7 @@ When applying, (aside from the information requested by Google) please provide t
 
 == Reference Facts &amp; Links==
 
-=== Open-Bio Projects involved ===
+=== Open-Bio projects involved ===
 
 ; [[bp:Main Page|BioPerl]] :
 :* [[bp:Becoming_a_developer|Information for new developers]]
