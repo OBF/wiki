@@ -136,7 +136,7 @@ like Perl (did I write OOP?), Python, JAVA, R or Ruby.
 * Joshua Udall (BioPerl)
 * Jonathan Warren (Sanger Institute, UK; Biojava)
 * Scooter Willis (Scripps Florida; Biojava)
-* [[bp:User:cmzmasek|Christian Zmasek]] (Burnham Institute for Medical Research; BioRuby)
+* [[http://monochrome-effect.net/ Christian Zmasek]] (Burnham Institute for Medical Research; BioRuby)
 
 == What should prospective students know? ==
 
