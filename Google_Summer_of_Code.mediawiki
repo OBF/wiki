@@ -66,7 +66,6 @@ Medium to Hard. While the use of Java EE5 is now quite easy (esp with IDEs like 
 
 ===  Mapping the NCBI toolkit to BioPerl, BioRuby, BioConductor and BioJAVA using BioLib ===
 
-
 ; Rationale :
 
 The National Center for Biotechnology Information (NCBI) has created a
@@ -89,7 +88,6 @@ successfully provides the 'mapping' infrastructure to map complex
 libraries against many computer languages using SWIG. Basically one
 mapping suffices to support all popular languages. 
  
-
 ; Approach :
 
 Special interfaces need to be developed to map the NCBI toolkit
@@ -109,23 +107,21 @@ requires OOP design and unit testing of existing functionality.
 Also some SWIG hacking may be involved to provide decent mappings for R and
 JAVA, as well as SWIG auto generated documentation and testing.
 
-
 ; Involved toolkits or projects :
 
-BioLib, BioPerl, SWIG (and optionally BioRuby, R/Bioconductor, BioJAVA
+[http://biolib.open-bio.org/ BioLib], BioPerl, SWIG (and optionally BioRuby, R/Bioconductor, BioJAVA
 or BioPython)
-
 
 ; Degree of difficulty and needed skills :
 
 This is a challenging project as it crosses
 computer languages. It requires experience in C++ and a wish for
-understanding of internals of at least one high-level OOP language
-like Perl (did I write OOP?), Python, R or Ruby.
+deeper understanding of at least one high-level OOP language
+like Perl (did I write OOP?), Python, JAVA, R or Ruby.
 
 ; Mentors :
 
-Pjotr Prins, Chris Fields
+'''Pjotr Prins''', Chris Fields
 
 ==Mentors==
 
