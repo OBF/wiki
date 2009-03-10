@@ -65,8 +65,8 @@ Identification of the spa type of an MRSA strain is a slightly tricky
 and interesting bioinformatic problem. I have written a freely
 available web tool for ''spa'' typing MRSA based on sequence, at
 http://fortinbras.us/spaTyper. The project I am entertaining involves
-making spaTyper even more widely useful, by expanding its mandate and
-its functionality, by
+making spaTyper even more widely useful, expanding its mandate and
+its functionality by
 
 * Extending ''spa''Typer's underlying repeat database to allow repeat typing at other genes that exhibit similar behavior ([http://www.ncbi.nlm.nih.gov/nuccore/223588324 ''coa''], for example);
 
