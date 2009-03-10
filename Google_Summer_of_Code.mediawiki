@@ -40,10 +40,11 @@ For applying, please make sure you read our [[#What_should_prospective_students_
 ==Mentors==
 
 * Brad Chapman (MGH; Biopython)
+* [[bp:User:Mauricio|Mauricio Herrera Cuadra]] (UNAM & Yahoo; backup org admin)
 * [[bp:User:Cjfields|Chris Fields]] (U. Illinois, Chicago; BioPerl)
 * Mark Jensen (Fortinbras; BioPerl)
 * [[bp:User:Rogerhall|Roger Hall]] (U. of Arkansas; BioPerl)
-* [[User:Lapp|Hilmar Lapp]] (organization administrator)
+* [[User:Lapp|Hilmar Lapp]] (NESCent; org admin)
 * [http://thebird.nl/pjwiki/wiki.pl Pjotr Prins] (BioLib)
 * Joshua Udall (BioPerl)
 * Jonathan Warren (Sanger Institute, UK; Biojava)
