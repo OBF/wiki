@@ -37,6 +37,57 @@ For applying, please make sure you read our [[#What_should_prospective_students_
 ; Degree of difficulty and needed skills : Hard. The hardest part is probably inventing C&amp;. Writing the parser itself should be medium, unless C& was ill-designed for writing parsers. Knowledge of the BioC& toolkit will obviously help, as well as knowing the NEXUS format.
 ; Mentors : Mike&amp;, founder of BioC&
 
+=== Expanding the scope and utility of '''''spa''Typer''', a tool for molecular epidemiology ===
+
+; Rationale :
+A key step in tracing the transmission and evolution of important
+human and animal infections involves identifying and cataloging the
+strains of the bacteria, virus, or fungus collected during the course
+of an epidemic. Identification is most often performed by sequencing
+part of the genetic material (either DNA or RNA) of the infectious
+agents that are sampled during the investigation. The sequence is then
+checked against databases, and compared with the sequences of other
+samples, in the hope of inferring who gave what to whom when. 
+
+One technique of classifying bacterial strains on the basis of gene
+sequences (a.k.a, "genotyping") is known as "spa typing". This method
+is especially important in investigations of the "superbug"
+methicillin-resistant ''Staphylococcus aureus'' (MRSA). A portion of the bacterial
+[http://www.ncbi.nlm.nih.gov/nuccore/126517445 Protein A (''spa'') gene] consists of number of short, very similiar
+stretches of DNA; both the number and sequence of these stretches can
+vary, depending on the bacterial strain. This region of "''spa'' repeats"
+is thus useful in identifying the particular strain of bacteria. "''spa''
+types" have been identified that have helped to characterize the
+regional, national, and global spread of MRSA infections.
+
+; Approach :
+Identification of the spa type of an MRSA strain is a slightly tricky
+and interesting bioinformatic problem. I have written a freely
+available web tool for ''spa'' typing MRSA based on sequence, at
+http://fortinbras.us/spaTyper. The project I am entertaining involves
+making spaTyper even more widely useful, by expanding its mandate and
+its functionality, by
+
+* Extending ''spa''Typer's underlying repeat database to allow repeat typing at other genes that exhibit similar behavior ([http://www.ncbi.nlm.nih.gov/nuccore/223588324 ''coa''], for example);
+
+* Providing ''spa''Typer with self- or agent-assisted repeat database updating capability;
+
+* Improving the front-end of ''spa''Typer, making its output more easily tailored to the needs and wants of the end user--this might include, for example, creating a widgetized version;
+
+* Configuring spaTyper to act as a web service under a standardized [[wp:REST|REST]] protocol, to enable users to genotype sequences in batch at desired intervals, unattended. Implementation of spaTyper as a web service would also allow its inclusion in automated workflows; it could then be indexed in [http://www.biomoby.org BioMoby], for example. 
+
+; Challenges : 
+
+* Self-updating will involve Perl-based web programming, automated queries of genetic databases, and identification of the appropriate gene regions, probably using both sequence annotations and direct motif recognition.
+
+* Integrating the features will require nimble programming, moving from database queries to bioinformatic analysis to user display and web-standard packaging.
+
+; Involved toolkits or projects : [http://www.bioperl.org BioPerl] provides the bioinformatic foundation of much of ''spa''Typer. There will likely be a component that involves XML and XML Schema development, parsing, conversion, and unparsing. Perl/CGI and JavaScript are used to implement the human frontend. [[wp:WSDL|WSDL]] will be used to set up the REST bindings to the web service version. 
+
+; Degree of difficulty and needed skills : Varies from medium to difficult. Good working knowledge of PERL is required; bioinformatics experience would be very helpful; familiarity with web service ideas would give some comfort to the mentee starting out. The mentor will assist both in coding strategies and providing background information in the biology. 
+
+; Mentors : [[User:Majensen|Mark Jensen]] ([http://www.bioperl.org/wiki/User:Majensen BioPerl page])
+
 ==Mentors==
 
 * Brad Chapman (MGH; Biopython)
