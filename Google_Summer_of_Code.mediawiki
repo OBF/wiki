@@ -38,7 +38,7 @@ For applying, please make sure you read our [[#What_should_prospective_students_
 ; Mentors : Mike&amp;, founder of BioC&
 
 
-=== Write a JEE5 webservice interface to BioSQL; ===
+=== Write a JEE5 webservice interface to BioSQL ===
 ; Rationale : 
 BioSQL is a intelligently designed database schema for storing sequence data and associated metadata. It does however lack any kind of user API. A sensible way to design an API for a BioSQL backed database would be to expose the API as webservices. This would allow the API to be language and database agnostic (unlike an API based on database proceedures). It would also allow data in BioSQL to be very loosely coupled into bioinformatics workflows. Once an API is in place one could even adopt modified SQL schemas underneath as long as the data access API still conforms to some specification. 
 
@@ -63,7 +63,6 @@ JavaEE5, BioSQL, parts of BioJava would be useful to steal for parsing.
 Medium to Hard. While the use of Java EE5 is now quite easy (esp with IDEs like Netbeans) there is quite a lot of concepts involved in the project (Webservices, ORM, EJBs etc). The hard part would be getting up to speed with those concepts. If you already know a lot of this then the project would only be medium difficulty. At minimum the student should be confident with Java and at least aware of some of the technologies. This is not the right project for a very new programmer.
 
 ; Mentors : [http://www.linkedin.com/in/markjschreiber Mark Schreiber] (and anyone else who wants to help)
-
 
 === Expanding the scope and utility of '''''spa''Typer''', a tool for molecular epidemiology ===
 
