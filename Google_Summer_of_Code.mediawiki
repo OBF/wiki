@@ -207,6 +207,7 @@ The related field of phylogenetic or historical biogeography -- the estimation o
 ("*" indicates some version of this already done independently by [http://www.open-bio.org/wiki/User:Nmatzke nmatzke])
 
 * Improve BioPython's [[Bio.Nexus.Trees]] [[newick]] parser, which currently cannot successfully read the newick files output by Phylocom (although these files are read successfully by a variety of other programs and modules, e.g. [http://www-ab.informatik.uni-tuebingen.de/software/dendroscope/welcome.html Dendroscope], [http://pbil.univ-lyon1.fr/software/alfacinha/ alfacinha] python module).*
+* Implement Cardona et al.'s [http://www.biomedcentral.com/1471-2105/9/532 Extended Newick format] for reticulating trees etc. (only exists in BioPerl currently)
 * Develop a series of functions for processing phylocom inputs and outputs*
 * Provide functions for basic community/geographic relatedness (e.g., NRI, NTI, phylosor)*
 * Calculating these statistics for large phylogenies requires calculating/processing a large distance matrix with a C or java library*
