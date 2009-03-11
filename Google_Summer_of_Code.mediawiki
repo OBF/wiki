@@ -197,6 +197,8 @@ Brad Chapman (plus...)
 
 === Biogeographical and community phylogenetics for BioPython ===
 
+(Note: this project is proposed by potential GSoC student [http://www.open-bio.org/wiki/User:Nmatzke Nick Matzke].)
+
 ; Rationale :
 The field of phylogenetics has proliferated, and one new development is that large, phylogenetically explicit datasets are beginning to be used to answer questions about the relationships of ecological communities and biogeographic regions, instead of just individual clades.  The [http://www.phylodiversity.net/phylocom/ phylocom] package (Webb et al., 2008) contains fast C implementations of basic analyses such as alpha- and beta-phylodiversity (Net Related Index and Nearest Taxon Index).  The R package [http://picante.r-forge.r-project.org/ picante], funded by NESCent and Google Summer of Code 2008, contains utilities for processing phylocom inputs/outputs as well as additional tools for applied phylogenetics such as phylogenetic signal, phylosor (phylogenetic sorenon's index), and lineages-through-time plots.  These tools, developed for evolutionary community ecology, are useable in any context where a collection of lineages are undergoing cladogenesis, dispersal, and extinction in a series of containers (communities, biogeographic regions, gene families undergoing gene conversion, laterally transferring elements in unicell genomes, etc.)
 
