@@ -247,10 +247,10 @@ Medium. Requires a familiarity with not just python/biopython but some unusual d
 ==Mentors==
 
 * [http://bcbio.wordpress.com/ Brad Chapman] (MGH; Biopython)
-* [[User:Mauricio|Mauricio Herrera Cuadra]] (Yahoo! Inc.; backup org admin)
 * [[bp:User:Cjfields|Chris Fields]] (U. Illinois, Chicago; BioPerl)
 * [[bp:User:Majensen|Mark Jensen]] (Fortinbras; BioPerl)
 * [[bp:User:Rogerhall|Roger Hall]] (U. of Arkansas; BioPerl)
+* [[User:Mauricio|Mauricio Herrera Cuadra]] (Yahoo! Inc.; backup org admin)
 * [[User:Lapp|Hilmar Lapp]] (NESCent; org admin)
 * [http://thebird.nl/pjwiki/wiki.pl Pjotr Prins] (BioLib)
 * [http://biojava.org/wiki:User:Mark Mark Schreiber] (Novartis Institute for Tropical Diseases, Singapore; BioJava)
