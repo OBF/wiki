@@ -248,6 +248,34 @@ Medium. Requires a familiarity with not just python/biopython but some unusual d
 ; Degree of difficulty and needed skills : Medium. Requires experience in an object oriented programming language (such as C++, Java, or, ideally, Ruby). Experience in genomics or a related biological field is also critical. Knowledge of  BioRuby will obviously help, as well as familiarity with XML.
 ; Mentors : Christian Zmasek (and anyone else who wants to help)
 
+=== BioPerl integration of the NeXML exchange standard + <code>Bio::Phylo</code> toolkit  ===
+
+; Rationale :
+
+[http://www.nexml.org NeXML] is an emerging XML standard for the serialization and exchange of phylogenetic information. In Perl, the [http://phylo.sourceforge.net <code>Bio::Phylo</code>] toolkit is the preferred parser/writer interface for NeXML. While <code>Bio::Phylo</code> contains methods that will operate on BioPerl objects [such as alignments (<code>Bio::SimpleAlign</code>) or trees (<code>Bio::Tree</code>)], a set of methods to wrap <code>Bio::Phylo</code> functionality into BioPerl in a systematic and updateable way would lower barriers to broader use of this useful standard.
+
+; Approach :
+
+We would like to explore a couple of ways to form the linkage between BioPerl and <code>Bio::Phylo</code>, while still maintaining <code>Bio::Phylo</code>'s independence as a module. Since it is part of the implementation side of a rapidly evolving standard, it is more mutable than the average BioPerl module, and should be more nimble. One method would be implement a thin BioPerl wrapper around <code>Bio::Phylo</code>, that allows BioPerl objects to be passed easily in and out, and maintains a stable BioPerl-compliant API, hiding <code>Bio::Phlyo</code> API changes. However, since this project is exploratory, we could also prototype a version of <code>Bio::Phylo</code> that is directly implemented as a BioPerl module. We would also develop appropriate usage tests, test data sets, target audience use cases, benchmarks and profiles to compare the approaches we come up with. 
+
+; Challenges : 
+
+* Designing a relatively stable wrapper around a relatively dynamic module;
+
+* Designing tests that cover important use case scenarios meaningful to BioPerl users;
+
+* Identifying and interfacing <code>Bio::Phylo</code> output and NeXML-serialized data with downstream BioPerl operations; e.g., adding a <code>Bio::SeqIO::nexml</code> module for doing BioPerl-native NeXML IO. 
+
+; Involved toolkits or projects : 
+
+[http://www.bioperl.org BioPerl], [http://phylo.sourceforge.net <code>Bio::Phylo</code>]
+
+; Degree of difficulty and needed skills : 
+
+Easy to medium difficulty. Perl fluency required; experience with object-oriented Perl very helpful; experience with biological data (sequences, sequence alignments, phylogenetic trees) a plus; experience with BioPerl itself will flatten the learning curve.  
+
+; Mentors : [[bp:User:Majensen|Mark Jensen]], ...(rvos?),...
+
 ==Mentors==
 
 * [http://bcbio.wordpress.com/ Brad Chapman] (MGH; Biopython)
