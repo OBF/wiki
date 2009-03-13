@@ -29,6 +29,7 @@ For applying, please make sure you read our [[#What_should_prospective_students_
 
 ''Students: The below are only our project '''ideas''', albeit well thought-out ones. You are welcome to propose your own project if none of those below catches your interest, or if your idea is more exciting to you, provided it is still a contribution to one the O|B|F member projects (see list below). Just be aware that we can't guarantee finding an appropriate mentor, but if we like your proposal we will try.  Regardless of what you decide to do, make sure you read and follow the [[#What_should_prospective_students_know.3F|guidelines for students]] below.''
 
+<!--
 === Write a NEXUS parser in C&amp; ===
 ''This is a template for how the student project ideas could be presented. Feel free to copy & paste & edit, and feel free to adjust the format.''
 ; Rationale : C& is an amp'ed-up programming language that has not been invented yet but in a few years will dominate the programming world. The best way to prevent broken non-compliant NEXUS parsers written in C& from appearing is to write a good one now.
@@ -37,7 +38,7 @@ For applying, please make sure you read our [[#What_should_prospective_students_
 ; Involved toolkits or projects : The [http://www.biocamp.org BioC&] toolkit has much of the needed framework.
 ; Degree of difficulty and needed skills : Hard. The hardest part is probably inventing C&amp;. Writing the parser itself should be medium, unless C& was ill-designed for writing parsers. Knowledge of the BioC& toolkit will obviously help, as well as knowing the NEXUS format.
 ; Mentors : Mike&amp;, founder of BioC&
-
+-->
 
 === Write a JEE5 webservice interface to BioSQL ===
 ; Rationale : 
