@@ -312,6 +312,7 @@ When applying, (aside from the information requested by Google) please provide t
 :** [http://bioperl.org/mailman/listinfo/bioperl-l developers mailing list]
 :* IRC: #bioperl on [http://freenode.net Freenode]
 
+<!--
 ; [http://www.biojava.org Biojava] :
 
 ; [http://www.biopython.org Biopython] :
@@ -323,6 +324,7 @@ When applying, (aside from the information requested by Google) please provide t
 ; [http://biolib.open-bio.org BioLib] :
 
 ; [http://emboss.sourceforge.net/ EMBOSS] :
+-->
 
 === [http://socghop.appspot.com/ Google Summer of Code 2009] ===
 
