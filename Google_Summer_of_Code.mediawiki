@@ -295,7 +295,7 @@ When applying, (aside from the information requested by Google) please provide t
 
 === Other information ===
 
-* Our [ 2009 application document] with Google's questions and our answers
+* Our [http://docs.google.com/Doc?id=dhs98hzv_7zn8bxqjm 2009 application document] with Google's questions and our answers.
 * For questions of eligibility, see the [http://code.google.com/opensource/gsoc/2009/faqs.html#0_1_eligibility_83343977761348_13148542340972003 GSoC eligibility requirements for students]. These requirements must be met on April 20, 2009.
 * There is also a [http://groups.google.com/group/google-summer-of-code-discuss Google group for posting GSoC questions] (and receiving answers; note that you will need to sign up for the group) that relate to the program itself (and are not specific to our organization).
 * Students receive a stipend from Google if accepted. See the [http://code.google.com/opensource/gsoc/2009/faqs.html#0_1_administrivia_842873138659_49145328697313184 Google SoC FAQ on payments] for full documentation.
