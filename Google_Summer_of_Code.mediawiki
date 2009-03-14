@@ -226,8 +226,7 @@ Brad Chapman (plus...)
 :* [http://www.python.org Python]
 :* others mentioned above
 
-; Degree of difficulty and needed skills : 
-Medium. Requires a familiarity with not just python/biopython but some unusual data formats and datasets, and packages, and integrating them (geographic, phylogenetic, metadata, etc.).  Must be familiar with evolution, phylogenetics, biogeography, and the statistical hazards from oversimple interpretations of these.
+; Degree of difficulty and needed skills : Medium. Requires a familiarity with not just python/biopython but some unusual data formats and datasets, and packages, and integrating them (geographic, phylogenetic, metadata, etc.).  Must be familiar with evolution, phylogenetics, biogeography, and the statistical hazards from oversimple interpretations of these.
 
 ; Mentors :  [http://bcbio.wordpress.com/ Brad Chapman] (plus?  Various python/phylogenetics gurus at NESCent etc might be consulted)
 
