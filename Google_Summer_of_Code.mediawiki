@@ -323,11 +323,11 @@ When applying, (aside from the information requested by Google) please provide t
 :** [[bp:Mailing_lists|Mailing lists]]
 :** IRC: #bioperl on [http://freenode.net Freenode]
 
-; [http://biojava.org Biojava] :
+; [http://biojava.org BioJava] :
 :* [http://biojava.org Project website]
 :* Quick links:
-:** [http://biojava.org/mailman/listinfo/biojava-l developers mailing list]
-:** [http://code.open-bio.org/svnweb/index.cgi/biojava/ source code]
+:** source code for [http://code.open-bio.org/svnweb/index.cgi/biojava/browse/biojava-live/trunk biojava-live] (the main BioJava code base) and [http://code.open-bio.org/svnweb/index.cgi/biojava/ all BioJava sub-projects]
+:** [[biojava:BioJava:MailingLists|Mailing lists]
 :** No IRC channel at present
 
 ; [[biopython:Main Page|Biopython]] :
