@@ -316,20 +316,42 @@ When applying, (aside from the information requested by Google) please provide t
 === Open-Bio projects involved ===
 
 ; [[bp:Main Page|BioPerl]] :
-:* [[bp:Becoming_a_developer|Information for new developers]]
-:* [[bp:Mailing_lists|Mailing lists]]
-:** [http://bioperl.org/mailman/listinfo/bioperl-l developers mailing list]
-:* IRC: #bioperl on [http://freenode.net Freenode]
+:* [[bp:Main Page|Project website]]
+:* Quick links:
+:** [[bp:Becoming_a_developer|Information for new developers]]
+:** source code browser for [http://code.open-bio.org/svnweb/index.cgi/bioperl/browse/bioperl-live/trunk bioperl-live] (the main BioPerl code base), and [http://code.open-bio.org/svnweb/index.cgi/bioperl/ all BioPerl sub-projects]
+:** [[bp:Mailing_lists|Mailing lists]]
+:** IRC: #bioperl on [http://freenode.net Freenode]
+
+; [http://biojava.org Biojava] :
+:* [http://biojava.org Project website]
+:* Quick links:
+:** [http://biojava.org/mailman/listinfo/biojava-l developers mailing list]
+:** [http://code.open-bio.org/svnweb/index.cgi/biojava/ source code]
+:** No IRC channel at present
+
+; [[biopython:Main Page|Biopython]] :
+:* [[biopython:Main Page|Project website]]
+:* Quick links:
+:** [http://biopython.org/mailman/listinfo/biopython-l developers mailing list]
+:** [http://code.open-bio.org/svnweb/index.cgi/biopython/ source code]
+:** No IRC channel at present
+
+; [[bioruby:Main Page|BioSQL]] :
+:* [[biosql:Main Page|Project website]]
+:* Quick links:
+:** [http://bioruby.org/mailman/listinfo/bioruby-l developers mailing list]
+:** [http://code.open-bio.org/svnweb/index.cgi/bioruby/ source code]
+:** No IRC channel at present
+
+; [[biosql:Main Page|BioSQL]] :
+:* [[biosql:Main Page|Project website]]
+:* Quick links:
+:** [http://biosql.org/mailman/listinfo/biosql-l developers mailing list]
+:** [http://code.open-bio.org/svnweb/index.cgi/biosql/browse/biosql-schema/trunk source code]
+:** No IRC channel at present
 
 <!--
-; [http://www.biojava.org Biojava] :
-
-; [http://www.biopython.org Biopython] :
-
-; [http://www.bioruby.org Bioruby] :
-
-; [http://biosql.org BioSQL] :
-
 ; [http://biolib.open-bio.org BioLib] :
 
 ; [http://emboss.sourceforge.net/ EMBOSS] :
