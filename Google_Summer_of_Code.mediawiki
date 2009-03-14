@@ -365,4 +365,4 @@ When applying, (aside from the information requested by Google) please provide t
 * Students apply between March 23-April 3, 2009. The [http://code.google.com/opensource/gsoc/2009/faqs.html#0_1_eligibility_83343977761348_13148542340972003 eligibility requirements for students] are in the GSoC FAQ.
 * [http://code.google.com/opensource/gsoc/2009/faqs.html#0_1_development_where_91701355_4247830955169275 Development occurs on-line], there is no requirement or expectation to travel, neither for students nor for mentors.
 
-[[Category:Summer of Code]]
+[[Category:Google Summer of Code]]
