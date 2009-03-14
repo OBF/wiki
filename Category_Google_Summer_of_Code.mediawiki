@@ -1,0 +1,5 @@
+---
+title: Category:Google Summer of Code
+---
+
+Pages related to Google Summer of Code
