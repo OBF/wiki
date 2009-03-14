@@ -337,8 +337,8 @@ When applying, (aside from the information requested by Google) please provide t
 :** [http://code.open-bio.org/svnweb/index.cgi/biopython/ source code]
 :** No IRC channel at present
 
-; [[bioruby:Main Page|BioSQL]] :
-:* [[biosql:Main Page|Project website]]
+; [http://bioruby.org BioRuby]] :
+:* [http://bioruby.org Project website]
 :* Quick links:
 :** [http://bioruby.org/mailman/listinfo/bioruby-l developers mailing list]
 :** [http://code.open-bio.org/svnweb/index.cgi/bioruby/ source code]
