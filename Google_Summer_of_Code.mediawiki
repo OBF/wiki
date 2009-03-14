@@ -327,7 +327,7 @@ When applying, (aside from the information requested by Google) please provide t
 :* [http://biojava.org Project website]
 :* Quick links:
 :** source code for [http://code.open-bio.org/svnweb/index.cgi/biojava/browse/biojava-live/trunk biojava-live] (the main BioJava code base) and [http://code.open-bio.org/svnweb/index.cgi/biojava/ all BioJava sub-projects]
-:** [[biojava:BioJava:MailingLists|Mailing lists]]
+:** [http://biojava.org/wiki/BioJava:MailingLists Mailing lists]
 :** No IRC channel at present
 
 ; [[biopython:Main Page|Biopython]] :
