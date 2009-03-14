@@ -264,7 +264,7 @@ We would like to explore a couple of ways to form the linkage between BioPerl an
 
 * Designing tests that cover important use case scenarios meaningful to BioPerl users;
 
-* Identifying and interfacing <code>Bio::Phylo</code> output and NeXML-serialized data with downstream BioPerl operations; e.g., adding a <code>Bio::SeqIO::nexml</code> module for doing BioPerl-native NeXML IO. 
+* Identifying and interfacing <code>Bio::Phylo</code> output and NeXML-serialized data with up- and downstream BioPerl operations; e.g., adding a <code>Bio::SeqIO::nexml</code> module for doing BioPerl-native NeXML IO. 
 
 ; Involved toolkits or projects : 
 
