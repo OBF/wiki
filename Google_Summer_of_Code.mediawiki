@@ -333,15 +333,16 @@ When applying, (aside from the information requested by Google) please provide t
 ; [[biopython:Main Page|Biopython]] :
 :* [[biopython:Main Page|Project website]]
 :* Quick links:
-:** [http://biopython.org/mailman/listinfo/biopython-l developers mailing list]
-:** [http://code.open-bio.org/svnweb/index.cgi/biopython/ source code]
+:** [[biopython:Contributing|Information for contributors]]
+:** [[biopython:Mailing lists|Mailing lists]]
+:** [http://code.open-bio.org/cgi/viewcvs.cgi/biopython/?cvsroot=biopython source code] (see also [[biopython:CVS|Biopython CVS documentation]]
 :** No IRC channel at present
 
 ; [http://bioruby.org BioRuby]] :
 :* [http://bioruby.org Project website]
 :* Quick links:
-:** [http://bioruby.org/mailman/listinfo/bioruby-l developers mailing list]
-:** [http://code.open-bio.org/svnweb/index.cgi/bioruby/ source code]
+:** [http://lists.open-bio.org/mailman/listinfo/bioruby developers mailing list]
+:** [http://github.com/bioruby/bioruby/tree/master source code]
 :** No IRC channel at present
 
 ; [[biosql:Main Page|BioSQL]] :
