@@ -260,7 +260,7 @@ Brad Chapman (plus...)
 ==Mentors==
 
 * [http://bcbio.wordpress.com/ Brad Chapman] (MGH; Biopython)
-* [[bp:User:Cjfields|Chris Fields]] (U. Illinois, Chicago; BioPerl)
+* [[bp:User:Cjfields|Chris Fields]] (U. Illinois at Urbana-Champaign; BioPerl)
 * [[bp:User:Majensen|Mark Jensen]] (Fortinbras; BioPerl)
 * [[bp:User:Rogerhall|Roger Hall]] (U. of Arkansas; BioPerl)
 * [[User:Mauricio|Mauricio Herrera Cuadra]] (Yahoo! Inc.; backup org admin)
