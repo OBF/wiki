@@ -71,15 +71,11 @@ For applying, please make sure you read our [[#What_should_prospective_students_
 
 ; Rationale : The National Center for Biotechnology Information (NCBI) has created a large collection of utilities developed for the production and distribution of GenBank, Entrez, BLAST, and related services. To support these utilities a large set of C and C++ libraries are maintained and regularly improved by NCBI. These include, for example, sequence alignment algorithms, antigenic determinant prediction, CPG-island finder, ORF finder and string matchers. This functionality is ultimately of great interest to all scientists working in molecular biology with application in biology and biomedical research. <br/>Unfortunately, few bioinformaticians work with C/C++. Addressing this NCBI has made a binding available for Python. This is not enough as bioinformaticians work in many different programming languages, and to be fully effective support should be made available at least for Perl, R and JAVA. These three together, probably, represent over 90% of bioinformaticians. The [http://biolib.open-bio.org/ BioLib project] successfully provides the 'mapping' infrastructure to map complex libraries against many computer languages using SWIG. Basically one mapping suffices to support all popular languages. 
  
-; Approach : Special interfaces need to be developed to map the NCBI toolkit libraries against Perl initially. The (outdated) NCBI  [http://pypi.python.org/pypi/ncbi/0308 Python mapping] can be used as an initial guide for mapping functionality. Once mapped against Perl mapping against Ruby and Python is trivial. However, at this point BioLib support for R and JAVA needs to be developed. A proof-of-concept can
-be part of this project. Finally SWIG mappings can be used to create automated documentation and testing of BioLib code.
+; Approach : Special interfaces need to be developed to map the NCBI toolkit libraries against Perl initially. The (outdated) NCBI  [http://pypi.python.org/pypi/ncbi/0308 Python mapping] can be used as an initial guide for mapping functionality. Once mapped against Perl mapping against Ruby and Python is trivial. However, at this point BioLib support for R and JAVA needs to be developed. A proof-of-concept can be part of this project. Finally SWIG mappings can be used to create automated documentation and testing of BioLib code.
 
-; Challenges : The main challenge is to provide nice and consistent interfaces in high-level languages against the NCBI C/C++ toolkit library. This
-requires OOP design and unit testing of existing functionality. Also some SWIG hacking may be involved to provide decent mappings for R and
-JAVA, as well as SWIG auto generated documentation and testing.
+; Challenges : The main challenge is to provide nice and consistent interfaces in high-level languages against the NCBI C/C++ toolkit library. This requires OOP design and unit testing of existing functionality. Also some SWIG hacking may be involved to provide decent mappings for R and JAVA, as well as SWIG auto generated documentation and testing.
 
-; Involved toolkits or projects : [http://biolib.open-bio.org/ BioLib], BioPerl, SWIG (and optionally BioRuby, R/Bioconductor, BioJAVA
-or BioPython)
+; Involved toolkits or projects : [http://biolib.open-bio.org/ BioLib], BioPerl, SWIG (and optionally BioRuby, R/Bioconductor, BioJAVA or BioPython)
 
 ; Degree of difficulty and needed skills : This is a challenging project as it crosses computer languages. It requires experience in C++ and a wish for deeper understanding of at least one high-level OOP language like Perl (did I write OOP?), Python, JAVA, R or Ruby.
 
