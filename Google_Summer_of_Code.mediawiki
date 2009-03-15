@@ -365,6 +365,7 @@ When applying, (aside from the information requested by Google) please provide t
 
 == Reference Facts & Links: <span class="plainlinks">[http://socghop.appspot.com/ Google Summer of Code 2009]</span> ==
 
+[[Image:GSoC2009Logo.png|352px|right]]
 * Mentoring organizations apply between March 9-13, 2009. Accepted mentoring organizations will be published March 18. See [http://code.google.com/opensource/gsoc/2009/faqs.html#0_1_timeline_5354032302481437_ full set of timelines].
 * Google expects to accept around 150 mentoring organizations, a bit less than in 2008 (when they accepted 175). If the trend over the past years is any indication, this will be out of at least 3x as many organizations that apply.
 * Students apply between March 23-April 3, 2009. The [http://code.google.com/opensource/gsoc/2009/faqs.html#0_1_eligibility_83343977761348_13148542340972003 eligibility requirements for students] are in the GSoC FAQ.
