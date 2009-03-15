@@ -332,7 +332,7 @@ When applying, (aside from the information requested by Google) please provide t
 :* Quick links:
 :** [[bp:Becoming_a_developer|Information for new developers]]
 :** source code browser for [http://code.open-bio.org/svnweb/index.cgi/bioperl/browse/bioperl-live/trunk bioperl-live] (the main BioPerl code base), and [http://code.open-bio.org/svnweb/index.cgi/bioperl/ all BioPerl sub-projects]
-:** [[bp:Project_priority_list|Priority list]] of things aside from the ideas above that need work 
+:** [[bp:Project_priority_list|Priority list]] of things that need work, as another source for student-conceived project ideas 
 :** [[bp:Mailing_lists|Mailing lists]]
 :** IRC: #bioperl on [http://freenode.net Freenode]
 
@@ -340,6 +340,7 @@ When applying, (aside from the information requested by Google) please provide t
 ; [http://biojava.org BioJava] :
 :* [http://biojava.org Project website]
 :* Quick links:
+:** [http://biojava.org/wiki/BioJava3_Proposal Proposal for BioJava3] as another source for student-conceived project ideas
 :** source code for [http://code.open-bio.org/svnweb/index.cgi/biojava/browse/biojava-live/trunk biojava-live] (the main BioJava code base) and [http://code.open-bio.org/svnweb/index.cgi/biojava/ all BioJava sub-projects]
 :** [http://biojava.org/wiki/BioJava:MailingLists Mailing lists]
 :** No IRC channel at present
@@ -365,6 +366,7 @@ When applying, (aside from the information requested by Google) please provide t
 ; [[biosql:Main Page|BioSQL]] :
 :* [[biosql:Main Page|Project website]]
 :* Quick links:
+:** Current [http://biosql.org/wiki/Enhancement_Requests enhancement requests] as another source for student-conceived project ideas 
 :** [http://biosql.org/mailman/listinfo/biosql-l developers mailing list]
 :** [http://code.open-bio.org/svnweb/index.cgi/biosql/browse/biosql-schema/trunk source code]
 :** No IRC channel at present
