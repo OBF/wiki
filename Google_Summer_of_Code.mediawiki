@@ -332,6 +332,7 @@ When applying, (aside from the information requested by Google) please provide t
 :* Quick links:
 :** [[bp:Becoming_a_developer|Information for new developers]]
 :** source code browser for [http://code.open-bio.org/svnweb/index.cgi/bioperl/browse/bioperl-live/trunk bioperl-live] (the main BioPerl code base), and [http://code.open-bio.org/svnweb/index.cgi/bioperl/ all BioPerl sub-projects]
+:** [[bp:Project_priority_list|Priority list]] of things aside from the ideas above that need work 
 :** [[bp:Mailing_lists|Mailing lists]]
 :** IRC: #bioperl on [http://freenode.net Freenode]
 
