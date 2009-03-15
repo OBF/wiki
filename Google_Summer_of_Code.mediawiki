@@ -315,6 +315,7 @@ When applying, (aside from the information requested by Google) please provide t
 
 === Open-Bio projects involved ===
 
+[[Image:BioPerl_logo_tiny.jpg|128px|right]] 
 ; [[bp:Main Page|BioPerl]] :
 :* [[bp:Main Page|Project website]]
 :* Quick links:
@@ -323,6 +324,7 @@ When applying, (aside from the information requested by Google) please provide t
 :** [[bp:Mailing_lists|Mailing lists]]
 :** IRC: #bioperl on [http://freenode.net Freenode]
 
+[[Image:Biojava_logo_tiny.jpg|right]] 
 ; [http://biojava.org BioJava] :
 :* [http://biojava.org Project website]
 :* Quick links:
@@ -330,6 +332,7 @@ When applying, (aside from the information requested by Google) please provide t
 :** [http://biojava.org/wiki/BioJava:MailingLists Mailing lists]
 :** No IRC channel at present
 
+[[Image:Biopython_logo_tiny.png|right]] 
 ; [[biopython:Main Page|Biopython]] :
 :* [[biopython:Main Page|Project website]]
 :* Quick links:
@@ -338,6 +341,7 @@ When applying, (aside from the information requested by Google) please provide t
 :** [http://code.open-bio.org/cgi/viewcvs.cgi/biopython/?cvsroot=biopython source code] (see also [[biopython:CVS|Biopython CVS documentation]]
 :** No IRC channel at present
 
+[[Image:BioRuby_logo_tiny.png|right]] 
 ; [http://bioruby.org BioRuby] :
 :* [http://bioruby.org Project website]
 :* Quick links:
@@ -345,6 +349,7 @@ When applying, (aside from the information requested by Google) please provide t
 :** [http://github.com/bioruby/bioruby/tree/master source code]
 :** No IRC channel at present
 
+[[Image:BioSQL_logo.png|160px|right]] 
 ; [[biosql:Main Page|BioSQL]] :
 :* [[biosql:Main Page|Project website]]
 :* Quick links:
