@@ -154,7 +154,10 @@ platform provides free quotas which allow a small lab with a limited budget to
 make their data available, and also scales for larger projects with popular
 data sets.
 
-The student project expands an initial demonstration server (under development)
+The student project expands an initial demonstration server 
+([http://biosqlweb.appspot.com/ demo server];
+[http://github.com/chapmanb/biosqlweb/tree/master source code]; 
+[http://bcbio.wordpress.com/2009/03/15/biosql-on-google-app-engine/ blog post])
 to a full featured web application. The server side
 implementation will be programmed in Python, utilizing the Google App Engine 
 [http://code.google.com/appengine/docs/ developers toolkit]
@@ -195,7 +198,6 @@ will also involve creative thinking about interface and usability design.
 
 ; Mentors : 
 Brad Chapman (plus...)
-
 
 === Biogeographical and community phylogenetics for BioPython ===
 
