@@ -2,9 +2,20 @@
 title: Hackathon
 ---
 
-Text here about hackathons
-
+== O|B|F-run hackathons ==
+ 
 * 2002 hackathon [http://gallery.open-bio.org/gallery2/v/hackathon2002/ pictures].
+** Sponsored by O'Reilly and Electric Genetics
 ** This gathering worked on the [[BioSQL]] and [[bp:OBDA|OBDA]] standards.
 * 2003 hackathon [http://gallery.open-bio.org/gallery2/v/2003hackathon/ pictures].
+** Sponsored by Apple Asia
 ** This gathering focused more on [[BioSQL]] and [[bp:OBDA|OBDA]] as well as several supporting projects from the different toolkits.
+
+== Hackathons involving O|B|F projects ==
+
+* 2006 [http://hackathon.nescent.org/Phylohackathon_1 NESCent Phyloinformatics Hackathon]
+** Dec 11-15, 2006, in Durham, North Carolina. Sponsored by the National Evolutionary Synthesis Center (NESCent).
+* [http://hackathon.dbcls.jp/ 2008 BioHackathon]
+** Feb 11-15, 2008, in Tokyo, Japan. Sponsored by the Database Center for Life Science (DBCLS) and Computational Biology Research Center (CBRC).
+* [http://hackathon2.dbcls.jp/ 2009 BioHackathon]
+** Mar 16-20, 2009, in Tokyo and Okinawa, Japan. Sponsored by the Database Center for Life Science (DBCLS) and the Okinawa Institute of Science and Technology (OIST).
