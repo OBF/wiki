@@ -180,6 +180,7 @@ For applying, please make sure you read our [[#What_should_prospective_students_
 * [mailto:jw12@sanger.ac.uk Jonathan Warren] (Sanger Institute, UK; Biojava, DAS)
 * [mailto:willishf@ufl.edu Scooter Willis] (Scripps Florida; Biojava)
 * [http://monochrome-effect.net/ Christian Zmasek] (Burnham Institute for Medical Research; BioRuby)
+* [[bp:User:Vgopalan| Vivek Gopalan]] (Contractor at BCBB/NAID/NIH))
 
 == What should prospective students know? ==
 
