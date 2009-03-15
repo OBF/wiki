@@ -311,9 +311,7 @@ When applying, (aside from the information requested by Google) please provide t
 * There is also a [http://groups.google.com/group/google-summer-of-code-discuss Google group for posting GSoC questions] (and receiving answers; note that you will need to sign up for the group) that relate to the program itself (and are not specific to our organization).
 * Students receive a stipend from Google if accepted. See the [http://code.google.com/opensource/gsoc/2009/faqs.html#0_1_administrivia_842873138659_49145328697313184 Google SoC FAQ on payments] for full documentation.
 
-== Reference Facts &amp; Links==
-
-=== Open-Bio projects involved ===
+== Open-Bio projects involved ==
 
 [[Image:BioPerl_logo_tiny.jpg|128px|right]] 
 ; [[bp:Main Page|BioPerl]] :
@@ -363,7 +361,7 @@ When applying, (aside from the information requested by Google) please provide t
 ; [http://emboss.sourceforge.net/ EMBOSS] :
 -->
 
-=== [http://socghop.appspot.com/ Google Summer of Code 2009] ===
+== Reference Facts & Links: <span class="plainlinks">[http://socghop.appspot.com/ Google Summer of Code 2009]</span> ==
 
 * Mentoring organizations apply between March 9-13, 2009. Accepted mentoring organizations will be published March 18. See [http://code.google.com/opensource/gsoc/2009/faqs.html#0_1_timeline_5354032302481437_ full set of timelines].
 * Google expects to accept around 150 mentoring organizations, a bit less than in 2008 (when they accepted 175). If the trend over the past years is any indication, this will be out of at least 3x as many organizations that apply.
