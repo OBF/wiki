@@ -355,11 +355,13 @@ When applying, (aside from the information requested by Google) please provide t
 :** [http://code.open-bio.org/svnweb/index.cgi/biosql/browse/biosql-schema/trunk source code]
 :** No IRC channel at present
 
-<!--
+[[Image:BioLib_logo_tiny.png|right]] 
 ; [http://biolib.open-bio.org BioLib] :
-
-; [http://emboss.sourceforge.net/ EMBOSS] :
--->
+:* [http://biolib.open-bio.org Project website]
+:* Quick links:
+:** [http://lists.open-bio.org/mailman/listinfo/biolib-dev developers mailing list]
+:** [http://github.com/pjotrp/biolib/tree/master source code]
+:** No IRC channel at present
 
 == Reference Facts & Links: <span class="plainlinks">[http://socghop.appspot.com/ Google Summer of Code 2009]</span> ==
 
