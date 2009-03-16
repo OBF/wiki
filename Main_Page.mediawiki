@@ -5,6 +5,8 @@ title: Main Page
 =OBF News=
 An agenda for the [[Minutes:2008 ConfCall|Conference call]] for the 2008 Board of Director's meeting is available. Our board meetings are public and open, please see the page for information about getting a phone number call in access for the Nov 19, 2008 meeting.
 
+v
+
 =About Us=
 
 The Open Bioinformatics Foundation or O|B|F is a non profit, volunteer run organization focused on supporting [[wp:open source|open source]] programming in [[wp:bioinformatics|bioinformatics]].
