@@ -3,9 +3,9 @@ title: Main Page
 ---
 
 =OBF News=
-An agenda for the [[Minutes:2008 ConfCall|Conference call]] for the 2008 Board of Director's meeting is available. Our board meetings are public and open, please see the page for information about getting a phone number call in access for the Nov 19, 2008 meeting.
 
-v
+* [[Google Summer of Code 2009|<nowiki>O|B|F</nowiki> is applying to participate in the 2009 Google Summer of Code]] as an umbrella organization for the Bio* projects. 
+* An agenda for the [[Minutes:2008 ConfCall|Conference call]] for the 2008 Board of Director's meeting is available. Our board meetings are public and open, please see the page for information about getting a phone number call in access for the Nov 19, 2008 meeting.
 
 =About Us=
 
