@@ -248,7 +248,7 @@ When applying, (aside from the information requested by Google) please provide t
 :* Quick links:
 :** [[biopython:Contributing|Information for contributors]]
 :** [[biopython:Mailing lists|Mailing lists]]
-:** [http://code.open-bio.org/cgi/viewcvs.cgi/biopython/?cvsroot=biopython source code] (see also [[biopython:CVS|Biopython CVS documentation]]
+:** [[biopython:SourceCode| Source Code]]
 :** No IRC channel at present
 
 [[Image:BioRuby_logo_tiny.png|right]] 
