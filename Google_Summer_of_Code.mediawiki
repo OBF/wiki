@@ -17,6 +17,7 @@ See [http://socghop.appspot.com/document/show/program/google/gsoc2009/faqs#about
 
 == News ==
 
+* 18 Mar 2009: '''We have not been accepted to participate''' as an organization. However, some of the projects fit into the scope of the [http://hackathon.nescent.org/Phyloinformatics_Summer_of_Code_2009 NESCent participation] (which was accepted), so if you want to support us, please check those out and apply! The more students apply the stronger the organization is. ''--[[User:Lapp|Lapp]]''
 * 13 Mar 2009: [http://docs.google.com/Doc?id=dhs98hzv_7zn8bxqjm Application to participate as a mentoring organization] submitted. ''--[[User:Lapp|Lapp]]''
 *  08 Mar 2009: The project ideas page (the page you are looking at) is ready for adding project ideas. ''--[[User:Lapp|Lapp]]''
 
