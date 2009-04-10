@@ -25,6 +25,12 @@ Many open source bioinformatics packages are widely used by the research communi
 
 == Keynote Speakers ==
 
+The BOSC 2009 Organizing committee is pleased to announce our two Keynote Speakers:
+
+=== Alan Ruttenberg ===
+
+[http://sciencecommons.org/about/whoweare/ruttenberg/ Alan Ruttenberg] is a Principal Scientist at [http://sciencecommons.org Science Commons].  He works with Semantic Web technologies in computational biology, with an emphasis on the creation and application of structured biological knowledge to interpret experimental results.
+
 == Sessions ==
 
 This year’s conference will mark the 10th anniversary of BOSC.  To celebrate the special occasion, the theme of this year’s conference is “Looking Back and Looking Ahead:  Open Source Solutions to Grand Challenges in Bioinformatics.”  We are inviting abstracts for two different types of talks:
