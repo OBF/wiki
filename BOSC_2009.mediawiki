@@ -23,6 +23,8 @@ Many open source bioinformatics packages are widely used by the research communi
 * May 15, 2009: Early Registration Discount Cut-off date 
 * Saturday, June 27 and Sunday, June 28, 2009: BOSC 2009!
 
+== Keynote Speakers ==
+
 == Sessions ==
 
 This year’s conference will mark the 10th anniversary of BOSC.  To celebrate the special occasion, the theme of this year’s conference is “Looking Back and Looking Ahead:  Open Source Solutions to Grand Challenges in Bioinformatics.”  We are inviting abstracts for two different types of talks:
