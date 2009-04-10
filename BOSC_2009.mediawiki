@@ -18,7 +18,7 @@ Many open source bioinformatics packages are widely used by the research communi
 == Important Dates ==
 
 * February 16, 2009: Registration for ISMB and BOSC Opens
-* Monday, April 13: Abstract deadline
+* '''Monday, April 13: Abstract deadline'''
 * May 1, 2009:  Notification of accepted abstracts
 * May 15, 2009: Early Registration Discount Cut-off date 
 * Saturday, June 27 and Sunday, June 28, 2009: BOSC 2009!
