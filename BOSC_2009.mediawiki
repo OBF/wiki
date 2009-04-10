@@ -89,6 +89,8 @@ See the following websites for further information:
 
 == Publication of Post-conference Proceedings ==
 
+The BOSC 2009 Organizing Committee is currently working out an agreement with an Open Access bioinformatics journal to publish a Post-conference Proceedings based on this year's presenations.  Details will be available here on the BOSC web site as they become available.
+
 == Organizing Committee ==
 
 The organizing committee can be contacted by email at [mailto:bosc@openbio.org bosc@open-bio.org].
