@@ -115,8 +115,6 @@ The organizing committee can be contacted by email at [mailto:bosc@openbio.org b
 * Andrew Dalke (Dalke Scientific, Goteborg, Sweden)
 * Jim Procter (University of Dundee, Scotland)
 ** Visualization
-* Seán I. O' Donoghue
-** Visualization
 *  Anton Nekrutenko (Penn State University)
 ** Overlap with Data Management & Analysis SIG
 * Steffen Moeller (Institut für Neuro- und Bioinformatik)
