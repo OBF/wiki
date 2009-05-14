@@ -27,6 +27,10 @@ Robert S. Hanmer is a Consulting Member of Technical Staff in the Technical Comp
 
 == Bio* Update ==
 
+Confirmed speakers include:
+
+* Martin Senger - Soaplab: Open Source Web Services Framework for Bioinformatics Programs (10 min.)
+
 == Regulatory Genomics ==
 
 == Design Patterns Panel Discussion ==
