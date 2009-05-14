@@ -38,7 +38,7 @@ Robert S. Hanmer is a Consulting Member of Technical Staff in the Technical Comp
 
 == Schedule ==
 
-Abstract acceptances have gone out.  We will be posting the schedule [[BOSC_2009_Schedule | here]] as soon as we receive confirmation from each of the speakers.
+Abstract acceptances have gone out.  We will be posting the schedule and abstracts [[BOSC_2009_Schedule | here]] as soon as we receive confirmation from each of the speakers.  Currently on that page there is a partial list of confirmed speakers; we will add to it as we hear back from them.
 
 == Sessions ==
 
