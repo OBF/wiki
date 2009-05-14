@@ -36,6 +36,7 @@ Confirmed speakers include:
 Confirmed speakers include:
 
 * Kazuharu Arakawa - Web Service Interface for G-language Genome Analysis Environment (10 min)
+* Sylvain Brohée - Best of both worlds : combining the user-friendliness of Wikis and the rigor of biological databases (10 min.)
 
 == Data & Analysis Management (shared session with D&AM SIG) ==
 
