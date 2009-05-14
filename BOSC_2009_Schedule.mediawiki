@@ -27,7 +27,7 @@ Robert S. Hanmer is a Consulting Member of Technical Staff in the Technical Comp
 
 Confirmed speakers include:
 
-* Kam Dahlquist - XMLPipeDB: A Reusable, Open Source Tool Chain for Building Relational Databases from XML Sources
+* Kam Dahlquist - XMLPipeDB: A Reusable, Open Source Tool Chain for Building Relational Databases from XML Sources (10 min.)
 
 == Bio* Update ==
 
