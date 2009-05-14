@@ -38,6 +38,8 @@ Robert S. Hanmer is a Consulting Member of Technical Staff in the Technical Comp
 
 == Schedule ==
 
+Abstract acceptances have gone out.  We will be posting the schedule [[BOSC_2009_Schedule | here]] as soon as we receive confirmation from each of the speakers.
+
 == Sessions ==
 
 This year’s conference will mark the 10th anniversary of BOSC.  To celebrate the special occasion, the theme of this year’s conference is “Looking Back and Looking Ahead:  Open Source Solutions to Grand Challenges in Bioinformatics.”  We are inviting abstracts for two different types of talks:
