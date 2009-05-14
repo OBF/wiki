@@ -47,6 +47,7 @@ Confirmed speakers include:
 Confirmed speakers include:
 
 * Kam Dahlquist - XMLPipeDB: A Reusable, Open Source Tool Chain for Building Relational Databases from XML Sources (10 min.)
+* Morris Swertz - MOLGENIS by example: generating an extensible platform for genotype and phenotype experiments (15 min.)
 
 == Bio* Update ==
 
