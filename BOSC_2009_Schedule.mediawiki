@@ -1,0 +1,32 @@
+---
+title: BOSC 2009 Schedule
+---
+
+== Keynote Speakers ==
+
+The BOSC 2009 Organizing committee is pleased to announce our two Keynote Speakers:
+
+=== Alan Ruttenberg ===
+
+[http://sciencecommons.org/about/whoweare/ruttenberg/ Alan Ruttenberg] is a Principal Scientist at [http://sciencecommons.org Science Commons].  He works with Semantic Web technologies in computational biology, with an emphasis on the creation and application of structured biological knowledge to interpret experimental results. He is currently involved in a number of open biomedical ontology efforts, including: the Ontology for Biomedical Investigations (OBI), the Basic Formal Ontology (BFO) that will form the upper level ontology for the OBO foundry, the Infectious Disease Ontology (IDO), the Program on Ontologies of Neural Structures (PONS), the Information Artifact Ontology (IAO), and BioPAX-OBO for representing molecular and cellular pathways. These interests and efforts come together in my project at Science Commons - the Neurocommons, a large scale Semantic Web knowledge base of biological information aimed at supporting, initially, the neurosciences. He is also an active participant in W3C Semantic Web activities. In 2006 and 2007 he was a member of the Health Care Life Sciences Interest Group, and early work on the Neurocommons became the core of the prototype life sciences knowledge base that the group has documented. He is a chair of the OWL Working Group specifying OWL 2, and a coordinating editor of the OBO Foundry. 
+His graduate work was at the MIT Media Lab in the Music and Cognition Group, and he has an undergraduate degree in Physics and Mathematics from Brandeis University. 
+
+=== Robert S. Hanmer ===
+
+Robert S. Hanmer is a Consulting Member of Technical Staff in the Technical Component Management area in Alcatel-Lucent’s Operations area.  He is based in Naperville, Illinois, USA. Current responsibilities include developing software-sourcing strategies for middleware and open source software. Previous positions within Lucent and Bell Laboratories have included development, architecture and evaluation of highly reliable systems focusing especially on the areas of reliability and performance.  He is active in the software patterns community, including serving as program chair at several pattern conferences.  He has authored or co-authored 14 journal articles, several book chapters and the book Patterns for Fault Tolerant Software. He is a member of the IEEE Computer Society,  a Senior Member of the ACM and current President of [http://hillside.net/ The Hillside Group], the organization that sponsors the PLoP conference.  He received his B.S. and M.S. degrees in Computer Science from Northwestern University in Evanston, Illinois.
+
+== Multicore & GPGPU Computing ==
+
+== Computational Grids ==
+
+== Visualization ==
+
+== Open Source Software ==
+
+== Data & Analysis Management (shared session with D&AM SIG) ==
+
+== Bio* Update ==
+
+== Regulatory Genomics ==
+
+== Design Patterns Panel Discussion ==
