@@ -21,6 +21,10 @@ Robert S. Hanmer is a Consulting Member of Technical Staff in the Technical Comp
 
 == Computational Grids ==
 
+Confirmed speakers include:
+
+* Joel Hedlund - The Nordic BioGrid project -- Bioinformatics for the grid (5 min. Lightning Talk)
+
 == Visualization ==
 
 == Open Source Software ==
