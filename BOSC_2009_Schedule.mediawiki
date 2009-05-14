@@ -2,6 +2,8 @@
 title: BOSC 2009 Schedule
 ---
 
+Return to [[BOSC_2009 | BOSC 2009]] main page.
+
 == Keynote Speakers ==
 
 The BOSC 2009 Organizing committee is pleased to announce our two Keynote Speakers:
