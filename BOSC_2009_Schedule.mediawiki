@@ -30,6 +30,7 @@ Confirmed speakers include:
 
 Confirmed speakers include:
 
+* Hajo N. Krabbenhöft - Taverna workflows across Grids, web services and the command line
 * Ann-Kristin Grimm - Grid-based expression QTL analysis (10 min.)
 * Joel Hedlund - The Nordic BioGrid project -- Bioinformatics for the grid (5 min. Lightning Talk)
 
