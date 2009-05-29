@@ -76,6 +76,8 @@ Click on the title to view the abstract.
 
 == Regulatory Genomics ==
 
+Click on the title to view the abstract.
+
 * Finn Drablos - [[Media:Bosc2009_submission_6.pdf | Computational discovery of composite motifs in DNA]] (15 min.)
 * Sophie Schbath - [[Media:Bosc2009_submission_38.pdf | R'MES]] (15 min.)
 * Matias Piipari - [[Media:Bosc2009_submission_24.pdf | Large-scale gene regulatory motif discovery and categorisation with NestedMICA]] (10 min.)
