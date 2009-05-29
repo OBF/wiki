@@ -46,11 +46,11 @@ Click on the title to view the abstract.
 
 == Open Source Software ==
 
-Confirmed speakers include:
+Click on the title to view the abstract.
 
-* Kazuharu Arakawa - Web Service Interface for G-language Genome Analysis Environment (10 min)
-* Sylvain Brohée - Best of both worlds : combining the user-friendliness of Wikis and the rigor of biological databases (10 min.)
-* Quinn Snell - PSODA: Open Source Phylogenetic Search and DNA Analysis (15 min.)
+* Kazuharu Arakawa - [[Media:Bosc2009_submission_39.pdf | Web Service Interface for G-language Genome Analysis Environment]] (10 min.)
+* Sylvain Brohée - [[Media:Bosc2009_submission_3.pdf | Best of both worlds : combining the user-friendliness of Wikis and the rigor of biological databases]] (10 min.)
+* Quinn Snell - [[Media:Bosc2009_submission_33.pdf | PSODA: Open Source Phylogenetic Search and DNA Analysis]] (15 min.)
 
 == Data & Analysis Management (shared session with D&AM SIG) ==
 
