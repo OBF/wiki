@@ -21,7 +21,7 @@ His talk at BOSC will be entitled "Software Patterns for Reusable Design".
 
 == Multicore & GPGPU Computing ==
 
-Confirmed speakers include:
+Click on the title to view the abstract.
 
 * Jean-Stéphane Varré - [[Media:Bosc2009_submission_22.pdf | Biomanycores, a repository of interoperable open-source code for many-cores bioinformatics]] (15 min.)
 * Josh Buckner - Enabling GPU Computing in the R Statistical Environment (15 min.)
