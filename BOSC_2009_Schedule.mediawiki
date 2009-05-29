@@ -17,6 +17,8 @@ His graduate work was at the MIT Media Lab in the Music and Cognition Group, and
 
 Robert S. Hanmer is a Consulting Member of Technical Staff in the Technical Component Management area in Alcatel-Lucent’s Operations area.  He is based in Naperville, Illinois, USA. Current responsibilities include developing software-sourcing strategies for middleware and open source software. Previous positions within Lucent and Bell Laboratories have included development, architecture and evaluation of highly reliable systems focusing especially on the areas of reliability and performance.  He is active in the software patterns community, including serving as program chair at several pattern conferences.  He has authored or co-authored 14 journal articles, several book chapters and the book Patterns for Fault Tolerant Software. He is a member of the IEEE Computer Society,  a Senior Member of the ACM and current President of [http://hillside.net/ The Hillside Group], the organization that sponsors the PLoP conference.  He received his B.S. and M.S. degrees in Computer Science from Northwestern University in Evanston, Illinois.
 
+His talk at BOSC will be entitled "Software Patterns for Reusable Design".
+
 == Multicore & GPGPU Computing ==
 
 Confirmed speakers include:
