@@ -24,9 +24,9 @@ His talk at BOSC will be entitled "Software Patterns for Reusable Design".
 Click on the title to view the abstract.
 
 * Jean-Stéphane Varré - [[Media:Bosc2009_submission_22.pdf | Biomanycores, a repository of interoperable open-source code for many-cores bioinformatics]] (15 min.)
-* Josh Buckner - Enabling GPU Computing in the R Statistical Environment (15 min.)
-* Mikhail Fursov - UGENE – A practical approach for complex computational analysis  in molecular biology (10 min.)
-* Oswaldo Trelles - Qnorm: A library of parallel methods for gene-expression Q-normalization (5 min. Lightning Talk)
+* Josh Buckner - [[Media:Bosc2009_submission_32.pdf | Enabling GPU Computing in the R Statistical Environment]] (15 min.)
+* Mikhail Fursov - [[Media:Bosc2009_submission_18.pdf | UGENE – A practical approach for complex computational analysis  in molecular biology]] (10 min.)
+* Oswaldo Trelles - [[Media:Bosc2009_submission_11.pdf | Qnorm: A library of parallel methods for gene-expression Q-normalization]] (5 min. Lightning Talk)
 
 == Computational Grids ==
 
