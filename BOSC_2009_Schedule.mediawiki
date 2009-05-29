@@ -64,15 +64,15 @@ Click on the title to view the abstract.
 
 == Bio* Update ==
 
-Confirmed speakers include:
+Click on the title to view the abstract.
 
-* Martin Senger - Soaplab: Open Source Web Services Framework for Bioinformatics Programs (10 min.)
-* Pjotr Prins - BioLib: Sharing high performance code between BioPerl, BioPython, BioRuby, R/Bioconductor and BioJAVA (15 min.)
-* Peter Rice - EMBOSS: European Molecular Biology Open Software Suite (10 min.)
-* Peter Cock - Biopython Project Update (10 min.)
-* Andreas Prlic - BioJava 2009: an Open-Source Framework for Bioinformatics (10 min.)
-* Jim Procter - Application of VAMSAS enabled tools for the investigation of protein evolution (10 min.)
-* Steffen Möller - Debian adopts and disseminates Bioinformatics Open Source Software (5 min. Lightning Talk)
+* Martin Senger - [[Media:Bosc2009_submission_13.pdf | Soaplab: Open Source Web Services Framework for Bioinformatics Programs]] (10 min.)
+* Pjotr Prins - [[Media:Bosc2009_submission_4.pdf | BioLib: Sharing high performance code between BioPerl, BioPython, BioRuby, R/Bioconductor and BioJAVA]] (15 min.)
+* Peter Rice - [[Media:Bosc2009_submission_5.pdf | EMBOSS: European Molecular Biology Open Software Suite]] (10 min.)
+* Peter Cock - [[Media:Bosc2009_submission_19.pdf | Biopython Project Update]] (10 min.)
+* Andreas Prlic - [[Media:Bosc2009_submission_15.pdf | BioJava 2009: an Open-Source Framework for Bioinformatics]] (10 min.)
+* Jim Procter - [[Media:Bosc2009_submission_16.pdf | Application of VAMSAS enabled tools for the investigation of protein evolution]] (10 min.)
+* Steffen Möller - [[Media:Bosc2009_submission_30.pdf | Debian adopts and disseminates Bioinformatics Open Source Software]] (5 min. Lightning Talk)
 
 == Regulatory Genomics ==
 
