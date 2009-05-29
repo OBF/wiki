@@ -38,7 +38,7 @@ Click on the title to view the abstract.
 
 == Visualization ==
 
-Confirmed speakers include:
+Click on the title to view the abstract.
 
 * Allan Kuchinsky - [[Media:Bosc2009_submission_23.pdf | Cytoscape Springs Forward: Re-architecture for Version 3.0]] (15 min.)
 * Frederik Decouttere - [[Media:Bosc2009_submission_8.pdf | Bioinformatics simplified with seqpad]] (10 min.)
