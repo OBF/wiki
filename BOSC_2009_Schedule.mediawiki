@@ -201,3 +201,23 @@ Click on the author's name to view the abstract submitted for the panel.
 | &nbsp;
 | <nowiki>O|B|F</nowiki> Board Meeting and No-host Dinner (location TBA)
 |}
+
+=== Day 2 ===
+
+
+{| border="1" cellspacing="0" cellpadding="10" align="left"
+! Time
+! Speaker
+! Title
+|- 
+| 9:00-9:15am
+| Kam Dahlquist
+| [Announcements]
+|-
+| 9:15-10:15
+| Robert Hanmer
+| [Keynote] Software Patterns for Reusable Design
+|-
+| '''10:15-10:45'''
+| '''Coffee Break'''
+|-
