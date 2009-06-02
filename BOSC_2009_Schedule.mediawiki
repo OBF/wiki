@@ -112,8 +112,8 @@ Click on the author's name to view the abstract submitted for the panel.
 | Alan Ruttenberg
 | [Keynote] Semantic Web Technologies
 |-
-| 10:15-10:45
-| Coffee Break
+| '''10:15-10:45'''
+| '''Coffee Break'''
 |-
 | 10:45-11:05
 | Jean-Stéphane Varré
@@ -143,8 +143,8 @@ Click on the author's name to view the abstract submitted for the panel.
 | Joel Hedlund
 | [Computational Grids Lightning Talk] The Nordic BioGrid project -- Bioinformatics for the grid
 |- 
-| 12:31-2:00
-| Lunch
+| '''12:31-2:00'''
+| '''Lunch'''
 |-
 | 2:00-2:20
 | Allan Kuchinsky
@@ -170,8 +170,8 @@ Click on the author's name to view the abstract submitted for the panel.
 | Bartek Wilczynski
 | [Regulatory Genomics] BNfinder: free software for effective Bayesian Network inference
 |-
-| 3:30-4:00
-| Coffee Break
+| '''3:30-4:00'''
+| '''Coffee Break'''
 |-
 | 4:00-4:20
 | Morris Swertz
@@ -194,8 +194,10 @@ Click on the author's name to view the abstract submitted for the panel.
 | [Data & Analysis Management] XMLPipeDB: A Reusable, Open Source Tool Chain for Building Relational Databases from XML Sources
 |- 
 | 5:30-6:00
+| &nbsp;
 | Lightning Talks and Birds of a Feather
 |- 
 | 7:00
-| O|B|F Board Meeting and No-host Dinner (location TBA)
+| &nbsp;
+| <nowiki>O|B|F</nowiki> Board Meeting and No-host Dinner (location TBA)
 |}
