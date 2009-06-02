@@ -119,15 +119,15 @@ Click on the author's name to view the abstract submitted for the panel.
 |-
 | 11:25-11:40
 | Josh Buckner
-| [Multicore & GPGPU Computing] Enabling GPU Computing in the R Statistical Environment
+| [Multicore & GPGPU Computing] [[Media:Bosc2009_submission_32.pdf | Enabling GPU Computing in the R Statistical Environment]]
 |-
 | 11:25-11:40
 | Mikhail Fursov
-| [Multicore & GPGPU Computing] UGENE – A practical approach for complex computational analysis in molecular biology
+| [Multicore & GPGPU Computing] [[Media:Bosc2009_submission_18.pdf | UGENE – A practical approach for complex computational analysis  in molecular biology]]
 |-
 | 11:40-11:48
 | Oswaldo Trelles
-| [Multicore & GPGPU Computing Lightning Talk] Qnorm: A library of parallel methods for gene-expression Q-normalization
+| [Multicore & GPGPU Computing Lightning Talk] [[Media:Bosc2009_submission_11.pdf | Qnorm: A library of parallel methods for gene-expression Q-normalization]]
 |-
 | 11:48-12:08pm
 | Hajo N. Krabbenhöft
