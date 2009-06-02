@@ -111,4 +111,11 @@ Click on the author's name to view the abstract submitted for the panel.
 | 9:15-10:15am
 | Alan Ruttenberg
 | [Keynote] Semantic Web Technologies
+|-
+| 10:15-10:45am
+| Coffee Break
+|-
+| 10:45-11:05am
+| Jean-Stéphane Varré
+| [Multicore & GPGPU Computing] Biomanycores, a repository of interoperable open-source code for many-cores bioinformatics
 |}
