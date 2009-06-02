@@ -19,17 +19,6 @@ Robert S. Hanmer is a Consulting Member of Technical Staff in the Technical Comp
 
 His talk at BOSC will be entitled "Software Patterns for Reusable Design".
 
-
-== Design Patterns Panel Discussion ==
-
-'''On the Applicability of Design Patterns for the Bioinformatics Open Source Community'''
-
-Click on the author's name to view the abstract submitted for the panel.
-
-* Robert Hanmer - Moderator
-* [[Media:Bosc2009_submission_9.pdf | Lonnie Welch]]
-* [[Media:Bosc2009_submission_17.pdf | Aleksi Kallio]]
-
 == Schedule ==
 
 {| border="1" cellspacing="0" cellpadding="10" align="left"
