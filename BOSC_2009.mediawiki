@@ -40,7 +40,8 @@ His talk at BOSC will be entitled "Software Patterns for Reusable Design".
 
 == Schedule ==
 
-The '''[[BOSC_2009_Schedule | list of confirmed speakers and abstracts]]''' can be found by following the link.  The final schedule of talks will be posted on June 1.
+* The '''[[BOSC_2009_Schedule | BOSC 2009 Schedule]]''' has been posted.
+* Alternately, click '''[[Media:BOSC2009_program_20090601.pdf | here]]''' to download the full program with abstracts in PDF format (2 MB).
 
 == Sessions ==
 
