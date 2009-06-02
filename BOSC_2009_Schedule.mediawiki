@@ -220,4 +220,4 @@ Click on the author's name to view the abstract submitted for the panel.
 |-
 | '''10:15-10:45'''
 | '''Coffee Break'''
-|-
+|}
