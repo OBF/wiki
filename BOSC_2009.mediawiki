@@ -66,7 +66,7 @@ Ware asking all speakers to come prepared to lead an informal tutorial on their 
 
 == Abstract Submission Information ==
 
-The deadline for abstract submissions is Monday, April 13. Abstract submissions will '''not''' be accepted via e-mail this year.  All abstracts are to be  submitted through our [https://www.easychair.org/login.cgi?conf=bosc2009 EasyChair conference site].
+The deadline for abstract submissions was Monday, April 13; abstract submissions are now closed for full talks. Abstract submissions will '''not''' be accepted via e-mail this year.  All abstracts are to be  submitted through our [https://www.easychair.org/login.cgi?conf=bosc2009 EasyChair conference site].
 
 Abstracts must be one page in length and submitted '''as a PDF file only'''.  Please observe the following formatting guidelines
 * Use 1 inch (2.5 cm) margins on the top, sides, and bottom of the page.
