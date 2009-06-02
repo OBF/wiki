@@ -19,14 +19,6 @@ Robert S. Hanmer is a Consulting Member of Technical Staff in the Technical Comp
 
 His talk at BOSC will be entitled "Software Patterns for Reusable Design".
 
-== Visualization ==
-
-Click on the title to view the abstract.
-
-* Allan Kuchinsky - [[Media:Bosc2009_submission_23.pdf | Cytoscape Springs Forward: Re-architecture for Version 3.0]] (15 min.)
-* Frederik Decouttere - [[Media:Bosc2009_submission_8.pdf | Bioinformatics simplified with seqpad]] (10 min.)
-* Bernat Gel - [[Media:Bosc2009_submission_26.pdf | DASGenExp: an interactive web-based DAS client with client-side rendering]] (10 min.)
-
 == Open Source Software ==
 
 Click on the title to view the abstract.
@@ -129,15 +121,15 @@ Click on the author's name to view the abstract submitted for the panel.
 |-
 | 2:00-2:20
 | Allan Kuchinsky
-| [Visualization] Cytoscape Springs Forward: Re-architecture for Version 3.0
+| [Visualization] [[Media:Bosc2009_submission_23.pdf | Cytoscape Springs Forward: Re-architecture for Version 3.0]]
 |-
 | 2:20-2:33
 | Frederik Decouttere
-| [Visualization] Bioinformatics simplified with seqpad
+| [Visualization] [[Media:Bosc2009_submission_8.pdf | Bioinformatics simplified with seqpad]]
 |-
 | 2:33-2:46
 | Bernat Gel
-| [Visualization] DASGenExp: an interactive web-based DAS client with client-side rendering
+| [Visualization] [[Media:Bosc2009_submission_26.pdf | DASGenExp: an interactive web-based DAS client with client-side rendering]]
 |-
 | 2:46-2:59
 | Kazuharu Arakawa
