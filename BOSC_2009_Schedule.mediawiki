@@ -132,7 +132,7 @@ His talk at BOSC will be entitled "Software Patterns for Reusable Design".
 | [Announcements]
 |-
 | 9:15-10:15
-| Robert Hanmer
+| [[BOSC_2009#Robert_S._Hanmer | Robert Hanmer]]
 | [Keynote] Software Patterns for Reusable Design
 |-
 | '''10:15-10:45'''
