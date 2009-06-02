@@ -133,11 +133,11 @@ Click on the author's name to view the abstract submitted for the panel.
 |-
 | 2:46-2:59
 | Kazuharu Arakawa
-| [OS Software] Web Service Interface for G-language Genome Analysis Environment
+| [OS Software] [[Media:Bosc2009_submission_39.pdf | Web Service Interface for G-language Genome Analysis Environment]]
 |-
 | 2:59-3:12
 | Sylvain Brohée
-| [OS Software] Best of both worlds : combining the user-friendliness of Wikis and the rigor of biological databases
+| [OS Software] [[Media:Bosc2009_submission_3.pdf | Best of both worlds : combining the user-friendliness of Wikis and the rigor of biological databases]]
 |- 
 | 3:12-3:30
 | Bartek Wilczynski
@@ -222,7 +222,7 @@ Click on the author's name to view the abstract submitted for the panel.
 |-
 | 2:00-2:20
 | Quinn Snell
-| [OS Software] PSODA: Open Source Phylogenetic Search and DNA Analysis
+| [OS Software] [[Media:Bosc2009_submission_33.pdf | PSODA: Open Source Phylogenetic Search and DNA Analysis]]
 |- 
 | 2:20-2:40
 | Finn Drablos
