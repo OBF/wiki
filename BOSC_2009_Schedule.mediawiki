@@ -28,7 +28,7 @@ title: BOSC 2009 Schedule
 | Jean-Stéphane Varré
 | [Multicore & GPGPU Computing] [[Media:Bosc2009_submission_22.pdf | Biomanycores, a repository of interoperable open-source code for many-cores bioinformatics]]
 |-
-| 11:05-11:40
+| 11:05-11:25
 | Josh Buckner
 | [Multicore & GPGPU Computing] [[Media:Bosc2009_submission_32.pdf | Enabling GPU Computing in the R Statistical Environment]]
 |-
