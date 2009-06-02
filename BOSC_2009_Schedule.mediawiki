@@ -19,16 +19,6 @@ Robert S. Hanmer is a Consulting Member of Technical Staff in the Technical Comp
 
 His talk at BOSC will be entitled "Software Patterns for Reusable Design".
 
-== Data & Analysis Management (shared session with D&AM SIG) ==
-
-Click on the title to view the abstract.
-
-* Morris Swertz - [[Media:Bosc2009_submission_27.pdf | MOLGENIS by example: generating an extensible platform for genotype and phenotype experiments]] (15 min.)
-* Mark Welsh - [[Media:Bosc2009_submission_10.pdf | BioHDF: Open binary file formats for large-scale data management – Project Update]] (15 min.)
-* Robert Murphy - [[Media:Bosc2009_submission_34.pdf | PSLID, the Protein Subcellular Location Image Database: Subcellular location assignments, annotated image collections, image analysis tools, and generative models of protein distributions]] (15 min.)
-* Kam Dahlquist - [[Media:Bosc2009_submission_35.pdf | XMLPipeDB: A Reusable, Open Source Tool Chain for Building Relational Databases from XML Sources]] (10 min.)
-* Brad Chapman - [[Media:Bosc2009_submission_14.pdf | Lowering barriers to publishing biological data on the web]] (10 min.)
-
 == Bio* Update ==
 
 Click on the title to view the abstract.
@@ -183,31 +173,31 @@ Click on the author's name to view the abstract submitted for the panel.
 |-
 | 10:45-11:00
 | Peter Rice
-| [Bio* Update] EMBOSS: European Molecular Biology Open Software Suite
+| [Bio* Update] [[Media:Bosc2009_submission_5.pdf | EMBOSS: European Molecular Biology Open Software Suite]]
 |-
 | 11:00-11:15
 | Peter Cock
-| [Bio* Update] Biopython Project Update
+| [Bio* Update] [[Media:Bosc2009_submission_19.pdf | Biopython Project Update]]
 |-
 | 11:15-11:30
 | Andreas Prlic
-| [Bio* Update] BioJava 2009: an Open-Source Framework for Bioinformatics
+| [Bio* Update] [[Media:Bosc2009_submission_15.pdf | BioJava 2009: an Open-Source Framework for Bioinformatics]] 
 |- 
 | 11:30-11:45
 | Jim Procter
-| [Bio* Update] Application of VAMSAS enabled tools for the investigation of protein evolution
+| [Bio* Update] [[Media:Bosc2009_submission_16.pdf | Application of VAMSAS enabled tools for the investigation of protein evolution]]
 |-
 | 11:45-12:00pm
 | Martin Senger
-| [Bio* Update] Soaplab: Open Source Web Services Framework for Bioinformatics Programs
+| [Bio* Update] [[Media:Bosc2009_submission_13.pdf | Soaplab: Open Source Web Services Framework for Bioinformatics Programs]]
 |-
 | 12:00-12:20
 | Pjotr Prins
-| [Bio* Update] BioLib: Sharing high performance code between BioPerl, BioPython, BioRuby, R/Bioconductor and BioJAVA
+| [Bio* Update] [[Media:Bosc2009_submission_4.pdf | BioLib: Sharing high performance code between BioPerl, BioPython, BioRuby, R/Bioconductor and BioJAVA]] 
 |-
 | 12:20-12:28
 | Steffen Möller
-| [OS Software Lightning Talk] Debian adopts and disseminates Bioinformatics Open Source Software
+| [OS Software Lightning Talk] [[Media:Bosc2009_submission_30.pdf | Debian adopts and disseminates Bioinformatics Open Source Software]]
 |-
 | '''12:30-2:00'''
 | '''Lunch'''
