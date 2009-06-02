@@ -97,10 +97,8 @@ Click on the author's name to view the abstract submitted for the panel.
 
 == Schedule ==
 
-=== Day 1 ===
-
 {| border="1" cellspacing="0" cellpadding="10" align="left"
-! Time
+! Day 1
 ! Speaker
 ! Title
 |- 
@@ -200,15 +198,10 @@ Click on the author's name to view the abstract submitted for the panel.
 | 7:00
 | &nbsp;
 | <nowiki>O|B|F</nowiki> Board Meeting and No-host Dinner (location TBA)
-|}
-
-=== Day 2 ===
-
-
-{| border="1" cellspacing="0" cellpadding="10" align="left"
-! Time
-! Speaker
-! Title
+|-
+| '''Day 2'''
+| &nbsp;
+| &nbsp;
 |- 
 | 9:00-9:15am
 | Kam Dahlquist
