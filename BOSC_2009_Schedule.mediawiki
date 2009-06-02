@@ -77,7 +77,7 @@ title: BOSC 2009 Schedule
 |- 
 | 3:12-3:30
 | Bartek Wilczynski
-| [Regulatory Genomics] BNfinder: free software for effective Bayesian Network inference
+| [Regulatory Genomics] [[Media:Bosc2009_submission_29.pdf | BNfinder: free software for effective Bayesian Network inference]]
 |-
 | '''3:30-4:00'''
 | '''Coffee Break'''
