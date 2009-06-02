@@ -108,14 +108,14 @@ Click on the author's name to view the abstract submitted for the panel.
 | Kam Dahlquist
 | [Welcome]
 |-
-| 9:15-10:15am
+| 9:15-10:15
 | Alan Ruttenberg
 | [Keynote] Semantic Web Technologies
 |-
-| 10:15-10:45am
+| 10:15-10:45
 | Coffee Break
 |-
-| 10:45-11:05am
+| 10:45-11:05
 | Jean-Stéphane Varré
 | [Multicore & GPGPU Computing] Biomanycores, a repository of interoperable open-source code for many-cores bioinformatics
 |-
@@ -131,7 +131,7 @@ Click on the author's name to view the abstract submitted for the panel.
 | Oswaldo Trelles
 | [Multicore & GPGPU Computing Lightning Talk] Qnorm: A library of parallel methods for gene-expression Q-normalization
 |-
-| 11:48-12:08
+| 11:48-12:08pm
 | Hajo N. Krabbenhöft
 | [Computational Grids] Taverna workflows across Grids, web services and the command line
 |-
@@ -145,4 +145,31 @@ Click on the author's name to view the abstract submitted for the panel.
 |- 
 | 12:31-2:00
 | Lunch
+|-
+| 2:00-2:20
+| Allan Kuchinsky
+| [Visualization] Cytoscape Springs Forward: Re-architecture for Version 3.0
+|-
+| 2:20-2:33
+| Frederik Decouttere
+| [Visualization] Bioinformatics simplified with seqpad
+|-
+| 2:33-2:46
+| Bernat Gel
+| [Visualization] DASGenExp: an interactive web-based DAS client with client-side rendering
+|-
+| 2:46-2:59
+| Kazuharu Arakawa
+| [OS Software] Web Service Interface for G-language Genome Analysis Environment
+|-
+| 2:59-3:12
+| Sylvain Brohée
+| [OS Software] Best of both worlds : combining the user-friendliness of Wikis and the rigor of biological databases
+|- 
+| 3:12-3:30
+| Bartek Wilczynski
+| [Regulatory Genomics] BNfinder: free software for effective Bayesian Network inference
+|-
+| 3:30-4:00
+| Coffee Break
 |}
