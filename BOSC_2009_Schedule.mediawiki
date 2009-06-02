@@ -96,3 +96,19 @@ Click on the author's name to view the abstract submitted for the panel.
 * [[Media:Bosc2009_submission_17.pdf | Aleksi Kallio]]
 
 == Schedule ==
+
+=== Day 1 ===
+
+{| border="1" cellspacing="0" cellpadding="10" align="left"
+! Time
+! Speaker
+! Title
+|- 
+| 9:00-9:15am
+| Kam Dahlquist
+| [Welcome]
+|-
+| 9:15-10:15am
+| Alan Ruttenberg
+| [Keynote] Semantic Web Technologies
+|}
