@@ -19,18 +19,6 @@ Robert S. Hanmer is a Consulting Member of Technical Staff in the Technical Comp
 
 His talk at BOSC will be entitled "Software Patterns for Reusable Design".
 
-== Bio* Update ==
-
-Click on the title to view the abstract.
-
-* Martin Senger - [[Media:Bosc2009_submission_13.pdf | Soaplab: Open Source Web Services Framework for Bioinformatics Programs]] (10 min.)
-* Pjotr Prins - [[Media:Bosc2009_submission_4.pdf | BioLib: Sharing high performance code between BioPerl, BioPython, BioRuby, R/Bioconductor and BioJAVA]] (15 min.)
-* Peter Rice - [[Media:Bosc2009_submission_5.pdf | EMBOSS: European Molecular Biology Open Software Suite]] (10 min.)
-* Peter Cock - [[Media:Bosc2009_submission_19.pdf | Biopython Project Update]] (10 min.)
-* Andreas Prlic - [[Media:Bosc2009_submission_15.pdf | BioJava 2009: an Open-Source Framework for Bioinformatics]] (10 min.)
-* Jim Procter - [[Media:Bosc2009_submission_16.pdf | Application of VAMSAS enabled tools for the investigation of protein evolution]] (10 min.)
-* Steffen Möller - [[Media:Bosc2009_submission_30.pdf | Debian adopts and disseminates Bioinformatics Open Source Software]] (5 min. Lightning Talk)
-
 == Regulatory Genomics ==
 
 Click on the title to view the abstract.
@@ -208,26 +196,26 @@ Click on the author's name to view the abstract submitted for the panel.
 |- 
 | 2:20-2:40
 | Finn Drablos
-| [Regulatory Genomics] Computational discovery of composite motifs in DNA
+| [Regulatory Genomics] [[Media:Bosc2009_submission_6.pdf | Computational discovery of composite motifs in DNA]]
 |- 
 | 2:40-2:55
 | François Fauteux
-| [Regulatory Genomics] SEEDER: PERL MODULES FOR CIS-REGULATORY MOTIF DISCOVERY
+| [Regulatory Genomics] [[Media:Bosc2009_submission_40.pdf | SEEDER: PERL MODULES FOR CIS-REGULATORY MOTIF DISCOVERY]]
 |-
 | 2:55-3:10
 | Matias Piipari
-| [Regulatory Genomics] Large-scale gene regulatory motif discovery and categorisation with NestedMICA
+| [Regulatory Genomics] [[Media:Bosc2009_submission_24.pdf | Large-scale gene regulatory motif discovery and categorisation with NestedMICA]]
 |-
 | 3:10-3:30
 | Sophie Schbath 
-| [Regulatory Genomics] R'MES:
+| [Regulatory Genomics] [[Media:Bosc2009_submission_38.pdf | R'MES]] 
 |- 
 | '''3:30-4:00'''
 | '''Coffee Break'''
 |-
 | 4:00-4:15
 | Lonnie Welch
-| [Regulatory Genomics] Open Source Implementation of Batch-Extraction for Coding and Non-coding Sequences/An Open Source Framework for Bioinformatics Word Enumeration and Scoring
+| [Regulatory Genomics] [[Media:Bosc2009_submission_7_21.pdf | Open Source Implementation of Batch-Extraction for Coding and Non-coding Sequences/An Open Source Framework for Bioinformatics  Word Enumeration and Scoring]] 
 |- 
 | 4:15-4:50
 | Robert Hanmer (moderator), Lonnie Welch, Aleksi Kallio, other panelists TBA
