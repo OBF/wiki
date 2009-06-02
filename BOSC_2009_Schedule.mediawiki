@@ -31,7 +31,7 @@ His talk at BOSC will be entitled "Software Patterns for Reusable Design".
 | [Welcome]
 |-
 | 9:15-10:15
-| Alan Ruttenberg
+| [[BOSC_2009#Alan_Ruttenberg | Alan Ruttenberg]]
 | [Keynote] Semantic Web Technologies
 |-
 | '''10:15-10:45'''
