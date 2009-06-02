@@ -19,16 +19,6 @@ Robert S. Hanmer is a Consulting Member of Technical Staff in the Technical Comp
 
 His talk at BOSC will be entitled "Software Patterns for Reusable Design".
 
-== Regulatory Genomics ==
-
-Click on the title to view the abstract.
-
-* Finn Drablos - [[Media:Bosc2009_submission_6.pdf | Computational discovery of composite motifs in DNA]] (15 min.)
-* Sophie Schbath - [[Media:Bosc2009_submission_38.pdf | R'MES]] (15 min.)
-* Matias Piipari - [[Media:Bosc2009_submission_24.pdf | Large-scale gene regulatory motif discovery and categorisation with NestedMICA]] (10 min.)
-* Bartek Wilczynski - [[Media:Bosc2009_submission_29.pdf | BNfinder: free software for effective Bayesian Network inference]] (15 min.)
-* Lonnie Welch - [[Media:Bosc2009_submission_7_21.pdf | Open Source Implementation of Batch-Extraction for Coding and Non-coding Sequences/An Open Source Framework for Bioinformatics  Word Enumeration and Scoring]] (10 min.)
-* François Fauteux - [[Media:Bosc2009_submission_40.pdf | SEEDER: PERL MODULES FOR CIS-REGULATORY MOTIF DISCOVERY]] (10 min.)
 
 == Design Patterns Panel Discussion ==
 
@@ -218,7 +208,7 @@ Click on the author's name to view the abstract submitted for the panel.
 | [Regulatory Genomics] [[Media:Bosc2009_submission_7_21.pdf | Open Source Implementation of Batch-Extraction for Coding and Non-coding Sequences/An Open Source Framework for Bioinformatics  Word Enumeration and Scoring]] 
 |- 
 | 4:15-4:50
-| Robert Hanmer (moderator), Lonnie Welch, Aleksi Kallio, other panelists TBA
+| Robert Hanmer (moderator), [[Media:Bosc2009_submission_9.pdf | Lonnie Welch]], [[Media:Bosc2009_submission_17.pdf | Aleksi Kallio]], other panelists TBA
 | [Panel Discussion] On the Applicability of Design Patterns for the Bioinformatics Open Source Community
 |-
 |4:50-5:30
