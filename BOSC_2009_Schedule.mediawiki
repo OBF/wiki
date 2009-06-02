@@ -213,4 +213,69 @@ Click on the author's name to view the abstract submitted for the panel.
 |-
 | '''10:15-10:45'''
 | '''Coffee Break'''
+|-
+| 10:45-11:00
+| Peter Rice
+| [Bio* Update] EMBOSS: European Molecular Biology Open Software Suite
+|-
+| 11:00-11:15
+| Peter Cock
+| [Bio* Update] Biopython Project Update
+|-
+| 11:15-11:30
+| Andreas Prlic
+| [Bio* Update] BioJava 2009: an Open-Source Framework for Bioinformatics
+|- 
+| 11:30-11:45
+| Jim Procter
+| [Bio* Update] Application of VAMSAS enabled tools for the investigation of protein evolution
+|-
+| 11:45-12:00
+| Martin Senger
+| [Bio* Update] Soaplab: Open Source Web Services Framework for Bioinformatics Programs
+|-
+| 12:00-12:20
+| Pjotr Prins
+| [Bio* Update] BioLib: Sharing high performance code between BioPerl, BioPython, BioRuby, R/Bioconductor and BioJAVA
+|-
+| 12:20-12:28
+| Steffen Möller
+| [OS Software Lightning Talk] Debian adopts and disseminates Bioinformatics Open Source Software
+|-
+| '''12:30-2:00'''
+| '''Lunch'''
+|-
+| 2:00-2:20
+| Quinn Snell
+| [OS Software] PSODA: Open Source Phylogenetic Search and DNA Analysis
+|- 
+| 2:20-2:40
+| Finn Drablos
+| [Regulatory Genomics] Computational discovery of composite motifs in DNA
+|- 
+| 2:40-2:55
+| François Fauteux
+| [Regulatory Genomics] SEEDER: PERL MODULES FOR CIS-REGULATORY MOTIF DISCOVERY
+|-
+| 2:55-3:10
+| Matias Piipari
+| [Regulatory Genomics] Large-scale gene regulatory motif discovery and categorisation with NestedMICA
+|-
+| 3:10-3:30
+| Sophie Schbath 
+| [Regulatory Genomics] R'MES:
+|- 
+| 3:30-4:00
+| Coffee Break
+|-
+| 4:00-4:15
+| Lonnie Welch
+| [Regulatory Genomics] Open Source Implementation of Batch-Extraction for Coding and Non-coding Sequences/An Open Source Framework for Bioinformatics Word Enumeration and Scoring
+|- 
+| 4:15-4:50
+| Robert Hanmer (moderator), Lonnie Welch, Aleksi Kallio, other panelists TBA
+| [Panel Discussion] On the Applicability of Design Patterns for the Bioinformatics Open Source Community
+|-
+|4:50-5:30
+| Lightning Talks and Birds of a Feather
 |}
