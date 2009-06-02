@@ -4,6 +4,10 @@ title: BOSC 2009 Schedule
 
 Return to [[BOSC_2009 | BOSC 2009]] main page.
 
+Click on the title to view the abstract.
+
+Click here to download full program in PDF format (2 MB).
+
 == Schedule ==
 
 {| border="1" cellspacing="0" cellpadding="10" align="left"
