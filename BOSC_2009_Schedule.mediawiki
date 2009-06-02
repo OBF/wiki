@@ -115,7 +115,7 @@ Click on the author's name to view the abstract submitted for the panel.
 |-
 | 10:45-11:05
 | Jean-Stéphane Varré
-| [Multicore & GPGPU Computing] Biomanycores, a repository of interoperable open-source code for many-cores bioinformatics
+| [Multicore & GPGPU Computing] [[Media:Bosc2009_submission_22.pdf | Biomanycores, a repository of interoperable open-source code for many-cores bioinformatics]]
 |-
 | 11:25-11:40
 | Josh Buckner
