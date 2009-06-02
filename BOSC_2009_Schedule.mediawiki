@@ -19,23 +19,6 @@ Robert S. Hanmer is a Consulting Member of Technical Staff in the Technical Comp
 
 His talk at BOSC will be entitled "Software Patterns for Reusable Design".
 
-== Multicore & GPGPU Computing ==
-
-Click on the title to view the abstract.
-
-* Jean-Stéphane Varré - [[Media:Bosc2009_submission_22.pdf | Biomanycores, a repository of interoperable open-source code for many-cores bioinformatics]] (15 min.)
-* Josh Buckner - [[Media:Bosc2009_submission_32.pdf | Enabling GPU Computing in the R Statistical Environment]] (15 min.)
-* Mikhail Fursov - [[Media:Bosc2009_submission_18.pdf | UGENE – A practical approach for complex computational analysis  in molecular biology]] (10 min.)
-* Oswaldo Trelles - [[Media:Bosc2009_submission_11.pdf | Qnorm: A library of parallel methods for gene-expression Q-normalization]] (5 min. Lightning Talk)
-
-== Computational Grids ==
-
-Click on the title to view the abstract.
-
-* Hajo N. Krabbenhöft - [[Media:Bosc2009_submission_31.pdf | Taverna workflows across Grids, web services and the command line]] (15 min.)
-* Ann-Kristin Grimm - [[Media:Bosc2009_submission_12.pdf | Grid-based expression QTL analysis]] (10 min.)
-* Joel Hedlund - [[Media:Bosc2009_submission_28.pdf | The Nordic BioGrid project -- Bioinformatics for the grid]] (5 min. Lightning Talk)
-
 == Visualization ==
 
 Click on the title to view the abstract.
@@ -131,15 +114,15 @@ Click on the author's name to view the abstract submitted for the panel.
 |-
 | 11:48-12:08pm
 | Hajo N. Krabbenhöft
-| [Computational Grids] Taverna workflows across Grids, web services and the command line
+| [Computational Grids] [[Media:Bosc2009_submission_31.pdf | Taverna workflows across Grids, web services and the command line]]
 |-
 | 12:08-12:23
 | Ann-Kristin Grimm
-| [Computational Grids] Grid-based expression QTL analysis
+| [Computational Grids] [[Media:Bosc2009_submission_12.pdf | Grid-based expression QTL analysis]]
 |-
 | 12:23-12:31
 | Joel Hedlund
-| [Computational Grids Lightning Talk] The Nordic BioGrid project -- Bioinformatics for the grid
+| [Computational Grids Lightning Talk] [[Media:Bosc2009_submission_28.pdf | The Nordic BioGrid project -- Bioinformatics for the grid]]
 |- 
 | '''12:31-2:00'''
 | '''Lunch'''
