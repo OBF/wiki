@@ -58,6 +58,12 @@ His talk at BOSC will be entitled "Software Patterns for Reusable Design".
 * For maximum flexibility, please save your file as a .pdf or .ppt (not .pptx)
 * Live demos are possible, but we advise that you also bring screen shots.  While we have been promised an internet connection, be prepared for connection problems.
 
+=== Post-conference Slide Availability ===
+
+* In the spirit of openness, we would like to make the presentation slides publicly available after the conference.
+* The organizers will be requesting an electronic copy of the slides for posting.
+* For example, see slides from BOSC 2008 on [http://www.slideshare.net/tag/bosc_2008 SlideShare].
+
 == Sessions ==
 
 This year’s conference will mark the 10th anniversary of BOSC.  To celebrate the special occasion, the theme of this year’s conference is “Looking Back and Looking Ahead:  Open Source Solutions to Grand Challenges in Bioinformatics.”
