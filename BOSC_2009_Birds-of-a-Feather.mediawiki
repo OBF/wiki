@@ -4,3 +4,9 @@ title: BOSC 2009/Birds-of-a-Feather
 
 * Return to '''[[BOSC_2009_Schedule | BOSC 2009 Schedule]].'''
 * Return to '''[[BOSC_2009 | BOSC 2009]]''' main page.
+
+If you would like to create a BOF, just sign up for a [[Special:Userlogin| wiki account]], login, and edit this page. 
+
+== Saturday BOFs (Day 1) ==
+
+== Sunday BOFs (Day 2) ==
