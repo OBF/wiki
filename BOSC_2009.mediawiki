@@ -64,6 +64,24 @@ His talk at BOSC will be entitled "Software Patterns for Reusable Design".
 * The organizers will be requesting an electronic copy of the slides for posting.
 * For example, see slides from BOSC 2008 on [http://www.slideshare.net/tag/bosc_2008 SlideShare].
 
+== Call for Lightning Talks/Demos/Birds of a Feather Sessions ==
+
+=== Lightning Talks and Software Demonstrations ===
+
+The program committee is currently seeking speakers for the lightning talks. Lightning talks are quick - only five minutes long - and a great opportunity for you to give people a quick summary of your open source project, code, idea, or vision of the future.  Or, if you are involved in the development of novel Open Source Software, you could use the time to give a quick demonstration of your work.
+
+If you are interested in giving a Lightning Talk or Software Demonstration at BOSC 2009, please e-mail us at [mailto:bosc@open-bio.org bosc@open-bio.org]:
+* a brief title and summary (one or two lines)
+* a URL for the project page, if applicable
+* the specific open source license used for your software or your release plans (NOTE: the Open Source License Requirement also applies to Lightning talks).
+
+We will accept entries on-line until BOSC starts, but space for demos and lightning talks is limited.
+
+=== Birds of a Feather Sessions ===
+
+One of the more popular activities at BOSC are the Birds-of-a-Feather sub-meetings that people organize at the end of each days session.  These are free-form meetings organized by the attendees themselves.  Traditionally, some BOF's have been formed to allow developers and users of individual [[OBF]] software to meet each other face-to-face to discuss the project, but other meetings have been formed to discuss completely new ideas.  These meetings offer a unique opportunity for individuals to explore more about the activities of the various Open Source Projects, and, in some cases, even take an active role influencing the future of Open Source Software development.  If you would like to create a BOF, just sign up for a [[Special:Userlogin| wiki account]], login, and edit the [[BOSC_2009/Birds-of-a-Feather | BOSC 2009 Birds of a Feather]] page.
+
+
 == Sessions ==
 
 This year’s conference will mark the 10th anniversary of BOSC.  To celebrate the special occasion, the theme of this year’s conference is “Looking Back and Looking Ahead:  Open Source Solutions to Grand Challenges in Bioinformatics.”
