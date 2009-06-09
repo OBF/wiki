@@ -47,6 +47,17 @@ His talk at BOSC will be entitled "Software Patterns for Reusable Design".
 
 == Information for Speakers ==
 
+=== Audio/Visual ===
+
+* Please bring your slides on a flash drive and be prepared to load your file onto the podium computer at the break immediately preceeding your session.  We want to minimize switching computers between speakers to save time. 
+* The computer at the podium in the conference room is a PC and is configured as follows:
+** Windows XP Professional (English)
+** Microsoft Office 2007 Professional (English)
+** Adobe Reader 8
+** Internet connection
+* For maximum flexibility, please save your file as a .pdf or .ppt (not .pptx)
+* Live demos are possible, but we advise that you also bring screen shots.  While we have been promised an internet connection, be prepared for connection problems.
+
 == Sessions ==
 
 This year’s conference will mark the 10th anniversary of BOSC.  To celebrate the special occasion, the theme of this year’s conference is “Looking Back and Looking Ahead:  Open Source Solutions to Grand Challenges in Bioinformatics.”
