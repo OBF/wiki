@@ -30,7 +30,9 @@ The BOSC 2009 Organizing committee is pleased to announce our two Keynote Speake
 === Alan Ruttenberg ===
 
 [http://sciencecommons.org/about/whoweare/ruttenberg/ Alan Ruttenberg] is a Principal Scientist at [http://sciencecommons.org Science Commons].  He works with Semantic Web technologies in computational biology, with an emphasis on the creation and application of structured biological knowledge to interpret experimental results. He is currently involved in a number of open biomedical ontology efforts, including: the Ontology for Biomedical Investigations (OBI), the Basic Formal Ontology (BFO) that will form the upper level ontology for the OBO foundry, the Infectious Disease Ontology (IDO), the Program on Ontologies of Neural Structures (PONS), the Information Artifact Ontology (IAO), and BioPAX-OBO for representing molecular and cellular pathways. These interests and efforts come together in my project at Science Commons - the Neurocommons, a large scale Semantic Web knowledge base of biological information aimed at supporting, initially, the neurosciences. He is also an active participant in W3C Semantic Web activities. In 2006 and 2007 he was a member of the Health Care Life Sciences Interest Group, and early work on the Neurocommons became the core of the prototype life sciences knowledge base that the group has documented. He is a chair of the OWL Working Group specifying OWL 2, and a coordinating editor of the OBO Foundry. 
-His graduate work was at the MIT Media Lab in the Music and Cognition Group, and he has an undergraduate degree in Physics and Mathematics from Brandeis University. 
+His graduate work was at the MIT Media Lab in the Music and Cognition Group, and he has an undergraduate degree in Physics and Mathematics from Brandeis University.
+
+His talk at BOSC will be entitled "Can we reduce the burden of data integration?  Challenge and opportunity in building the web of data".
 
 === Robert S. Hanmer ===
 
