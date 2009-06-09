@@ -19,7 +19,7 @@ title: BOSC 2009 Schedule
 |-
 | 9:15-10:15
 | [[BOSC_2009#Alan_Ruttenberg | Alan Ruttenberg]]
-| [Keynote] Semantic Web Technologies
+| [Keynote] Can we reduce the burden of data integration?  Challenge and opportunity in building the web of data
 |-
 | '''10:15-10:45'''
 | '''Coffee Break'''
