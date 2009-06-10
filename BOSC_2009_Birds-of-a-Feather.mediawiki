@@ -12,3 +12,4 @@ If you would like to create a BOF, just sign up for a [[Special:Userlogin| wiki 
 * Mark Welsh - Applying HDF to next-gen sequence analysis
 
 == Sunday BOFs (Day 2) ==
+* Peter Cock - Biopython BOF/Hackathon
