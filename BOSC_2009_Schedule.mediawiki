@@ -138,7 +138,7 @@ Matias Piipari - [http://imotifs.pearcomp.com/ iMotifs]: a motif viewer/editor f
 | [Bio* Update] [[Media:Bosc2009_submission_19.pdf | Biopython Project Update]]
 |-
 | 11:15-11:30
-| Andreas Prlic
+| [http://biojava.org/wiki/Andreas_Prlic Andreas Prlic]
 | [Bio* Update] [[Media:Bosc2009_submission_15.pdf | BioJava 2009: an Open-Source Framework for Bioinformatics]] 
 |- 
 | 11:30-11:45
