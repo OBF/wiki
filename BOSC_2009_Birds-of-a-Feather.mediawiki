@@ -16,3 +16,4 @@ If you would like to create a BOF, just sign up for a [[Special:Userlogin| wiki 
 == Sunday BOFs (Day 2) ==
 * Peter Cock - Biopython BOF/Hackathon
 * Pjotr Prins - BioLib BOF
+* Andreas Prlic - BioJava user meeting
