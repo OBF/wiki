@@ -17,4 +17,4 @@ If you would like to create a BOF, just sign up for a [[Special:Userlogin| wiki 
 
 * Peter Cock, Brad Chapman, etc - [http://biopython.org Biopython] BOF Tutorial/Hackathon
 * Pjotr Prins - BioLib BOF
-* Andreas Prlic - BioJava user meeting
+* Andreas Prlic - [http://www.biojava.org BioJava] user meeting
