@@ -18,3 +18,4 @@ If you would like to create a BOF, just sign up for a [[Special:Userlogin| wiki 
 * Peter Cock, Brad Chapman, etc - [http://biopython.org Biopython] BOF Tutorial/Hackathon
 * Pjotr Prins - BioLib BOF
 * Andreas Prlic - [http://www.biojava.org BioJava] user meeting
+* Peter Rice - Open Bio Projects common issues (standard formats, interfaces, methods, ...)
