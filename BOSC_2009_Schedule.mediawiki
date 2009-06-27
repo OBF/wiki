@@ -106,15 +106,17 @@ title: BOSC 2009 Schedule
 | 5:30-6:00
 | &nbsp;
 | [Lightning Talks] 
-Matias Piipari - [http://imotifs.pearcomp.com/ iMotifs]: a motif viewer/editor for the Mac
+5:30 Matias Piipari - [http://imotifs.pearcomp.com/ iMotifs]: a motif viewer/editor for the Mac
 
-Kristian Rother - TBA
+5:38 Kristian Rother - TBA
+
+5:46 Tiago Antao
 
 [[BOSC_2009/Birds-of-a-Feather | Birds of a Feather]]
 |- 
-| 7:00
+| 6:15
 | &nbsp;
-| <nowiki>O|B|F</nowiki> Board Meeting and No-host Dinner (location TBA)
+| <nowiki>O|B|F</nowiki> Board Meeting and No-host Dinner - Rica Talk Hotel Restaurant
 |-
 | '''Day 2'''
 | '''Sunday'''
