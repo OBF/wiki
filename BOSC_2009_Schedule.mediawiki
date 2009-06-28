@@ -49,6 +49,8 @@ title: BOSC 2009 Schedule
 |-
 | 12:08-12:23
 | Ann-Kristin Grimm
+
+(talk given by Steffen Moeller)
 | [Computational Grids] [[Media:Bosc2009_submission_12.pdf | Grid-based expression QTL analysis]]
 |-
 | 12:23-12:31
