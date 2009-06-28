@@ -192,7 +192,7 @@ title: BOSC 2009 Schedule
 | [Regulatory Genomics] [[Media:Bosc2009_submission_7_21.pdf | Open Source Implementation of Batch-Extraction for Coding and Non-coding Sequences/An Open Source Framework for Bioinformatics  Word Enumeration and Scoring]] 
 |- 
 | 4:15-4:50
-| Robert Hanmer (moderator), [[Media:Bosc2009_submission_9.pdf | Lonnie Welch]], [[Media:Bosc2009_submission_17.pdf | Aleksi Kallio]], other panelists TBA
+| Robert Hanmer (moderator), [[Media:Bosc2009_submission_9.pdf | Lonnie Welch]], [[Media:Bosc2009_submission_17.pdf | Aleksi Kallio]] and Jim Procter.
 | [Panel Discussion] On the Applicability of Design Patterns for the Bioinformatics Open Source Community
 |-
 |4:50-5:30
