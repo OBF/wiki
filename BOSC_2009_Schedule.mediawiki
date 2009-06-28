@@ -114,7 +114,7 @@ title: BOSC 2009 Schedule
 | [Lightning Talks] 
 5:30 Matias Piipari - [http://imotifs.pearcomp.com/ iMotifs]: a motif viewer/editor for the Mac
 
-5:38 Kristian Rother - ModeRNA - an Open Source platform for RNA 3D modeling
+5:38 Kristian Rother - [http://genesilico.pl/moderna/ ModeRNA] - an Open Source platform for RNA 3D modeling
 
 5:46 Tiago Antao - [http://code.google.com/p/openmalaria openmalaria] - A simulator of malaria epidemology and control
 
