@@ -110,7 +110,7 @@ title: BOSC 2009 Schedule
 
 5:38 Kristian Rother - ModeRNA - an Open Source platform for RNA 3D modeling
 
-5:46 Tiago Antao
+5:46 Tiago Antao - [http://code.google.com/p/openmalaria openmalaria] - A simulator of malaria epidemology and control
 
 [[BOSC_2009/Birds-of-a-Feather | Birds of a Feather]]
 |- 
