@@ -41,6 +41,8 @@ title: BOSC 2009 Schedule
 |-
 | 11:40-11:48
 | Oswaldo Trelles
+
+(talk given by Pjotr Prins)
 | [Multicore & GPGPU Computing Lightning Talk] [[Media:Bosc2009_submission_11.pdf | Qnorm: A library of parallel methods for gene-expression Q-normalization]]
 |-
 | 11:48-12:08pm
