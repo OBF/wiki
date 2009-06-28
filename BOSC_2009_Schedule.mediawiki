@@ -35,6 +35,8 @@ title: BOSC 2009 Schedule
 |-
 | 11:25-11:40
 | Mikhail Fursov
+
+(cancelled)
 | [Multicore & GPGPU Computing] [[Media:Bosc2009_submission_18.pdf | UGENE – A practical approach for complex computational analysis  in molecular biology]]
 |-
 | 11:40-11:48
