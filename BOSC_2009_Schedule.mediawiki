@@ -202,5 +202,5 @@ title: BOSC 2009 Schedule
 | [Panel Discussion] On the Applicability of Design Patterns for the Bioinformatics Open Source Community
 |-
 |4:50-5:30
-| Lightning Talks and [[BOSC_2009/Birds-of-a-Feather | Birds of a Feather]]
+| [[BOSC_2009/Birds-of-a-Feather | Birds of a Feather]]
 |}
