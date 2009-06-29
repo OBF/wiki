@@ -99,7 +99,7 @@ title: BOSC 2009 Schedule
 |-
 |4:40-5:00
 | Mark Welsh
-| [Data & Analysis Management] [[Media:Bosc2009_submission_10.pdf | BioHDF: Open binary file formats for large-scale data management – Project Update]]
+| [Data & Analysis Management] [[Media:Bosc2009_submission_10.pdf | BioHDF: Open binary file formats for large-scale data management – Project Update]] [http://www.slideshare.net/bosc/welshbiohdfbosc2009 ***SLIDES***]
 |-
 | 5:00-5:15
 | Brad Chapman
