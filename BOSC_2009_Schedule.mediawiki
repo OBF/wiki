@@ -31,7 +31,7 @@ title: BOSC 2009 Schedule
 |-
 | 11:05-11:25
 | Josh Buckner
-| [Multicore & GPGPU Computing] [[Media:Bosc2009_submission_32.pdf | Enabling GPU Computing in the R Statistical Environment]]
+| [Multicore & GPGPU Computing] [[Media:Bosc2009_submission_32.pdf | Enabling GPU Computing in the R Statistical Environment]] [http://www.slideshare.net/bosc/bucknergpurbosc2009 ***SLIDES***]
 |-
 | 11:25-11:40
 | Mikhail Fursov
