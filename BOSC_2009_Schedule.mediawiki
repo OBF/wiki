@@ -91,7 +91,7 @@ title: BOSC 2009 Schedule
 |-
 | 4:00-4:20
 | Morris Swertz
-| [Data & Analysis Management] [[Media:Bosc2009_submission_27.pdf | MOLGENIS by example: generating an extensible platform for genotype and phenotype experiments]]
+| [Data & Analysis Management] [[Media:Bosc2009_submission_27.pdf | MOLGENIS by example: generating an extensible platform for genotype and phenotype experiments]] [http://www.slideshare.net/bosc/swertz-molgenis-bosc2009 ***SLIDES***]
 |- 
 | 4:20-4:40
 | Robert Murphy
