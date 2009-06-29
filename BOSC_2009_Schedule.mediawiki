@@ -176,7 +176,7 @@ title: BOSC 2009 Schedule
 |- 
 | 2:20-2:40
 | Finn Drablos
-| [Regulatory Genomics] [[Media:Bosc2009_submission_6.pdf | Computational discovery of composite motifs in DNA]]
+| [Regulatory Genomics] [[Media:Bosc2009_submission_6.pdf | Computational discovery of composite motifs in DNA]] [http://www.slideshare.net/bosc/drablos-composite-motifs-bosc2009 ***SLIDES***]
 |- 
 | 2:40-2:55
 | François Fauteux
