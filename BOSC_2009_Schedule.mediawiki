@@ -80,7 +80,7 @@ title: BOSC 2009 Schedule
 |-
 | 2:59-3:12
 | Sylvain Brohée
-| [OS Software] [[Media:Bosc2009_submission_3.pdf | Best of both worlds : combining the user-friendliness of Wikis and the rigor of biological databases]]
+| [OS Software] [[Media:Bosc2009_submission_3.pdf | Best of both worlds : combining the user-friendliness of Wikis and the rigor of biological databases]] [http://www.slideshare.net/bosc/broheewikibosc2009 ***SLIDES***]
 |- 
 | 3:12-3:30
 | Bartek Wilczynski
