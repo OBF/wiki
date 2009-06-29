@@ -157,7 +157,7 @@ title: BOSC 2009 Schedule
 |-
 | 11:45-12:00pm
 | Martin Senger
-| [Bio* Update] [[Media:Bosc2009_submission_13.pdf | Soaplab: Open Source Web Services Framework for Bioinformatics Programs]]
+| [Bio* Update] [[Media:Bosc2009_submission_13.pdf | Soaplab: Open Source Web Services Framework for Bioinformatics Programs]] [http://www.slideshare.net/bosc/senger-soaplab-bosc2009 ***SLIDES***]
 |-
 | 12:00-12:20
 | Pjotr Prins
