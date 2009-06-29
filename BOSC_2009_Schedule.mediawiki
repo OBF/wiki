@@ -172,7 +172,7 @@ title: BOSC 2009 Schedule
 |-
 | 2:00-2:20
 | Quinn Snell
-| [OS Software] [[Media:Bosc2009_submission_33.pdf | PSODA: Open Source Phylogenetic Search and DNA Analysis]]
+| [OS Software] [[Media:Bosc2009_submission_33.pdf | PSODA: Open Source Phylogenetic Search and DNA Analysis]] [http://www.slideshare.net/bosc/snell-psoda-bosc2009 ***SLIDES***]
 |- 
 | 2:20-2:40
 | Finn Drablos
