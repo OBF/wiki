@@ -95,7 +95,7 @@ title: BOSC 2009 Schedule
 |- 
 | 4:20-4:40
 | Robert Murphy
-| [Data & Analysis Management] [[Media:Bosc2009_submission_34.pdf | PSLID, the Protein Subcellular Location Image Database: Subcellular location assignments, annotated image collections, image analysis tools, and generative models of protein distributions]]
+| [Data & Analysis Management] [[Media:Bosc2009_submission_34.pdf | PSLID, the Protein Subcellular Location Image Database: Subcellular location assignments, annotated image collections, image analysis tools, and generative models of protein distributions]] [http://www.slideshare.net/bosc/murphypslidbosc2009 ***SLIDES***]
 |-
 |4:40-5:00
 | Mark Welsh
