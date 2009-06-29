@@ -76,7 +76,7 @@ title: BOSC 2009 Schedule
 |-
 | 2:46-2:59
 | Kazuharu Arakawa
-| [OS Software] [[Media:Bosc2009_submission_39.pdf | Web Service Interface for G-language Genome Analysis Environment]]
+| [OS Software] [[Media:Bosc2009_submission_39.pdf | Web Service Interface for G-language Genome Analysis Environment]] [http://www.slideshare.net/bosc/arakawaglanguagebosc2009 ***SLIDES***]
 |-
 | 2:59-3:12
 | Sylvain Brohée
