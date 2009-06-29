@@ -165,7 +165,7 @@ title: BOSC 2009 Schedule
 |-
 | 12:20-12:28
 | Steffen Möller
-| [OS Software Lightning Talk] [[Media:Bosc2009_submission_30.pdf | Debian adopts and disseminates Bioinformatics Open Source Software]]
+| [OS Software Lightning Talk] [[Media:Bosc2009_submission_30.pdf | Debian adopts and disseminates Bioinformatics Open Source Software]] [http://www.slideshare.net/bosc/moeller-debian-bosc2009 ***SLIDES***]
 |-
 | '''12:30-2:00'''
 | '''Lunch'''
