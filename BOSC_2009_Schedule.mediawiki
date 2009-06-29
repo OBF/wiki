@@ -107,7 +107,7 @@ title: BOSC 2009 Schedule
 |-
 | 5:15-5:30
 | Kam Dahlquist
-| [Data & Analysis Management] [[Media:Bosc2009_submission_35.pdf | XMLPipeDB: A Reusable, Open Source Tool Chain for Building Relational Databases from XML Sources]]
+| [Data & Analysis Management] [[Media:Bosc2009_submission_35.pdf | XMLPipeDB: A Reusable, Open Source Tool Chain for Building Relational Databases from XML Sources]] [http://www.slideshare.net/bosc/dahlquistxmlpipedbbosc2009 ***SLIDES***]
 |- 
 | 5:30-6:00
 | &nbsp;
