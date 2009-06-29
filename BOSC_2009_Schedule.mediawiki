@@ -68,7 +68,7 @@ title: BOSC 2009 Schedule
 |-
 | 2:20-2:33
 | Frederik Decouttere
-| [Visualization] [[Media:Bosc2009_submission_8.pdf | Bioinformatics simplified with seqpad]]
+| [Visualization] [[Media:Bosc2009_submission_8.pdf | Bioinformatics simplified with seqpad]] [http://www.slideshare.net/bosc/decouttereseqpad-bosc2009 ***SLIDES***]
 |-
 | 2:33-2:46
 | Bernat Gel
