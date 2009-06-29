@@ -64,7 +64,7 @@ title: BOSC 2009 Schedule
 |-
 | 2:00-2:20
 | Allan Kuchinsky
-| [Visualization] [[Media:Bosc2009_submission_23.pdf | Cytoscape Springs Forward: Re-architecture for Version 3.0]]
+| [Visualization] [[Media:Bosc2009_submission_23.pdf | Cytoscape Springs Forward: Re-architecture for Version 3.0]] [http://www.slideshare.net/bosc/kuchinskycytoscapebosc2009 ***SLIDES***]
 |-
 | 2:20-2:33
 | Frederik Decouttere
