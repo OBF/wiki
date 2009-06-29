@@ -103,7 +103,7 @@ title: BOSC 2009 Schedule
 |-
 | 5:00-5:15
 | Brad Chapman
-| [Data & Analysis Management] [[Media:Bosc2009_submission_14.pdf | Lowering barriers to publishing biological data on the web]]
+| [Data & Analysis Management] [[Media:Bosc2009_submission_14.pdf | Lowering barriers to publishing biological data on the web]] [http://www.slideshare.net/bosc/chapmanpublishingwebbosc2009 ***SLIDES***]
 |-
 | 5:15-5:30
 | Kam Dahlquist
