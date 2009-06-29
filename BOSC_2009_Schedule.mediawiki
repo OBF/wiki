@@ -199,7 +199,7 @@ title: BOSC 2009 Schedule
 |- 
 | 4:15-4:50
 | Robert Hanmer (moderator), [[Media:Bosc2009_submission_9.pdf | Lonnie Welch]], [[Media:Bosc2009_submission_17.pdf | Aleksi Kallio]] and Jim Procter.
-| [Panel Discussion] On the Applicability of Design Patterns for the Bioinformatics Open Source Community
+| [Panel Discussion] On the Applicability of Design Patterns for the Bioinformatics Open Source Community http://www.slideshare.net/bosc/kallio-chipster-bosc2009 ***Kallio SLIDES***]
 |-
 |4:50-5:30
 | [[BOSC_2009/Birds-of-a-Feather | Birds of a Feather]]
