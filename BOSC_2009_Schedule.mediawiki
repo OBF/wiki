@@ -72,7 +72,7 @@ title: BOSC 2009 Schedule
 |-
 | 2:33-2:46
 | Bernat Gel
-| [Visualization] [[Media:Bosc2009_submission_26.pdf | DASGenExp: an interactive web-based DAS client with client-side rendering]]
+| [Visualization] [[Media:Bosc2009_submission_26.pdf | DASGenExp: an interactive web-based DAS client with client-side rendering]] [http://www.slideshare.net/bosc/geldasgenexpbosc2009 ***SLIDES***]
 |-
 | 2:46-2:59
 | Kazuharu Arakawa
