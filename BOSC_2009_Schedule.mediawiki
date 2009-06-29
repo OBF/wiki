@@ -134,7 +134,7 @@ title: BOSC 2009 Schedule
 |-
 | 9:15-10:15
 | [[BOSC_2009#Robert_S._Hanmer | Robert Hanmer]]
-| [Keynote] Software Patterns for Reusable Design
+| [Keynote] Software Patterns for Reusable Design [http://www.slideshare.net/bosc/hanmer-software-patterns-bosc2009 ***SLIDES***]
 |-
 | '''10:15-10:45'''
 | '''Coffee Break'''
