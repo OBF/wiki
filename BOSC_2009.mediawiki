@@ -8,6 +8,8 @@ BOSC 2009 will be held for 2 days in conjunction with [http://www.iscb.org/ismbe
 
 Please see [[Past BOSC conferences|past BOSC conferences]] for the previous 9 conferences.
 
+'''''Announcement: For BOSC attendees that are currently at ISMB, you can pick up a free username and password for the higher-bandwidth wireless network from the registration desk.''''' &mdash; [[User:Kdahlquist|Kdahlquist]] 10:05, 29 June 2009 (UTC)
+
 __NOTOC__
 <div style="float: right;">__TOC__</div>
 == Overview ==
