@@ -27,7 +27,7 @@ title: BOSC 2009 Schedule
 |-
 | 10:45-11:05
 | Jean-Stéphane Varré
-| [Multicore & GPGPU Computing] [[Media:Bosc2009_submission_22.pdf | Biomanycores, a repository of interoperable open-source code for many-cores bioinformatics]]
+| [Multicore & GPGPU Computing] [[Media:Bosc2009_submission_22.pdf | Biomanycores, a repository of interoperable open-source code for many-cores bioinformatics]] [http://www.slideshare.net/bosc/varrebiomanycoresbosc2009 ***SLIDES***]
 |-
 | 11:05-11:25
 | Josh Buckner
