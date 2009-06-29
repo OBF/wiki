@@ -16,7 +16,7 @@ title: BOSC 2009 Schedule
 |- 
 | 9:00-9:15am
 | Kam Dahlquist
-| [Welcome]
+| [Welcome] [http://www.slideshare.net/bosc/bosc-intro-20090627 ***SLIDES***]
 |-
 | 9:15-10:15
 | [[BOSC_2009#Alan_Ruttenberg | Alan Ruttenberg]]
