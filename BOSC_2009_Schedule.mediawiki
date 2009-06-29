@@ -180,7 +180,7 @@ title: BOSC 2009 Schedule
 |- 
 | 2:40-2:55
 | François Fauteux
-| [Regulatory Genomics] [[Media:Bosc2009_submission_40.pdf | SEEDER: PERL MODULES FOR CIS-REGULATORY MOTIF DISCOVERY]]
+| [Regulatory Genomics] [[Media:Bosc2009_submission_40.pdf | SEEDER: PERL MODULES FOR CIS-REGULATORY MOTIF DISCOVERY]] [http://www.slideshare.net/bosc/fauteux-seeder-bosc2009 ***SLIDES***]
 |-
 | 2:55-3:10
 | Matias Piipari
