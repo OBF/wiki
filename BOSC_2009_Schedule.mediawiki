@@ -57,7 +57,7 @@ title: BOSC 2009 Schedule
 |-
 | 12:23-12:31
 | Joel Hedlund
-| [Computational Grids Lightning Talk] [[Media:Bosc2009_submission_28.pdf | The Nordic BioGrid project -- Bioinformatics for the grid]]
+| [Computational Grids Lightning Talk] [[Media:Bosc2009_submission_28.pdf | The Nordic BioGrid project -- Bioinformatics for the grid]] [http://www.slideshare.net/bosc/hedlundbiogridbosc2009 ***SLIDES***]
 |- 
 | '''12:31-2:00'''
 | '''Lunch'''
