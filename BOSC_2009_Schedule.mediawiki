@@ -195,7 +195,7 @@ title: BOSC 2009 Schedule
 |-
 | 4:00-4:15
 | Lonnie Welch
-| [Regulatory Genomics] [[Media:Bosc2009_submission_7_21.pdf | Open Source Implementation of Batch-Extraction for Coding and Non-coding Sequences/An Open Source Framework for Bioinformatics  Word Enumeration and Scoring]] 
+| [Regulatory Genomics] [[Media:Bosc2009_submission_7_21.pdf | Open Source Implementation of Batch-Extraction for Coding and Non-coding Sequences/An Open Source Framework for Bioinformatics  Word Enumeration and Scoring]] [http://www.slideshare.net/bosc/welch-wordifier-bosc2009 ***SLIDES***]
 |- 
 | 4:15-4:50
 | Robert Hanmer (moderator), [[Media:Bosc2009_submission_9.pdf | Lonnie Welch]], [[Media:Bosc2009_submission_17.pdf | Aleksi Kallio]] and Jim Procter.
