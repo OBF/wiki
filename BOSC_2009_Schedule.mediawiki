@@ -145,7 +145,7 @@ title: BOSC 2009 Schedule
 |-
 | 11:00-11:15
 | Peter Cock
-| [Bio* Update] [[Media:Bosc2009_submission_19.pdf | Biopython Project Update]] [http://www.slideshare.net/bosc/cock-biopython-bosc2009 ***SLIDES***]
+| [Bio* Update] [[Media:Bosc2009_submission_19.pdf | Biopython Project Update]] [http://www.slideshare.net/bosc/cock-biopython-bosc2009 ***SLIDES***] [http://biopython.org/DIST/docs/presentations/Biopython_BOSC_2009.pdf ***PDF***]
 |-
 | 11:15-11:30
 | [http://biojava.org/wiki/Andreas_Prlic Andreas Prlic]
