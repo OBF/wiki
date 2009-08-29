@@ -6,7 +6,7 @@ title: Board
 The board can be contacted via email at [mailto:board@open-bio.org board@open-bio.org]
 
 '''President'''
-:; [[bp:Jason Stajich|Jason Stajich]] : [[bp:BioPerl|BioPerl]] core developer. [http://pmb.berkeley.edu/~taylor/people/js.html Postdoc] at [http://www.berkeley.edu/ University of California, Berkeley].
+:; [[bp:Jason Stajich|Jason Stajich]] : [[bp:BioPerl|BioPerl]] core developer. [http://stajichlab.fungalgenomes.org Assistant Professor] at [http://www.ucr.edu/ University of California, Riverside].
 
 '''Treasurer'''
 :; [[bp:Chris Dagdigian|Chris Dagdigian]] : [[bp:BioPerl|BioPerl]] co-founder & O|B|F sysadmin. Employed by [http://www.bioteam.net the BioTeam].
