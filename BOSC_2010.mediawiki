@@ -10,7 +10,6 @@ Please see [[Past BOSC conferences|past BOSC conferences]] for the previous 10 c
 
 __NOTOC__
 <div style="float: right;">__TOC__</div>
-== Overview ==
 
 == Overview ==
 The Bioinformatics Open Source Conference (BOSC) is sponsored by the Open Bioinformatics Foundation (O|B|F), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development within the biological research community. 
