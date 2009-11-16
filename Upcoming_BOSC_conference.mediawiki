@@ -2,4 +2,4 @@
 title: Upcoming BOSC conference
 ---
 
-#REDIRECT [[BOSC 2009]]
+#REDIRECT [[BOSC 2010]]
