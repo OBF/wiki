@@ -7,6 +7,7 @@ title: Minutes:2009 ConfCall
 =Tentative Agenda=
 # Old business 
 #* Previous minutes
+#* Summary of BOSC 2009 (Kam)
 # New business
 #* Summary of O|B|F supported projects: projects are active(?), need more support (?), have had releases(?)
 #** BioPerl
@@ -19,8 +20,8 @@ title: Minutes:2009 ConfCall
 #** EMBOSS
 #** BioRuby?
 #** BioLib?
-#* Treasurer's 2009 report
-#* OBF Hardware & Sysadmin report
+#* Treasurer's 2009 report (ChrisD)
+#* OBF Hardware & Sysadmin report (JasonS and ChrisD)
 #* Domain names currently registered, upcoming expirations, newly purchased names
 #** Proposal to purchase new hardware - [[2009 hardware purchase proposal]]
 #** Proposal to purchase box for upstream SPAM filtering
