@@ -27,3 +27,8 @@ Many open source bioinformatics packages are widely used by the research communi
 * May 28, 2010: Early Registration Discount Cut-off Date
 * June 25, 2010: Handout Materials Due
 * July 9-10, 2010:  BOSC 2010!
+
+== Organizing Committee ==
+
+* [http://myweb.lmu.edu/kdahlqui Kam D. Dahlquist] (Loyola Marymount University) is chairing the Organizing Committee for BOSC 2010.
+* The organizing committee can be contacted by email at [mailto:bosc@openbio.org bosc@open-bio.org].
