@@ -31,4 +31,9 @@ Many open source bioinformatics packages are widely used by the research communi
 == Organizing Committee ==
 
 * [http://myweb.lmu.edu/kdahlqui Kam D. Dahlquist] (Loyola Marymount University) is chairing the Organizing Committee for BOSC 2010.
-* The organizing committee can be contacted by email at [mailto:bosc@openbio.org bosc@open-bio.org].
+** If you wish to join the BOSC 2010 Organizing Committee, please send an e-mail to [mailto:bosc@open-bio.org bosc@open-bio.org].  Conference planning is being discussed on the [[Talk:BOSC_2010 | Discussion]] page, you are welcome to add your ideas.
+* If you wish to be on the mailing list for BOSC-related announcements, including the call for abstracts and deadline reminders, please subscribe to the [http://lists.open-bio.org/mailman/listinfo/bosc-announce Bosc-announce] list.
+* For more information about the conference, please contact the organizers at [mailto:bosc@openbio.org bosc@open-bio.org].
+
+[[Category:BOSC]] [[Category:Conferences]]
+[[Category:BOSC Conferences]]
