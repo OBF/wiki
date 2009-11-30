@@ -19,7 +19,7 @@ Many open source bioinformatics packages are widely used by the research communi
 == Important Dates ==
 
 * December 1, 2009: BOSC Special Interest Group Letter of Intent due to the ISMB SIG committee.
-* January 8, 2010: SIG Acceptance Notification
+* December 18, 2009: SIG Acceptance Notification
 * March 9, 2010: Registration opens
 * March 12, 2010: SIG Preliminary Program Due
 * April 23, 2010: SIG Program (preliminary) Available on Web
