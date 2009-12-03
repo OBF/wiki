@@ -5,24 +5,32 @@ title: Minutes:2009 ConfCall
 =Minutes from the meeting=
 
 =Tentative Agenda=
-# Old business 
-#* Previous minutes [[Minutes:2008 BOSC Meeting]]
-# New business
-#BOSC
-#* Summary of BOSC 2009 (Kam)
-#** Money spent/made attendee number, any other feedback
-#* BOSC 2010 - held with ISMB2010 in Boston, MA, USA
-# BoD membership and succession. Need plan to elect new BoD members and rotate officers.
-# Treasurer's 2009 report (ChrisD)
-#* (Chris will link report) [[Minutes:2009 Financial report]]
-# OBF Hardware & Sysadmin report (JasonS and ChrisD)
-#* Domain names currently registered, upcoming expirations, newly purchased names
-#** Proposal to purchase new hardware - [[2009 hardware purchase proposal]]
-#** Proposal to purchase box for upstream SPAM filtering
-#** System Administration status & coverage report (who, what, issues, future)
-#*** Consider possibility of moving code mirroring to public (code.google.com; etc)
-# Hackathons 2010 (Tokyo hackathon in Feb 2010) will involve some OBF projects/developers
-# Additional topics proposed by community
+<ol>
+<li> Old business </li>
+ <ul><li> Previous minutes [[Minutes:2008 BOSC Meeting]]</li> </ul>  
+ <li>New business</li>
+<ol style="list-style-type:lower-roman">
+<li>BOSC</li>
+<ul>
+  <li> BOSC 2009 (Kam)</li>
+  <ul><li> Money spent/made attendee number, any other feedback</li></ul>
+  <li> BOSC 2010 - held with ISMB2010 in Boston, MA, USA</li>
+ </ul>
+ <li> BoD membership and succession. Need plan to elect new BoD members and rotate officers.</li>
+ <li>Treasurer's 2009 report (ChrisD)</li>
+  <ul><li> (Chris will link report) [[Minutes:2009 Financial report]]</li></ul>
+ <li> OBF Hardware & Sysadmin report (JasonS and ChrisD)<li>
+ <ul>
+   <li> Domain names currently registered, upcoming expirations, newly purchased names</li>
+   <li> Proposal to purchase new hardware - [[2009 hardware purchase proposal]]</li>
+   <li> Proposal to purchase box for upstream SPAM filtering</li>
+  <li> System Administration status & coverage report (who, what, issues, future) </li>
+ <li> Consider possibility of moving code mirroring to public (code.google.com; etc) mailling lists to googlegroups?</li>
+</ul>
+ <li> Hackathons 2010 (Tokyo hackathon in Feb 2010) will involve some OBF projects/developers</li>
+ <li>Additional topics proposed by community</li>
+</ol>
+</ol>
 
 =Project reports filed=
 Any reports that need to be recorded for 2009 can be lined here. Summary of O|B|F supported projects: projects are active(?), need more support (?), have had releases(?)
