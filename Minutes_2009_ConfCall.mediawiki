@@ -35,9 +35,10 @@ title: Minutes:2009 ConfCall
 =Project reports filed=
 Any reports that need to be recorded for 2009 can be lined here. Summary of O|B|F supported projects: projects are active(?), need more support (?), have had releases(?)
 * BioPerl
-** 1.6.1 released Nov 2009, 1.6.0 released in Jan 2009
+** 1.6.0 released in Jan 2009, 1.6.1 released Nov 2009
 * BioJava
 * BioPython
+** Biopython 1.50 released Apr 2009, 1.51 released Aug 2009, 1.52 released Sep 2009
 * BioSQL
 * BioMOBY
 * BioDAS
