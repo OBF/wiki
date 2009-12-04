@@ -19,7 +19,7 @@ One of the hallmarks of BOSC is the coming together of the open source developer
 =Important Dates=
 March 10:  Call for speakers and abstracts is open.
 
-May 11:  Abstract submission deadline.  All abstracts must be submitted through our [http://events.open-bio.org/BOSC2008/openconf.php Open Conference Systems] site.
+May 11:  Abstract submission deadline.  All abstracts must be submitted through our Open Conference Systems site.
 
 June 2:  Notification of accepted talks.
 
