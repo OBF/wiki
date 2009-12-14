@@ -4,9 +4,22 @@ title: 2009 hardware purchase proposal
 
 =Proposal to purchase new machines for OBF=
 ==Justification==
-* It is imperative that we move to x86_64 so we can do better support of modern hardware
-* Need to upgrade to more modern kernels and OS
-* Propose to stay with CentOS (?)
+'''Total Server Refresh - Move to 100% hypervisor-based virtualization'''
+* Existing servers date back to 2004 and are based on 32bit Pentium 4 chipsets
+* Existing servers running CentOS 4.8, current CentOS is at version 5.4
+* No spare server capacity for new service and server requests from OBF community
+* Only two people (Chris D and Jason S) have 100% full remote control including remote-power reboot ability
+** Can not easily/securely provide full remote control to other volunteers with existing infrastructure
+* We need to move to 64 bits, x86_64 and take advantage of CPU level support for virtulization
+* Virtualizing our servers and services greatly reduces operational burden, makes our IT infrastructure more "portable" should future situations demand it and also solves much of our existing issues with granting high levels of remote admin access (including console & remote power control) to members of our sysadmin team
+* New 64-bit hardware with CPU level virtualization support would allow OBF to:
+** Run many more servers and services as needed
+** Provide higher levels of performance
+** Provide higher levels of redundancy, safety and portability
+** Allow much greater distribution of administrative powers
+** Consume less datacenter space
+** Consume less datacenter electricity
+
 ==Proposed purchases==
 * A new machine to replace Portal which would be Xen enabled and virtually support mailing lists, web wiki.
 * A new machine to replace dev which would be Xen enabled? and support SVN, GIT(?)
