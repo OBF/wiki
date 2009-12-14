@@ -28,8 +28,7 @@ title: 2009 hardware purchase proposal
 * ''Chris to insert price quote(s) and specs here''
 
 ''' Server Quote'''
-* [[File::Silicon_Mechanics_Quote_173894.pdf‎]]
-
+* [[File:Silicon_Mechanics_Quote_173894.pdf‎]]
 
 ==Deployment and upgrade plan==
 * Decomission old machines, helps free up '''donated''' rackspace from BioTeam
