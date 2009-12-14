@@ -27,6 +27,10 @@ title: 2009 hardware purchase proposal
 * A new machine to replace dev which would be Xen enabled? and support SVN, GIT(?)
 * ''Chris to insert price quote(s) and specs here''
 
+''' Server Quote'''
+* [[File::Silicon_Mechanics_Quote_173894.pdf‎]]
+
+
 ==Deployment and upgrade plan==
 * Decomission old machines, helps free up '''donated''' rackspace from BioTeam
 * Setting up worldwide mirrors for backup purposes (rsync scripts from the repository?)
