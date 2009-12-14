@@ -24,6 +24,27 @@ title: 2009 hardware purchase proposal
 
 '''New Purchase - Mail scanning appliance'''
 
+This proposal is to solve a problem that has long been somewhat invisible to the OBF community - the '''extremely''' large amount of work required to handle the massive volume of email traffic that our lists receive, particularly in dealing with and moderating emails that are clearly spam but have gotten through our own anti-spam and anti-virus filters. These messages end up in the moderator queues of all our mailing lists (dozens per day, per email list) and represent the single largest operational and administrative burden for OBF volunteers. 
+
+The fact is that in 2009 the free and open source methods for anti-spam and anti-virus can not keep up with the current methods used by the bad guys. The most common source of spam these days are compromised PC systems that send email in small volumes, via seemingly legit accounts and at rotating intervals. The PC-based botnets are much harder to block via greylisting and blocklists than the previous generation of spammers who preferred sending large volumes of email through a smaller collection of hosts. 
+
+Current methods of anti-spam and anti-virus include:
+
+ * Greylisting in effect on all inbound email from unknown senders
+ * All inbound/outbound email scanned by clamAV for viral payloads
+ * Email that passes the clamAV test gets routed through MIMEDefang for additional scrutiny
+ * Email that passes clamAV and MIMEDefang gets processed by SpamAssassin
+ * A high SA score causes the email to be discarded automatically
+
+Even with the above methods in place, a huge amount of spam still gets through and clogs up the moderator queues of our very active mailing lists.
+
+Bad effects of the spam deluge:
+
+* Overworked volunteer list administrators
+* Legit emails being lost or deleted in bulk moderator cleanup attempts
+* Once open mailing lists have had to become more closed and harder to reach
+* Overall our mailing list community is not as open/accessible as it has been in the past, due to the anti-spam defenses we've had to emplace
+
 ==Proposed purchases==
 
 Proposals exist to purchase two main infrastructure devices:
