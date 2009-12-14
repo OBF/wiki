@@ -16,7 +16,11 @@ title: Minutes:2009 ConfCall
   <ul><li> Money spent/made attendee number, any other feedback</li></ul>
   <li> BOSC 2010 - held with ISMB2010 in Boston, MA, USA</li>
  </ul>
- <li> BoD membership and succession. Need plan to elect new BoD members and rotate officers.</li>
+ <li> BoD membership and succession.
+   <ul>
+    <li>Nomination of Nomi Harris for election to the BoD</li>
+    <li>Need plan to elect new BoD members and rotate officers.</li>
+   </ul>
  <li>Treasurer's 2009 report (ChrisD)</li>
   <ul><li> (Chris will link report) [[Minutes:2009 Financial report]]</li></ul>
  <li> OBF Hardware & Sysadmin report (JasonS and ChrisD)<li>
