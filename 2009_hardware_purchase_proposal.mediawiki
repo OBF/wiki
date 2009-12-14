@@ -64,7 +64,8 @@ Proposals exist to purchase two main infrastructure devices:
 * A dedicated email scanning appliance from http://mailfoundry.com/ 
 
 ''' Server Quotes'''
-* [[File:Silicon_Mechanics_Quote_173894.pdf‎]]
+* $5000 [[File:Silicon_Mechanics_Quote_173894.pdf‎]]
+* $1400 MailFoundry 1150 Email Filtering Appliance
 
 ==Deployment and upgrade plan==
 * Decomission old machines, helps free up '''donated''' rackspace from BioTeam
