@@ -7,7 +7,7 @@ title: Minutes:2009 ConfCall
 =Tentative Agenda=
 <ol>
 <li> Old business </li>
- <ul><li> Previous minutes [[Minutes:2008 BOSC Meeting]]</li> </ul>  
+ <ul><li> [[Minutes:2008 BOSC Meeting| 2008 BoD minutes]]</li> </ul>  
  <li>New business</li>
 <ol style="list-style-type:lower-roman">
 <li>BOSC
@@ -17,7 +17,7 @@ title: Minutes:2009 ConfCall
   <li> BOSC 2010 - held with ISMB2010 in Boston, MA, USA</li>
  </ul></li>
  <li>Treasurer's 2009 report (ChrisD)</li>
-  <ul><li> (Chris will link report) [[Minutes:2009 Financial report]]</li></ul>
+  <ul><li> [[Minutes:2009 Financial report| 2009 Financial report]]</li></ul>
  <li> BoD membership and succession.
    <ul>
     <li>Nomination of Nomi Harris for election to the BoD</li>
