@@ -3,7 +3,7 @@ title: 2009 hardware purchase proposal
 ---
 
 =Proposal to purchase new machines for OBF=
-==Justification for new servers & dedicated mail scanning appliance==
+==Justification for total replacement of existing servers==
 '''Total Server Refresh - Move to 100% hypervisor-based virtualization'''
 * Existing servers date back to 2004 and are based on 32bit Pentium 4 chipsets
 * Existing servers running CentOS 4.8, current CentOS is at version 5.4
@@ -19,6 +19,8 @@ title: 2009 hardware purchase proposal
 ** Allow much greater distribution of administrative powers
 ** Consume less datacenter space
 ** Consume less datacenter electricity
+
+== Justification for new Email Scanning Appliance ==
 
 '''New Purchase - Mail scanning appliance'''
 
