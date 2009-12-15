@@ -29,14 +29,14 @@ Projects using Subversion repositories:  http://code.open-bio.org/svnweb/
 
 '''IMPORTANT NOTE (Starting in 2008): BioPerl and BioJava are switching from CVS to Subversion for source code version control management. At some point the CVS links below for BioPerl and BioJava will be removed. 
 '''
-    * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biopython /home/repository/biopython]
-    * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biojava /home/repository/biojava]
-    * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioperl /home/repository/bioperl]
+    * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biopython /home/repository/biopython] '''obsolete''', now using git, see [http://www.biopython.org/wiki/SourceCode here]
+    * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biojava /home/repository/biojava] '''obsolete''', now using SVN, see [http://www.biojava.org/wiki/CVS_to_SVN_Migration here]
+    * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioperl /home/repository/bioperl] '''obsolete''', now using SVN, see [http://www.bioperl.org/wiki/Subversion here]
     * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biodas /home/repository/biodas]
     * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biomoby /home/repository/moby]
     * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biocorba /home/repository/biocorba]
-    * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biosql /home/repository/biosql]
-    * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioruby /home/repository/bioruby]
+    * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biosql /home/repository/biosql] '''obsolete''', now using SVN, see [http://www.biosql.org here]
+    * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioruby /home/repository/bioruby] '''obsolete''', now using git, see [http://www.bioruby.org/ here]
     * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=emboss /home/repository/emboss]
     * [http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=obf-common /home/repository/obf-common] 
 * Use the following command (all on one line) to login to the server. The example below shows how to login to the bioperl repository. To login to other repositories simply alter the /home/repository/(project) information.
