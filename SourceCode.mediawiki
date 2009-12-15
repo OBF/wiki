@@ -14,7 +14,7 @@ For downloads of tested and released software, please visit the official [[Proje
 
 == Note to developers ==
 
-This page describes methods for obtaining '''read only''' access to the latest snapshots of our source code. Updates, fixes and new code '''can not''' be committed or uploaded using the methods described here. The exception is BioRuby, which can be [http://github.com/pjotrp/bioruby-testing-central/wikis forked] on [http://github.com/bioruby/bioruby/tree/master github].
+This page describes methods for obtaining '''read only''' access to the latest snapshots of our source code. Updates, fixes and new code '''can not''' be committed or uploaded using the methods described here. The exceptions are [http://github.com/bioruby/bioruby/tree/master BioRuby] and [http://github.com/biopython/biopython/tree/master Biopython], which can be [http://github.com/pjotrp/bioruby-testing-central/wikis forked] on github (allowing you to modify you own personal repository).
 
 ==How to browse our latest source code repositories via the web==
 
