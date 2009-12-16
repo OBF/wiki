@@ -19,7 +19,7 @@ The foundation grew out of the volunteer projects [[BioPerl]], [[BioJava]] and [
 Our main activities are:
 
 * Underwriting and supporting the [[BOSC]] conferences
-* Organizing and supporting developer-centric "hackathon" events
+* Organizing and supporting developer-centric "[[Hackathon]]" events
 * Managing our servers, colocation facilities, bank account & other assets
 
 We are incorporated in the state of Delaware, USA as a not-for-profit company.
