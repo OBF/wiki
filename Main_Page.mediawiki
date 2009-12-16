@@ -2,11 +2,14 @@
 title: Main Page
 ---
 
-=OBF News=
-
-* [[Google Summer of Code 2009|<nowiki>O|B|F</nowiki> is applying to participate in the 2009 Google Summer of Code]] as an umbrella organization for the Bio* projects. 
-* An agenda for the [[Minutes:2008 ConfCall|Conference call]] for the 2008 Board of Director's meeting is available. Our board meetings are public and open, please see the page for information about getting a phone number call in access for the Nov 19, 2008 meeting.
-
+{| style="width:26em; float:right; background-color: white; border: 1px solid grey; margin: 0em 1em 0em 1em; padding: 1em;"
+|- 
+|<rss>http://news.open-bio.org/news/feed/|charset=utf-8|short|data|max=10|date</rss>
+|-
+| 
+|-
+|See also our [[News|news page]], and [http://twitter.com/obf_news twitter].
+|}
 =About Us=
 
 The Open Bioinformatics Foundation or O|B|F is a non profit, volunteer run organization focused on supporting [[wp:open source|open source]] programming in [[wp:bioinformatics|bioinformatics]].
