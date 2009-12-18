@@ -4,7 +4,7 @@ title: BOSC 2010
 
 [[Image:Pear.png|right|The Bosc Pair]]
 
-BOSC 2010 is currently in the planning stages.  It will be held for 2 days in conjunction with [http://www.iscb.org/ismb2010 the 18th Annual International Conference on Intelligent Systems for Molecular Biology (ISMB 2010)] in Boston, Massachusetts, USA.  The dates of BOSC 2010 are July 9-10; the main ISMB/ECCB Conference runs July 11-13, 2010.
+BOSC 2010 is currently in the planning stages.  It will be held for 2 days in conjunction with [http://www.iscb.org/ismb2010 the 18th Annual International Conference on Intelligent Systems for Molecular Biology (ISMB 2010)] in Boston, Massachusetts, USA.  The dates of BOSC 2010 are July 9-10; the main ISMB Conference runs July 11-13, 2010.
 
 Please see [[Past BOSC conferences|past BOSC conferences]] for the previous 10 conferences.
 
