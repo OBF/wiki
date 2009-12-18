@@ -47,7 +47,7 @@ See the following websites for further information:
 
 * Brad Chapman
 * [http://biojava.org/wiki/Michael_Heuer Michael Heur] (BioJava Developer)
-* Darin London
+* [http://www.bioperl.org/wiki/Darin_London Darin London] (BioPerl Developer)
 * Steffen M&ouml;ller (Institute for Neuro- und Bioinformatics, L&uuml;beck, Germany)
 * Jim Procter (University of Dundee, Scotland)
 
