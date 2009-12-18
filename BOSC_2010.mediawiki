@@ -40,7 +40,7 @@ See the following websites for further information:
 
 '''Members'''
 
-* Brad Chapman
+* [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer; Mass General Hospital)
 * [http://biojava.org/wiki/Michael_Heuer Michael Heur] (BioJava Developer)
 * [http://www.bioperl.org/wiki/Darin_London Darin London] (BioPerl Developer)
 * [http://www.bx.psu.edu/~anton/ Anton Nekrutenko]
