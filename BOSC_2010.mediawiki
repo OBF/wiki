@@ -21,6 +21,7 @@ Many open source bioinformatics packages are widely used by the research communi
 * January 18, 2010:  Call for abstracts opens (approximate date)
 * March 9, 2010: Registration opens
 * May 28, 2010: Early Registration Discount Cut-off Date
+* July 7-8, 2010: [[Codefest 2010]] programming session
 * July 9-10, 2010:  BOSC 2010!
 
 == Open Source License Requirement ==
