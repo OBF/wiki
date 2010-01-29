@@ -22,6 +22,7 @@ title: Projects
 * [http://skam.sourceforge.net/ BioMake &amp; Skam] - Task management tool, similar to makefiles
 
 ==Other related projects==
+* [http://malde.org/~ketil/ Bioinformatics tools in Haskell]
 * [http://biophp.org BioPHP]
 * [http://www.yandell-lab.org/cgl/ CGL] - Comparative Genomics Library
 * [http://wikiomics.org Wikiomics] - Bioinformatics wiki
