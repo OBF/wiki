@@ -44,6 +44,7 @@ See the following websites for further information:
 '''Members'''
 
 * [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer]; Mass General Hospital)
+* [http://www.linkedin.com/in/nomiharris Nomi Harris] (O|B|F Board)
 * [http://biojava.org/wiki/Michael_Heuer Michael Heuer] (BioJava Developer)
 * [http://www.bioperl.org/wiki/Darin_London Darin London] (BioPerl Developer)
 * [http://www.bx.psu.edu/~anton/ Anton Nekrutenko]
@@ -52,7 +53,6 @@ See the following websites for further information:
 
 '''Ex Officio (Members of the O|B|F Board)'''
 * [http://www.bioperl.org/wiki/Chris_Dagdigian Chris Dagdigian]
-* [http://www.linkedin.com/in/nomiharris Nomi Harris]
 * [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp]
 * [http://www.bioperl.org/wiki/Jason_Stajich Jason Stajich]
 
