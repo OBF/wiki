@@ -26,7 +26,28 @@ Many open source bioinformatics packages are widely used by the research communi
 * July 7-8, 2010: [[Codefest 2010]] programming session
 * July 9-10, 2010:  BOSC 2010!
 
-== Open Source License Requirement ==
+<!--== Abstract Submission Information ==
+
+The deadline for abstract submissions is Thursday, April 15.  Abstract submissions will '''not''' be accepted via e-mail this year.  All abstracts are to be  submitted through our Open Conferences System site.
+
+Abstracts must be one page in length and submitted '''as a PDF file only'''.  Please observe the following formatting guidelines
+* Use 1 inch (2.5 cm) margins on the top, sides, and bottom of the page.
+* List the following elements in order from the top of the page:
+** Title
+** Authors, with the presenting author's name underlined.
+** Author affiliations, including the e-mail address of the presenting author.
+** URL for the overall project web site
+** URL for accessing the code
+** The particular Open Source License being used
+* The abstracts will be presented "as is" in the program booklet
+* '''NOTE: upload your one-page, PDF-formatted abstract to the Open Conference System site as the ''paper''.  The 50-word abstract referred to in the system is unnecessary since you are uploading your abstract as a PDF file.'''
+
+Accepted talks will be 10-20 minutes, depending on the session. You will be notified of the length of your talk upon abstract acceptance.
+
+Submissions for Lightning Talks (length ~5 minutes) will be accepted up until the day of the conference, though submission to the program following the above guidelines is strongly encouraged to facilitate better planning. The open-source license requirement (see below) applies equally to lightning talks.-->
+
+
+=== Open Source License Requirement ===
 
 The [[OBF|Open Bioinformatics Foundation]], which is the sole sponsor of BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the biological research community. For this reason, if a submitted talk proposal concerns a specific software system for use by the research community, then that software must be licensed with a recognized Open Source License, and be available for download, including source code, by a tar/zip file accessed through ftp/http or through a widely used version control system like cvs/subversion/git/bazaar/Mercurial.
 
