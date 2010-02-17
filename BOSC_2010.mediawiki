@@ -46,7 +46,6 @@ Accepted talks will be 10-20 minutes, depending on the session. You will be noti
 
 Submissions for Lightning Talks (length ~5 minutes) will be accepted up until the day of the conference, though submission to the program following the above guidelines is strongly encouraged to facilitate better planning. The open-source license requirement (see below) applies equally to lightning talks.
 
-
 === Open Source License Requirement ===
 
 The [[OBF|Open Bioinformatics Foundation]], which is the sole sponsor of BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the biological research community. For this reason, if a submitted talk proposal concerns a specific software system for use by the research community, then that software must be licensed with a recognized Open Source License, and be available for download, including source code, by a tar/zip file accessed through ftp/http or through a widely used version control system like cvs/subversion/git/bazaar/Mercurial.
