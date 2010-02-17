@@ -26,6 +26,8 @@ Many open source bioinformatics packages are widely used by the research communi
 * July 7-8, 2010: [[Codefest 2010]] programming session
 * July 9-10, 2010:  BOSC 2010!
 
+== Sessions ==
+
 == Abstract Submission Information ==
 
 The deadline for abstract submissions is Thursday, April 15.  Abstract submissions will '''not''' be accepted via e-mail this year.  All abstracts are to be  submitted through our Open Conferences System site (coming soon).
