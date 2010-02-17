@@ -70,6 +70,8 @@ See the following websites for further information:
 * [http://www.bx.psu.edu/~anton/ Anton Nekrutenko]
 * Steffen M&ouml;ller (Institute for Neuro- und Bioinformatics, L&uuml;beck, Germany)
 * Jim Procter (University of Dundee, Scotland)
+* Ron Taylor (Pacific Northwest National Laboratory)
+
 
 '''Ex Officio (Members of the O|B|F Board)'''
 * [http://www.bioperl.org/wiki/Chris_Dagdigian Chris Dagdigian]
