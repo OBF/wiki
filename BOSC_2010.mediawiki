@@ -26,7 +26,7 @@ Many open source bioinformatics packages are widely used by the research communi
 * July 7-8, 2010: [[Codefest 2010]] programming session
 * July 9-10, 2010:  BOSC 2010!
 
-<!--== Abstract Submission Information ==
+== Abstract Submission Information ==
 
 The deadline for abstract submissions is Thursday, April 15.  Abstract submissions will '''not''' be accepted via e-mail this year.  All abstracts are to be  submitted through our Open Conferences System site.
 
@@ -44,7 +44,7 @@ Abstracts must be one page in length and submitted '''as a PDF file only'''.  Pl
 
 Accepted talks will be 10-20 minutes, depending on the session. You will be notified of the length of your talk upon abstract acceptance.
 
-Submissions for Lightning Talks (length ~5 minutes) will be accepted up until the day of the conference, though submission to the program following the above guidelines is strongly encouraged to facilitate better planning. The open-source license requirement (see below) applies equally to lightning talks.-->
+Submissions for Lightning Talks (length ~5 minutes) will be accepted up until the day of the conference, though submission to the program following the above guidelines is strongly encouraged to facilitate better planning. The open-source license requirement (see below) applies equally to lightning talks.
 
 
 === Open Source License Requirement ===
