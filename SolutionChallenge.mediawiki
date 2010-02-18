@@ -30,7 +30,6 @@ challenge session. Introduce yourself and your ideas on the Open Bio mailing lis
 * We can select from one overall challenge or a panel of challenges. We'd like to provide some overlap to help compare and contrast various approaches, but some challenges may fit better with a focus of a toolkit then others.
 
 * The winner will be selected by conference participants; everyone who sees your talk gets a vote. The criteria conference attendees should vote on are
-
 ** Execution of the analysis. How easy is it to understand and replicate?
 ** Quality of the answer. What interesting biological was discovered?
 ** Uniqueness of the approach. What elements of the toolkit make it useful for the problem?
