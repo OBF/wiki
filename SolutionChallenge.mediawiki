@@ -38,7 +38,7 @@ challenge session. Introduce yourself and your ideas on the Open Bio mailing lis
 
 These are collected project ideas from various members. Please create a wiki account for yourself and add your own ideas. As a group we will decide on one or more challenges to use:
 
-* Fly RNA-seq gender analysis. Start with short read alignments in [http://samtools.sourceforge.net/SAM1.pdf SAM format] from the [http://intermine.modencode.org/release-16/experiment.do?experiment=RNA-seq%20support%20of%20the%20ChIP%20data modENCODE project]. Alignments of total RNA from both male and female flies are available. Your goal is to use these alignments to highlight major expression differences between male and female flies. This will involve identifying alignment locations relative to genomic features, identifying differences between males and females, and providing summary charts and tables that explain interesting differences to the audience.
+* Fly RNA-seq gender analysis. Start with short read alignments in [http://samtools.sourceforge.net/SAM1.pdf SAM format] from the [http://intermine.modencode.org/release-16/experiment.do?experiment=RNA-seq%20support%20of%20the%20ChIP%20data modENCODE project]. Alignments of total RNA from both male and female flies are available. Your goal is to use these alignments to highlight major expression differences between the genders. This will involve organizing alignment locations relative to genomic features, identifying differences, and providing summary charts and tables that explain the most interesting results.
 
 == Discussion ==
 
