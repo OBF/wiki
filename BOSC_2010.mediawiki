@@ -28,6 +28,8 @@ Many open source bioinformatics packages are widely used by the research communi
 
 == Sessions ==
 
+* OpenBio [[SolutionChallenge]] -- Bioinformatics library providers: please join us in a friendly competition to solve a shared biological problem, demonstrating the utility of your toolkit alongside other developers
+
 <!--== Student Travel Awards ==
 
 Through generous sponsorship from [http://www.eaglegenomics.com/ Eagle Genomics] and an anonymous sponsor, we are pleased to announce the competition for three Student Travel Awards for BOSC 2010.  Each winner will be awarded $250 to defray the costs of travel to BOSC 2010.
