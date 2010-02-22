@@ -108,11 +108,8 @@ See the following websites for further information:
 == Sponsors ==
 
 The keynote speakers and student travel fellowships to BOSC 2010 were made possible by [http://www.eaglegenomics.com/ Eagle Genomics, Ltd.] and an anonymous donor. Thank you. 
- 
 
-[[Category:BOSC]] [[Category:Conferences]]
-[[Category:BOSC Conferences]]
-
+[[File:Eagle_logo_RGB.png‎|200px|left|Eagle Genomics logo]] 
 
 [[Category:BOSC]] [[Category:Conferences]]
 [[Category:BOSC Conferences]]
