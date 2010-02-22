@@ -42,7 +42,7 @@ Many open source bioinformatics packages are widely used by the research communi
 
 <!--== Student Travel Awards ==
 
-Through generous sponsorship from [http://www.eaglegenomics.com/ Eagle Genomics] and an anonymous sponsor, we are pleased to announce the competition for three Student Travel Awards for BOSC 2010.  Each winner will be awarded $250 to defray the costs of travel to BOSC 2010.
+Through generous sponsorship from [http://www.eaglegenomics.com/ Eagle Genomics] and an anonymous donor, we are pleased to announce the competition for three Student Travel Awards for BOSC 2010.  Each winner will be awarded $250 to defray the costs of travel to BOSC 2010.
 * To apply for the award, submit your abstract by the April 15 deadline through the Open Conference Systems site.
 * Be sure to check the box indicating that you are a graduate student.
 * Your abstract will undergo the normal review process for BOSC.  In addition, the BOSC Organizing Committee will review the student abstracts and pick the three best abstracts for the Student Travel Awards.
