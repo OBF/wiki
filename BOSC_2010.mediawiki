@@ -51,7 +51,7 @@ Through generous sponsorship from [http://www.eaglegenomics.com/ Eagle Genomics]
 
 == Abstract Submission Information ==
 
-The deadline for abstract submissions is Thursday, April 15.  Abstract submissions will '''not''' be accepted via e-mail this year.  All abstracts are to be  submitted through our [http://events.open-bio.org/BOSC2010/ Open Conferences System site] (coming soon).
+The deadline for abstract submissions is Thursday, April 15.  Abstract submissions will '''not''' be accepted via e-mail this year.  All abstracts are to be  submitted through our <!--[http://events.open-bio.org/BOSC2010/ -->Open Conferences System site (coming soon).
 
 Abstracts must be one page in length and submitted '''as a PDF file only'''.  Please observe the following formatting guidelines
 * Use 1 inch (2.5 cm) margins on the top, sides, and bottom of the page.
