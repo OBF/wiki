@@ -2,6 +2,8 @@
 title: SolutionChallenge
 ---
 
+Back to [[BOSC 2010]]
+
 == OpenBio solution challenge: Project updates at BOSC 2010 ==
 
 One of the traditional items we've had at the conference is project 
