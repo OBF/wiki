@@ -18,7 +18,7 @@ Many open source bioinformatics packages are widely used by the research communi
 
 == Important Dates ==
 
-* February 18, 2010:  Call for abstracts opens
+* February 26, 2010:  Call for abstracts opens
 * March 9, 2010: Registration opens
 * April 15, 2010: Abstract deadline
 * May 5, 2010: Notification of accepted abstracts
