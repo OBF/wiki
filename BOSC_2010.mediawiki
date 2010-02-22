@@ -79,8 +79,8 @@ See the following websites for further information:
 * [http://www.linkedin.com/in/nomiharris Nomi Harris] (O|B|F Board)
 * [http://biojava.org/wiki/Michael_Heuer Michael Heuer] (BioJava Developer)
 * [http://www.bioperl.org/wiki/Darin_London Darin London] (BioPerl Developer)
-* [http://www.bx.psu.edu/~anton/ Anton Nekrutenko]
 * Steffen M&ouml;ller (Institute for Neuro- und Bioinformatics, L&uuml;beck, Germany)
+* [http://www.bx.psu.edu/~anton/ Anton Nekrutenko]
 * Jim Procter (University of Dundee, Scotland)
 * Ron Taylor (Pacific Northwest National Laboratory)
 
