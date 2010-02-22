@@ -105,5 +105,14 @@ See the following websites for further information:
 * If you wish to be on the mailing list for BOSC-related announcements, including the call for abstracts and deadline reminders, please subscribe to the [http://lists.open-bio.org/mailman/listinfo/bosc-announce Bosc-announce] list.
 * For more information about the conference, please contact the organizers at [mailto:bosc@openbio.org bosc@open-bio.org].
 
+== Sponsors ==
+
+The keynote speakers and student travel fellowships to BOSC 2010 were made possible by [http://www.eaglegenomics.com/ Eagle Genomics, Ltd.] and an anonymous donor. Thank you. 
+ 
+
+[[Category:BOSC]] [[Category:Conferences]]
+[[Category:BOSC Conferences]]
+
+
 [[Category:BOSC]] [[Category:Conferences]]
 [[Category:BOSC Conferences]]
