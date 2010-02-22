@@ -28,7 +28,11 @@ Many open source bioinformatics packages are widely used by the research communi
 
 == Sessions ==
 
-* OpenBio [[SolutionChallenge]] -- Bioinformatics library providers: please join us in a friendly competition to solve a shared biological problem, demonstrating the utility of your toolkit alongside other developers
+* '''OpenBio [[SolutionChallenge]]''' -- Bioinformatics library providers: please join us in a friendly competition to solve a shared biological problem, demonstrating the utility of your toolkit alongside other developers
+* '''Approaches to analyzing high-throughput 'omics data''' -- Presentation of projects that use the MapReduce framework either for
+*# parallelized analysis of possibly terabyte size data sets from next-gen sequencing and mass spec proteomics or 
+*# parallelization of bioinformatics algorithms in general (e.g., the Apache Mahout project).
+Projects may involve Hadoop (MapReduce API + HDFS) as well as associated open source toolkits (Hbase, Hive, Pig, Cascading, etc.) or other NoSQL non-relational data stores.
 
 <!--== Student Travel Awards ==
 
