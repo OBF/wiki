@@ -4,7 +4,7 @@ title: BOSC 2010
 
 [[Image:Pear.png|right|The Bosc Pair]]
 
-The 11th Annual Bioinformatics Open Source Conference (BOSC) 2010 will be held for two days in conjunction with [http://www.iscb.org/ismb2010 the 18th Annual International Conference on Intelligent Systems for Molecular Biology (ISMB 2010)] in Boston, Massachusetts, USA.  The dates of BOSC 2010 are July 9-10; the main ISMB Conference runs July 11-13, 2010.
+The 11th Annual Bioinformatics Open Source Conference (BOSC) 2010 will be held for two days in conjunction with [http://www.iscb.org/ismb2010 the 18th Annual International Conference on Intelligent Systems for Molecular Biology (ISMB 2010)] in Boston, Massachusetts, USA.  The dates of BOSC 2010 are July 9-10; the main ISMB Conference runs July 11-13, 2010.  BOSC attendees are also invited to participate in the [[Codefest 2010]] programming session on July 7-8.
 
 Please see [[Past BOSC conferences|past BOSC conferences]] for the previous 10 conferences.
 
