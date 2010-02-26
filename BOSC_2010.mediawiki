@@ -106,6 +106,7 @@ See the following websites for further information:
 === Contact Us ===
 
 * If you wish to be on the mailing list for BOSC-related announcements, including the call for abstracts and deadline reminders, please subscribe to the [http://lists.open-bio.org/mailman/listinfo/bosc-announce Bosc-announce] list.
+* The deadline for abstract submissions is Thursday, April 15.  Abstract submissions will '''not''' be accepted via e-mail this year.  All abstracts are to be submitted through our [http://events.open-bio.org/BOSC2010/ Open Conferences System] site.
 * For more information about the conference, please contact the organizers at [mailto:bosc@openbio.org bosc@open-bio.org].
 
 == Sponsors ==
