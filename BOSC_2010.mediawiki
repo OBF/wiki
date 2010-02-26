@@ -23,8 +23,8 @@ Many open source bioinformatics packages are widely used by the research communi
 * April 15, 2010: Abstract deadline
 * May 5, 2010: Notification of accepted abstracts
 * May 28, 2010: Early Registration Discount Cut-off Date
-* July 7-8, 2010: [[Codefest 2010]] programming session
-* July 9-10, 2010:  BOSC 2010!
+* '''July 7-8, 2010: [[Codefest 2010]] programming session'''
+* '''July 9-10, 2010:  BOSC 2010!'''
 
 == Sessions ==
 
