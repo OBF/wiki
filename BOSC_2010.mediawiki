@@ -32,7 +32,7 @@ Many open source bioinformatics packages are widely used by the research communi
 ** Instead of the traditional Bio* updates that we've had at previous conferences, this year, we're planning to organize these talks around a central theme: the OpenBio Solution Challenge. We start with a biological question of general interest, and the project talks will focus around how you would solve that problem using your toolkit and programming language. 
 ** This is meant to provide a challenge for OpenBio contributors, a nice tutorial style overview of various projects and approaches for other programmers, and a fun opportunity to compete and learn from other projects. Conference attendees will vote on their favorite solution, with the winner receiving fame and fortune (warning: fortune not guaranteed).
 ** Specific challenges are being discussed on the [[SolutionChallenge]] page and through the various Bio* mailing lists.  Alternately, each project could highlight a challenge that they particularly do well, focusing tutorial-style on how to solve a particular problem.
-** Of course, we would still welcome traditional Bio* Update abstracts, too!
+** (Of course, we would still welcome traditional Bio* Update abstracts, too!)
 * '''Approaches to analyzing high-throughput 'omics data''' -- Presentation of projects that use the MapReduce framework either for
 *# parallelized analysis of possibly terabyte size data sets from next-gen sequencing and mass spec proteomics or 
 *# parallelization of bioinformatics algorithms in general (e.g., the Apache Mahout project).
