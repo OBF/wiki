@@ -66,7 +66,7 @@ Abstracts must be one page in length and submitted '''as a PDF file only'''.  Pl
 ** URL for accessing the code
 ** The particular Open Source License being used
 * The abstracts will be presented "as is" in the program booklet
-* '''NOTE: upload your one-page, PDF-formatted abstract to the Open Conference System site as the ''paper''.  The 50-word abstract referred to in the system is unnecessary since you are uploading your abstract as a PDF file.'''
+* '''NOTE: upload your one-page, PDF-formatted abstract to the Open Conference System site as the ''File''.'''  The text box for the ''Abstract'' is optional; the PDF file is what will be reviewed.
 
 Accepted talks will be 10-20 minutes, depending on the session. You will be notified of the length of your talk upon abstract acceptance.
 
