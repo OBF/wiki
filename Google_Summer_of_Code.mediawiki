@@ -2,18 +2,46 @@
 title: Google Summer of Code
 ---
 
-The O|B|F is applying for the first time for the [http://socghop.appspot.com/ Google Summer of Code] (GSoC) program as an umbrella organization for all O|B|F-affiliated projects. 
+Once again in 2010, the O|B|F is applying to the [http://socghop.appspot.com/ Google Summer of Code] (GSoC) program as an umbrella organization for all O|B|F-affiliated projects.
 
 On this page we are collecting ideas, possible projects, prerequisites, possible solution approaches, mentors, other people or channels to contact for more information or to bounce ideas off of, etc.
 
-== About Google Summer of Code == 
+== About Google Summer of Code ==
 
-[[Image:GSoC2009Logo.png|352px|right]]
-Google Summer of Code (GSoC) is maybe best described as a remote student internship program for globally distributed, collaboratively developed open-source projects. The program offers eligible student developers stipends to write code for open source projects over a period of 3 summer months ("flip bits, not burgers"). Aside from the stipend, perhaps the most important qualitative difference of this program is that students are paired with mentors, who are typically experienced developers from the project to which the student would be contributing, and who can guide the student to interact productively with the community, prevent getting stuck in obstacles, and avoid chasing down the wrong direction. The program is global - students and mentors may be located anywhere where they have internet connection ([http://socghop.appspot.com/document/show/program/google/gsoc2009/faqs#not_eligible except for countries affected by US trade restrictions]), and no travel is required. Thus, other than the stipend and the mentorship, the internship mirrors normal contributors to such distributed development projects, which is a useful learning experience in itself, as the skills needed to be effective at this are typically not taught in computer science curricula, yet are highly desired in an increasingly global IT industry.
+[[Image:GSoC2009Logo.png|352px|right]] Google Summer of Code (GSoC) is
+maybe best described as a remote student internship program for
+globally distributed, collaboratively developed open-source
+projects. The program offers eligible student developers stipends to
+write code for open source projects over a period of 3 summer months
+("flip bits, not burgers"). Aside from the stipend, perhaps the most
+important qualitative difference of this program is that students are
+paired with mentors, who are typically experienced developers from the
+project to which the student would be contributing, and who can guide
+the student to interact productively with the community, prevent
+getting stuck in obstacles, and avoid chasing down the wrong
+direction. The program is global - students and mentors may be located
+anywhere where they have internet connection
+([http://socghop.appspot.com/document/show/program/google/gsoc2009/faqs#not_eligible
+except for countries affected by US trade restrictions]), and no
+travel is required. Thus, other than the stipend and the mentorship,
+the internship mirrors normal contributors to such distributed
+development projects, which is a useful learning experience in itself,
+as the skills needed to be effective at this are typically not taught
+in computer science curricula, yet are highly desired in an
+increasingly global IT industry.
 
-From the viewpoint of participating open-source projects, the program not only offers to pay students for contributing, but more importantly offers an opportunity to recruit new developers in a way that allows far more people to leap over the barrier from interested user to code contributor.
+From the viewpoint of participating open-source projects, the program
+not only offers to pay students for contributing, but more importantly
+offers an opportunity to recruit new developers in a way that allows
+far more people to leap over the barrier from interested user to code
+contributor.
 
-See [http://socghop.appspot.com/document/show/program/google/gsoc2009/faqs#about_gsoc the GSoC FAQs and documentation] for further information, and see below for [[#Reference_Facts_.26_Links:_Google_Summer_of_Code_2009|reference facts such as eligibility and timelines]].
+See
+[http://socghop.appspot.com/document/show/program/google/gsoc2009/faqs#about_gsoc
+the GSoC FAQs and documentation] for further information, and see
+below for
+[[#Reference_Facts_.26_Links:_Google_Summer_of_Code_2009|reference
+facts such as eligibility and timelines]].
 
 == News ==
 
@@ -25,7 +53,10 @@ See [http://socghop.appspot.com/document/show/program/google/gsoc2009/faqs#about
 
 Our organization administrators are [[User:Lapp|Hilmar Lapp]] ([mailto:hlapp%40gmx%2enet hlapp&#64;gmx&#46;net]) and [[User:Mauricio|Mauricio Herrera Cuadra]] ([mailto:mauricio%40open-bio%2eorg mauricio&#64;open-bio&#46;org]).
 
-If you are a student interested in applying for a Google Summer of Code project with our organization, please send any questions you have, projects you would like to propose, etc to the developer mailing list of the pertinent O|B|F project. 
+If you are a student interested in applying for a Google Summer of
+Code project with our organization, please send any questions you
+have, projects you would like to propose, etc to the developer mailing
+list of the pertinent O|B|F project.
 
 How do you know which project is pertinent and the address of its developer mailing list? The [[#Open-Bio_projects_involved|projects under the O|B|F umbrella are listed below]], with home page and developer mailing lists. Each project idea lists the O|B|F project it is a part of; look it up in the list below and you have the information you need. If you want to propose your own project idea and the project to which you would contribute isn't obvious, send email to [mailto:gsoc%40lists%2eopen-bio%2eorg gsoc&#64;lists&#46;open-bio&#46;org].
 
