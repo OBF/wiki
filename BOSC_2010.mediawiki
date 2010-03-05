@@ -20,7 +20,7 @@ Many open source bioinformatics packages are widely used by the research communi
 
 === Guy Coates ===
 
-We are pleased to announce that [http://uk.linkedin.com/pub/guy-coates/3/b5b/9b0 Guy Coates], Group leader of the Informatics systems group at the [http://www.sanger.ac.uk/ Wellome Trust Sanger Institute] will be one of our keynote speakers at BOSC 2010.
+We are pleased to announce that [http://uk.linkedin.com/pub/guy-coates/3/b5b/9b0 Guy Coates], Group leader of the Informatics Systems Group at the [http://www.sanger.ac.uk/ Wellome Trust Sanger Institute] will be one of our keynote speakers at BOSC 2010.  Guy Coates is an expert in large Linux/Unix systems architecture, management and application optimization, next-gen DNA sequencing pipelines, very large database systems (>50TB), and high performance compute clusters (1500+ CPUs).  He will lead off the conference, framing our session topics for us (see topics below).
 
 == Important Dates ==
 
