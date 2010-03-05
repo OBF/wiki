@@ -105,7 +105,7 @@ When applying, (aside from the information requested by Google) please provide t
 * There is also a [http://groups.google.com/group/google-summer-of-code-discuss Google group for posting GSoC questions] (and receiving answers; note that you will need to sign up for the group) that relate to the program itself (and are not specific to our organization).
 * Students receive a stipend from Google if accepted. See the [http://code.google.com/opensource/gsoc/2009/faqs.html#0_1_administrivia_842873138659_49145328697313184 Google SoC FAQ on payments] for full documentation.
 
-== Open-Bio projects involved ==
+== Open-Bio projects Accepting Applicants ==
 
 [[Image:BioPerl_logo_tiny.jpg|128px|right]] 
 ; [[bp:Main Page|BioPerl]] :
