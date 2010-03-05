@@ -18,6 +18,10 @@ Many open source bioinformatics packages are widely used by the research communi
 
 == Keynote Speakers ==
 
+=== Guy Coates ===
+
+We are pleased to announce that [http://uk.linkedin.com/pub/guy-coates/3/b5b/9b0 Guy Coates], Group leader of the Informatics systems group at the [http://www.sanger.ac.uk/ Wellome Trust Sanger Institute] will be one of our keynote speakers at BOSC 2010.
+
 == Important Dates ==
 
 * February 26, 2010:  Call for abstracts opens
