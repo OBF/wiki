@@ -2,20 +2,21 @@
 title: Google Summer of Code
 ---
 
-Once again in 2010, the O|B|F is applying to the [http://socghop.appspot.com/ Google Summer of Code] (GSoC) program as an umbrella organization for all O|B|F-affiliated projects.
+Once again in 2010, the OBF is applying to the [http://socghop.appspot.com/ Google Summer of Code] (GSoC) program as an umbrella organization for all OBF-affiliated projects.
 
-On this page we are collecting ideas, possible projects, prerequisites, possible solution approaches, mentors, other people or channels to contact for more information or to bounce ideas off of, etc.
+This page serves as a collection point for ideas, projects, prerequisites, solution approaches, mentors, other people or channels to contact for more information.
 
 == About Google Summer of Code ==
 
-[[Image:GSoC2009Logo.png|352px|right]] Google Summer of Code (GSoC) is
-maybe best described as a remote student internship program for
-globally distributed, collaboratively developed open-source
-projects. The program offers eligible student developers stipends to
-write code for open source projects over a period of 3 summer months
-("flip bits, not burgers"). Aside from the stipend, perhaps the most
-important qualitative difference of this program is that students are
-paired with mentors, who are typically experienced developers from the
+[[Image:GSoC2009Logo.png|352px|right]] For those not familiar with the
+program, Google Summer of Code (GSoC) is maybe best described as a
+remote student internship program for globally distributed,
+collaboratively developed open-source projects. The program offers
+eligible student developers stipends to write code for open source
+projects over a period of 3 summer months ("flip bits, not
+burgers"). Aside from the stipend, perhaps the most important
+qualitative difference of this program is that students are paired
+with mentors, who are typically experienced developers from the
 project to which the student would be contributing, and who can guide
 the student to interact productively with the community, prevent
 getting stuck in obstacles, and avoid chasing down the wrong
@@ -43,195 +44,46 @@ below for
 [[#Reference_Facts_.26_Links:_Google_Summer_of_Code_2009|reference
 facts such as eligibility and timelines]].
 
-== News ==
-
-* 18 Mar 2009: '''We have not been accepted to participate''' as an organization. However, some of the projects fit into the scope of the [http://hackathon.nescent.org/Phyloinformatics_Summer_of_Code_2009 NESCent participation] (which was accepted), so if you want to support us, please check those out and apply! The more students apply the stronger the organization is. ''--[[User:Lapp|Lapp]]''
-* 13 Mar 2009: [http://docs.google.com/Doc?id=dhs98hzv_7zn8bxqjm Application to participate as a mentoring organization] submitted. ''--[[User:Lapp|Lapp]]''
-*  08 Mar 2009: The project ideas page (the page you are looking at) is ready for adding project ideas. ''--[[User:Lapp|Lapp]]''
-
 == Contact ==
 
-Our organization administrators are [[User:Lapp|Hilmar Lapp]] ([mailto:hlapp%40gmx%2enet hlapp&#64;gmx&#46;net]) and [[User:Mauricio|Mauricio Herrera Cuadra]] ([mailto:mauricio%40open-bio%2eorg mauricio&#64;open-bio&#46;org]).
+Our organization administrators are primary administrator [[User:RobertBuels|Robert Buels]] ([mailto:rmb32%40cornell%2eedu rmb32&#64;cornell&#46;edu]) and backup administrator [[User:Lapp|Hilmar Lapp]] ([mailto:hlapp%40gmx%2enet hlapp&#64;gmx&#46;net]).
 
 If you are a student interested in applying for a Google Summer of
-Code project with our organization, please send any questions you
-have, projects you would like to propose, etc to the developer mailing
-list of the pertinent O|B|F project.
+Code project with our organization, please send questions and project ideas to the develop mailing list of the pertinent OBF project.
 
-How do you know which project is pertinent and the address of its developer mailing list? The [[#Open-Bio_projects_involved|projects under the O|B|F umbrella are listed below]], with home page and developer mailing lists. Each project idea lists the O|B|F project it is a part of; look it up in the list below and you have the information you need. If you want to propose your own project idea and the project to which you would contribute isn't obvious, send email to [mailto:gsoc%40lists%2eopen-bio%2eorg gsoc&#64;lists&#46;open-bio&#46;org].
+How do you know which project is pertinent and the address of its developer mailing list? The [[#Open-Bio_projects_involved|projects under the OBF umbrella are listed below]], with home page and developer mailing lists. Each project idea lists the OBF project it is a part of; look it up in the list below and you have the information you need. If you want to propose your own project idea and the project to which you would contribute isn't obvious, send email to [mailto:gsoc%40lists%2eopen-bio%2eorg gsoc&#64;lists&#46;open-bio&#46;org].  However, do not worry overly much about picking the right OBF project at the outset.  If you are unsure, simply make your best guess, and other members of the email list will help you to find the best organization to suit your idea.
 
-Some of us also hang out regularly on IRC, see the list of O|B|F projects below for information on which projects have a channel and the name of the channel. ''(If you do not have an IRC client installed, you might find the [http://en.wikipedia.org/wiki/List_of_IRC_clients comparison on Wikipedia], the [http://directory.google.com/Top/Computers/Software/Internet/Clients/Chat/IRC/ Google directory], or the [http://www.ircreviews.org/clients/ IRC Reviews] helpful. For Macs, [http://en.wikipedia.org/wiki/X-Chat X-Chat Aqua] works pretty well. If you have never used IRC, try the [http://irchelp.org/irchelp/ircprimer.html IRC Primer] at [http://irchelp.org/ IRC Help], which also has links to lots of other material.)''
+Some of us also can regularly be found on IRC, see the list of OBF projects below for information on which projects have a channel and the name of the channel. ''(If you do not have an IRC client installed, you might find the [http://en.wikipedia.org/wiki/List_of_IRC_clients comparison on Wikipedia], the [http://directory.google.com/Top/Computers/Software/Internet/Clients/Chat/IRC/ Google directory], or the [http://www.ircreviews.org/clients/ IRC Reviews] helpful. For Macs, [http://en.wikipedia.org/wiki/X-Chat X-Chat Aqua] works pretty well. If you have never used IRC, try the [http://irchelp.org/irchelp/ircprimer.html IRC Primer] at [http://irchelp.org/ IRC Help], which also has links to lots of other material.)''
 
 For applying, please make sure you read our [[#What_should_prospective_students_know.3F|documentation on information that students should know and guidelines we expect you to follow]] ''before'' you apply. We don't have a format template for application that you need to adhere to, but we do ask that you include specific kinds of information. What those are is documented under "[[#When you apply|When you apply]]."
 
 == Ideas ==
 
-''Note: if there is more than one mentor for a project, the primary mentor is in '''bold font'''. Biographical and other information on the mentors is linked to in the [[#Mentors|Mentors section]].''
+''Note: primary project mentors are in '''bold font'''. Biographical and other information on the mentors is linked to in the [[#Mentors|Mentors section]].''
 
-''Students: The below are only our project '''ideas''', albeit well thought-out ones. You are welcome to propose your own project if none of those below catches your interest, or if your idea is more exciting to you, provided it is still a contribution to one the O|B|F member projects (see list below). Just be aware that we can't guarantee finding an appropriate mentor, but if we like your proposal we will try.  Regardless of what you decide to do, make sure you read and follow the [[#What_should_prospective_students_know.3F|guidelines for students]] below.''
+''Students: The project '''ideas''' below are suggested projects from mentors, albeit well thought-out ones. You are welcome to propose your own project if none of those below catches your interest, or if your idea is more exciting to you, provided it is still a contribution to one the OBF member projects (see list below). Just be aware that we can't guarantee finding an appropriate mentor, but if we like your proposal we will try.  Regardless of what you decide to do, make sure you read and follow the [[#What_should_prospective_students_know.3F|guidelines for students]] below.''
 
-<!--
-=== Write a NEXUS parser in C&amp; ===
-''This is a template for how the student project ideas could be presented. Feel free to copy & paste & edit, and feel free to adjust the format.''
-; Rationale : C& is an amp'ed-up programming language that has not been invented yet but in a few years will dominate the programming world. The best way to prevent broken non-compliant NEXUS parsers written in C& from appearing is to write a good one now.
-; Approach : Re-implementations of NEXUS parsers inevitably tend to be broken or non-compliant. Hence, the best approach is to write a translator that translates a reference implementation to C&.
-; Challenges : C& has not been invented yet, so a lot of assumptions will have to be made.
-; Involved toolkits or projects : The [http://www.biocamp.org BioC&] toolkit has much of the needed framework.
-; Degree of difficulty and needed skills : Hard. The hardest part is probably inventing C&amp;. Writing the parser itself should be medium, unless C& was ill-designed for writing parsers. Knowledge of the BioC& toolkit will obviously help, as well as knowing the NEXUS format.
-; Mentors : Mike&amp;, founder of BioC&
--->
 
-=== Write a JEE5 webservice interface to BioSQL ===
-; Rationale :  BioSQL is a intelligently designed database schema for storing sequence data and associated metadata. It does however lack any kind of user API. A sensible way to design an API for a BioSQL backed database would be to expose the API as webservices. This would allow the API to be language and database agnostic (unlike an API based on database proceedures). It would also allow data in BioSQL to be very loosely coupled into bioinformatics workflows. Once an API is in place one could even adopt modified SQL schemas underneath as long as the data access API still conforms to some specification. 
+==Mentor List==
 
-; Approach : Since the development of Java EE5 (and EJB3) the development of Enterprise Java Beans that interoperate with databases and webservices is exceptionally easy. In addition Java Session Beans can be readily exported as webservices with the addition of simple annotations, often no specific configuration is required. Free and open Java app servers (such as glassfish) that provide almost all of the management middleware for object relational mapping (ORM) and webservice deployment (and a whole host of other things) are available and relatively simple to use. Finally the free and open IDE Netbeans has excellent integration with Glassfish and Java EE5 (plus I am most experienced with this IDE so I can provide more help with it's use).  For these reasons I would suggest that Java EE5 is the most sensible approach to implementing this project. <br/>During a development meeting, in Tokyo in 2008, a preliminary EJB mapping to BioSQL was generated. What remains to be done is the development of a simple, well documented and well tested API specification and implementation that bioinformatics developers can use to perform CRUD (CReate, Update, Delete) functions on the database as well as useful search and retreival operations. <br/>In summary the project will define and document an API and expected behaivour and then implement the webservice interface. A set of unit tests will also be developed along with a proof-of-concept app that demonstrates use of the API.
-
-; Challenges : 
-:* Designing and documenting the API so that it is simple and intuitive
-:* Making simple queries simple and efficient and complex queries possible.
-:* Making CRUD operations secure (only people with the right credentials should be able to delete the data).
-:* Loaders for common file types.
-:* [Nice to have] Making a test application that will call API methods with predefined arguments. This will let people make alternative implementations of the API while testing they are still compatible with the API. For example someone could make an entire implementation in Perl/ BioPerl and still have it validate against the API.
-
-; Involved toolkits or projects :  JavaEE5, BioSQL, parts of BioJava would be useful to steal for parsing.
-
-; Degree of difficulty and needed skills : Medium to Hard. While the use of Java EE5 is now quite easy (esp with IDEs like Netbeans) there is quite a lot of concepts involved in the project (Webservices, ORM, EJBs etc). The hard part would be getting up to speed with those concepts. If you already know a lot of this then the project would only be medium difficulty. At minimum the student should be confident with Java and at least aware of some of the technologies. This is not the right project for a very new programmer.
-
-; Mentors : [http://www.linkedin.com/in/markjschreiber Mark Schreiber] (and anyone else who wants to help)
-
-===  Mapping the NCBI toolkit to BioPerl, BioRuby, BioConductor and BioJAVA using BioLib ===
-
-; Rationale : The National Center for Biotechnology Information (NCBI) has created a large collection of utilities developed for the production and distribution of GenBank, Entrez, BLAST, and related services. To support these utilities a large set of C and C++ libraries are maintained and regularly improved by NCBI. These include, for example, sequence alignment algorithms, antigenic determinant prediction, CPG-island finder, ORF finder and string matchers. This functionality is ultimately of great interest to all scientists working in molecular biology with application in biology and biomedical research. <br/>Unfortunately, few bioinformaticians work with C/C++. Addressing this NCBI has made a binding available for Python. This is not enough as bioinformaticians work in many different programming languages, and to be fully effective support should be made available at least for Perl, R and JAVA. These three together, probably, represent over 90% of bioinformaticians. The [http://biolib.open-bio.org/ BioLib project] successfully provides the 'mapping' infrastructure to map complex libraries against many computer languages using SWIG. Basically one mapping suffices to support all popular languages. 
- 
-; Approach : Special interfaces need to be developed to map the NCBI toolkit libraries against Perl initially. The (outdated) NCBI  [http://pypi.python.org/pypi/ncbi/0308 Python mapping] can be used as an initial guide for mapping functionality. Once mapped against Perl mapping against Ruby and Python is trivial. However, at this point BioLib support for R and JAVA needs to be developed. A proof-of-concept can be part of this project. Finally SWIG mappings can be used to create automated documentation and testing of BioLib code.
-
-; Challenges : The main challenge is to provide nice and consistent interfaces in high-level languages against the NCBI C/C++ toolkit library. This requires OOP design and unit testing of existing functionality. Also some SWIG hacking may be involved to provide decent mappings for R and JAVA, as well as SWIG auto generated documentation and testing.
-
-; Involved toolkits or projects : [http://biolib.open-bio.org/ BioLib], BioPerl, SWIG (and optionally BioRuby, R/Bioconductor, BioJAVA or BioPython)
-
-; Degree of difficulty and needed skills : This is a challenging project as it crosses computer languages. It requires experience in C++ and a wish for deeper understanding of at least one high-level OOP language like Perl (did I write OOP?), Python, JAVA, R or Ruby.
-
-; Mentors : '''Pjotr Prins''', Chris Fields
-
-=== BioSQL web interface and API on Google App Engine ===
-
-; Rationale :  The [http://www.biosql.org/wiki/Main_Page BioSQL] project provides a robust and well supported database schema for storing sequence data and associated annotations and features. It does not have a standard web interface or web facing API, both of which would provide improved access to scientific data. Deployment of BioSQL currently requires knowledge and administration of relational databases, which can hinder its use in smaller research laboratories that do not have public servers or experienced systems administrators. <br/>This proposal seeks to bridge this gap by providing a rapidly deployable [http://en.wikipedia.org/wiki/Cloud_computing cloud based] solution utilizing the established BioSQL backend. This system will allow scientists to share results in a standard format both early on during research and at the time of publication. By deploying on stable architectures, long term data access is ensured and not dependent on maintenance of local servers. Data archival for replication and expansion of ideas is an important part of the scientific process; this [http://www.portfolio.com/views/blogs/market-movers/2009/02/18/when-academic-papers-arent-replicable?tid=true recent blog review] summarizes some of the problems associated with primary data access.
-
-; Approach :  [http://code.google.com/appengine/ Google App Engine] provides a full development stack for rapidly building and deploying web applications. The platform provides free quotas which allow a small lab with a limited budget to make their data available, and also scales for larger projects with popular data sets. <br/>The student project expands an initial demonstration server  ([http://biosqlweb.appspot.com/ demo server]; [http://github.com/chapmanb/biosqlweb/tree/master source code];  [http://bcbio.wordpress.com/2009/03/15/biosql-on-google-app-engine/ blog post]) to a full featured web application. The server side implementation will be programmed in Python, utilizing the Google App Engine  [http://code.google.com/appengine/docs/ developers toolkit] supplemented with the [http://biopython.org/wiki/Main_Page Biopython] libraries. The client web interface will be designed using HTML, CSS and javascript; the interface will utilize a full featured javascript library, such as  [http://jquery.com/ jQuery] and [http://jqueryui.com/ jQueryUI] or [http://extjs.com/ ExtJS]. Client to server communication occurs using [http://en.wikipedia.org/wiki/Ajax_(programming) AJAX] techniques with [http://en.wikipedia.org/wiki/JSON JSON] for data exchange. <br/>In addition to the web interface, the server will also provide a programming interface using a [http://en.wikipedia.org/wiki/Representational_State_Transfer REST] API. This involves coordination with other proposed projects, including the proposed JEE5 Java webservice, to design a common interface.
-
-; Challenges : 
-:* Familiarizing student with Python, Javascript and AJAX, as well as the Google App Engine environment.
-:* Initial implementation of BioSQL server interface with useful features.
-:* Coordinating input from users on the [http://lists.open-bio.org/mailman/listinfo/biosql-l BioSQL mailing list]. The student will need to solicit desired features from users and prioritize based on implementation time and importance. See [http://lists.open-bio.org/pipermail/biosql-l/2009-January/001464.html this mailing list discussion] for an example of interest and initial ideas.
-:* Designing the web interface for intuitive use.
-:* Coordinating API development with other projects.
-
-; Involved toolkits or projects : 
-:* [http://biosql.org/ BioSQL]
-:* [http://biopython.org/ Biopython]
-:* [http://code.google.com/appengine/ Google App Engine]
-:* [http://www.python.org Python]
-:* [http://jquery.com/ jQuery]; [http://jqueryui.com/ jQueryUI]
-:* [http://extjs.com/ ExtJS]
-
-; Degree of difficulty and needed skills : Medium to Hard. This requires a familiarity with current web frameworks and utilizes a number of existing libraries to allow the student to jump right into the development process. This requires the interested student to be comfortable with quickly learning outside libraries. Beyond programming, the project will also involve creative thinking about interface and usability design.
-
-; Mentors :  Brad Chapman (plus...)
-
-=== Biogeographical and community phylogenetics for BioPython ===
-
-(Note: this project is proposed by potential GSoC student [[User:Nmatzke|Nick Matzke]].)
-
-; Rationale : The field of phylogenetics has proliferated, and one new development is that large, phylogenetically explicit datasets are beginning to be used to answer questions about the relationships of ecological communities and biogeographic regions, instead of just individual clades.  The [http://www.phylodiversity.net/phylocom/ phylocom] package (Webb et al., 2008) contains fast C implementations of basic analyses such as alpha- and beta-phylodiversity (Net Related Index and Nearest Taxon Index).  The R package [http://picante.r-forge.r-project.org/ picante], funded by NESCent and Google Summer of Code 2008, contains utilities for processing phylocom inputs/outputs as well as additional tools for applied phylogenetics such as phylogenetic signal, phylosor (phylogenetic sorenon's index), and lineages-through-time plots.  These tools, developed for evolutionary community ecology, are useable in any context where a collection of lineages are undergoing cladogenesis, dispersal, and extinction in a series of containers (communities, biogeographic regions, gene families undergoing gene conversion, laterally transferring elements in unicell genomes, etc.) <br/>The related field of phylogenetic or historical biogeography -- the estimation of the geographic location of ancestral lineages, the history of their dispersal, and the history of connectivity and vicariance between regions -- has also advanced with a variety of algorithms (Ronquist's Dispersal-Vicariance Analysis, [http://www.ebc.uu.se/systzoo/research/diva/diva.html DIVA]; [http://code.google.com/p/lagrange/ lagrange], a maximum likelihood method implemented in Python, [http://code.google.com/p/lagrange/ available online at Google Code]; [https://www.nescent.org/wg_EvoViz/GeoPhyloBuilder GeoPhyloBuilder], a NESCent-sponsored package for producing GIS files to display biogeographic history in Google Earth; [http://panbiog.infobio.net/croizat/ croizat], a panbiogeographical method and visualization package implemented in python using matplotlib's Basemap module; and older methods derived from traditional ancestral-state reconstruction).
-
-; Approach :  Write BioPython modules/functions to:
-: ("*" indicates some version of this already done independently by [[User:Nmatzke|Nick Matzke]])
-:* Improve BioPython's [[Bio.Nexus.Trees]] [[newick]] parser, which currently cannot successfully read the newick files output by Phylocom (although these files are read successfully by a variety of other programs and modules, e.g. [http://www-ab.informatik.uni-tuebingen.de/software/dendroscope/welcome.html Dendroscope], [http://pbil.univ-lyon1.fr/software/alfacinha/ alfacinha] python module).*
-:* Implement Cardona et al.'s [http://www.biomedcentral.com/1471-2105/9/532 Extended Newick format] for reticulating trees etc. (only exists in BioPerl currently)
-:* Develop a series of functions for processing phylocom inputs and outputs*
-:* Provide functions for basic community/geographic relatedness (e.g., NRI, NTI, phylosor)*
-:* Calculating these statistics for large phylogenies requires calculating/processing a large distance matrix with a C or java library*
-:* Basic graphics for analyzing community/regional phylogenetic history, e.g. lineage-through-time plots*
-:* Downloading sample location data from online databases (e.g. [http://www.gbif.org/ GBIF], although see [http://iphylo.blogspot.com/search?q=latitude here]), combine with phylogenies for input into lagrange, DIVA or other algorithms
-:* Re-creating DIVA in Python; the only available version is 12 years old and currently will only run on certain PCs
-:* Process output from DIVA, lagrange, etc., for display in GISs, Google Earth (KML files), and/or matplotlib's Basemap
-
-; Challenges :
-:* Contacting & involving/getting feedback from authors of the mentioned packages (have been in contact with many of them already)
-:* Uncertainty, error, & missing data in geographic location databases (see [http://iphylo.blogspot.com/search?q=latitude here]), and flagging such
-:* Deciding the appropriate number of BioPython modules, etc. will require mentor advice
-
-; Involved toolkits or projects : 
-:* [http://biopython.org/wiki/Main_Page Biopython]
-:* [http://biosql.org/ BioSQL]
-:* [http://www.python.org Python]
-:* others mentioned above
-
-; Degree of difficulty and needed skills : Medium. Requires a familiarity with not just python/biopython but some unusual data formats and datasets, and packages, and integrating them (geographic, phylogenetic, metadata, etc.).  Must be familiar with evolution, phylogenetics, biogeography, and the statistical hazards from oversimple interpretations of these.
-
-; Mentors :  [http://bcbio.wordpress.com/ Brad Chapman] (plus?  Various python/phylogenetics gurus at NESCent etc might be consulted)
-
-=== phyloXML support in BioRuby ===
-
-; Rationale : Evolutionary trees are central to comparative genomics studies. Trees used in this context are usually annotated with a variety of data elements, such as taxonomic information, genome-related data (gene names, functional annotations) and gene duplication events, as well as information related to the evolutionary tree itself (branch lengths, support values). phyloXML is an XML data exchange standard that can represent this data. Trees in phyloXML format can be displayed and analyzed with [http://www.phylosoft.org/archaeopteryx/ Archaeopteryx] (the successor to [http://bioinformatics.oxfordjournals.org/cgi/content/abstract/17/4/383 ATV]), which also allows manipulation and navigation of the tree. While tools exist to convert other formats (such as the widely used Newick and Nexus formats) to phyloXML, there is currently support for phyloXML in only one of the open source Bio* projects (in [http://www.bioperl.org/wiki/Phyloxml_Project_Demo BioPerl], as a result of Google's Summer of Code 2008).
-; Approach : Build phyloXML support in Ruby. More specifically, extend the open source BioRuby project to support phyloXML (BioRuby 1.3.0 has just been released). This will entail (i) the development of objects to represent all the elements of phyloXML (sequences, taxonomic data, annotations, etc), (ii) the development of a parser to read in phyloXML, and (iii) a phyloXML writer.
-; Challenges : Relating the data elements specific to phyloXML to the tree classes already in BioRuby while maintaining the standards of the BioRuby project. Development of a time and memory efficient phyloXML parser (the parser has to be able to process trees with thousands of external nodes, at least).
-; Involved toolkits or projects : [http://www.bioruby.org/ BioRuby],  [http://www.phyloxml.org phyloXML]
-; Degree of difficulty and needed skills : Medium. Requires experience in an object oriented programming language (such as C++, Java, or, ideally, Ruby). Experience in genomics or a related biological field is also critical. Knowledge of  BioRuby will obviously help, as well as familiarity with XML.
-; Mentors : Christian Zmasek (and anyone else who wants to help)
-
-=== BioPerl integration of the NeXML exchange standard + <code>Bio::Phylo</code> toolkit  ===
-
-; Rationale : [http://www.nexml.org NeXML] is an emerging XML standard for the serialization and exchange of phylogenetic information. In Perl, the [http://phylo.sourceforge.net <code>Bio::Phylo</code>] toolkit is the preferred parser/writer interface for NeXML. While <code>Bio::Phylo</code> contains methods that will operate on BioPerl objects [such as alignments (<code>Bio::SimpleAlign</code>) or trees (<code>Bio::Tree</code>)], a set of methods to wrap <code>Bio::Phylo</code> functionality into BioPerl in a systematic and updateable way would lower barriers to broader use of this useful standard.
-
-; Approach : We would like to explore a couple of ways to form the linkage between BioPerl and <code>Bio::Phylo</code>, while still maintaining <code>Bio::Phylo</code>'s independence as a module. Since it is part of the implementation side of a rapidly evolving standard, it is more mutable than the average BioPerl module, and should be more nimble. One method would be implement a thin BioPerl wrapper around <code>Bio::Phylo</code>, that allows BioPerl objects to be passed easily in and out, and maintains a stable BioPerl-compliant API, hiding <code>Bio::Phlyo</code> API changes. However, since this project is exploratory, we could also prototype a version of <code>Bio::Phylo</code> that is directly implemented as a BioPerl module. We would also develop appropriate usage tests, test data sets, target audience use cases, benchmarks and profiles to compare the approaches we come up with. 
-
-; Challenges : 
-:* Designing a relatively stable wrapper around a relatively dynamic module;
-:* Designing tests that cover important use case scenarios meaningful to BioPerl users;
-:* Identifying and interfacing <code>Bio::Phylo</code> output and NeXML-serialized data with up- and downstream BioPerl operations; e.g., adding a <code>Bio::SeqIO::nexml</code> module for doing BioPerl-native NeXML IO. 
-
-; Involved toolkits or projects : 
-:*[[bp:Main Page|BioPerl]], [http://phylo.sourceforge.net <code>Bio::Phylo</code>]
-
-; Degree of difficulty and needed skills : Easy to medium difficulty. Perl fluency required; experience with object-oriented Perl very helpful; experience with biological data (sequences, sequence alignments, phylogenetic trees) a plus; experience with BioPerl itself will flatten the learning curve.  
-
-; Mentors : [[bp:User:Majensen|Mark Jensen]], ...(rvos?),...
-
-==Mentors==
-
-* [http://bcbio.wordpress.com/ Brad Chapman] (MGH; Biopython)
 * [[bp:User:Cjfields|Chris Fields]] (U. Illinois at Urbana-Champaign; BioPerl)
 * [[bp:User:Majensen|Mark Jensen]] (Fortinbras; BioPerl)
-* [[bp:User:Rogerhall|Roger Hall]] (U. of Arkansas; BioPerl)
-* [[User:Mauricio|Mauricio Herrera Cuadra]] (Yahoo! Inc.; backup org admin)
-* [[User:Lapp|Hilmar Lapp]] (NESCent; org admin)
-* [http://thebird.nl/pjwiki/wiki.pl Pjotr Prins] (BioLib)
-* [http://biojava.org/wiki/User:Mark Mark Schreiber] (Novartis Institute for Tropical Diseases, Singapore; BioJava)
-* [mailto:jaudall@gmail.com Joshua Udall] (BioPerl)
-* [mailto:jw12@sanger.ac.uk Jonathan Warren] (Sanger Institute, UK; Biojava, DAS)
-* [mailto:willishf@ufl.edu Scooter Willis] (Scripps Florida; Biojava)
-* [http://monochrome-effect.net/ Christian Zmasek] (Burnham Institute for Medical Research; BioRuby)
-* [[bp:User:Vgopalan| Vivek Gopalan]] (Contractor at BCBB/NAID/NIH))
 
 == What should prospective students know? ==
 
 === Before you apply ===
 
-* If you want to apply with your own idea, determine which O|B|F project you would be contributing to, and [[#Contact|contact us]] early on so we can try to find a mentor.
-* Our scope for proposals that we will entertain is those extend one of affiliated toolkits. Project proposals that would create a new stand-alone piece of code are outside of our scope.  
-* We are most interested in students who give us evidence that they have already or might develop a sustained interest in becoming future contributors to one (or more) of our projects.
+* If you want to apply with your own idea, determine which OBF project you would be contributing to, and [[#Contact|contact us]] early on so we can try to find a mentor.
+* Proposals should extend one of affiliated toolkits.
 * [[#Contact|Ask us questions]] about the project idea you have in mind.
 * Write a project proposal draft, include a project plan (see below), and [[#Contact|bounce those off of us]].
 
-
-Have I mentioned yet that you should [[#Contact|be in touch with us]] ''before'' you apply? The value of frequent and early communication in contributing to a distributed and collaboratively developed project can hardly be overemphasized. The same is true for becoming part of a community, even if only temporarily. 
+Again, '''students are strongly encouraged to [[#Contact|contact us]] before applying'''. Frequent and early communication is extremely valuable for putting together successful projects.
 
 === When you apply ===
 
 When applying, (aside from the information requested by Google) please provide the following in your application material.
-# Why you are interested in the project you are proposing, uniquely suited to undertake it, and what do you anticipate to gain from it.
-# Why are you interested in contributing to the O|B|F project that your work would be (or become) a part of? To what extent and in which ways do you anticipate to stay involved with the project?
+# Why you are interested in the project you are proposing and are well-suited to undertake it.
 # A summary of your programming experience and skills.
 # Programs or projects you have previously authored or contributed to, in particular those available as open-source, including, if applicable, any past Summer of Code involvement.
 # A project plan for the project you are proposing, even if your proposed project is directly based on one of the ideas above.
@@ -240,11 +92,11 @@ When applying, (aside from the information requested by Google) please provide t
 #* A good plan will require you to thoroughly think about the project itself and how one might want to go about the work.
 #* We don't expect you to have all the experience, background, and knowledge to come up with the final, real work plan on your own at the time you apply. We do expect your plan to demonstrate, however, that you have made the effort and thoroughly dissected the goals into tasks and successive accomplishments that make sense.
 #* We strongly recommend that you bounce your proposed project and your project plan draft off of us, using either the pertinent developers mailing list or the IRC channel(s). Through the project plan exercise you will inevitably discover that you are missing a lot of the pieces - we are there to help you fill those in as best as we can.
-# Your possibly conflicting obligations or plans for the summer during the coding period.
-#* Although there are no hard and fast rules about how much you can do in parallel to your Summer of Code project, we do expect the project to be your primary focus of attention over the summer. If you look at your Summer of Code project as a part-time occupation, please don't apply to us.
-#* That notwithstanding, if you have the time-management skills to manage other work obligations concurrent with your Summer of Code project, feel encouraged to make your case and support it with evidence.
-#* Most important of all, be upfront. If it turns out later that you weren't clear about other obligations, at best (i.e., if your accomplishment record at that point is spotless) it destroys our trust. Also, if you are accepted, don't take on additional obligations before discussing those with your mentor.
-#* One of the most common reasons for students to struggle or fail is being overstretched. Don't set yourself up for that - at best it would greatly diminish the amount of fun you'll have with your Summer of Code project.
+# Any obligations or plans for the summer during the coding period that may possibly conflict.
+#* We expect the your GSoC projec to be your primary focus over the summer.  It should not be regarded as a part-time occupation.
+#* If you feel that you can manage other work obligations concurrently with your Summer of Code project, make your case and support it with evidence.
+#* Be honest and open.  If it turns out later that you weren't clear about other obligations, at best (i.e., if your accomplishment record at that point is spotless) our trust in you will be severely degraded. Also, if you are accepted, discuss with your GSoC mentor before taking on additional obligations.
+#* One of the most common reasons for students to struggle or fail is being overcommitted.  Do not set yourself up for failure!  GSoC summers should be fun and rewarding!
 
 === Other information ===
 
@@ -308,7 +160,7 @@ When applying, (aside from the information requested by Google) please provide t
 :** [http://github.com/pjotrp/biolib/tree/master source code]
 :** No IRC channel at present
 
-== Reference Facts & Links: <span class="plainlinks">[http://socghop.appspot.com/ Google Summer of Code 2009]</span> ==
+== Reference Facts & Links: <span class="plainlinks">[http://socghop.appspot.com/ Google Summer of Code 2010]</span> ==
 
 * Mentoring organizations apply between March 9-13, 2009. Accepted mentoring organizations will be published March 18. See [http://code.google.com/opensource/gsoc/2009/faqs.html#0_1_timeline_5354032302481437_ full set of timelines].
 * Google expects to accept around 150 mentoring organizations, a bit less than in 2008 (when they accepted 175). If the trend over the past years is any indication, this will be out of at least 3x as many organizations that apply.
