@@ -118,8 +118,8 @@ When applying, (aside from the information requested by Google) please provide t
 
 [[Image:Biojava_logo_tiny.jpg|right]] 
 ; [http://biojava.org BioJava] :
-:* [http://biojava.org Project website]
-:* [http://biojava.org/wiki/BioJava3_Proposal Proposal for BioJava3] as another source for student-conceived project ideas
+:* [http://biojava.org/wiki/Google_Summer_of_Code BioJava GOSC]
+:* [http://biojava.org/wiki/BioJava:Modules BioJava modules] as another source for student-conceived project ideas
 :* source code for [http://code.open-bio.org/svnweb/index.cgi/biojava/browse/biojava-live/trunk biojava-live] (the main BioJava code base) and [http://code.open-bio.org/svnweb/index.cgi/biojava/ all BioJava sub-projects]
 :* [http://biojava.org/wiki/BioJava:MailingLists Mailing lists]
 :* No IRC channel at present
