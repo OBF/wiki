@@ -68,6 +68,7 @@ For applying, please make sure you read our [[#What_should_prospective_students_
 
 * [[bp:User:Cjfields|Chris Fields]] (U. Illinois at Urbana-Champaign; BioPerl)
 * [[bp:User:Majensen|Mark Jensen]] (Fortinbras; BioPerl)
+* [http://biojava.org/wiki/User:Andreas Andreas Prlic] (UCSD; [http://biojava.org/wiki/Google_Summer_of_Code BioJava])
 
 == What should prospective students know? ==
 
