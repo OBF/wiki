@@ -133,7 +133,7 @@ When applying, (aside from the information requested by Google) please provide t
 # Why you are interested in the project you are proposing and are well-suited to undertake it.
 # A summary of your programming experience and skills.
 # Programs or projects you have previously authored or contributed to, in particular those available as open-source, including, if applicable, any past Summer of Code involvement.
-# A project plan for the project you are proposing, even if your proposed project is directly based on one of the ideas above.
+# A project plan for the project you are proposing, even if your proposed project is directly based on one of the proposed project ideas for member projects.
 #* A project plan in principle divides up the whole project into a series of manageable milestones and timelines that, when all accomplished, logically lead to the end goal(s) of the project. Put in another way, a project plan explains what you expect you will need to be doing, and what you expect you need to have accomplished, at which time, so that at the end you reach the goals of the project.
 #* Do not take this part lightly. A compelling plan takes a significant amount of work. Empirically, applications with no or a hastily composed project plan have not been competitive, and a more thorough project plan can easily make an applicant outcompete another with more advanced skills.
 #* A good plan will require you to thoroughly think about the project itself and how one might want to go about the work.
