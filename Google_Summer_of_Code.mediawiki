@@ -36,8 +36,12 @@ offers an opportunity to recruit new developers in a way that allows
 far more people to leap over the barrier from interested user to code
 contributor.
 
-See the [http://code.google.com/soc Main GSoC Site] for more information and FAQs, and see
-below for [[ #Other_Facts_.26_Links |other facts such as eligibility and timelines ]].
+See
+[http://socghop.appspot.com/document/show/program/google/gsoc2009/faqs#about_gsoc
+the GSoC FAQs and documentation] for further information, and see
+below for
+[[#Reference_Facts_.26_Links:_Google_Summer_of_Code_2009|reference
+facts such as eligibility and timelines]].
 
 == Contact ==
 
@@ -139,7 +143,9 @@ When applying, (aside from the information requested by Google) please provide t
 #* Be honest and open.  If it turns out later that you weren't clear about other obligations, at best (i.e., if your accomplishment record at that point is spotless) our trust in you will be severely degraded. Also, if you are accepted, discuss with your GSoC mentor before taking on additional obligations.
 #* One of the most common reasons for students to struggle or fail is being overcommitted.  Do not set yourself up for failure!  GSoC summers should be fun and rewarding!
 
-== Other Facts & Links: <span class="plainlinks">[http://socghop.appspot.com/ Google Summer of Code 2010]</span> ==
+== Other Facts & Links ==
+
+'''Google Summer of Code Main Site: [http://code.google.com/soc]'''
 
 * Mentoring organizations apply between March 8-12, 2010. Accepted mentoring organizations will be published March 19.
 * Google expects to accept around 150 mentoring organizations.
