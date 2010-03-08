@@ -46,7 +46,8 @@ facts such as eligibility and timelines]].
 
 == Contact ==
 
-Our organization administrators are primary administrator [[User:RobertBuels|Robert Buels]] ([mailto:rmb32%40cornell%2eedu rmb32&#64;cornell&#46;edu]) and backup administrator [[User:Lapp|Hilmar Lapp]] ([mailto:hlapp%40gmx%2enet hlapp&#64;gmx&#46;net]).
+;Organization administrator: [[User:RobertBuels|Robert Buels]] ([mailto:rmb32%40cornell%2eedu rmb32&#64;cornell&#46;edu])
+;Backup administrator: [[User:Lapp|Hilmar Lapp]] ([mailto:hlapp%40gmx%2enet hlapp&#64;gmx&#46;net])
 
 If you are a student interested in applying for a Google Summer of
 Code project with our organization, please send questions and project ideas to the develop mailing list of the pertinent OBF project.
