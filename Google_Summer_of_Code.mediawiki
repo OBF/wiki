@@ -3,7 +3,7 @@ title: Google Summer of Code
 ---
 
 [[Image:Gsoc_2010_logo.jpg|right]] 
-Once again in 2010, the OBF is applying to the [http://socghop.appspot.com/ Google Summer of Code] (GSoC) program as an umbrella organization for all OBF-affiliated projects.
+Once again in 2010, the OBF is applying to the [http://code.google.com/soc Google Summer of Code] (GSoC) program as an umbrella organization for all OBF-affiliated projects.
 
 This page serves as a collection point for ideas, projects, prerequisites, solution approaches, mentors, other people or channels to contact for more information.
 
@@ -22,9 +22,7 @@ project to which the student would be contributing, and who can guide
 the student to interact productively with the community, prevent
 getting stuck in obstacles, and avoid chasing down the wrong
 direction. The program is global - students and mentors may be located
-anywhere where they have internet connection
-([http://socghop.appspot.com/document/show/program/google/gsoc2009/faqs#not_eligible
-except for countries affected by US trade restrictions]), and no
+anywhere where they have internet connection (except for countries affected by US trade restrictions), and no
 travel is required. Thus, other than the stipend and the mentorship,
 the internship mirrors normal contributors to such distributed
 development projects, which is a useful learning experience in itself,
