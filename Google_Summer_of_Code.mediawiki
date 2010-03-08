@@ -8,7 +8,7 @@ This page serves as a collection point for ideas, projects, prerequisites, solut
 
 == About Google Summer of Code ==
 
-[[Image:GSoC2009Logo.png|352px|right]] For those not familiar with the
+[[Image:Gsoc_2010_logo.jpg|right]] For those not familiar with the
 program, Google Summer of Code (GSoC) is maybe best described as a
 remote student internship program for globally distributed,
 collaboratively developed open-source projects. The program offers
