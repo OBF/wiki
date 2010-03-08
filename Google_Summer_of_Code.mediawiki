@@ -129,6 +129,7 @@ When applying, (aside from the information requested by Google) please provide t
 
 [[Image:Biopython_logo_tiny.png|right]] 
 ; [[biopython:Main Page|Biopython]] :
+:* [http://biopython.org/wiki/Google_Summer_of_Code BioPython GSoC Page] - project ideas and mentors
 :* [[biopython:Main Page|Project website]]
 :* [[biopython:Contributing|Information for contributors]]
 :* [[biopython:Mailing lists|Mailing lists]]
