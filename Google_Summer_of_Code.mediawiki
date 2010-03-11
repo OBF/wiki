@@ -15,6 +15,12 @@ From the viewpoint of each open-source project, the program not only offers to p
 
 See the [http://code.google.com/soc Main GSoC Site] for more information and FAQs, and see below for [[ #Other_Facts_.26_Links |other facts such as eligibility and timelines ]].
 
+== Mentors and Project Ideas ==
+
+Mentors and project ideas are hosted on each member project's wiki on a dedicated Google Summer of Code page.  See each of the member projects, linked below.
+
+''Note to students: project ideas on the wikis of member projects are only selected projects, albeit well thought-out ones. You are welcome to propose your own project if none of those below catches your interest, or if your idea is more exciting to you, provided it is still a contribution to one the OBF member projects (see list below). If we like your proposal, we will try to find a mentor to help you with the project.  Regardless of what you decide to do, make sure you read and follow the [[#What_should_prospective_students_know.3F|guidelines for students]] below.''
+
 == Contact ==
 
 For prospective students, the first point of contact should be the mailing list of the OBF project you are interested in working with:
@@ -36,12 +42,6 @@ If you are not quite sure which project you would like to contribute to, you can
 Before applying, please read our [[#What_should_prospective_students_know.3F|documentation on information that students should know and guidelines we expect you to follow]]. We don't have a format template for application that you need to adhere to, but we ask that you include specific kinds of information, documented under "[[#When you apply|When you apply]]."
 
 Some mentors and developers can regularly be found on IRC, see the list of OBF projects below for information on which projects have a channel and the name of the channel. ''(If you do not have an IRC client installed, you might find the [http://en.wikipedia.org/wiki/List_of_IRC_clients comparison on Wikipedia], the [http://directory.google.com/Top/Computers/Software/Internet/Clients/Chat/IRC/ Google directory], or the [http://www.ircreviews.org/clients/ IRC Reviews] helpful. For Macs, [http://en.wikipedia.org/wiki/X-Chat X-Chat Aqua] works pretty well. If you have never used IRC, try the [http://irchelp.org/irchelp/ircprimer.html IRC Primer] at [http://irchelp.org/ IRC Help], which also has links to lots of other material.)''
-
-== Mentors and Project Ideas ==
-
-Mentors and project ideas are hosted on each member project's wiki on a dedicated Google Summer of Code page.  See each of the member projects, linked below.
-
-''Note to students: project ideas on the wikis of member projects are only selected projects, albeit well thought-out ones. You are welcome to propose your own project if none of those below catches your interest, or if your idea is more exciting to you, provided it is still a contribution to one the OBF member projects (see list below). If we like your proposal, we will try to find a mentor to help you with the project.  Regardless of what you decide to do, make sure you read and follow the [[#What_should_prospective_students_know.3F|guidelines for students]] below.''
 
 == Open-Bio Projects Accepting Applicants ==
 
