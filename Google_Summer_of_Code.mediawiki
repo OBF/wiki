@@ -108,7 +108,7 @@ Again, '''students are strongly encouraged to [[#Contact|contact us]] as early a
 === When you apply ===
 
 When applying, (aside from the information requested by Google) please provide the following in your application material.
-# '''Your complete contact information, including full name, physical address, preferred email address, and telephone number''', plus other pertinent contact information such as IRC handles, etc.
+# '''Your complete contact information''', including full name, physical address, preferred email address, and telephone number, plus other pertinent contact information such as IRC handles, etc.
 # Why you are interested in the project you are proposing and are well-suited to undertake it.
 # A summary of your programming experience and skills.
 # Programs or projects you have previously authored or contributed to, in particular those available as open-source, including, if applicable, any past Summer of Code involvement.
