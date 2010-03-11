@@ -17,17 +17,25 @@ See the [http://code.google.com/soc Main GSoC Site] for more information and FAQ
 
 == Contact ==
 
+For prospective students, the first point of contact should be the mailing list of the OBF project you are interested in working with:
+
+;BioPerl: [mailto:bioperl-l%40lists%2eopen-bio%2eorg bioperl-l&#64;lists&#46;open-bio&#46;org]
+;BioPython: [mailto:biopython%40lists%2eopen-bio%2eorg biopython&#64;lists&#46;open-bio&#46;org]
+;BioJava: [mailto:biojava-l%40lists%2eopen-bio%2eorg biojava-l&#64;lists&#46;open-bio&#46;org]
+;BioRuby: [mailto:bioruby%40lists%2eopen-bio%2eorg bioruby&#64;lists&#46;open-bio&#46;org]
+;BioSQL: [mailto:biosql-l%40lists%2eopen-bio%2eorg biosql-l&#64;lists&#46;open-bio&#46;org]
+;BioLib: [mailto:biolib-dev%40lists%2eopen-bio%2eorg biolib-dev&#64;lists&#46;open-bio&#46;org]
+
+Also, it would be a good idea to CC the organization adminstrator, so he can make sure that you are properly taken care of:
+
 ;Organization administrator: [[User:RobertBuels|Robert Buels]] ([mailto:rmb32%40cornell%2eedu rmb32&#64;cornell&#46;edu])
 ;Backup administrator: [[User:Lapp|Hilmar Lapp]] ([mailto:hlapp%40gmx%2enet hlapp&#64;gmx&#46;net])
 
-If you are a student interested in applying for a Google Summer of
-Code project with our organization, please send questions and project ideas to the develop mailing list of the pertinent OBF project.
-
-How do you know which project is pertinent and the address of its developer mailing list? The [[#Open-Bio_projects_involved|projects under the OBF umbrella are listed below]], with home page and developer mailing lists. Each project idea lists the OBF project it is a part of; look it up in the list below and you have the information you need. If you want to propose your own project idea and the project to which you would contribute isn't obvious, send email to [mailto:gsoc%40lists%2eopen-bio%2eorg gsoc&#64;lists&#46;open-bio&#46;org].  However, do not worry overly much about picking the right OBF project at the outset.  If you are unsure, simply make your best guess, and other members of the email list will help you to find the best organization to suit your idea.
-
-Some of us also can regularly be found on IRC, see the list of OBF projects below for information on which projects have a channel and the name of the channel. ''(If you do not have an IRC client installed, you might find the [http://en.wikipedia.org/wiki/List_of_IRC_clients comparison on Wikipedia], the [http://directory.google.com/Top/Computers/Software/Internet/Clients/Chat/IRC/ Google directory], or the [http://www.ircreviews.org/clients/ IRC Reviews] helpful. For Macs, [http://en.wikipedia.org/wiki/X-Chat X-Chat Aqua] works pretty well. If you have never used IRC, try the [http://irchelp.org/irchelp/ircprimer.html IRC Primer] at [http://irchelp.org/ IRC Help], which also has links to lots of other material.)''
+If you are not quite sure which project you would like to contribute to, you can email to the organization administrator for help.  However, do not worry overly much about picking the right OBF project at the outset.  If you are unsure, simply make your best guess, and other members of the email list will help you to find the best organization to suit your idea.
 
 Before applying, please read our [[#What_should_prospective_students_know.3F|documentation on information that students should know and guidelines we expect you to follow]]. We don't have a format template for application that you need to adhere to, but we ask that you include specific kinds of information, documented under "[[#When you apply|When you apply]]."
+
+Some mentors and developers can regularly be found on IRC, see the list of OBF projects below for information on which projects have a channel and the name of the channel. ''(If you do not have an IRC client installed, you might find the [http://en.wikipedia.org/wiki/List_of_IRC_clients comparison on Wikipedia], the [http://directory.google.com/Top/Computers/Software/Internet/Clients/Chat/IRC/ Google directory], or the [http://www.ircreviews.org/clients/ IRC Reviews] helpful. For Macs, [http://en.wikipedia.org/wiki/X-Chat X-Chat Aqua] works pretty well. If you have never used IRC, try the [http://irchelp.org/irchelp/ircprimer.html IRC Primer] at [http://irchelp.org/ IRC Help], which also has links to lots of other material.)''
 
 == Mentors and Project Ideas ==
 
