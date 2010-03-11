@@ -45,7 +45,7 @@ Some mentors and developers can regularly be found on IRC, see the list of OBF p
 
 == Open-Bio Projects Accepting Applicants ==
 
-[[Image:BioPerl_logo_tiny.jpg|128px|right]]
+[[Image:BioPerl_logo_tiny.jpg|128px|right|link=bp:Google Summer of Code]]
 ; [[bp:Google Summer of Code|BioPerl]] :
 :* '''[[bp:Google Summer of Code | BioPerl GSoC Page]]''' - project ideas and mentors
 :* [[bp:Main Page|Project website]]
@@ -55,7 +55,7 @@ Some mentors and developers can regularly be found on IRC, see the list of OBF p
 :* [[bp:Mailing_lists|Mailing lists]]
 :* IRC: #bioperl on [http://freenode.net Freenode]
 
-[[Image:Biopython_logo_tiny.png|right]]
+[[Image:Biopython_logo_tiny.png|right|link=biopython:Google Summer of Code]]
 ; [[biopython:Google Summer of Code |BioPython]] :
 :* '''[[biopython:Google Summer of Code | BioPython GSoC Page]]''' - project ideas and mentors
 :* [[biopython:Main Page|Project website]]
@@ -64,7 +64,7 @@ Some mentors and developers can regularly be found on IRC, see the list of OBF p
 :* [[biopython:SourceCode| Source Code]]
 :* No IRC channel at present
 
-[[Image:Biojava_logo_tiny.jpg|right]]
+[[Image:Biojava_logo_tiny.jpg|right|link=http://biojava.org/wiki/Google_Summer_of_Code]]
 ; [http://biojava.org/wiki/Google_Summer_of_Code BioJava] :
 :* '''[http://biojava.org/wiki/Google_Summer_of_Code BioJava GSoC Page]''' - project ideas and mentors
 :* [http://biojava.org/wiki/BioJava:Modules BioJava modules] as another source for student-conceived project ideas
@@ -72,14 +72,14 @@ Some mentors and developers can regularly be found on IRC, see the list of OBF p
 :* [http://biojava.org/wiki/BioJava:MailingLists Mailing lists]
 :* No IRC channel at present
 
-[[Image:BioRuby_logo_tiny.png|right]]
+[[Image:BioRuby_logo_tiny.png|right|link=http://bioruby.org]]
 ; [http://bioruby.org BioRuby] :
 :* [http://bioruby.org Project website]
 :* [http://lists.open-bio.org/mailman/listinfo/bioruby developers mailing list]
 :* [http://github.com/bioruby/bioruby/tree/master source code]
 :* No IRC channel at present
 
-[[Image:BioSQL_logo.png|160px|right]]
+[[Image:BioSQL_logo.png|160px|right|link=biosql:Main Page]]
 ; [[biosql:Main Page|BioSQL]] :
 :* [[biosql:Main Page|Project website]]
 :* Current [http://biosql.org/wiki/Enhancement_Requests enhancement requests] as another source for student-conceived project ideas
@@ -87,7 +87,7 @@ Some mentors and developers can regularly be found on IRC, see the list of OBF p
 :* [http://code.open-bio.org/svnweb/index.cgi/biosql/browse/biosql-schema/trunk source code]
 :* No IRC channel at present
 
-[[Image:BioLib_logo_tiny.png|right]]
+[[Image:BioLib_logo_tiny.png|right|link=http://biolib.open-bio.org]]
 ; [http://biolib.open-bio.org BioLib] :
 :* [http://biolib.open-bio.org Project website]
 :* [http://lists.open-bio.org/mailman/listinfo/biolib-dev developers mailing list]
