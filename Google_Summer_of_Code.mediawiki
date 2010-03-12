@@ -118,7 +118,7 @@ When applying, (aside from the information requested by Google) please provide t
 #* A good plan will require you to thoroughly think about the project itself and how one might want to go about the work.
 #* We don't expect you to have all the experience, background, and knowledge to come up with the final, real work plan on your own at the time you apply. We do expect your plan to demonstrate, however, that you have made the effort and thoroughly dissected the goals into tasks and successive accomplishments that make sense.
 #* We strongly recommend that you bounce your proposed project and your project plan draft off of us, using either the pertinent developers mailing list or the IRC channel(s). Through the project plan exercise you will inevitably discover that you are missing a lot of the pieces - we are there to help you fill those in as best as we can.
-# Any obligations or plans for the summer during the coding period that may possibly conflict.
+# Any obligations, vacations, or plans for the summer that may require scheduling during the GSoC work period.
 #* We expect the your GSoC projec to be your primary focus over the summer.  It should not be regarded as a part-time occupation.
 #* If you feel that you can manage other work obligations concurrently with your Summer of Code project, make your case and support it with evidence.
 #* Be honest and open.  If it turns out later that you weren't clear about other obligations, at best (i.e., if your accomplishment record at that point is spotless) our trust in you will be severely degraded. Also, if you are accepted, discuss with your GSoC mentor before taking on additional obligations.
