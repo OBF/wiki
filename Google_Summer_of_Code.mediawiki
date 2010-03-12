@@ -74,6 +74,7 @@ Some mentors and developers can regularly be found on IRC, see the list of OBF p
 
 [[Image:BioRuby_logo_tiny.png|right|link=http://bioruby.org]]
 ; [http://bioruby.org BioRuby] :
+:* '''[http://bioruby.open-bio.org/wiki/Google_Summer_of_Code BioRuby GSoC Page]''' - project ideas and mentors
 :* [http://bioruby.org Project website]
 :* [http://lists.open-bio.org/mailman/listinfo/bioruby developers mailing list]
 :* [http://github.com/bioruby/bioruby/tree/master source code]
