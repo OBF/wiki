@@ -26,6 +26,7 @@ Mentors and project ideas are hosted on each member project's wiki on a dedicate
 * [http://biopython.org/wiki/Google_Summer_of_Code#Biopython_and_PyCogent_interoperability (Biopython) Biopython and PyCogent interoperability]
 * [http://biopython.org/wiki/Google_Summer_of_Code#Galaxy_phylogenetics_pipeline_development (Biopython) Galaxy phylogenetics pipeline development]
 * [http://biopython.org/wiki/Google_Summer_of_Code#Accessing_R_phylogenetic_tools_from_Python (Biopython) Accessing R phylogenetic tools from Python]
+* [http://biopython.org/wiki/Google_Summer_of_Code#PDB-Tidy:_command-line_tools_for_manipulating_PDB_files (Biopython) PDB-Tidy: Command-line tools for manipulating PDB files]
 * [http://biojava.org/wiki/Google_Summer_of_Code (BioJava) All-Java Multiple Sequence Alignment]
 * [http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Ruby_1.9.2_support_of_BioRuby (BioRuby) Ruby 1.9.2 support of BioRuby]
 * [http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Implementation_of_algorithm_to_infer_gene_duplications_in_BioRuby (BioRuby) Implementation of algorithm to infer gene duplications in BioRuby]
