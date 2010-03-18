@@ -66,7 +66,7 @@ Some mentors and developers can regularly be found on IRC, see the list of OBF p
 :* source code browser for [http://code.open-bio.org/svnweb/index.cgi/bioperl/browse/bioperl-live/trunk bioperl-live] (the main BioPerl code base), and [http://code.open-bio.org/svnweb/index.cgi/bioperl/ all BioPerl sub-projects]
 :* [[bp:Project_priority_list|Priority list]] of things that need work, as another source for student-conceived project ideas 
 :* [[bp:Mailing_lists|Mailing lists]]
-:* IRC: #bioperl on [http://freenode.net Freenode]
+:* IRC: <code>#bioperl</code> on [http://freenode.net Freenode]
 
 [[Image:Biopython_logo_tiny.png|right|link=biopython:Google Summer of Code]]
 ; [[biopython:Google Summer of Code |BioPython]] :
