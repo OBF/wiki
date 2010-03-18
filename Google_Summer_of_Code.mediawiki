@@ -38,10 +38,10 @@ Mentors and project ideas are hosted on each member project's wiki on a dedicate
 
 === IRC - Internet Relay Chat ===
 
-IRC is the preferred method of real-time communication between GSoC participants.  OBF IRC channels are maintained on [http://freenode.net Freenode], connect your IRC client to '''chat.freenode.net'''.
+IRC is the preferred method of real-time communication between GSoC participants.  OBF IRC channels are maintained on [http://freenode.net freenode], connect your IRC client to <code>chat.freenode.net</code>.
 
-;Main OBF GSoC Channel: #obf-soc
-;BioPerl: #bioperl
+;Main OBF GSoC Channel: <code>#obf-soc</code>
+;BioPerl: <code>#bioperl</code>
 
 === Email ===
 
