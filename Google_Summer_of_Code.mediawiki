@@ -36,6 +36,15 @@ Mentors and project ideas are hosted on each member project's wiki on a dedicate
 
 == Contact ==
 
+=== IRC - Internet Relay Chat ===
+
+IRC is the preferred method of real-time communication between GSoC participants.  OBF IRC channels are maintained on [http://freenode.net Freenode], connect your IRC client to '''chat.freenode.net'''.
+
+;Main OBF GSoC Channel: #obf-soc
+;BioPerl: #bioperl
+
+=== Email ===
+
 For prospective students, the first point of contact should be the mailing list of the OBF project you are interested in working with:
 
 ;BioPerl: [mailto:bioperl-l%40lists%2eopen-bio%2eorg bioperl-l&#64;lists&#46;open-bio&#46;org]
