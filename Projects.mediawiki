@@ -22,7 +22,7 @@ title: Projects
 * [http://skam.sourceforge.net/ BioMake &amp; Skam] - Task management tool, similar to makefiles
 
 ==Other related projects==
-* [http://malde.org/~ketil/ Bioinformatics tools in Haskell]
+* BioHaskell [http://blog.malde.org/ home page], [http://hackage.haskell.org/packages/archive/pkg-list.html#cat:bioinformatics releases], [http://malde.org/~ketil/ source code]
 * [http://biophp.org BioPHP]
 * [http://bioweka.sourceforge.net/index.php/Main_Page BioWeka]
 * [http://www.bioclipse.net/ BioClipse] - visual platform based on Eclipse
