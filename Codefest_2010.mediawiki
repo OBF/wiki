@@ -18,6 +18,11 @@ The general aim of the Codefest is improving the accessibility, functionality an
 * July 7, 2010 -- Harvard School of Public Health [http://maps.google.com/maps?hl=en&source=hp&q=655+Huntington+Avenue,+Boston,+MA&um=1&ie=UTF-8&hq=&hnear=655+Huntington+Ave,+Boston,+MA+02115&gl=us&ei=vepeS6rVAsSztgeV-7z9Cw&sa=X&oi=geocode_result&ct=image&resnum=1&ved=0CAkQ8gEwAA 655 Huntington Avenue, Boston, MA]
 * July 8, 2010 -- Massachusetts General Hospital (MGH), Simches Research Building, Room 3130 [http://maps.google.com/maps?hl=en&source=hp&q=185+Cambridge+St,+Boston,+Suffolk,+Massachusetts+02114&um=1&ie=UTF-8&hq=&hnear=185+Cambridge+St,+Boston,+MA+02114&gl=us&ei=qeteS_eUGoy1tgeDyKjwCw&sa=X&oi=geocode_result&ct=image&resnum=1&ved=0CAsQ8gEwAA 185 Cambridge Street, Boston, MA]
 
+== Resources ==
+
+* [http://aws.amazon.com/ Amazon Web Services] -- We will be able to use EC2 and other Amazon services thanks to [http://aws.amazon.com/education/ Amazon grant] support for a proposal put together by Steffan Moellar. Many thanks to Amazon for supporting the initiative and Steffan for putting together the application.
+* [http://www.eucalyptus.com/ Eucalyptus] -- The [http://www.uk-sh.de/index.phtml?NavID=676.467.4&La=4&switch_la=1&back_qs=NavID%3D676.467.4 Universitätsklinikum Schleswig-Holstein] is sponsoring a 12 node local Eucalyptus cloud for testing and development. Thanks again to Steffan for making this available.
+
 == Sponsorship ==
 
 Space and internet for the Codefest are kindly provided by the [http://www.hsph.harvard.edu/ Harvard School of Public Health] and [http://www.mgh.harvard.edu/ Massachusetts General Hospital]. We are actively seeking sponsors to help supplement the travel, lodging and meal costs for developers. If you're interested in contributing to Open Source development in Bioinformatics and helping to direct the focus on the Codefest, please contact Brad.
