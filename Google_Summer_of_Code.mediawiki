@@ -31,6 +31,8 @@ Mentors and project ideas are hosted on each member project's wiki on a dedicate
 * [http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Ruby_1.9.2_support_of_BioRuby (BioRuby) Ruby 1.9.2 support of BioRuby]
 * [http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Implementation_of_algorithm_to_infer_gene_duplications_in_BioRuby (BioRuby) Implementation of algorithm to infer gene duplications in BioRuby]
 * [http://biolib.open-bio.org/wiki/GSoC2010 (Biolib) Mapping JAVA libraries to Perl/Ruby/Python using Biolib+SWIG+JNI]
+* [http://www.biodas.org/wiki/GSoC2010 (BioDAS) Redesign of the DAS Registry]
+* [http://www.biodas.org/wiki/GSoC2010 (BioDAS) DAS Server for large files on local filesystems]
 
 ''Note to students: project ideas on the wikis of member projects are only selected projects, albeit well thought-out ones. You are encouraged to propose your own project, just make sure it is still a contribution to one the OBF member projects (see list below)! If we like your proposal, we will try to find a mentor to help you with the project.  Regardless of what you decide to do, make sure you read and follow the [[#What_should_prospective_students_know.3F|guidelines for students]] below.''
 
@@ -53,6 +55,7 @@ For prospective students, the first point of contact should be the mailing list 
 ;BioRuby: [mailto:bioruby%40lists%2eopen-bio%2eorg bioruby&#64;lists&#46;open-bio&#46;org]
 ;BioSQL: [mailto:biosql-l%40lists%2eopen-bio%2eorg biosql-l&#64;lists&#46;open-bio&#46;org]
 ;BioLib: [mailto:biolib-dev%40lists%2eopen-bio%2eorg biolib-dev&#64;lists&#46;open-bio&#46;org]
+;BioDAS: [mailto:das@lists.open-bio.org das@lists.open-bio.org]
 
 Also, it would be a good idea to CC the organization adminstrator, so he can make sure that you are properly taken care of:
 
@@ -115,6 +118,13 @@ Some mentors and developers can regularly be found on IRC, see the list of OBF p
 :* [http://biolib.open-bio.org Project website]
 :* [http://lists.open-bio.org/mailman/listinfo/biolib-dev developers mailing list]
 :* [http://github.com/pjotrp/biolib/tree/master source code]
+:* No IRC channel at present
+
+[[Image:DAS_logo_160px.png|right|link=http://www.biodas.org]]
+; [http://www.biodas.org BioDAS] :
+:* '''[http://www.biodas.org/wiki/GSoc2010 BioDAS GSoC Page]''' - project ideas and mentors
+:* [http://www.biodas.org Project website]
+:* [http://lists.open-bio.org/mailman/listinfo/das mailing list]
 :* No IRC channel at present
 
 == Guide for prospective GSoC students ==
