@@ -120,7 +120,7 @@ Some mentors and developers can regularly be found on IRC, see the list of OBF p
 :* [http://github.com/pjotrp/biolib/tree/master source code]
 :* No IRC channel at present
 
-[[Image:DAS_logo_160px.png|right|link=http://www.biodas.org]]
+[[Image:DAS_logo_160px.png|100px|right|link=http://www.biodas.org]]
 ; [http://www.biodas.org BioDAS] :
 :* '''[http://www.biodas.org/wiki/GSoc2010 BioDAS GSoC Page]''' - project ideas and mentors
 :* [http://www.biodas.org Project website]
