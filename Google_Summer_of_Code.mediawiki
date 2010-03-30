@@ -71,7 +71,7 @@ Some mentors and developers can regularly be found on IRC, see the list of OBF p
 
 == Open-Bio Projects Accepting Applicants ==
 
-[[Image:BioPerl_logo_tiny.jpg|128px|right|link=bp:Google Summer of Code]]
+[[Image:BioPerl_logo_tiny.jpg|right|link=bp:Google Summer of Code]]
 ; [[bp:Google Summer of Code|BioPerl]] :
 :* '''[[bp:Google Summer of Code | BioPerl GSoC Page]]''' - project ideas and mentors
 :* [[bp:Main Page|Project website]]
