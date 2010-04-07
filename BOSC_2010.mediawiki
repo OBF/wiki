@@ -20,7 +20,7 @@ Many open source bioinformatics packages are widely used by the research communi
 
 === Guy Coates ===
 
-We are pleased to announce that [http://uk.linkedin.com/pub/guy-coates/3/b5b/9b0 Guy Coates], Group leader of the Informatics Systems Group at the [http://www.sanger.ac.uk/ Wellome Trust Sanger Institute] will be one of our keynote speakers at BOSC 2010.  Guy Coates is an expert in large Linux/Unix systems architecture, management and application optimization, next-gen DNA sequencing pipelines, very large database systems (>50TB), and high performance compute clusters (1500+ CPUs).  He will lead off the conference, with a talk entitled:
+[http://uk.linkedin.com/pub/guy-coates/3/b5b/9b0 Guy Coates], Group leader of the Informatics Systems Group at the [http://www.sanger.ac.uk/ Wellome Trust Sanger Institute], will be one of our keynote speakers at BOSC 2010.  Guy Coates is an expert in large Linux/Unix systems architecture, management and application optimization, next-gen DNA sequencing pipelines, very large database systems (>50TB), and high performance compute clusters (1500+ CPUs).  He will lead off the conference, with a talk entitled:
 
 '''''Clouds: all fluff and no substance?'''''  Cloud architectures have made plenty of impact in the press over the
 past 18 months, but have they made any impact in solving real bioinformatics challenges? This talk will detail the Sanger Institute's experiences with the cloud, both good and bad, and ask what needs to be done to prepare the cloud for the era of commodity sequencing and $500 genomes.
