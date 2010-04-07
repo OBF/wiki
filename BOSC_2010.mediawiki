@@ -33,7 +33,7 @@ Our other keynote speaker will be [http://www.linkedin.com/in/rossgardler Ross G
 
 * February 26, 2010:  Call for abstracts opens
 * March 9, 2010: Registration opens
-* April 15, 2010: Abstract deadline
+* '''April 15, 2010: Deadline for submitting abstracts'''
 * May 5, 2010: Notification of accepted abstracts
 * May 28, 2010: Early Registration Discount Cut-off Date
 * '''July 7-8, 2010: [[Codefest 2010]] programming session'''
