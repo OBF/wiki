@@ -27,6 +27,8 @@ past 18 months, but have they made any impact in solving real bioinformatics cha
 
 === Ross Gardler ===
 
+We are also pleased to announce that [http://www.linkedin.com/in/rossgardler Ross Gardler], Vice President for Community Development at the Apache Software Foundation and Manager for OSS Watch (University of Oxford), a public (and free) service for higher and further education institutions in the UK which helps institutions and projects who are using or developing free and open source software.  He has also performed Computer Science and Management research and teaching in both the UK and West Indies.  In his talk, he will share with the O|B|F community the insights he has gained in community building for Apache and other open source projects.
+
 == Important Dates ==
 
 * February 26, 2010:  Call for abstracts opens
