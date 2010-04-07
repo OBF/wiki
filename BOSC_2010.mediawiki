@@ -126,7 +126,7 @@ The BOSC Organizing Committee is pleased to announce that this year we will be p
 * [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp]
 * [http://www.bioperl.org/wiki/Jason_Stajich Jason Stajich]
 
-== Previous BOSCs ===
+=== Previous BOSCs ===
 
 The first BOSC was held in 2000.  Please see [[Past BOSC conferences|past BOSC conferences]] for information about the first ten conferences.
 
