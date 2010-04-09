@@ -22,7 +22,7 @@ tough calls.
 With that in mind, here are suggested guidelines for scoring in the
 first round.
 
-== First-round scoring Guidelines ==
+== Round 1 Scoring Guidelines ==
 
 # Review the applications that you would be primary or secondary mentor for (this should be apparent from the title). Point out any missing information, lack of detail, and any aspects of a proposed plan that you disagree with in the comment text box, check the box next to 'Public review', which makes it visible to the student, and click 'Submit'. The student should respond to the these and can presumably edit his/her application to respond to your request for information or criticism (at least they could last year).
 # For scoring, leave the 'Public review' box unchecked (i.e., the student will not see it, but other mentors will), change the ''Score'' drop-down to where you want it, add explanatory comment for your score, and hit 'Submit'. Scores are cumulative, so you can revert a score by subtracting what you previously added. Scores without explanatory comment are hard to weigh in the case of differing opinions, so please do add a brief (!) statement as why you are giving this score.
