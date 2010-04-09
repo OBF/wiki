@@ -6,32 +6,28 @@ Originally based on the NESCent Phyloinformatics Summer of Code procedure by Hil
 
 == Overview ==
 
-We'll have 3 rounds of scoring. In the first round, mentors review the
-applications for their project idea and score them (see below for
-specifics). In the second round we would also like all mentors to look
-at (at least) the top-scoring applications for project ideas other
-than their own and score them too so that we get a poll on consensus
-or divergence of opinions. In the third round where necessary Todd and
-I may weigh in to ensure optimal alignment with NESCent's objectives
-and mission.
+There are 3 rounds of scoring.
 
-Before I'll go into specifics, as a reminder we're not expecting to
-accept more than 6 students this year. With 17 project ideas listed at
-last count, simple math shows already that about 1/3 of our project
-ideas won't get funded. Some of those may not receive strong
-applications in the end, so the decision will be easier in those
-cases; however, we do expect that we'll have to make some very tough
-calls.
+;Round 1: Mentors review the applications for their project idea and score them (see below for specifics).
 
-With that in mind, here are my suggested guidelines for scoring in the
+;Round 2: All mentors look at (at least) the top-scoring applications for project ideas other than their own and score them too so that we get a poll on consensus or divergence of opinions.
+
+;Round 3: Where necessary, organization admins weigh in to ensure optimal alignment with OBFs projects and objectives.
+
+Keep in mind that typically '''fewer than 40% of project ''ideas''''' are funded.  Some project ideas may not receive
+any strong applications, so the decision will be easier in
+those cases; however, we do expect that we'll have to make some very
+tough calls.
+
+With that in mind, here are suggested guidelines for scoring in the
 first round.
 
 == First-round scoring Guidelines ==
 
 # Review the applications that you would be primary or secondary mentor for (this should be apparent from the title). Point out any missing information, lack of detail, and any aspects of a proposed plan that you disagree with in the comment text box, check the box next to 'Public review', which makes it visible to the student, and click 'Submit'. The student should respond to the these and can presumably edit his/her application to respond to your request for information or criticism (at least they could last year).
-# For scoring, leave the 'Public review' box unchecked (i.e., the student will not see it, but other mentors will), change the 'Score' drop-down to where you want it, add explanatory comment for your score, and hit 'Submit'. Scores are cumulative, so you can revert a score by subtracting what you previously added. Scores without explanatory comment are hard to weigh in the case of differing opinions, so please do add a brief (!) statement as why you are giving this score.
+# For scoring, leave the 'Public review' box unchecked (i.e., the student will not see it, but other mentors will), change the ''Score'' drop-down to where you want it, add explanatory comment for your score, and hit 'Submit'. Scores are cumulative, so you can revert a score by subtracting what you previously added. Scores without explanatory comment are hard to weigh in the case of differing opinions, so please do add a brief (!) statement as why you are giving this score.
 # If you are a secondary mentor, to avoid confusion I suggest you propose your score as a private comment (i.e., as above, except write the score in the comment and leave the drop-down at zero) for the primary mentor to take into consideration, or email the primary mentor.
-# Give the top 2 or 3 applications for your idea that may warrant funding (see below) a gradated positive score to establish your preference (+4 for the best, +3 second, +2 third). Add +1 to the best one (for a total of +5) if your comments only point out refinements and in principle you're happy with the application as is.
+# Give the top 2 or 3 applications for your idea that may warrant funding (see below) a graduated positive score to establish your preference (+4 for the best, +3 second, +2 third). Add +1 to the best one (for a total of +5) if your comments only point out refinements and in principle you're happy with the application as is.
 # Only give a positive score if you have confidence that the student is already or would after requested improvements be worth accepting, and you spending your mentoring time. There may be fewer than 3 of those for your idea!
 # Score all others for your idea with a -1.
 # If you are a primary mentor, request mentorship by clicking 'I am willing to mentor' for those you have scored positively. This should be no more than 3.
