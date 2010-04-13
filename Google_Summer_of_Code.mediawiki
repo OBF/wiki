@@ -158,10 +158,10 @@ When applying, (aside from the information requested by Google) please provide t
 #* Be honest and open.  If it turns out later that you weren't clear about other obligations, at best (i.e., if your accomplishment record at that point is spotless) our trust in you will be severely degraded. Also, if you are accepted, discuss with your GSoC mentor before taking on additional obligations.
 #* One of the most common reasons for students to struggle or fail is being overcommitted.  Do not set yourself up for failure!  GSoC summers should be fun and rewarding!
 
-== Guide for Mentors ==
 == Mentor Resources ==
 
 * [http://en.flossmanuals.net/GSoCMentoringGuide GSoC Mentoring Guide]
+* [[Google_Summer_of_Code_Application_Evaluation|OBF Application Evaluation Guidelines]]
 
 == Other Facts & Links ==
 
