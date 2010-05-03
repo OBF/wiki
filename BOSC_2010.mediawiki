@@ -116,7 +116,6 @@ The BOSC Organizing Committee is pleased to announce that this year we will be p
 * [http://biojava.org/wiki/Michael_Heuer Michael Heuer] (BioJava Developer)
 * [http://www.bioperl.org/wiki/Darin_London Darin London] (BioPerl Developer)
 * Steffen M&ouml;ller (Institute for Neuro- und Bioinformatics, L&uuml;beck, Germany)
-* [http://www.bx.psu.edu/~anton/ Anton Nekrutenko]
 * Jim Procter (University of Dundee, Scotland)
 * Ron Taylor (Pacific Northwest National Laboratory)
 
