@@ -42,6 +42,12 @@ Our other keynote speaker will be [http://www.linkedin.com/in/rossgardler Ross G
 * '''July 7-8, 2010: [[Codefest 2010]] programming session'''
 * '''July 9-10, 2010:  BOSC 2010!'''
 
+== Registration ==
+
+Registration for BOSC is through the http://www.iscb.org/ismb2010-registration ISMB main conference web site].
+
+Note that the deadline for discounted early registration is May 28, 2010.
+
 == Sessions ==
 
 * '''OpenBio [[SolutionChallenge]]''' -- Bioinformatics library providers: please join us in a friendly competition to solve a shared biological problem, demonstrating the utility of your toolkit alongside other developers.
