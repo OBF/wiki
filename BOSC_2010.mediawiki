@@ -6,8 +6,6 @@ title: BOSC 2010
 
 The 11th Annual Bioinformatics Open Source Conference (BOSC) 2010 will be held for two days in conjunction with [http://www.iscb.org/ismb2010 the 18th Annual International Conference on Intelligent Systems for Molecular Biology (ISMB 2010)] in Boston, Massachusetts, USA.  The dates of BOSC 2010 are July 9-10; the main ISMB Conference runs July 11-13, 2010.  BOSC attendees are also invited to participate in the [[Codefest 2010]] programming session on July 7-8.
 
-'''ANNOUNCEMENT:'''  Abstract acceptances were delayed slightly; authors will be receiving notification by e-mail in the next 24 hours.  ''&mdash; [[User:Kdahlquist|Kdahlquist]] 20:17, 6 May 2010 (UTC)''
-
 '''ANNOUNCEMENT:''' The Organizing Committee is taking a few more days to deliberate on the winners of the Student Travel Awards; announcements will be e-mailed by Monday, May 10.  ''&mdash; [[User:Kdahlquist|Kdahlquist]] 22:19, 6 May 2010 (UTC)''
 
 <!--'''The deadline for [[BOSC 2010#Abstract_Submission_Information | submitting abstracts]] is April 15, 2010.'''-->
@@ -38,8 +36,9 @@ Our other keynote speaker will be [http://www.linkedin.com/in/rossgardler Ross G
 * February 26, 2010:  Call for abstracts opens
 * March 9, 2010: Registration opens
 * '''April 15, 2010: Deadline for submitting abstracts'''
-* May 5, 2010: Notification of accepted abstracts.  ''Abstract acceptances were delayed slightly; authors will be receiving notification by e-mail in the next 24 hours.  &mdash; [[User:Kdahlquist|Kdahlquist]] 20:17, 6 May 2010 (UTC)''
-* May 28, 2010: Early Registration Discount Cut-off Date
+* May 6, 2010: Notifications for accepted abstracts have been e-mailed
+* May 14, 2010: Deadline for presenters to confirm acceptance of invitation to speak and for authors offered conditional acceptance to come into compliance with requested changes.
+* May 28, 2010: Early Registration Discount Cut-off Date ([http://www.iscb.org/ismb2010-registration Registration site through ISMB]
 * '''July 7-8, 2010: [[Codefest 2010]] programming session'''
 * '''July 9-10, 2010:  BOSC 2010!'''
 
