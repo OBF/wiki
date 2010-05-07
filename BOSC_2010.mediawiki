@@ -35,10 +35,10 @@ Our other keynote speaker will be [http://www.linkedin.com/in/rossgardler Ross G
 
 * February 26, 2010:  Call for abstracts opens
 * March 9, 2010: Registration opens
-* '''April 15, 2010: Deadline for submitting abstracts'''
-* May 6, 2010: Notifications for accepted abstracts have been e-mailed
+* April 15, 2010: Deadline for submitting abstracts, ''abstract submission is now closed''
+* May 6, 2010: Notifications for accepted abstracts were e-mailed to corresponding authors
 * May 14, 2010: Deadline for presenters to confirm acceptance of invitation to speak and for authors offered conditional acceptance to come into compliance with requested changes.
-* May 28, 2010: Early Registration Discount Cut-off Date ([http://www.iscb.org/ismb2010-registration Registration site through ISMB]
+* May 28, 2010: Early Registration Discount Cut-off Date ([http://www.iscb.org/ismb2010-registration Registration site through ISMB])
 * '''July 7-8, 2010: [[Codefest 2010]] programming session'''
 * '''July 9-10, 2010:  BOSC 2010!'''
 
