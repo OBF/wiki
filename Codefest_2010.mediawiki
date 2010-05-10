@@ -11,7 +11,11 @@ The objective of the Codefest is to give these talented developers a chance to b
 
 The general aim of the Codefest is improving the accessibility, functionality and interoperability of the existing libraries. The specific goals are determined based on the interests of attending members and inputs of sponsors. Some current areas of topic discussion are:
 
-* Improving the presence of OpenBio libraries on distributed computing environments like [http://aws.amazon.com/ec2/ Amazon Elastic Compute Cloud] and [http://open.eucalyptus.com/ Eucalyptus]. Ntino has written up an excellent project proposal available for [http://www.open-bio.org/w/images/8/85/BOSC_2010_Cloud_BioLinux.pdf download in pdf format].
+=== Cloud computing ===
+
+Improving the presence of OpenBio libraries on distributed computing environments like [http://aws.amazon.com/ec2/ Amazon Elastic Compute Cloud] and [http://open.eucalyptus.com/ Eucalyptus]. Ntino has written up an excellent project proposal available for [http://www.open-bio.org/w/images/8/85/BOSC_2010_Cloud_BioLinux.pdf download in pdf format].
+
+Initial work has started to develop an automated build environment that incorporates the [http://www.jcvi.org/cms/research/projects/jcvi-cloud-biolinux/overview/ Cloud BioLinux] and [http://fortinbras.us/bioperl-max/ bioperl-max] efforts. See the [http://bcbio.wordpress.com/2010/05/08/automated-build-environment-for-bioinformatics-cloud-images/ blog post] for full details. Code and configuration files are available from a [http://github.com/chapmanb/bcbb/tree/master/ec2/biolinux/ GitHub repository]. The post outlines several areas of improvements which could be targets for focused work at the Codefest.
 
 == Location ==
 
