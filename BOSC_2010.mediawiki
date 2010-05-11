@@ -6,7 +6,7 @@ title: BOSC 2010
 
 The 11th Annual Bioinformatics Open Source Conference (BOSC) 2010 will be held for two days in conjunction with [http://www.iscb.org/ismb2010 the 18th Annual International Conference on Intelligent Systems for Molecular Biology (ISMB 2010)] in Boston, Massachusetts, USA.  The dates of BOSC 2010 are July 9-10; the main ISMB Conference runs July 11-13, 2010.  BOSC attendees are also invited to participate in the [[Codefest 2010]] programming session on July 7-8.
 
-'''ANNOUNCEMENT:''' The Organizing Committee is taking a few more days to deliberate on the winners of the Student Travel Awards; announcements will be e-mailed by Monday, May 10.  ''&mdash; [[User:Kdahlquist|Kdahlquist]] 22:19, 6 May 2010 (UTC)''
+'''ANNOUNCEMENT:''' Congratulations to the winners of the BOSC 2010 Student Travel Fellowships:  Nobuaki Kono, Eric Talevich, and Jens Lichtenberg!
 
 <!--'''The deadline for [[BOSC 2010#Abstract_Submission_Information | submitting abstracts]] is April 15, 2010.'''-->
 
@@ -70,8 +70,8 @@ Through generous sponsorship from [http://www.eaglegenomics.com/ Eagle Genomics]
 * To apply for the award, submit your abstract by the April 15 deadline through the Open Conference Systems site.
 * Be sure to check the box indicating that you are a graduate student.
 * Your abstract will undergo the normal review process for BOSC.  In addition, the BOSC Organizing Committee will review the student abstracts and pick the three best abstracts for the Student Travel Awards.
-* You will be notified of your award by the abstract notification deadline shown above.  '''''The Organizing Committee is taking a few more days to deliberate; Student Travel Award Announcements will be e-mailed by Monday, May 10.  &mdash; [[User:Kdahlquist|Kdahlquist]] 22:18, 6 May 2010 (UTC)'''''
-* You will still need to make your own travel arrangements for BOSC.  The award will take the form of a check or reimbursement to take place at the conference itself.  You will receive more details upon notification of the award.
+* Notifications have gone out:  Congratulations to  Nobuaki Kono, Eric Talevich, and Jens Lichtenberg!
+* You will still need to make your own travel arrangements for BOSC.  The award will take the form of a check or reimbursement to take place at the conference itself.
 
 == Abstract Submission Information ==
 
