@@ -36,7 +36,7 @@ Click on the talk title to view the abstract as a PDF file.
 * M. Hanna: [[Media:18_BOSC2010.pdf | The Genome Analysis Toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data]]
 * Judy Qiu: [[Media:40_BOSC2010.pdf | Hybrid Cloud and Cluster Computing Paradigms for Life Science Applications]]
 * S. Möller: [[Media:26_BOSC2010.pdf | Community-driven computational biology with Debian and Taverna]]
-* [[Media:39_BOSC2010.pdf | SeqWare Query Engine: Storing and Searching Sequence Data in the Cloud]]
+* Brian D. O'Connor: [[Media:39_BOSC2010.pdf | SeqWare Query Engine: Storing and Searching Sequence Data in the Cloud]]
 * [[Media:3_BOSC2010.pdf | Dealing with the Data Deluge: What can the Robotics Community Teach us?]]
 * [[Media:4_BOSC2010.pdf | From Moby to SADI - Modeling Semantic Web Services with the Semantic Automated Discovery and Integration Framework]]
 * [[Media:5_BOSC2010.pdf | Long-term availability of bioinformatics web services]]
