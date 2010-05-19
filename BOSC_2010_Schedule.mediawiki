@@ -25,7 +25,7 @@ This list is in no particular order, the exact schedule of talks will be forthco
 
 Click on the talk title to view the abstract as a PDF file.
 
-* [[Media:22_BOSC2010.pdf | Towards a Modern BioPerl: BioPerl Update 2010]]
+* Christopher Fields and Mark Jensen: [[Media:22_BOSC2010.pdf | Towards a Modern BioPerl: BioPerl Update 2010]]
 * [[Media:15_BOSC2010.pdf | BioRuby 2010 updates: moving to agile bioinformatics]]
 * [[Media:14_BOSC2010.pdf | EMBOSS: The European Molecular Biology Open Software Suite]]
 * [[Media:16_BOSC2010.pdf | Biopython Project Update]]
