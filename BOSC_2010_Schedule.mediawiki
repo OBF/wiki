@@ -21,4 +21,41 @@ Our other keynote speaker will be [http://www.linkedin.com/in/rossgardler Ross G
 
 == List of confirmed speakers from submitted abstracts ==
 
+This list is in no particular order, the exact schedule of talks will be forthcoming.
+
 Click on the talk title to view the abstract as a PDF file.
+<!--
+22. Towards a Modern BioPerl: BioPerl Update 2010
+15. BioRuby 2010 updates: moving to agile bioinformatics
+14. EMBOSS: The European Molecular Biology Open Software Suite
+16. Biopython Project Update
+2. Bioconductor with Python, What else ?
+13. interPopula: Database and tool integration for population genetics using Python
+8. Bio.Phylo: A unified phylogenetics toolkit for Biopython
+29. An overview of the Hadoop/MapReduce/HBase framework and its current applications in bioinformatics
+18. The Genome Analysis Toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data
+40. Hybrid Cloud and Cluster Computing Paradigms for Life Science Applications
+26. Community-driven computational biology with Debian and Taverna
+39. SeqWare Query Engine: Storing and Searching Sequence Data in the Cloud
+3. Dealing with the Data Deluge: What can the Robotics Community Teach us?
+4. From Moby to SADI - Modeling Semantic Web Services with the Semantic Automated Discovery and Integration Framework
+5. Long-term availability of bioinformatics web services
+6. G-language Bookmarklet: a gateway for Semantic Web, Linked Data, and Web Services
+21. ONTO-ToolKit: enabling bio-ontology engineering via Galaxy
+25. Connecting TOPSAN to Computational Analysis
+20. Musite: Global Prediction of General and Kinase-Specific Phosphorylation Sites
+36. Building Bioinformatics Web Application with Clickframes
+24. MOLGENIS: rapid prototyping of biosoftware at the push of a button
+17. Generating a data platform for microarray gene expression experiments using MOLGENIS and MAGE-TAB
+19. The Goby framework: towards efficient next-generation sequencing data analysis
+10. BioHDF: Open binary file formats for NGS data - current status and future directions
+30. Automated Annotation of NGS Transcriptome Data using ISGA and Ergatis
+12. Cytoscape Web: An interactive, customizable web-based network browser
+38. Pathway Projector: Web-Based Zoomable Pathway Browser Using KEGG Atlas and Google Maps API
+34. GBrowse2
+7. Evoker: a visualization tool for genotype intensity data
+11. Fiji Is Just ImageJ - an Open Source platform for biological image analysis
+32. IPRStats: visualization and analysis of InterProScan Results
+9. The Microsoft Biology Foundation
+28. Concurrent Bioinformatics Software for Discovering Genome-wide Patterns and Word-based Genomic Signatures
+-->
