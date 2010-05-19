@@ -29,7 +29,7 @@ Click on the talk title to view the abstract as a PDF file.
 * Raoul J.P. Bonnal: [[Media:15_BOSC2010.pdf | BioRuby 2010 updates: moving to agile bioinformatics]]
 * Peter Rice: [[Media:14_BOSC2010.pdf | EMBOSS: The European Molecular Biology Open Software Suite]]
 * Peter Cock/Brad Chapman: [[Media:16_BOSC2010.pdf | Biopython Project Update]]
-* [[Media:2_BOSC2010.pdf | Bioconductor with Python, What else ?]]
+* Laurent Gautier: [[Media:2_BOSC2010.pdf | Bioconductor with Python, What else ?]]
 * [[Media:13_BOSC2010.pdf | interPopula: Database and tool integration for population genetics using Python]]
 * [[Media:8_BOSC2010.pdf | Bio.Phylo: A unified phylogenetics toolkit for Biopython]]
 * [[Media:29_BOSC2010.pdf | An overview of the Hadoop/MapReduce/HBase framework and its current applications in bioinformatics]]
