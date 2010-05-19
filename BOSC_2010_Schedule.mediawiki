@@ -24,7 +24,7 @@ Our other keynote speaker will be [http://www.linkedin.com/in/rossgardler Ross G
 This list is in no particular order, the exact schedule of talks will be forthcoming.
 
 Click on the talk title to view the abstract as a PDF file.
-<!--
+
 * [[Media:22_BOSC2010.pdf | Towards a Modern BioPerl: BioPerl Update 2010]]
 * [[Media:15_BOSC2010.pdf | BioRuby 2010 updates: moving to agile bioinformatics]]
 * [[Media:14_BOSC2010.pdf | EMBOSS: The European Molecular Biology Open Software Suite]]
@@ -41,21 +41,18 @@ Click on the talk title to view the abstract as a PDF file.
 * [[Media:4_BOSC2010.pdf | From Moby to SADI - Modeling Semantic Web Services with the Semantic Automated Discovery and Integration Framework]]
 * [[Media:5_BOSC2010.pdf | Long-term availability of bioinformatics web services]]
 * [[Media:6_BOSC2010.pdf | G-language Bookmarklet: a gateway for Semantic Web, Linked Data, and Web Services]]
-21. ONTO-ToolKit: enabling bio-ontology engineering via Galaxy
-25. Connecting TOPSAN to Computational Analysis
-20. Musite: Global Prediction of General and Kinase-Specific Phosphorylation Sites
-36. Building Bioinformatics Web Application with Clickframes
-24. MOLGENIS: rapid prototyping of biosoftware at the push of a button
-17. Generating a data platform for microarray gene expression experiments using MOLGENIS and MAGE-TAB
-19. The Goby framework: towards efficient next-generation sequencing data analysis
-10. BioHDF: Open binary file formats for NGS data - current status and future directions
-30. Automated Annotation of NGS Transcriptome Data using ISGA and Ergatis
-12. Cytoscape Web: An interactive, customizable web-based network browser
-38. Pathway Projector: Web-Based Zoomable Pathway Browser Using KEGG Atlas and Google Maps API
-34. GBrowse2
-7. Evoker: a visualization tool for genotype intensity data
-11. Fiji Is Just ImageJ - an Open Source platform for biological image analysis
-32. IPRStats: visualization and analysis of InterProScan Results
-9. The Microsoft Biology Foundation
-28. Concurrent Bioinformatics Software for Discovering Genome-wide Patterns and Word-based Genomic Signatures
--->
+* [[Media:21_BOSC2010.pdf | ONTO-ToolKit: enabling bio-ontology engineering via Galaxy]]
+* [[Media:25_BOSC2010.pdf | Connecting TOPSAN to Computational Analysis]]
+* [[Media:20_BOSC2010.pdf | Musite: Global Prediction of General and Kinase-Specific Phosphorylation Sites]]
+* [[Media:36_BOSC2010.pdf | Building Bioinformatics Web Application with Clickframes]]
+* [[Media:24_BOSC2010.pdf | MOLGENIS: rapid prototyping of biosoftware at the push of a button]]
+* [[Media:17_BOSC2010.pdf | Generating a data platform for microarray gene expression experiments using MOLGENIS and MAGE-TAB]]
+* [[Media:10_BOSC2010.pdf | BioHDF: Open binary file formats for NGS data - current status and future directions]]
+* [[Media:30_BOSC2010.pdf | Automated Annotation of NGS Transcriptome Data using ISGA and Ergatis]]
+* [[Media:12_BOSC2010.pdf | Cytoscape Web: An interactive, customizable web-based network browser]]
+* [[Media:38_BOSC2010.pdf | Pathway Projector: Web-Based Zoomable Pathway Browser Using KEGG Atlas and Google Maps API]]
+* [[Media:34_BOSC2010.pdf | GBrowse2]]
+* [[Media:11_BOSC2010.pdf | Fiji Is Just ImageJ - an Open Source platform for biological image analysis]]
+* [[Media:32_BOSC2010.pdf | IPRStats: visualization and analysis of InterProScan Results]]
+* [[Media:9_BOSC2010.pdf | The Microsoft Biology Foundation]]
+* [[Media:28_BOSC2010.pdf | Concurrent Bioinformatics Software for Discovering Genome-wide Patterns and Word-based Genomic Signatures]]
