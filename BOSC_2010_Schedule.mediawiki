@@ -39,7 +39,7 @@ Click on the talk title to view the abstract as a PDF file.
 * Brian D. O'Connor: [[Media:39_BOSC2010.pdf | SeqWare Query Engine: Storing and Searching Sequence Data in the Cloud]]
 * Darin London: [[Media:3_BOSC2010.pdf | Dealing with the Data Deluge: What can the Robotics Community Teach us?]]
 * Mark Wilkinson: [[Media:4_BOSC2010.pdf | From Moby to SADI - Modeling Semantic Web Services with the Semantic Automated Discovery and Integration Framework]]
-* [[Media:5_BOSC2010.pdf | Long-term availability of bioinformatics web services]]
+* Sebastian J. Schultheiss: [[Media:5_BOSC2010.pdf | Long-term availability of bioinformatics web services]]
 * [[Media:6_BOSC2010.pdf | G-language Bookmarklet: a gateway for Semantic Web, Linked Data, and Web Services]]
 * [[Media:21_BOSC2010.pdf | ONTO-ToolKit: enabling bio-ontology engineering via Galaxy]]
 * [[Media:25_BOSC2010.pdf | Connecting TOPSAN to Computational Analysis]]
