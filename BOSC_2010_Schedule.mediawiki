@@ -34,7 +34,7 @@ Click on the talk title to view the abstract as a PDF file.
 * Eric W Talevich: [[Media:8_BOSC2010.pdf | Bio.Phylo: A unified phylogenetics toolkit for Biopython]]
 * Ronald Taylor: [[Media:29_BOSC2010.pdf | An overview of the Hadoop/MapReduce/HBase framework and its current applications in bioinformatics]]
 * M. Hanna: [[Media:18_BOSC2010.pdf | The Genome Analysis Toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data]]
-* [[Media:40_BOSC2010.pdf | Hybrid Cloud and Cluster Computing Paradigms for Life Science Applications]]
+* Judy Qiu: [[Media:40_BOSC2010.pdf | Hybrid Cloud and Cluster Computing Paradigms for Life Science Applications]]
 * [[Media:26_BOSC2010.pdf | Community-driven computational biology with Debian and Taverna]]
 * [[Media:39_BOSC2010.pdf | SeqWare Query Engine: Storing and Searching Sequence Data in the Cloud]]
 * [[Media:3_BOSC2010.pdf | Dealing with the Data Deluge: What can the Robotics Community Teach us?]]
