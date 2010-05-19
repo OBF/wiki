@@ -2,4 +2,8 @@
 title: BOSC 2010 Schedule
 ---
 
-List of confirmed speakers for BOSC 2010
+* Return to '''[[BOSC_2010 | BOSC 2010]]''' main page.
+* List of confirmed speakers for BOSC 2010
+** Click on the talk title to view the abstract as a PDF file.
+<!--* Click '''[[Media:BOSC2009_program_20090601.pdf | here]]''' to download full program in PDF format (2 MB).
+* Important '''[[BOSC_2009#Information_for_Speakers | Information for Speakers]]'''-->
