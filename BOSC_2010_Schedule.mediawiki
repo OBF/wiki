@@ -25,17 +25,17 @@ This list is in no particular order, the exact schedule of talks will be forthco
 
 Click on the talk title to view the abstract as a PDF file.
 <!--
-22. Towards a Modern BioPerl: BioPerl Update 2010
-15. BioRuby 2010 updates: moving to agile bioinformatics
-14. EMBOSS: The European Molecular Biology Open Software Suite
-16. Biopython Project Update
-2. Bioconductor with Python, What else ?
-13. interPopula: Database and tool integration for population genetics using Python
-8. Bio.Phylo: A unified phylogenetics toolkit for Biopython
-29. An overview of the Hadoop/MapReduce/HBase framework and its current applications in bioinformatics
-18. The Genome Analysis Toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data
-40. Hybrid Cloud and Cluster Computing Paradigms for Life Science Applications
-26. Community-driven computational biology with Debian and Taverna
+* [[Media:22_BOSC2010.pdf | Towards a Modern BioPerl: BioPerl Update 2010]]
+* [[Media:15_BOSC2010.pdf | BioRuby 2010 updates: moving to agile bioinformatics]]
+* [[Media:14_BOSC2010.pdf | EMBOSS: The European Molecular Biology Open Software Suite]]
+* [[Media:16_BOSC2010.pdf | Biopython Project Update]]
+* [[Media:2_BOSC2010.pdf | Bioconductor with Python, What else ?]]
+* [[Media:13_BOSC2010.pdf | interPopula: Database and tool integration for population genetics using Python]]
+* [[Media:8_BOSC2010.pdf | Bio.Phylo: A unified phylogenetics toolkit for Biopython]]
+* [[Media:29_BOSC2010.pdf | An overview of the Hadoop/MapReduce/HBase framework and its current applications in bioinformatics]]
+* [[Media:18_BOSC2010.pdf | The Genome Analysis Toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data]]
+* [[Media:40_BOSC2010.pdf | Hybrid Cloud and Cluster Computing Paradigms for Life Science Applications]]
+* [[Media:26_BOSC2010.pdf | Community-driven computational biology with Debian and Taverna]]
 39. SeqWare Query Engine: Storing and Searching Sequence Data in the Cloud
 3. Dealing with the Data Deluge: What can the Robotics Community Teach us?
 4. From Moby to SADI - Modeling Semantic Web Services with the Semantic Automated Discovery and Integration Framework
