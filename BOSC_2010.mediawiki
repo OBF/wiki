@@ -48,6 +48,11 @@ Registration for BOSC is through the [http://www.iscb.org/ismb2010-registration 
 
 The deadline for discounted early registration is '''May 28, 2010'''.
 
+== Schedule ==
+
+Click '''[[BOSC_2010_Schedule | here]]''' to view the list of confirmed speakers and abstracts for BOSC 2010.  The exact schedule of talks will be forthcoming.
+
+
 == Sessions ==
 
 * '''OpenBio [[SolutionChallenge]]''' -- Bioinformatics library providers: please join us in a friendly competition to solve a shared biological problem, demonstrating the utility of your toolkit alongside other developers.
