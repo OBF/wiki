@@ -27,7 +27,7 @@ Click on the talk title to view the abstract as a PDF file.
 
 * Christopher Fields and Mark Jensen: [[Media:22_BOSC2010.pdf | Towards a Modern BioPerl: BioPerl Update 2010]]
 * Raoul J.P. Bonnal: [[Media:15_BOSC2010.pdf | BioRuby 2010 updates: moving to agile bioinformatics]]
-* [[Media:14_BOSC2010.pdf | EMBOSS: The European Molecular Biology Open Software Suite]]
+* Peter Rice: [[Media:14_BOSC2010.pdf | EMBOSS: The European Molecular Biology Open Software Suite]]
 * [[Media:16_BOSC2010.pdf | Biopython Project Update]]
 * [[Media:2_BOSC2010.pdf | Bioconductor with Python, What else ?]]
 * [[Media:13_BOSC2010.pdf | interPopula: Database and tool integration for population genetics using Python]]
