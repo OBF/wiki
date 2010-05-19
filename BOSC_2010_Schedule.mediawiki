@@ -36,11 +36,11 @@ Click on the talk title to view the abstract as a PDF file.
 * [[Media:18_BOSC2010.pdf | The Genome Analysis Toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data]]
 * [[Media:40_BOSC2010.pdf | Hybrid Cloud and Cluster Computing Paradigms for Life Science Applications]]
 * [[Media:26_BOSC2010.pdf | Community-driven computational biology with Debian and Taverna]]
-39. SeqWare Query Engine: Storing and Searching Sequence Data in the Cloud
-3. Dealing with the Data Deluge: What can the Robotics Community Teach us?
-4. From Moby to SADI - Modeling Semantic Web Services with the Semantic Automated Discovery and Integration Framework
-5. Long-term availability of bioinformatics web services
-6. G-language Bookmarklet: a gateway for Semantic Web, Linked Data, and Web Services
+* [[Media:39_BOSC2010.pdf | SeqWare Query Engine: Storing and Searching Sequence Data in the Cloud]]
+* [[Media:3_BOSC2010.pdf | Dealing with the Data Deluge: What can the Robotics Community Teach us?]]
+* [[Media:4_BOSC2010.pdf | From Moby to SADI - Modeling Semantic Web Services with the Semantic Automated Discovery and Integration Framework]]
+* [[Media:5_BOSC2010.pdf | Long-term availability of bioinformatics web services]]
+* [[Media:6_BOSC2010.pdf | G-language Bookmarklet: a gateway for Semantic Web, Linked Data, and Web Services]]
 21. ONTO-ToolKit: enabling bio-ontology engineering via Galaxy
 25. Connecting TOPSAN to Computational Analysis
 20. Musite: Global Prediction of General and Kinase-Specific Phosphorylation Sites
