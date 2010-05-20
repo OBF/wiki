@@ -41,7 +41,7 @@ Click on the talk title to view the abstract as a PDF file.
 * Mark Wilkinson: [[Media:4_BOSC2010.pdf | From Moby to SADI - Modeling Semantic Web Services with the Semantic Automated Discovery and Integration Framework]]
 * Sebastian J. Schultheiss: [[Media:5_BOSC2010.pdf | Long-term availability of bioinformatics web services]]
 * Kazuharu Arakawa: [[Media:6_BOSC2010.pdf | G-language Bookmarklet: a gateway for Semantic Web, Linked Data, and Web Services]]
-* [[Media:21_BOSC2010.pdf | ONTO-ToolKit: enabling bio-ontology engineering via Galaxy]]
+* Aravind Venkatesan: [[Media:21_BOSC2010.pdf | ONTO-ToolKit: enabling bio-ontology engineering via Galaxy]]
 * [[Media:25_BOSC2010.pdf | Connecting TOPSAN to Computational Analysis]]
 * [[Media:20_BOSC2010.pdf | Musite: Global Prediction of General and Kinase-Specific Phosphorylation Sites]]
 * [[Media:36_BOSC2010.pdf | Building Bioinformatics Web Application with Clickframes]]
