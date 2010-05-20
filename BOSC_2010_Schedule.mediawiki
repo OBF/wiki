@@ -47,7 +47,7 @@ Click on the talk title to view the abstract as a PDF file.
 * William Crawford: [[Media:36_BOSC2010.pdf | Building Bioinformatics Web Application with Clickframes]]
 * Morris A. Swertz: [[Media:24_BOSC2010.pdf | MOLGENIS: rapid prototyping of biosoftware at the push of a button]]
 * Alexandros Kanterakis: [[Media:17_BOSC2010.pdf | Generating a data platform for microarray gene expression experiments using MOLGENIS and MAGE-TAB]]
-* [[Media:10_BOSC2010.pdf | BioHDF: Open binary file formats for NGS data - current status and future directions]]
+* Dana Robinson: [[Media:10_BOSC2010.pdf | BioHDF: Open binary file formats for NGS data - current status and future directions]]
 * [[Media:30_BOSC2010.pdf | Automated Annotation of NGS Transcriptome Data using ISGA and Ergatis]]
 * [[Media:12_BOSC2010.pdf | Cytoscape Web: An interactive, customizable web-based network browser]]
 * [[Media:38_BOSC2010.pdf | Pathway Projector: Web-Based Zoomable Pathway Browser Using KEGG Atlas and Google Maps API]]
