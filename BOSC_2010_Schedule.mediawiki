@@ -42,7 +42,7 @@ Click on the talk title to view the abstract as a PDF file.
 * Sebastian J. Schultheiss: [[Media:5_BOSC2010.pdf | Long-term availability of bioinformatics web services]]
 * Kazuharu Arakawa: [[Media:6_BOSC2010.pdf | G-language Bookmarklet: a gateway for Semantic Web, Linked Data, and Web Services]]
 * Aravind Venkatesan: [[Media:21_BOSC2010.pdf | ONTO-ToolKit: enabling bio-ontology engineering via Galaxy]]
-* [[Media:25_BOSC2010.pdf | Connecting TOPSAN to Computational Analysis]]
+* Christian M Zmasek: [[Media:25_BOSC2010.pdf | Connecting TOPSAN to Computational Analysis]]
 * [[Media:20_BOSC2010.pdf | Musite: Global Prediction of General and Kinase-Specific Phosphorylation Sites]]
 * [[Media:36_BOSC2010.pdf | Building Bioinformatics Web Application with Clickframes]]
 * [[Media:24_BOSC2010.pdf | MOLGENIS: rapid prototyping of biosoftware at the push of a button]]
