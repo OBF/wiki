@@ -53,6 +53,6 @@ Click on the talk title to view the abstract as a PDF file.
 * Nobuaki Kono: [[Media:38_BOSC2010.pdf | Pathway Projector: Web-Based Zoomable Pathway Browser Using KEGG Atlas and Google Maps API]]
 * Lincoln Stein: [[Media:34_BOSC2010.pdf | GBrowse2]]
 * Pavel Tomancak: [[Media:11_BOSC2010.pdf | Fiji Is Just ImageJ - an Open Source platform for biological image analysis]]
-* [[Media:32_BOSC2010.pdf | IPRStats: visualization and analysis of InterProScan Results]]
+* Iddo Friedberg: [[Media:32_BOSC2010.pdf | IPRStats: visualization and analysis of InterProScan Results]]
 * [[Media:9_BOSC2010.pdf | The Microsoft Biology Foundation]]
 * [[Media:28_BOSC2010.pdf | Concurrent Bioinformatics Software for Discovering Genome-wide Patterns and Word-based Genomic Signatures]]
