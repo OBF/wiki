@@ -51,7 +51,7 @@ Click on the talk title to view the abstract as a PDF file.
 * Chris Hemmerich: [[Media:30_BOSC2010.pdf | Automated Annotation of NGS Transcriptome Data using ISGA and Ergatis]]
 * Gary D. Bader: [[Media:12_BOSC2010.pdf | Cytoscape Web: An interactive, customizable web-based network browser]]
 * Nobuaki Kono: [[Media:38_BOSC2010.pdf | Pathway Projector: Web-Based Zoomable Pathway Browser Using KEGG Atlas and Google Maps API]]
-* [[Media:34_BOSC2010.pdf | GBrowse2]]
+* Lincoln Stein: [[Media:34_BOSC2010.pdf | GBrowse2]]
 * [[Media:11_BOSC2010.pdf | Fiji Is Just ImageJ - an Open Source platform for biological image analysis]]
 * [[Media:32_BOSC2010.pdf | IPRStats: visualization and analysis of InterProScan Results]]
 * [[Media:9_BOSC2010.pdf | The Microsoft Biology Foundation]]
