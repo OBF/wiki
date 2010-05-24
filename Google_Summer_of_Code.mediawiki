@@ -10,7 +10,7 @@ title: Google Summer of Code
 
 === BioJava: Improvements including Implementation of Multiple Sequence Alignment Algorithms ===
 
-student Mark Chapman, primary mentor Andreas Prlic
+student [http://biojava.org/wiki/Mark_Chapman Mark Chapman], primary mentor [http://biojava.org/wiki/Andreas_Prlic Andreas Prlic], [http://biojava.org/wiki/GSoC:MSA overview and updates]
 
 === BioJava: Packages for Identification, Classification, and Visualization of Posttranslational Modification of Proteins ===
 
