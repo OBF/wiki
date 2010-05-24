@@ -56,4 +56,4 @@ Click on the talk title to view the abstract as a PDF file.
 * Iddo Friedberg: [[Media:32_BOSC2010.pdf | IPRStats: visualization and analysis of InterProScan Results]]
 * Simon Mercer: [[Media:9_BOSC2010.pdf | The Microsoft Biology Foundation]]
 * Jens Lichtenberg: [[Media:28_BOSC2010.pdf | Concurrent Bioinformatics Software for Discovering Genome-wide Patterns and Word-based Genomic Signatures]]
-* Nyasha Chambwe [[Media:Nyasha Chambwe | The Goby framework: towards efficient next-generation sequencing data analysis]]
+* Nyasha Chambwe [[Media:19_BOSC2010.pdf | The Goby framework: towards efficient next-generation sequencing data analysis]]
