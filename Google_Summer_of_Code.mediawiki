@@ -14,7 +14,7 @@ student [http://biojava.org/wiki/Mark_Chapman Mark Chapman], primary mentor [htt
 
 === BioJava: Packages for Identification, Classification, and Visualization of Posttranslational Modification of Proteins ===
 
-student Jianjiong Gao, primary mentor Peter Rose
+student [http://www.biojava.org/wiki/Jianjiong_Gao Jianjiong Gao], primary mentor [http://www.linkedin.com/in/peterrose Peter Rose], [http://www.biojava.org/wiki/GSoC:PTM more information on this project]
 
 === BioPerl: BioPerl Alignment Subsystem Refactoring ===
 
