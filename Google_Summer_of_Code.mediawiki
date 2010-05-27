@@ -26,7 +26,7 @@ student Joao Pedro Garcia Lopes Maia Rodrigues, primary mentor Eric Talevich
 
 === BioRuby: Ruby 1.9.2 support of BioRuby ===
 
-student Kazuhiro Hayashi, primary mentor Naohisa Goto
+student Kazuhiro Hayashi, primary mentor Naohisa Goto, [http://gsoc2010kh.blogspot.com/ overview and updates]
 
 === BioRuby: Implementing Speciation & Duplication Inference Algorithm for Binary and Non-binary Species Tree ===
 
