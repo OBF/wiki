@@ -53,6 +53,7 @@ Space and internet for the Codefest are kindly provided by the [http://www.hsph.
 * [http://www.linkedin.com/in/nakaomitsuteru Mitsuteru NAKAO]
 * [http://www.bioperl.org/wiki/User:Dave_Messina Dave Messina]
 * [http://www.linkedin.com/in/cmzmasek Christian Zmasek] (TBC)
+* Kimberly Begley
 
 Feel free to add yourself if you are interested. We are happy to have you.
 
