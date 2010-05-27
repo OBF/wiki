@@ -50,8 +50,8 @@ The deadline for discounted early registration is '''May 28, 2010'''.
 
 == Schedule ==
 
-Click '''[[BOSC_2010_Schedule | here]]''' to view the list of confirmed speakers and abstracts for BOSC 2010.  The exact schedule of talks will be forthcoming.
-
+* BOSC will begin each day at 9:00AM and finish at approximately 6:00PM.
+* Click '''[[BOSC_2010_Schedule | here]]''' to view the list of confirmed speakers and abstracts for BOSC 2010.  The exact schedule of talks will be forthcoming.
 
 == Sessions ==
 
