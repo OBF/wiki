@@ -18,7 +18,7 @@ student [http://www.biojava.org/wiki/Jianjiong_Gao Jianjiong Gao], primary mento
 
 === BioPerl: BioPerl Alignment Subsystem Refactoring ===
 
-student Jun Yin, primary mentor Chris Fields
+student Jun Yin, primary mentor [http://bioperl.org/wiki/User:Cjfields Chris Fields], [http://gsoc2010-junyin.blogspot.com/ more information on this project]
 
 === BioPython: Extending Bio.PDB: broadening the usefulness of BioPython’s Structural Biology module ===
 
