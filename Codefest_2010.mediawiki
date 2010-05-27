@@ -59,4 +59,4 @@ Feel free to add yourself if you are interested. We are happy to have you.
 
 == Discussion ==
 
-We welcome any thoughts from interested participants. Please direct discussion to the BOSC mailing list: [mailto:bosc@open-bio.org bosc@open-bio.org].
+We welcome any thoughts from interested participants. Please direct discussion to the BOSC mailing list: [mailto:open-bio-l@lists.open-bio.org open-bio-l@lists.open-bio.org].
