@@ -22,7 +22,7 @@ student Jun Yin, primary mentor [http://bioperl.org/wiki/User:Cjfields Chris Fie
 
 === BioPython: Extending Bio.PDB: broadening the usefulness of BioPython’s Structural Biology module ===
 
-student Joao Pedro Garcia Lopes Maia Rodrigues, primary mentor Eric Talevich
+student [http://www.biopython.org/wiki/User:Joaor João Rodrigues], primary mentor [http://eric.talevich.com/ Eric Talevich], [http://www.biopython.org/wiki/GSOC2010_Joao Weekly Schedule & Progress Overview], [http://github.com/JoaoRodrigues/biopython/tree/GSOC2010 Project's Code on GitHub]
 
 === BioRuby: Ruby 1.9.2 support of BioRuby ===
 
