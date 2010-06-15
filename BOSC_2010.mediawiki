@@ -51,7 +51,9 @@ The deadline for discounted early registration is '''May 28, 2010'''.
 == Schedule ==
 
 * The '''[[BOSC_2010_Schedule | BOSC 2010 Schedule]]''' has been posted.
-<!--* Alternately, click '''[[Media:BOSC2009_program_20090601.pdf | here]]''' to download the full program with abstracts in PDF format (2 MB).-->
+* Alternately, click '''[[Media:BOSC2010_program_20100615_frontmatter.pdf | here]]''' to download the BOSC 2010 program and schedule as a PDF file (5 pages, 300k)
+* Click '''[[Media:BOSC2010_program_20100615_compiledabstracts.pdf | here]]''' to download all abstracts compiled into one PDF file (36 pages, 2 MB).
+* Individual abstracts can be accessed by clicking on the links on the schedule.
 
 == Sessions ==
 
