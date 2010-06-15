@@ -9,7 +9,7 @@ title: BOSC 2010 Schedule
 
 == Schedule ==
 
-Click on the talk title to view the abstract as a PDF file.
+Click on the talk title to view the individual abstract as a PDF file.
 
 {| border="1" cellspacing="0" cellpadding="10" align="left"
 ! Day 1
