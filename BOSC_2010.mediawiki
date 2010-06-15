@@ -55,6 +55,22 @@ The deadline for discounted early registration is '''May 28, 2010'''.
 * Click '''[[Media:BOSC2010_program_20100615_compiledabstracts.pdf | here]]''' to download all abstracts compiled into one PDF file (36 pages, 2 MB).
 * Individual abstracts can be accessed by clicking on the links on the [[BOSC_2010_Schedule#Schedule | schedule]].
 
+== Information for Speakers ==
+
+=== Audio/Visual ===
+
+* Please bring your slides on a flash drive and be prepared to load your file onto the podium computer at the break immediately preceeding your session.  We want to minimize switching computers between speakers to save time. 
+* As of this time, we do not know whether the podium computer will be a Mac or Windows machine.
+* For maximum flexibility, please save your file as a .pdf or .ppt (not .pptx); make sure that your presentation will work on both a Mac and Windows platform.
+* Live demos are possible, but we advise that you also bring screen shots.  While we have been promised an internet connection, be prepared for connection problems.
+
+=== Post-conference Slide Availability ===
+
+* In the spirit of openness, we would like to make the presentation slides publicly available after the conference.
+* The organizers will be requesting an electronic copy of the slides for posting.
+* After your presentation, please e-mail your slides to [mailto:bosc@open-bio.org bosc@open-bio.org] or make other arrangements for transfer of the file.
+* For example, see slides from BOSC 2008 on [http://www.slideshare.net/tag/bosc_2008 SlideShare].
+
 == Sessions ==
 
 * '''OpenBio [[SolutionChallenge]]''' -- Bioinformatics library providers: please join us in a friendly competition to solve a shared biological problem, demonstrating the utility of your toolkit alongside other developers.
