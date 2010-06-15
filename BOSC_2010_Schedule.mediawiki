@@ -122,7 +122,7 @@ Click on the talk title to view the abstract as a PDF file.
 
 [[BOSC_2010/Birds-of-a-Feather | Birds of a Feather]]
 |- 
-| 7:00
+| 6:30
 | &nbsp;
 | <nowiki>O|B|F</nowiki> Board Meeting and No-host Dinner; Location TBA
 |-
