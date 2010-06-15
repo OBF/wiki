@@ -191,7 +191,7 @@ Click on the talk title to view the abstract as a PDF file.
 | [OS Software/Code Generation] [[Media:17_BOSC2010.pdf | Generating a data platform for microarray gene expression experiments using MOLGENIS and MAGE-TAB]]
 |-
 | 3:10-3:25
-| Sebastian J. Schultheiss:  
+| Sebastian J. Schultheiss
 | [Web Services] [[Media:5_BOSC2010.pdf | Long-term availability of bioinformatics web services]]
 |- 
 | '''3:25-4:00'''
