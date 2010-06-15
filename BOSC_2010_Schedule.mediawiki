@@ -154,23 +154,23 @@ Click on the talk title to view the abstract as a PDF file.
 | Peter Rice
 | [Bio* Update] [[Media:14_BOSC2010.pdf | EMBOSS: The European Molecular Biology Open Software Suite]]
 |- 
-| 11:30-11:45
+| 11:35-11:50
 | Brad Chapman
 | [Bio* Update] [[Media:16_BOSC2010.pdf | Biopython Project Update]]
 |-
-| 11:45-12:00PM
+| 11:50-12:05PM
 | Tiago Antao
 | [Bio* Update] [[Media:13_BOSC2010.pdf | interPopula: Database and tool integration for population genetics using Python]]
 |-
-| 12:00-12:15
+| 12:05-12:20
 | Laurent Gautier
 | [Bio* Update] [[Media:2_BOSC2010.pdf | Bioconductor with Python, What else ?]]
 |-
-| 12:15-12:25
+| 12:20-12:30
 | Eric W Talevich
 | [Bio* Update] [[Media:8_BOSC2010.pdf | Bio.Phylo: A unified phylogenetics toolkit for Biopython]]
 |-
-| '''12:25-2:00'''
+| '''12:30-2:00'''
 |
 | '''Lunch'''
 |-
