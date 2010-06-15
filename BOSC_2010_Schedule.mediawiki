@@ -6,19 +6,6 @@ title: BOSC 2010 Schedule
 <!--* Click '''[[Media:BOSC2009_program_20090601.pdf | here]]''' to download full program in PDF format (2 MB).
 * Important '''[[BOSC_2009#Information_for_Speakers | Information for Speakers]]'''-->
 
-== Keynote Speakers ==
-
-=== Guy Coates ===
-
-[http://uk.linkedin.com/pub/guy-coates/3/b5b/9b0 Guy Coates], Group leader of the Informatics Systems Group at the [http://www.sanger.ac.uk/ Wellcome Trust Sanger Institute], will be one of our keynote speakers at BOSC 2010.  Guy Coates is an expert in large Linux/Unix systems architecture, management and application optimization, next-gen DNA sequencing pipelines, very large database systems (>50TB), and high performance compute clusters (1500+ CPUs).  He will lead off the conference, with a talk entitled:
-
-'''''Clouds: all fluff and no substance?'''''  Cloud architectures have made plenty of impact in the press over the
-past 18 months, but have they made any impact in solving real bioinformatics challenges? This talk will detail the Sanger Institute's experiences with the cloud, both good and bad, and ask what needs to be done to prepare the cloud for the era of commodity sequencing and $500 genomes.
-
-=== Ross Gardler ===
-
-Our other keynote speaker will be [http://www.linkedin.com/in/rossgardler Ross Gardler], Vice President for Community Development at the Apache Software Foundation and Manager for OSS Watch (University of Oxford), which helps institutions and projects in the UK that are using or developing free and open source software.  He has also performed Computer Science and Management research and teaching in both the UK and West Indies.  In his talk, he will share with the O|B|F community the insights he has gained in community building for Apache and other open source projects.
-
 == Schedule ==
 
 Click on the talk title to view the abstract as a PDF file.
