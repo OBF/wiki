@@ -19,44 +19,210 @@ past 18 months, but have they made any impact in solving real bioinformatics cha
 
 Our other keynote speaker will be [http://www.linkedin.com/in/rossgardler Ross Gardler], Vice President for Community Development at the Apache Software Foundation and Manager for OSS Watch (University of Oxford), which helps institutions and projects in the UK that are using or developing free and open source software.  He has also performed Computer Science and Management research and teaching in both the UK and West Indies.  In his talk, he will share with the O|B|F community the insights he has gained in community building for Apache and other open source projects.
 
-== List of confirmed speakers from submitted abstracts ==
-
-This list is in no particular order, the exact schedule of talks will be forthcoming.
+== Schedule ==
 
 Click on the talk title to view the abstract as a PDF file.
 
-* Christopher Fields and Mark Jensen: [[Media:22_BOSC2010.pdf | Towards a Modern BioPerl: BioPerl Update 2010]]
-* Raoul J.P. Bonnal: [[Media:15_BOSC2010.pdf | BioRuby 2010 updates: moving to agile bioinformatics]]
-* Peter Rice: [[Media:14_BOSC2010.pdf | EMBOSS: The European Molecular Biology Open Software Suite]]
-* Brad Chapman: [[Media:16_BOSC2010.pdf | Biopython Project Update]]
-* Laurent Gautier: [[Media:2_BOSC2010.pdf | Bioconductor with Python, What else ?]]
-* Tiago Antao: [[Media:13_BOSC2010.pdf | interPopula: Database and tool integration for population genetics using Python]]
-* Eric W Talevich: [[Media:8_BOSC2010.pdf | Bio.Phylo: A unified phylogenetics toolkit for Biopython]]
-* Ronald Taylor: [[Media:29_BOSC2010.pdf | An overview of the Hadoop/MapReduce/HBase framework and its current applications in bioinformatics]]
-* M. Hanna: [[Media:18_BOSC2010.pdf | The Genome Analysis Toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data]]
-* Judy Qiu: [[Media:40_BOSC2010.pdf | Hybrid Cloud and Cluster Computing Paradigms for Life Science Applications]]
-* S. Möller: [[Media:26_BOSC2010.pdf | Community-driven computational biology with Debian and Taverna]]
-* Brian D. O'Connor: [[Media:39_BOSC2010.pdf | SeqWare Query Engine: Storing and Searching Sequence Data in the Cloud]]
-* Darin London: [[Media:3_BOSC2010.pdf | Dealing with the Data Deluge: What can the Robotics Community Teach us?]]
-* Mark Wilkinson: [[Media:4_BOSC2010.pdf | From Moby to SADI - Modeling Semantic Web Services with the Semantic Automated Discovery and Integration Framework]]
-* Sebastian J. Schultheiss: [[Media:5_BOSC2010.pdf | Long-term availability of bioinformatics web services]]
-* Kazuharu Arakawa: [[Media:6_BOSC2010.pdf | G-language Bookmarklet: a gateway for Semantic Web, Linked Data, and Web Services]]
-* Aravind Venkatesan: [[Media:21_BOSC2010.pdf | ONTO-ToolKit: enabling bio-ontology engineering via Galaxy]]
-* Christian M Zmasek: [[Media:25_BOSC2010.pdf | Connecting TOPSAN to Computational Analysis]]
-* Jianjiong Gao: [[Media:20_BOSC2010.pdf | Musite: Global Prediction of General and Kinase-Specific Phosphorylation Sites]]
-* William Crawford: [[Media:36_BOSC2010.pdf | Building Bioinformatics Web Application with Clickframes]]
-* Morris A. Swertz: [[Media:24_BOSC2010.pdf | MOLGENIS: rapid prototyping of biosoftware at the push of a button]]
-* Alexandros Kanterakis: [[Media:17_BOSC2010.pdf | Generating a data platform for microarray gene expression experiments using MOLGENIS and MAGE-TAB]]
-* Dana Robinson: [[Media:10_BOSC2010.pdf | BioHDF: Open binary file formats for NGS data - current status and future directions]]
-* Chris Hemmerich: [[Media:30_BOSC2010.pdf | Automated Annotation of NGS Transcriptome Data using ISGA and Ergatis]]
-* Gary D. Bader: [[Media:12_BOSC2010.pdf | Cytoscape Web: An interactive, customizable web-based network browser]]
-* Nobuaki Kono: [[Media:38_BOSC2010.pdf | Pathway Projector: Web-Based Zoomable Pathway Browser Using KEGG Atlas and Google Maps API]]
-* Lincoln Stein: [[Media:34_BOSC2010.pdf | GBrowse2]]
-* Pavel Tomancak: [[Media:11_BOSC2010.pdf | Fiji Is Just ImageJ - an Open Source platform for biological image analysis]]
-* Iddo Friedberg: [[Media:32_BOSC2010.pdf | IPRStats: visualization and analysis of InterProScan Results]]
-* Simon Mercer: [[Media:9_BOSC2010.pdf | The Microsoft Biology Foundation]]
-* Jens Lichtenberg: [[Media:28_BOSC2010.pdf | Concurrent Bioinformatics Software for Discovering Genome-wide Patterns and Word-based Genomic Signatures]]
-* Nyasha Chambwe: [[Media:19_BOSC2010.pdf | The Goby framework: towards efficient next-generation sequencing data analysis]]
-* James A. Morris: [[Media:7_BOSC2010.pdf | Evoker: a visualization tool for genotype intensity data]]
-* Ben Langmead: [[Media:42_BOSC2010.pdf | Cloud-scale genomics: examples and lessons]]
-* Enis Afgan: [[Media:43_BOSC2010.pdf | Deploying Galaxy on the Cloud]]
+{| border="1" cellspacing="0" cellpadding="10" align="left"
+! Day 1
+! Friday
+! July 9
+|- 
+| 9:00-9:15AM
+| Kam Dahlquist
+| [Welcome] Introduction to the O|B|F and Welcome to BOSC 2010
+|-
+| 9:15-10:15
+| Guy Coates
+| [Keynote] Clouds: all fluff and no substance?
+|-
+| '''10:15-10:45'''
+|
+| '''Coffee Break'''
+|-
+| 10:45-11:05
+| Ronald Taylor
+| [Cloud Computing/HT 'omics Data] [[Media:29_BOSC2010.pdf | An overview of the Hadoop/MapReduce/HBase framework and its current applications in bioinformatics]]
+|-
+| 11:05-11:25
+| M. Hanna
+| [Cloud Computing/HT 'omics Data] [[Media:18_BOSC2010.pdf | The Genome Analysis Toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data]]
+|-
+| 11:25-11:45
+| Brian D. O'Connor
+| [Cloud Computing/HT 'omics Data] [[Media:39_BOSC2010.pdf | SeqWare Query Engine: Storing and Searching Sequence Data in the Cloud]]
+|-
+| 11:45-12:00PM
+| Judy Qiu
+| [Cloud Computing/HT 'omics Data] [[Media:40_BOSC2010.pdf | Hybrid Cloud and Cluster Computing Paradigms for Life Science Applications]]
+|-
+| 12:00-12:15
+| Ben Langmead
+| [Cloud Computing/HT 'omics Data] [[Media:42_BOSC2010.pdf | Cloud-scale genomics: examples and lessons]]
+|-
+| 12:15-12:30
+| Enis Afgan
+| [Cloud Computing/HT 'omics Data] [[Media:43_BOSC2010.pdf | Deploying Galaxy on the Cloud]]
+|- 
+| '''12:30-2:00'''
+|
+| '''Lunch'''
+|-
+| 2:00-2:20
+| Steffen Möller
+| [Cloud Computing] [[Media:26_BOSC2010.pdf | Community-driven computational biology with Debian and Taverna]]
+|-
+| 2:20-2:40
+| Darin London
+| [Cloud Computing/HT 'omics Data] [[Media:3_BOSC2010.pdf | Dealing with the Data Deluge: What can the Robotics Community Teach us?]]
+|-
+| 2:40-3:00
+| Nyasha Chambwe 
+| [HT 'omics Data] [[Media:19_BOSC2010.pdf | The Goby framework: towards efficient next-generation sequencing data analysis]]
+|-
+| 3:00-3:15
+| Dana Robinson
+| [HT 'omics Data] [[Media:10_BOSC2010.pdf | BioHDF: Open binary file formats for NGS data - current status and future directions]]
+|-
+| 3:15-3:30
+| Jens Lichtenberg
+| [HT 'omics Data] [[Media:28_BOSC2010.pdf | Concurrent Bioinformatics Software for Discovering Genome-wide Patterns and Word-based Genomic Signatures]]
+|- 
+| 3:30-3:38
+| Chris Hemmerich
+| [HT 'omics Data] [[Media:30_BOSC2010.pdf | Automated Annotation of NGS Transcriptome Data using ISGA and Ergatis]]
+|-
+| '''3:38-4:00'''
+|
+| '''Coffee Break'''
+|-
+| 4:00-4:20
+| Mark Wilkinson
+| [Semantic Web] [[Media:4_BOSC2010.pdf | From Moby to SADI - Modeling Semantic Web Services with the Semantic Automated Discovery and Integration Framework]]
+|- 
+| 4:20-4:35
+| Aravind Venkatesan
+| [Semantic Web][[Media:21_BOSC2010.pdf | ONTO-ToolKit: enabling bio-ontology engineering via Galaxy]]
+|-
+| 4:35-4:45
+| Kazuharu Arakawa
+| [Semantic Web] [[Media:6_BOSC2010.pdf | G-language Bookmarklet: a gateway for Semantic Web, Linked Data, and Web Services]]
+|-
+| 4:45-4:55
+| Christian M Zmasek
+| [Semantic Web] [[Media:25_BOSC2010.pdf | Connecting TOPSAN to Computational Analysis]]
+|-
+| 4:55-5:10
+| Jianjiong Gao
+| [OS Software] [[Media:20_BOSC2010.pdf | Musite: Global Prediction of General and Kinase-Specific Phosphorylation Sites]]
+|- 
+| 5:10-6:00
+| &nbsp;
+| [Lightning Talks] 
+
+[[BOSC_2010/Birds-of-a-Feather | Birds of a Feather]]
+|- 
+| 6:30
+| &nbsp;
+| <nowiki>O|B|F</nowiki> Board Meeting and No-host Dinner; Location TBA
+|-
+| '''Day 2'''
+| '''Saturday'''
+| '''July 10'''
+|- 
+| 9:00-9:15AM
+| Kam Dahlquist
+| [Announcements]
+|-
+| 9:15-10:15
+| Ross Gardler 
+| [Keynote] Community Development at the Apache Software Foundation
+|-
+| '''10:15-10:45'''
+|
+| '''Coffee Break'''
+|-
+| 10:45-11:05
+| Christopher Fields
+| [Bio* Update] [[Media:22_BOSC2010.pdf | Towards a Modern BioPerl: BioPerl Update 2010]]
+|-
+| 11:05-11:20
+| Raoul J.P. Bonnal
+| [Bio* Update] [[Media:15_BOSC2010.pdf | BioRuby 2010 updates: moving to agile bioinformatics]]
+|-
+| 11:20-11:35
+| Peter Rice
+| [Bio* Update] [[Media:14_BOSC2010.pdf | EMBOSS: The European Molecular Biology Open Software Suite]]
+|- 
+| 11:30-11:45
+| Brad Chapman
+| [Bio* Update] [[Media:16_BOSC2010.pdf | Biopython Project Update]]
+|-
+| 11:45-12:00PM
+| Tiago Antao
+| [Bio* Update] [[Media:13_BOSC2010.pdf | interPopula: Database and tool integration for population genetics using Python]]
+|-
+| 12:00-12:15
+| Laurent Gautier
+| [Bio* Update] [[Media:2_BOSC2010.pdf | Bioconductor with Python, What else ?]]
+|-
+| 12:15-12:25
+| Eric W Talevich
+| [Bio* Update] [[Media:8_BOSC2010.pdf | Bio.Phylo: A unified phylogenetics toolkit for Biopython]]
+|-
+| '''12:25-2:00'''
+|
+| '''Lunch'''
+|-
+| 2:00-2:20
+| Simon Mercer
+| [OS Software Framework] [[Media:9_BOSC2010.pdf | The Microsoft Biology Foundation]]
+|- 
+| 2:20-2:40
+| William Crawford
+| [OS Software/Code Generation] [[Media:36_BOSC2010.pdf | Building Bioinformatics Web Application with Clickframes]]
+|- 
+| 2:40-3:00
+| Morris A. Swertz
+| [OS Software/Code Generation] [[Media:24_BOSC2010.pdf | MOLGENIS: rapid prototyping of biosoftware at the push of a button]]
+|-
+| 3:00-3:10
+| Alexandros Kanterakis
+| [OS Software/Code Generation] [[Media:17_BOSC2010.pdf | Generating a data platform for microarray gene expression experiments using MOLGENIS and MAGE-TAB]]
+|-
+| 3:10-3:25
+| Sebastian J. Schultheiss:  
+| [Web Services] [[Media:5_BOSC2010.pdf | Long-term availability of bioinformatics web services]]
+|- 
+| '''3:25-4:00'''
+|
+| '''Coffee Break'''
+|-
+| 4:00-4:15
+| Lincoln Stein
+| [Visualization] [[Media:34_BOSC2010.pdf | GBrowse2]]
+|-
+| 4:15-4:35
+| Gary D. Bader
+| [Visualization] [[Media:12_BOSC2010.pdf | Cytoscape Web: An interactive, customizable web-based network browser]]
+|-
+| 4:35-4:50
+| Nobuaki Kono
+| [Visualization] [[Media:38_BOSC2010.pdf | Pathway Projector: Web-Based Zoomable Pathway Browser Using KEGG Atlas and Google Maps API]]
+|-
+| 4:50-5:05
+| James A. Morris 
+| [Visualization] [[Media:7_BOSC2010.pdf | Evoker: a visualization tool for genotype intensity data]]
+|-
+| 5:05-5:20
+| Pavel Tomancak 
+| [Visualization] [[Media:11_BOSC2010.pdf | Fiji Is Just ImageJ - an Open Source platform for biological image analysis]] 
+|-
+| 5:20-5:30
+| Iddo Friedberg
+| [Visualization] [[Media:32_BOSC2010.pdf | IPRStats: visualization and analysis of InterProScan Results]]
+|-
+| 5:30-6:00
+|
+|[[BOSC_2010/Birds-of-a-Feather | Birds of a Feather]]
+|}
