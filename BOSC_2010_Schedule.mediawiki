@@ -3,8 +3,8 @@ title: BOSC 2010 Schedule
 ---
 
 * Return to '''[[BOSC_2010 | BOSC 2010]]''' main page.
-<!--* Click '''[[Media:BOSC2009_program_20090601.pdf | here]]''' to download full program in PDF format (2 MB).
-* Important '''[[BOSC_2009#Information_for_Speakers | Information for Speakers]]'''-->
+* Click '''[[Media:BOSC2010_program_20100615_compiledabstracts.pdf | here]]''' to download all abstracts compiled into one PDF file (2 MB).
+<!--* Important '''[[BOSC_2009#Information_for_Speakers | Information for Speakers]]'''-->
 
 == Schedule ==
 
