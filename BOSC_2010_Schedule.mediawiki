@@ -30,7 +30,7 @@ Click on the talk title to view the abstract as a PDF file.
 |- 
 | 9:00-9:15AM
 | Kam Dahlquist
-| [Welcome] Introduction to the O|B|F and Welcome to BOSC 2010
+| [Welcome] Introduction to the <nowiki>O|B|F</nowiki> and Welcome to BOSC 2010
 |-
 | 9:15-10:15
 | Guy Coates
