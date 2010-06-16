@@ -78,6 +78,7 @@ Work for the current [http://bcbio.wordpress.com/2010/05/08/automated-build-envi
 * [http://purl.org/yayamamo/home Yasunori Yamamoto]
 * [http://it.linkedin.com/in/raoulbonnal Raoul J.P. Bonnal]
 * [http://www.linkedin.com/in/atsukoyamaguchi Atsuko Yamaguchi]
+* Christopher Bottoms
 
 Feel free to add yourself if you are interested. We are happy to have you.
 
