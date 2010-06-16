@@ -5,7 +5,7 @@ title: BOSC 2010 Schedule
 * Return to '''[[BOSC_2010 | BOSC 2010]]''' main page.
 * Click '''[[Media:BOSC2010_program_20100615_frontmatter.pdf | here]]''' to download the BOSC 2010 program and schedule as a PDF file (5 pages, 300k)
 * Click '''[[Media:BOSC2010_program_20100615_compiledabstracts.pdf | here]]''' to download all abstracts compiled into one PDF file (2 MB).
-<!--* Important '''[[BOSC_2009#Information_for_Speakers | Information for Speakers]]'''-->
+* Important '''[[BOSC_2010#Information_for_Speakers | Information for Speakers]]'''
 
 == Schedule ==
 
