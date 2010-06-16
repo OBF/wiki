@@ -45,9 +45,10 @@ Work for the current [http://bcbio.wordpress.com/2010/05/08/automated-build-envi
 * Provide packaging for missing programs. See comments at the end of the [http://github.com/chapmanb/bcbb/blob/master/ec2/biolinux/config/packages.yaml Package config] for some targets.
 * Documentation: especially targeted at new users.
 * Produce an automated manifest for an AMI, listing versions of all installed packages and libraries.
+* Provide standard data like indexed next-gen genomes, blast databases, and so on via EBS snapshots.
 * Automation to build AMI and roll out to Amazon on a bi-weekly/monthly basis based on latest code. 
-* Website with documentation, AMI history, other goals.
-* Testing and work on [http://ecc.eucalyptus.com/ Eucalyptus cloud]
+* Website with documentation, AMI history.
+* Testing on [http://ecc.eucalyptus.com/ Eucalyptus clouds].
 
 == Attendees ==
 
