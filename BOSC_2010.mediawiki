@@ -71,6 +71,23 @@ The deadline for discounted early registration is '''May 28, 2010'''.
 * After your presentation, please e-mail your slides to [mailto:bosc@open-bio.org bosc@open-bio.org] or make other arrangements for transfer of the file.
 * For example, see slides from [http://www.slideshare.net/bosc/slideshows BOSC 2009] or [http://www.slideshare.net/tag/bosc_2008 BOSC 2008] on SlideShare.
 
+== Call for Lightning Talks/Birds of a Feather Sessions ==
+
+=== Lightning Talks and Software Demonstrations ===
+
+The program committee is currently seeking speakers for the lightning talks. Lightning talks are quick - only five minutes long - and a great opportunity for you to give people a quick summary of your open source project, code, idea, or vision of the future.  Or, if you are involved in the development of novel Open Source Software, you could use the time to give a quick demonstration of your work.
+
+If you are interested in giving a Lightning Talk or Software Demonstration at BOSC 2010, please e-mail us at [mailto:bosc@open-bio.org bosc@open-bio.org]:
+* a brief title and summary (one or two lines)
+* a URL for the project page and code
+* the specific open source license used for your software (NOTE: the [[BOSC_2010#Open_Source_License_Requirement | Open Source License Requirement]] also applies to Lightning talks).
+
+We will accept entries on-line until lunch on Day 1 of BOSC, but space is limited.
+
+=== Birds of a Feather Sessions ===
+
+One of the more popular activities at BOSC are the Birds-of-a-Feather sub-meetings that people organize at the end of each days session.  These are free-form meetings organized by the attendees themselves.  Traditionally, some BOF's have been formed to allow developers and users of individual [[OBF]] software to meet each other face-to-face to discuss the project, but other meetings have been formed to discuss completely new ideas.  These meetings offer a unique opportunity for individuals to explore more about the activities of the various Open Source Projects, and, in some cases, even take an active role influencing the future of Open Source Software development.  If you would like to create a BOF, just sign up for a [[Special:Userlogin| wiki account]], login, and edit the [[BOSC_2010/Birds-of-a-Feather | BOSC 2010 Birds of a Feather]] page.
+
 == Sessions ==
 
 * '''OpenBio [[SolutionChallenge]]''' -- Bioinformatics library providers: please join us in a friendly competition to solve a shared biological problem, demonstrating the utility of your toolkit alongside other developers.
