@@ -17,6 +17,12 @@ Improving the presence of OpenBio libraries on distributed computing environment
 
 Initial work has started to develop an automated build environment that incorporates the [http://www.jcvi.org/cms/research/projects/jcvi-cloud-biolinux/overview/ Cloud BioLinux] and [http://fortinbras.us/bioperl-max/ bioperl-max] efforts. See the [http://bcbio.wordpress.com/2010/05/08/automated-build-environment-for-bioinformatics-cloud-images/ blog post] for full details. Code and configuration files are available from a [http://github.com/chapmanb/bcbb/tree/master/ec2/biolinux/ GitHub repository]. The post outlines several areas of improvements which could be targets for focused work at the Codefest.
 
+=== Semantic Web ===
+
+During [http://hackathon3.dbcls.jp/ the 3rd DBCLS BioHackathon], we had focused on the Semantic Web technologies in bioinformatics. As a result, in addition to the UniProt, several database providers including DDBJ, PDBj and KEGG started to generate their data in RDF. These Linked Data can be queried by SPARQL and initial attempt to provide high level library for biological queries was made by BioPython and BioRuby groups. We propose to continue this challenge with all OpenBio projects to make a standard interface (query builder, ontology mapping etc.) for major biological SPARQL endpoints and handling RDF files.
+
+To achieve this goal, we also need to develop an integrated/distributed triple store such as [http://www.semantic-systems-biology.org/ BioGateway]. From our experience, to generate and store a large scale RDF triples is still a major issue even with standard triple stores. Additionally, we will try to convert biological queries in natural language to SPARQL with a NLP technology.
+
 == Location ==
 
 * July 7, 2010 -- Harvard School of Public Health [http://maps.google.com/maps?hl=en&source=hp&q=655+Huntington+Avenue,+Boston,+MA&um=1&ie=UTF-8&hq=&hnear=655+Huntington+Ave,+Boston,+MA+02115&gl=us&ei=vepeS6rVAsSztgeV-7z9Cw&sa=X&oi=geocode_result&ct=image&resnum=1&ved=0CAkQ8gEwAA 655 Huntington Avenue, Boston, MA]
