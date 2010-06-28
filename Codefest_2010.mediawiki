@@ -74,7 +74,7 @@ Work for the current [http://bcbio.wordpress.com/2010/05/08/automated-build-envi
 * Steffen Moeller
 * [http://www.biojava.org/wiki/User:Rholland Richard Holland] (TBC)
 * [http://nebc.nox.ac.uk/nebc/about-us/people Bela Tiwari]
-* [http://nebc.nox.ac.uk/nebc/about-us/people Oliver Buckley]
+* <s>[http://nebc.nox.ac.uk/nebc/about-us/people Oliver Buckley]</s> (Changed job)
 * [[User:Domibel | Dominique Belhachemi]]
 * [http://www.linkedin.com/in/toshiakikatayama Toshiaki Katayama]
 * [http://www.linkedin.com/in/nakaomitsuteru Mitsuteru NAKAO]
