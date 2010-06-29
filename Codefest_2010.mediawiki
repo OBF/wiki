@@ -90,6 +90,8 @@ Work for the current [http://bcbio.wordpress.com/2010/05/08/automated-build-envi
 * [http://bx.mathcs.emory.edu James Taylor]
 * [http://bx.mathcs.emory.edu Enis Afgan]
 * [http://bx.mathcs.emory.edu Dannon Baker]
+* Shuichi Kawashima
+* Jin-Dong Kim
 
 Feel free to add yourself if you are interested. We are happy to have you.
 
