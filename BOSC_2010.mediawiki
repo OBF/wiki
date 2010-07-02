@@ -62,8 +62,14 @@ The deadline for discounted early registration is '''May 28, 2010'''.
 === Audio/Visual ===
 
 * Please bring your slides on a flash drive and be prepared to load your file onto the podium computer at the break immediately preceeding your session.  We want to minimize switching computers between speakers to save time. 
-* As of this time, we do not know whether the podium computer will be a Mac or Windows machine.
-* For maximum flexibility, please save your file as a .pdf or .ppt (not .pptx); make sure that your presentation will work on both a Mac and Windows platform.
+* The podium computer is configured as follows:
+** Windows XP SP3
+** Office 2007
+** Media Play 11
+** QuickTime
+** Adobe Reader 9.x
+** IE 8
+** Fire Fox 3.6
 * Live demos are possible, but we advise that you also bring screen shots.  While we have been promised an internet connection, be prepared for connection problems.
 
 === Post-conference Slide Availability ===
