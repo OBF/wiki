@@ -14,7 +14,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 {| border="1" cellspacing="0" cellpadding="10" align="left"
 ! Day 1
 ! Friday
-! July 9
+! July 9: Hynes Convention Center room 207
 |- 
 | 8:00-9:00AM
 | Registration
@@ -124,7 +124,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | '''Day 2'''
 | '''Saturday'''
-| '''July 10'''
+| '''July 10''': Hynes Convention Center room 207
 |- 
 | 9:00-9:15AM
 | Kam Dahlquist
