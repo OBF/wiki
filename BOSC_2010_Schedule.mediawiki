@@ -19,7 +19,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 | 8:00-9:00AM
 | Registration
 | Register for BOSC 2010, Hynes Convention Center
-- 
+|- 
 | 9:00-9:15AM
 | Kam Dahlquist
 | [Welcome] Introduction to the <nowiki>O|B|F</nowiki> and Welcome to BOSC 2010
