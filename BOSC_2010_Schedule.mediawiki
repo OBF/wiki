@@ -18,7 +18,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |- 
 | 7:30-9:00AM
 | Registration
-| Pick up badges for BOSC 2010, Hynes Convention Center (early arrival is recommended as there is usually long lines)
+| Pick up badges for BOSC 2010, Hynes Convention Center (early arrival is recommended as there are usually long lines)
 |- 
 | 9:00-9:15AM
 | Kam Dahlquist
