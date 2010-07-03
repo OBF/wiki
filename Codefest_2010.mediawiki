@@ -38,7 +38,7 @@ To achieve this goal, we also need to develop an integrated/distributed triple s
 
 == Sponsorship ==
 
-Space and internet for the Codefest are kindly provided by the [http://www.hsph.harvard.edu/ Harvard School of Public Health] and [http://www.mgh.harvard.edu/ Massachusetts General Hospital]. We are actively seeking sponsors to help supplement the travel, lodging and meal costs for developers. If you're interested in contributing to Open Source development in Bioinformatics and helping to direct the focus on the Codefest, please contact Brad.
+Space and internet for the Codefest are kindly provided by the [http://www.hsph.harvard.edu/research/bioinfocore/ Harvard School of Public Health Bioinformatics Core] and [http://www.mgh.harvard.edu/ Massachusetts General Hospital]. We are actively seeking sponsors to help supplement the travel, lodging and meal costs for developers. If you're interested in contributing to Open Source development in Bioinformatics and helping to direct the focus on the Codefest, please contact Brad.
 
 == ToDo List ==
 
