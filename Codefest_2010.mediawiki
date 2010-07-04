@@ -62,6 +62,11 @@ Work for the current [http://bcbio.wordpress.com/2010/05/08/automated-build-envi
 
 * Building SPARQL endpoints of DDBJ RDF, PDBj RDF, MEDLINE, KEGG and UniProt.
 
+=== Bioperl/BioSQL ===
+
+* Include SQLite support in BioSQL
+* DBIx::Class integration with BioSQL
+
 == Attendees ==
 
 * [http://bcbio.wordpress.com/ Brad Chapman]
