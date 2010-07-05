@@ -75,7 +75,7 @@ The deadline for discounted early registration is '''May 28, 2010'''.
 === Post-conference Slide Availability ===
 
 * In the spirit of openness, we would like to make the presentation slides publicly available after the conference.
-* The organizers will be requesting an electronic copy of the slides for posting.
+* The organizers will be requesting an electronic copy of the slides for posting on SlideShare.
 * After your presentation, please e-mail your slides to [mailto:bosc@open-bio.org bosc@open-bio.org] or make other arrangements for transfer of the file.
 * For example, see slides from [http://www.slideshare.net/bosc/slideshows BOSC 2009] or [http://www.slideshare.net/tag/bosc_2008 BOSC 2008] on SlideShare.
 
