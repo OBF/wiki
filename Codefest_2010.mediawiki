@@ -67,6 +67,10 @@ Work for the current [http://bcbio.wordpress.com/2010/05/08/automated-build-envi
 * Include SQLite support in BioSQL
 * DBIx::Class integration with BioSQL
 
+=== Key signing ===
+
+* Sign Open PGP keys for O|B|F project release managers, see e.g. [http://cryptnet.net/fdp/crypto/keysigning_party/en/keysigning_party.html The Keysigning Party HOWTO]
+
 == Attendees ==
 
 * [http://bcbio.wordpress.com/ Brad Chapman]
