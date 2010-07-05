@@ -83,7 +83,7 @@ The deadline for discounted early registration is '''May 28, 2010'''.
 
 * Speakers at BOSC are asked to give permission for their talks to be reported as a [http://www.iscb.org/ismb2010-program/plos-postcards PLoS Postcard].
 * Graduate students and postdocs attending BOSC/ISMB are invited to submit a 1000 word summary of a talk given at BOSC/ISMB which will be published in PLoS Computational Biology.  Examples from PSB 2010 can be found [http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1000746 here].
-* For your talk to be reported as a postcard, [[Media:ISMB2010PLoSSReleaseForm_v1.pdf | this form]] needs to be filled out and submitted.
+* For your talk to be reported as a postcard, [[Media:ISMB2010PLoSSReleaseForm_v1.pdf | this form]] needs to be filled out and submitted according to the instructions on the form.
 
 == Call for Lightning Talks/Birds of a Feather Sessions ==
 
