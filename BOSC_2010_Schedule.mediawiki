@@ -110,7 +110,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |- 
 | 5:10-5:18
 | Hervé Ménager
-| [Lightning Talks] [https://projets.pasteur.fr/wiki/mobyle/ | Mobyle Bioinformatics Web Portal: project update]
+| [Lightning Talks] [https://projets.pasteur.fr/wiki/mobyle/ Mobyle Bioinformatics Web Portal: project update]
 
 [[BOSC_2010/Birds-of-a-Feather | Birds of a Feather]]
 |- 
