@@ -117,9 +117,16 @@ Click on the talk title to view the individual abstract as a PDF file.
 | [Lightning Talk] [http://www.taverna.org.uk/ The Taverna 2.2 Workflow Workbench with a case study using it for Next Gen Sequencing of African cows]
 |-
 | 5:26-5:34
+| Jiten Bhagat
+| [Lightning Talk] [http://www.biocatalogue.org/ BioCatalogue - the Public Curated Registry of Life Science Web Services]
+|-
+| 5:34-5:42
 | Christian M Zmasek 
 | [Software Demo] [http://phylosoft.org/archaeopteryx/ Evolutionary tree visualization and analysis with Archaeopteryx]
-[[BOSC_2010/Birds-of-a-Feather | Birds of a Feather]]
+|-
+| 6:00-6:30
+| &nbsp;
+| [[BOSC_2010/Birds-of-a-Feather | Birds of a Feather]]
 |- 
 | 6:30
 | &nbsp;
