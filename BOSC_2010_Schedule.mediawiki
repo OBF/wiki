@@ -108,9 +108,9 @@ Click on the talk title to view the individual abstract as a PDF file.
 | Jianjiong Gao
 | [OS Software] [[Media:20_BOSC2010.pdf | Musite: Global Prediction of General and Kinase-Specific Phosphorylation Sites]]
 |- 
-| 5:10-6:00
-| &nbsp;
-| [Lightning Talks] 
+| 5:10-5:18
+| Hervé Ménager
+| [Lightning Talks] [https://projets.pasteur.fr/wiki/mobyle/ | Mobyle Bioinformatics Web Portal: project update]
 
 [[BOSC_2010/Birds-of-a-Feather | Birds of a Feather]]
 |- 
