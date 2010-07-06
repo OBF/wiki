@@ -107,6 +107,7 @@ Work for the current [http://bcbio.wordpress.com/2010/05/08/automated-build-envi
 * Jin-Dong Kim
 * [http://sa.linkedin.com/pub/heikki-lehvaslaiho/1/974/377 Heikki Lehvaslaiho]
 * [http://etalog.blogspot.com/ Eric Talevich]
+* [http://bio2rdf.org/ Marc-Alexandre Nolin (Bio2RDF)]
 
 Feel free to add yourself if you are interested. We are happy to have you.
 
