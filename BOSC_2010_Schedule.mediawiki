@@ -111,7 +111,12 @@ Click on the talk title to view the individual abstract as a PDF file.
 | 5:10-5:18
 | Hervé Ménager
 | [Lightning Talk] [https://projets.pasteur.fr/wiki/mobyle/ Mobyle Bioinformatics Web Portal: project update]
-|- 5:18-5:26
+|- 
+| 5:18-5:26
+| Stuart Owen
+| [Lightning Talk] [http://www.taverna.org.uk/ The Taverna 2.2 Workflow Workbench with a case study using it for Next Gen Sequencing of African cows]
+|-
+| 5:26-5:34
 | Christian M Zmasek 
 | [Software Demo] [http://phylosoft.org/archaeopteryx/ Evolutionary tree visualization and analysis with Archaeopteryx]
 [[BOSC_2010/Birds-of-a-Feather | Birds of a Feather]]
