@@ -23,6 +23,14 @@ Here are the current working Sparql Endpoints for Bio2RDF has of July 7th 2010, 
 * http://geneid.bio2rdf.org/sparql
 * http://go.bio2rdf.org/sparql
 * http://hgnc.bio2rdf.org/sparql
+* http://homologene.bio2rdf.org/sparql
+* http://inoh.bio2rdf.org/sparql
+* http://iproclass.bio2rdf.org/sparql
+* http://kegg.bio2rdf.org/sparql
+* http://ligand.bio2rdf.org/sparql
+* http://mesh.bio2rdf.org/sparql
+* http://mgi.bio2rdf.org/sparql
+
 
 URI are build with this pattern
 
