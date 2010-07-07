@@ -5,7 +5,7 @@ title: SemWeb:Bio2RDF Endpoints
 Here are the current working Sparql Endpoints for Bio2RDF has of July 7th 2010, 17:23 PM
 
 * http://pdb.bio2rdf.org/sparql
-
+<pre>
 SELECT
 *
 WHERE
@@ -14,6 +14,7 @@ WHERE
 optional {?o ?p2 ?o2 .}
 optional {?o2 ?p3 ?o3 .}
 }
+</pre>
 
 * http://geneid-test.bio2rdf.org/sparql
 * http://pubmed.bio2rdf.org/sparql
