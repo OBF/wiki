@@ -17,6 +17,17 @@ optional {?o2 ?p3 ?o3 .}
 </pre>
 
 * http://geneid-test.bio2rdf.org/sparql
+<pre>
+select distinct ?g ?o
+where {
+graph ?g 
+{
+?s ?p ?o .
+?o bif:contains "HK1" .
+}
+}
+</pre>
+
 * http://pubmed.bio2rdf.org/sparql
 * http://refseq.bio2rdf.org/sparql
 * http://omim.bio2rdf.org/sparql
