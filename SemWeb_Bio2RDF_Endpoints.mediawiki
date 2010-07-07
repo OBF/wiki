@@ -19,3 +19,18 @@ Here are the current working Sparql Endpoints for Bio2RDF has of July 7th 2010, 
 * http://chebi.bio2rdf.org/sparql
 * http://cpath.bio2rdf.org/sparql
 * http://ec.bio2rdf.org/sparql
+
+
+URI are build with this pattern
+
+http://bio2rdf.org/[namespace]:[identifier]
+
+To get information about this URI, you can either ask directly
+
+http://bio2rdf.org/[namespace]:[identifier]
+
+or ask the corresponding endpoint about it. The corresponding endpoints is located at
+
+http://[namespace].bio2rdf.org/sparql
+
+P.S.: The refseq endpoint is experimental. Instead of using the URI pattern http://bio2rdf.org/refseq:[identifier] it use http://bio2rdf.org/ncbi:[identifier]
