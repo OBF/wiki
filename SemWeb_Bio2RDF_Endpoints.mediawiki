@@ -2,7 +2,7 @@
 title: SemWeb:Bio2RDF Endpoints
 ---
 
-Here are the current working Sparql Endpoints for Bio2RDF has of July 7th 2010, 15:48 PM
+Here are the current working Sparql Endpoints for Bio2RDF has of July 7th 2010, 16:09 PM
 
 * http://pdb.bio2rdf.org/sparql
 * http://geneid-test.bio2rdf.org/sparql
@@ -10,3 +10,6 @@ Here are the current working Sparql Endpoints for Bio2RDF has of July 7th 2010, 
 * http://refseq.bio2rdf.org/sparql
 * http://omim.bio2rdf.org/sparql
 * http://affymetrix.bio2rdf.org/sparql
+* http://atlas.bio2rdf.org/sparql
+* http://quebec.bio2rdf.org/sparql
+* http://bind.bio2rdf.org/sparql
