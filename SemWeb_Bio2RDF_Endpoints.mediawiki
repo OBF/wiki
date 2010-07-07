@@ -6,7 +6,7 @@ Here are the current working Sparql Endpoints for Bio2RDF has of July 7th 2010, 
 
 * http://pdb.bio2rdf.org/sparql
 
-code[
+code{
 SELECT
 *
 WHERE
@@ -15,7 +15,7 @@ WHERE
 optional {?o ?p2 ?o2 .}
 optional {?o2 ?p3 ?o3 .}
 }
-]
+}
 * http://geneid-test.bio2rdf.org/sparql
 * http://pubmed.bio2rdf.org/sparql
 * http://refseq.bio2rdf.org/sparql
