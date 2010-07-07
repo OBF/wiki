@@ -124,3 +124,5 @@ The easiest way to get there is via cab. From Mass General Hospital, walk up Cam
 == Discussion ==
 
 We welcome any thoughts from interested participants. Please direct discussion to the OpenBio mailing list: [mailto:open-bio-l@lists.open-bio.org open-bio-l@lists.open-bio.org].
+
+For short-lived coordination tasks during the hackaton, an IRC channel has been setup on FreeNode: #codefest
