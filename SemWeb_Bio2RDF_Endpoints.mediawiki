@@ -51,6 +51,7 @@ optional {?o2 ?p3 ?o3 .}
 * http://uniparc.bio2rdf.org/sparql
 * http://uniprot.bio2rdf.org/sparql
 * http://unists.bio2rdf.org/sparql
+* http://uniref.bio2rdf.org/sparql
 
 URI are build with this pattern
 
