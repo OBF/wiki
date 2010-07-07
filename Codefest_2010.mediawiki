@@ -79,7 +79,7 @@ Work for the current [http://bcbio.wordpress.com/2010/05/08/automated-build-envi
 * [http://www.bioperl.org/wiki/User:Majensen Mark A. Jensen]
 * [http://www.bioperl.org/wiki/User:Lapp Hilmar Lapp]
 * [http://www.biojava.org/wiki/Michael_Heuer Michael Heuer]
-* [http://www.bioperl.org/wiki/User:Cjfields Chris Fields]
+* [http://www.bioperl.org/wiki/User:Cjfields Chris Fields] - Arriving Wed around 1pm
 * [http://www.linkedin.com/in/agbiotec Ntino Krampis]
 * [http://nebc.nox.ac.uk/nebc/about-us/people Tim Booth]
 * <s>[http://www.scri.ac.uk/staff/petercock Peter Cock]</s> (Unable to attend)
