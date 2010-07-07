@@ -170,7 +170,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 11:50-12:05PM
 | Tiago Antao
-| [Bio* Update] [[Media:13_BOSC2010.pdf | interPopula: Database and tool integration for population genetics using Python]]
+| [OS software] [[Media:13_BOSC2010.pdf | interPopula: Database and tool integration for population genetics using Python]]
 |-
 | 12:05-12:20
 | Laurent Gautier
