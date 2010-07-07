@@ -62,7 +62,7 @@ Work for the current [http://bcbio.wordpress.com/2010/05/08/automated-build-envi
 
 * Building SPARQL endpoints of DDBJ RDF, PDBj RDF, MEDLINE, KEGG and UniProt.
 * Complete supports for SPARQL endpoints in BioRuby and BioPython. If possible, BioPerl and BioJava as well.
-** [[Brief introduction to RDF/SPARQL in OpenBio http://hackathon3.dbcls.jp/wiki/ImplementationBootcamp]]
+** [[http://hackathon3.dbcls.jp/wiki/ImplementationBootcamp Brief introduction to RDF/SPARQL in OpenBio]]
 ** [[SemWeb:PDB2RDF]]
 
 === Bioperl/BioSQL ===
