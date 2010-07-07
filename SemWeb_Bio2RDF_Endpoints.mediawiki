@@ -2,7 +2,7 @@
 title: SemWeb:Bio2RDF Endpoints
 ---
 
-Here are the current working Sparql Endpoints for Bio2RDF has of July 7th 2010, 16:37 PM
+Here are the current working Sparql Endpoints for Bio2RDF has of July 7th 2010, 17:23 PM
 
 * http://pdb.bio2rdf.org/sparql
 * http://geneid-test.bio2rdf.org/sparql
@@ -27,10 +27,20 @@ Here are the current working Sparql Endpoints for Bio2RDF has of July 7th 2010, 
 * http://inoh.bio2rdf.org/sparql
 * http://iproclass.bio2rdf.org/sparql
 * http://kegg.bio2rdf.org/sparql
-* http://ligand.bio2rdf.org/sparql
 * http://mesh.bio2rdf.org/sparql
 * http://mgi.bio2rdf.org/sparql
-
+* http://obo.bio2rdf.org/sparql
+* http://pid.bio2rdf.org/sparql
+* http://protein.bio2rdf.org/sparql
+* http://pubchem.bio2rdf.org/sparql
+* http://reactome.bio2rdf.org/sparql
+* http://registry.bio2rdf.org/sparql
+* http://release.bio2rdf.org/sparql
+* http://sgd.bio2rdf.org/sparql
+* http://taxonomy.bio2rdf.org/sparql
+* http://uniparc.bio2rdf.org/sparql
+* http://uniprot.bio2rdf.org/sparql
+* http://unists.bio2rdf.org/sparql
 
 URI are build with this pattern
 
