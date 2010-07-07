@@ -111,6 +111,7 @@ Work for the current [http://bcbio.wordpress.com/2010/05/08/automated-build-envi
 * [http://bio2rdf.org/ Marc-Alexandre Nolin (Bio2RDF)]
 * [http://scottcain.net/ Scott Cain]
 * [http://www.broadinstitute.org/gsa/wiki/index.php/Main_Page Aaron McKenna]
+* [http://search.cpan.org/~rogerhall/ Roger A Hall]
 
 Feel free to add yourself if you are interested. We are happy to have you.
 
