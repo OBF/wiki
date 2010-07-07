@@ -9,3 +9,4 @@ Here are the current working Sparql Endpoints for Bio2RDF has of July 7th 2010, 
 * http://pubmed.bio2rdf.org/sparql
 * http://refseq.bio2rdf.org/sparql
 * http://omim.bio2rdf.org/sparql
+* http://affymetrix.bio2rdf.org/sparql
