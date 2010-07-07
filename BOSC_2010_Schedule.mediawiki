@@ -124,6 +124,10 @@ Click on the talk title to view the individual abstract as a PDF file.
 | Christian M Zmasek 
 | [Software Demo] [http://phylosoft.org/archaeopteryx/ Evolutionary tree visualization and analysis with Archaeopteryx]
 |-
+| 5:42-5:50
+| Aleksi Kallio
+| [Lightning Talk] [http://chipster.sourceforge.net/ Connecting Chipster genome browser to the cloud]
+|-
 | 6:00-6:30
 | &nbsp;
 | [[BOSC_2010/Birds-of-a-Feather | Birds of a Feather]]
