@@ -3,3 +3,6 @@ title: SemWeb:PDB2RDF
 ---
 
 Write here.
+
+mmCIF pdbx dictionary (PDB's ontology)
+- http://mmcif.pdb.org/dictionaries/mmcif_pdbx.dic/Index/index.html
