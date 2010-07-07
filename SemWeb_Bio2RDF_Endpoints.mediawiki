@@ -29,6 +29,18 @@ graph ?g
 </pre>
 
 * http://pubmed.bio2rdf.org/sparql
+<pre>
+select ?label ?o
+where
+{
+?s a <http://bio2rdf.org/pubmed:JournalArticle> .
+?s ?p ?o .
+?o bif:contains "HK1" .
+?s rdfs:label ?label .
+}
+limit 5
+</pre>
+
 * http://refseq.bio2rdf.org/sparql
 * http://omim.bio2rdf.org/sparql
 * http://affymetrix.bio2rdf.org/sparql
