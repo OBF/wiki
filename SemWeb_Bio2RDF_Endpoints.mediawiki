@@ -157,6 +157,15 @@ limit 100
 </pre>
 
 * http://cpath.bio2rdf.org/sparql
+<pre>
+select ?name
+where {
+?prot a <http://bio2rdf.org/ns/biopax#protein> .
+?prot <http://bio2rdf.org/ns/biopax#NAME> ?name .
+}
+limit 10
+</pre>
+
 * http://ec.bio2rdf.org/sparql
 * http://genbank.bio2rdf.org/sparql
 * http://geneid.bio2rdf.org/sparql
