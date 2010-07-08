@@ -77,6 +77,7 @@ Work for the current [http://bcbio.wordpress.com/2010/05/08/automated-build-envi
 ** [http://sourceforge.net/apps/mediawiki/bio2rdf/index.php?title=Demo_queries Example queries against Bio2RDF]
 ** [http://www.semantic-systems-biology.org/biogateway/querying Example queries against BioGateway]
 ** [[SemWeb:PDB2RDF]]
+** [[SemWeb:Bio2RDF_Endpoints]]
 
 === Bioperl/BioSQL ===
 
