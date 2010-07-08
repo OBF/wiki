@@ -135,6 +135,15 @@ limit 100
 </pre>
 
 * http://biopax.bio2rdf.org/sparql
+<pre>
+select ?name
+where {
+?prot a <http://bio2rdf.org/ns/biopax#protein> .
+?prot <http://bio2rdf.org/ns/biopax#SHORT-NAME> ?name .
+}
+limit 10
+</pre>
+
 * http://chebi.bio2rdf.org/sparql
 * http://cpath.bio2rdf.org/sparql
 * http://ec.bio2rdf.org/sparql
