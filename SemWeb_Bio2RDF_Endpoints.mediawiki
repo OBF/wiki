@@ -71,6 +71,17 @@ limit 100
 </pre>
 
 * http://affymetrix.bio2rdf.org/sparql
+<pre>
+select ?al ?o
+where {
+?s a <http://bio2rdf.org/ns/affymetrix#Probeset> .
+?s rdfs:label ?al .
+?s ?p ?o .
+?o bif:contains "calcium" .
+}
+limit 100
+</pre>
+
 * http://atlas.bio2rdf.org/sparql
 * http://quebec.bio2rdf.org/sparql
 * http://bind.bio2rdf.org/sparql
