@@ -179,6 +179,18 @@ limit 100
 
 * http://genbank.bio2rdf.org/sparql
 * http://geneid.bio2rdf.org/sparql
+<pre>
+select ?label ?from ?to
+where {
+?s a <http://bio2rdf.org/ns/geneid#Gene> .
+?s rdfs:label ?label .
+?s <http://bio2rdf.org/ns/geneid#fromInterval> ?from .
+?s <http://bio2rdf.org/ns/geneid#toInterval> ?to .
+filter(xsd:integer(?from) < 100) .
+}
+limit 100
+</pre>
+
 * http://go.bio2rdf.org/sparql
 * http://hgnc.bio2rdf.org/sparql
 * http://homologene.bio2rdf.org/sparql
