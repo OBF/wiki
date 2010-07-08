@@ -192,6 +192,19 @@ limit 100
 </pre>
 
 * http://go.bio2rdf.org/sparql
+<pre>
+select ?golabel ?parentlabel ?greatparentlabel
+where {
+?go a <http://bio2rdf.org/ns/go#Term> .
+?go rdfs:label ?golabel .
+?golabel bif:contains "liver" .
+?parent ?p ?go .
+?parent rdfs:label ?parentlabel .
+?greatparent ?p2 ?parent .
+?greatparent rdfs:label ?greatparentlabel .
+}
+</pre>
+
 * http://hgnc.bio2rdf.org/sparql
 * http://homologene.bio2rdf.org/sparql
 * http://inoh.bio2rdf.org/sparql
