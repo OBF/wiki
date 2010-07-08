@@ -116,6 +116,24 @@ limit 100
 
 * http://biocarta.bio2rdf.org/sparql
 * http://biocyc.bio2rdf.org/sparql
+<pre>
+select distinct ?name ?LEFT_name ?RIGHT_name ?inter_name
+where {
+?path a <http://bio2rdf.org/ns/biopax#pathway> .
+?path <http://bio2rdf.org/ns/biopax#NAME> ?name .
+?path <http://bio2rdf.org/ns/biopax#PATHWAY-COMPONENTS> ?comp .
+?comp <http://bio2rdf.org/ns/biopax#STEP-INTERACTIONS> ?inter .
+?inter <http://bio2rdf.org/ns/biopax#LEFT> ?LEFT .
+?inter <http://bio2rdf.org/ns/biopax#RIGHT> ?RIGHT .
+?inter <http://bio2rdf.org/ns/biopax#NAME> ?inter_name .
+?LEFT ?p ?o .
+?o <http://bio2rdf.org/ns/biopax#NAME> ?LEFT_name .
+?RIGHT ?p2 ?o2 .
+?o2 <http://bio2rdf.org/ns/biopax#NAME> ?RIGHT_name .
+}
+limit 100
+</pre>
+
 * http://biopax.bio2rdf.org/sparql
 * http://chebi.bio2rdf.org/sparql
 * http://cpath.bio2rdf.org/sparql
