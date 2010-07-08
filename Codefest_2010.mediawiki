@@ -60,6 +60,15 @@ Work for the current [http://bcbio.wordpress.com/2010/05/08/automated-build-envi
 * Titus Brown's post on [http://ivory.idyll.org/blog/jun-10/ngs-course-postmortem.html using cloud computing to teach a next-gen sequencing course].
 * Richard Holland's post on [http://blog.eaglegenomics.com/?p=17 getting started with Amazon EC2].
 
+=== Suggested Additions for Cloud computing image ===
+==== Perl ====
+==== Ruby ====
+==== Python ====
+==== Java ====
+==== Data ====
+* [ftp://ftp.ebi.ac.uk//pub/databases/uniprot/current_release/uniref UniRef]
+** UniRef50 and UniRef90, and if you've got the space, UniRef100, too.
+
 === Semantic Web ===
 
 * Building SPARQL endpoints of DDBJ RDF, PDBj RDF, MEDLINE, KEGG and UniProt.
