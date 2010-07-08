@@ -2,7 +2,7 @@
 title: SemWeb:Bio2RDF Endpoints
 ---
 
-Here are the current working Sparql Endpoints for Bio2RDF has of July 7th 2010, 17:23 PM
+Here are the current working Sparql Endpoints for Bio2RDF as of July 7th 2010, 17:23 PM
 
 * http://pdb.bio2rdf.org/sparql
 <pre>
