@@ -218,6 +218,16 @@ limit 200
 </pre>
 
 * http://homologene.bio2rdf.org/sparql
+<pre>
+select ?genelabel ?cluster
+where {
+?cluster a <http://bio2rdf.org/homologene#Cluster> .
+?gene ?p ?cluster .
+?gene rdfs:label ?genelabel .
+}
+limit 100
+</pre>
+
 * http://inoh.bio2rdf.org/sparql
 * http://iproclass.bio2rdf.org/sparql
 * http://kegg.bio2rdf.org/sparql
