@@ -46,6 +46,17 @@ limit 5
 </pre>
 
 * http://refseq.bio2rdf.org/sparql
+<pre>
+select distinct ?refseq ?fs ?fe
+where {
+?o <http://bio2rdf.org/ncbi_resource:featureStart> ?fs .
+filter (xsd:integer(?fs) < 10000) 
+?refseq <http://bio2rdf.org/ncbi_resource:feature> ?o .
+?o <http://bio2rdf.org/ncbi_resource:featureEnd> ?fe .
+}
+limit 5
+</pre>
+
 * http://omim.bio2rdf.org/sparql
 * http://affymetrix.bio2rdf.org/sparql
 * http://atlas.bio2rdf.org/sparql
