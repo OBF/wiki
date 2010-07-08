@@ -206,6 +206,17 @@ where {
 </pre>
 
 * http://hgnc.bio2rdf.org/sparql
+<pre>
+select ?label ?url ?symbol
+where {
+?symbol a <http://bio2rdf.org/ns/hgnc#Symbol> .
+?hugo ?p ?symbol .
+?hugo <http://bio2rdf.org/ns/bio2rdf#url> ?url .
+?hugo rdfs:label ?label .
+}
+limit 200
+</pre>
+
 * http://homologene.bio2rdf.org/sparql
 * http://inoh.bio2rdf.org/sparql
 * http://iproclass.bio2rdf.org/sparql
