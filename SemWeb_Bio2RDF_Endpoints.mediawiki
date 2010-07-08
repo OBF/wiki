@@ -230,6 +230,16 @@ limit 100
 
 * http://inoh.bio2rdf.org/sparql
 * http://iproclass.bio2rdf.org/sparql
+<pre>
+select ?ident ?go
+where {
+?iclass a <http://bio2rdf.org/ns/iproclass#AnnotationClass> .
+?iclass <http://purl.org/dc/elements/1.1/identifier> ?ident .
+?iclass <http://bio2rdf.org/ns/iproclass#xGo> ?go .
+}
+limit 100
+</pre>
+
 * http://kegg.bio2rdf.org/sparql
 * http://mesh.bio2rdf.org/sparql
 * http://mgi.bio2rdf.org/sparql
