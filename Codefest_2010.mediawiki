@@ -58,6 +58,7 @@ Work for the current [http://bcbio.wordpress.com/2010/05/08/automated-build-envi
 * Website with documentation, AMI history.
 * Testing on [http://ecc.eucalyptus.com/ Eucalyptus clouds].
 * Titus Brown's post on [http://ivory.idyll.org/blog/jun-10/ngs-course-postmortem.html using cloud computing to teach a next-gen sequencing course].
+* Richard Holland's post on [http://blog.eaglegenomics.com/?p=17 getting started with Amazon EC2].
 
 === Semantic Web ===
 
