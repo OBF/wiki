@@ -139,6 +139,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 | 6:06-6:15
 | Brad Chapman
 | [Lightning Talk] [http://www.open-bio.org/wiki/Codefest_2010 Codefest 2010 Report]
+|-
 | 6:15-6:45
 | &nbsp;
 | [[BOSC_2010/Birds-of-a-Feather | Birds of a Feather]]
