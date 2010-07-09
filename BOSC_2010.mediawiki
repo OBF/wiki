@@ -89,14 +89,12 @@ The deadline for discounted early registration is '''May 28, 2010'''.
 
 === Lightning Talks and Software Demonstrations ===
 
-The program committee is currently seeking speakers for the lightning talks. Lightning talks are quick - only five minutes long - and a great opportunity for you to give people a quick summary of your open source project, code, idea, or vision of the future.  Or, if you are involved in the development of novel Open Source Software, you could use the time to give a quick demonstration of your work.
+<s>The program committee is currently seeking speakers for the lightning talks.</s> '''''Call for Lightning Talks is now closed.''''' Lightning talks are quick - only five minutes long - and a great opportunity for you to give people a quick summary of your open source project, code, idea, or vision of the future.  Or, if you are involved in the development of novel Open Source Software, you could use the time to give a quick demonstration of your work.
 
 If you are interested in giving a Lightning Talk or Software Demonstration at BOSC 2010, please e-mail us at [mailto:bosc@open-bio.org bosc@open-bio.org]:
 * a brief title and summary (one or two lines)
 * a URL for the project page and code
 * the specific open source license used for your software (NOTE: the [[BOSC_2010#Open_Source_License_Requirement | Open Source License Requirement]] also applies to Lightning talks).
-
-We will accept entries on-line until lunch on Day 1 of BOSC, but space is limited.
 
 === Birds of a Feather Sessions ===
 
