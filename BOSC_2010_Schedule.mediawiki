@@ -54,7 +54,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 12:15-12:30
 | Enis Afgan
-| [Cloud Computing/HT 'omics Data] [[Media:43_BOSC2010.pdf | Deploying Galaxy on the Cloud]]
+| [Cloud Computing/HT 'omics Data] [[Media:43_BOSC2010.pdf | Deploying Galaxy on the Cloud]] [http://www.slideshare.net/bosc2010/afgan-bosc2010-galaxycloud ***SLIDES***]
 |- 
 | '''12:30-2:00'''
 |
