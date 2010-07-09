@@ -128,13 +128,17 @@ Click on the talk title to view the individual abstract as a PDF file.
 | Aleksi Kallio
 | [Lightning Talk] [http://chipster.sourceforge.net/ Connecting Chipster genome browser to the cloud]
 |-
+| 5:50-5:58
+| Christopher Bottoms
+| [Lightning Talk] [http://search.cpan.org/~molecules/Bio-SNP-Inherit-0.00100001-TRIAL/lib/Bio/SNP/Inherit.pm SNP Allele Designations (Bio::SNP::Inherit)]
+|-
 | 6:00-6:30
 | &nbsp;
 | [[BOSC_2010/Birds-of-a-Feather | Birds of a Feather]]
 |- 
-| 6:30
+| 6:45
 | &nbsp;
-| <nowiki>O|B|F</nowiki> Board Meeting and No-host Dinner; Location TBA
+| <nowiki>O|B|F</nowiki> Board Meeting and No-host Dinner; Location: Legal Seafood
 |-
 |
 |
