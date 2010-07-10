@@ -8,7 +8,7 @@ The 11th Annual Bioinformatics Open Source Conference (BOSC) 2010 will be held f
 
 '''ANNOUNCEMENT:''' Congratulations to the winners of the BOSC 2010 Student Travel Fellowships:  Nobuaki Kono, Eric Talevich, and Jens Lichtenberg!
 
-'''''SLIDES''''' for Friday's talks are up on [http://slideshare.com SlideShare]; search for slides by username "bosc2010".  Individual links will be posted to the schedule when there is more bandwidth available :) ''&mdash; [[User:Kdahlquist|Kdahlquist]] 15:23, 10 July 2010 (UTC)''
+'''''SLIDES''''' for Friday's talks are up on [http://www.slideshare.com SlideShare]; search for slides by username "bosc2010".  Individual links will be posted to the schedule when there is more bandwidth available :) ''&mdash; [[User:Kdahlquist|Kdahlquist]] 15:23, 10 July 2010 (UTC)''
 
 <!--'''The deadline for [[BOSC 2010#Abstract_Submission_Information | submitting abstracts]] is April 15, 2010.'''-->
 
