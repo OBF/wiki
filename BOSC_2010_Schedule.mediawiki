@@ -131,7 +131,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 5:50-5:58
 | Christopher Bottoms
-| [Lightning Talk] [http://search.cpan.org/~molecules/Bio-SNP-Inherit-0.00100001-TRIAL/lib/Bio/SNP/Inherit.pm SNP Allele Designations (Bio::SNP::Inherit)]
+| [Lightning Talk] [http://search.cpan.org/~molecules/Bio-SNP-Inherit-0.00100001-TRIAL/lib/Bio/SNP/Inherit.pm SNP Allele Designations (Bio::SNP::Inherit)] [http://www.slideshare.net/bosc2010/bottoms-bosc2010-biosnpinherit ***SLIDES***]
 |-
 | 5:58-6:06
 | Tomasz Puton
