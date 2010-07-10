@@ -79,7 +79,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 3:15-3:30
 | Jens Lichtenberg
-| [HT 'omics Data] [[Media:28_BOSC2010.pdf | Concurrent Bioinformatics Software for Discovering Genome-wide Patterns and Word-based Genomic Signatures]]
+| [HT 'omics Data] [[Media:28_BOSC2010.pdf | Concurrent Bioinformatics Software for Discovering Genome-wide Patterns and Word-based Genomic Signatures]] [http://www.slideshare.net/bosc2010/lichtenberg-bosc2010-wordseeker ***SLIDES***]
 |- 
 | 3:30-3:38
 | Chris Hemmerich
