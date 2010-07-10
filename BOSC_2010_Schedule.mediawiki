@@ -127,7 +127,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 5:42-5:50
 | Aleksi Kallio
-| [Lightning Talk] [http://chipster.sourceforge.net/ Connecting Chipster genome browser to the cloud]
+| [Lightning Talk] [http://chipster.sourceforge.net/ Connecting Chipster genome browser to the cloud] [http://www.slideshare.net/bosc2010/kallio-bosc2010-chipstercloud ***SLIDES***]
 |-
 | 5:50-5:58
 | Christopher Bottoms
