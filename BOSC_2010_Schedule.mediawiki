@@ -83,7 +83,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |- 
 | 3:30-3:38
 | Chris Hemmerich
-| [HT 'omics Data] [[Media:30_BOSC2010.pdf | Automated Annotation of NGS Transcriptome Data using ISGA and Ergatis]]
+| [HT 'omics Data] [[Media:30_BOSC2010.pdf | Automated Annotation of NGS Transcriptome Data using ISGA and Ergatis]] [http://www.slideshare.net/bosc2010/hemmerich-bosc2010-isgaergatis ***SLIDES***]
 |-
 | '''3:38-4:00'''
 |
