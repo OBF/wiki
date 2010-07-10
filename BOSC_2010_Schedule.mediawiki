@@ -75,7 +75,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 3:00-3:15
 | Dana Robinson
-| [HT 'omics Data] [[Media:10_BOSC2010.pdf | BioHDF: Open binary file formats for NGS data - current status and future directions]]
+| [HT 'omics Data] [[Media:10_BOSC2010.pdf | BioHDF: Open binary file formats for NGS data - current status and future directions]] [http://www.slideshare.net/bosc2010/robinson-bosc2010-biohdf ***SLIDES***]
 |-
 | 3:15-3:30
 | Jens Lichtenberg
