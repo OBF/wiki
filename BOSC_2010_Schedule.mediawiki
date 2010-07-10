@@ -111,7 +111,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |- 
 | 5:10-5:18
 | Hervé Ménager
-| [Lightning Talk] [https://projets.pasteur.fr/wiki/mobyle/ Mobyle Bioinformatics Web Portal: project update]
+| [Lightning Talk] [https://projets.pasteur.fr/wiki/mobyle/ Mobyle Bioinformatics Web Portal: project update] [http://www.slideshare.net/bosc2010/menager-bosc2010-mobyle ***SLIDES***]
 |- 
 | 5:18-5:26
 | Stuart Owen
