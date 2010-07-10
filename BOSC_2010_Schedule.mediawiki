@@ -67,7 +67,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 2:20-2:40
 | Darin London
-| [Cloud Computing/HT 'omics Data] [[Media:3_BOSC2010.pdf | Dealing with the Data Deluge: What can the Robotics Community Teach us?]]
+| [Cloud Computing/HT 'omics Data] [[Media:3_BOSC2010.pdf | Dealing with the Data Deluge: What can the Robotics Community Teach us?]] [http://www.slideshare.net/bosc2010/london-bosc2010 ***SLIDES***]
 |-
 | 2:40-3:00
 | Nyasha Chambwe 
