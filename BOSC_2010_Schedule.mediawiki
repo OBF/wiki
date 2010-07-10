@@ -107,7 +107,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 4:55-5:10
 | Jianjiong Gao
-| [OS Software] [[Media:20_BOSC2010.pdf | Musite: Global Prediction of General and Kinase-Specific Phosphorylation Sites]]
+| [OS Software] [[Media:20_BOSC2010.pdf | Musite: Global Prediction of General and Kinase-Specific Phosphorylation Sites]] [http://www.slideshare.net/bosc2010/gao-bosc2010-musite ***SLIDES***]
 |- 
 | 5:10-5:18
 | Hervé Ménager
