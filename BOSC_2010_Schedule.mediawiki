@@ -99,7 +99,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 4:35-4:45
 | Kazuharu Arakawa
-| [Semantic Web] [[Media:6_BOSC2010.pdf | G-language Bookmarklet: a gateway for Semantic Web, Linked Data, and Web Services]]
+| [Semantic Web] [[Media:6_BOSC2010.pdf | G-language Bookmarklet: a gateway for Semantic Web, Linked Data, and Web Services]] [http://www.slideshare.net/bosc2010/arakawa-bosc2010-glanguatebookmarklet ***SLIDES***]
 |-
 | 4:45-4:55
 | Christian M Zmasek
