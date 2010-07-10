@@ -103,7 +103,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 4:45-4:55
 | Christian M Zmasek
-| [Semantic Web] [[Media:25_BOSC2010.pdf | Connecting TOPSAN to Computational Analysis]]
+| [Semantic Web] [[Media:25_BOSC2010.pdf | Connecting TOPSAN to Computational Analysis]] [http://www.slideshare.net/bosc2010/zmasek-bosc2010-topsan ***SLIDES***]
 |-
 | 4:55-5:10
 | Jianjiong Gao
