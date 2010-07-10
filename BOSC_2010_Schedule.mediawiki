@@ -91,7 +91,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 4:00-4:20
 | Mark Wilkinson
-| [Semantic Web] [[Media:4_BOSC2010.pdf | From Moby to SADI - Modeling Semantic Web Services with the Semantic Automated Discovery and Integration Framework]]
+| [Semantic Web] [[Media:4_BOSC2010.pdf | From Moby to SADI - Modeling Semantic Web Services with the Semantic Automated Discovery and Integration Framework]] [http://www.slideshare.net/bosc2010/wilkinson-bosc2010-mobytosadi ***SLIDES***]
 |- 
 | 4:20-4:35
 | Aravind Venkatesan
