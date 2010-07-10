@@ -43,7 +43,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 11:25-11:45
 | Brian D. O'Connor
-| [Cloud Computing/HT 'omics Data] [[Media:39_BOSC2010.pdf | SeqWare Query Engine: Storing and Searching Sequence Data in the Cloud]]
+| [Cloud Computing/HT 'omics Data] [[Media:39_BOSC2010.pdf | SeqWare Query Engine: Storing and Searching Sequence Data in the Cloud]] [http://www.slideshare.net/bosc2010/o-connor-bosc2010 ***SLIDES***]
 |-
 | 11:45-12:00PM
 | Judy Qiu
