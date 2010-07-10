@@ -115,7 +115,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |- 
 | 5:18-5:26
 | Stuart Owen
-| [Lightning Talk] [http://www.taverna.org.uk/ The Taverna 2.2 Workflow Workbench with a case study using it for Next Gen Sequencing of African cows]
+| [Lightning Talk] [http://www.taverna.org.uk/ The Taverna 2.2 Workflow Workbench with a case study using it for Next Gen Sequencing of African cows] [http://www.slideshare.net/bosc2010/owen-bosc2010-taverna22cows ***SLIDES***]
 |-
 | 5:26-5:34
 | Jiten Bhagat
