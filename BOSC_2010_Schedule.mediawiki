@@ -95,7 +95,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |- 
 | 4:20-4:35
 | Aravind Venkatesan
-| [Semantic Web][[Media:21_BOSC2010.pdf | ONTO-ToolKit: enabling bio-ontology engineering via Galaxy]]
+| [Semantic Web][[Media:21_BOSC2010.pdf | ONTO-ToolKit: enabling bio-ontology engineering via Galaxy]] [http://www.slideshare.net/bosc2010/venkatesan-bosc2010-ontotoolkit ***SLIDES***]
 |-
 | 4:35-4:45
 | Kazuharu Arakawa
