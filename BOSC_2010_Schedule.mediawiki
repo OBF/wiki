@@ -119,7 +119,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 5:26-5:34
 | Jiten Bhagat
-| [Lightning Talk] [http://www.biocatalogue.org/ BioCatalogue - the Public Curated Registry of Life Science Web Services]
+| [Lightning Talk] [http://www.biocatalogue.org/ BioCatalogue - the Public Curated Registry of Life Science Web Services] [http://www.slideshare.net/bosc2010/bhagat-bosc2010-biocatalogue ***SLIDES***]
 |-
 | 5:34-5:42
 | Christian M Zmasek 
