@@ -27,7 +27,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 9:15-10:15
 | Guy Coates
-| [Keynote] [[BOSC_2010#Guy_Coates | Clouds: all fluff and no substance?]]
+| [Keynote] [[BOSC_2010#Guy_Coates | Clouds: all fluff and no substance?]] [http://www.slideshare.net/bosc2010/coates-bosc2010-cloudsfluffandnosubstance ***SLIDES***]
 |-
 | '''10:15-10:45'''
 |
