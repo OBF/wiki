@@ -6,7 +6,7 @@ title: BOSC 2010 Schedule
 * Click '''[[Media:BOSC2010_program_20100615_frontmatter.pdf | here]]''' to download the BOSC 2010 program and schedule as a PDF file (5 pages, 300k)
 * Click '''[[Media:BOSC2010_program_20100615_compiledabstracts.pdf | here]]''' to download all abstracts compiled into one PDF file (2 MB).
 * Important '''[[BOSC_2010#Information_for_Speakers | Information for Speakers]]'''
-* '''''Slides''''' for Friday's talks are up on [http://www.slideshare.com SlideShare]; search for slides by username "bosc2010".  Individual links will be posted to the schedule when there is more bandwidth available :) ''&mdash; [[User:Kdahlquist|Kdahlquist]] 15:21, 10 July 2010 (UTC)''
+* '''''Slides''''' for Friday's talks are up on [http://www.slideshare.net/bosc2010/presentations SlideShare] under the username "bosc2010".  Individual links will be posted to the schedule when there is more bandwidth available :) ''&mdash; [[User:Kdahlquist|Kdahlquist]] 15:21, 10 July 2010 (UTC)''
 
 == Schedule ==
 
