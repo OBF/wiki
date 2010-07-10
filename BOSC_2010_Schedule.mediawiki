@@ -47,7 +47,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 11:45-12:00PM
 | Judy Qiu
-| [Cloud Computing/HT 'omics Data] [[Media:40_BOSC2010.pdf | Hybrid Cloud and Cluster Computing Paradigms for Life Science Applications]]
+| [Cloud Computing/HT 'omics Data] [[Media:40_BOSC2010.pdf | Hybrid Cloud and Cluster Computing Paradigms for Life Science Applications]] [http://www.slideshare.net/bosc2010/qiu-bosc2010 ***SLIDES***]
 |-
 | 12:00-12:15
 | Ben Langmead
