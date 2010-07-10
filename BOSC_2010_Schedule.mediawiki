@@ -35,7 +35,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 10:45-11:05
 | Ronald Taylor
-| [Cloud Computing/HT 'omics Data] [[Media:29_BOSC2010.pdf | An overview of the Hadoop/MapReduce/HBase framework and its current applications in bioinformatics]]
+| [Cloud Computing/HT 'omics Data] [[Media:29_BOSC2010.pdf | An overview of the Hadoop/MapReduce/HBase framework and its current applications in bioinformatics]] [http://www.slideshare.net/bosc2010/taylor-bosc2010 ***SLIDES***]
 |-
 | 11:05-11:25
 | M. Hanna
