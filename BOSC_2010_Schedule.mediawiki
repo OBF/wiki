@@ -123,7 +123,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 5:34-5:42
 | Christian M Zmasek 
-| [Software Demo] [http://phylosoft.org/archaeopteryx/ Evolutionary tree visualization and analysis with Archaeopteryx]
+| [Software Demo] [http://phylosoft.org/archaeopteryx/ Evolutionary tree visualization and analysis with Archaeopteryx] [http://www.slideshare.net/bosc2010/zmasek-bosc2010-aptx ***SLIDES***]
 |-
 | 5:42-5:50
 | Aleksi Kallio
