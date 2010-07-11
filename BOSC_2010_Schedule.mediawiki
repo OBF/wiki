@@ -183,7 +183,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |- 
 | 11:35-11:50
 | Brad Chapman
-| [Bio* Update] [[Media:16_BOSC2010.pdf | Biopython Project Update]]
+| [Bio* Update] [[Media:16_BOSC2010.pdf | Biopython Project Update]] [http://www.slideshare.net/bosc2010/chapman-bosc2010-biopython ***SLIDES***]
 |-
 | 11:50-12:05PM
 | Tiago Antao
