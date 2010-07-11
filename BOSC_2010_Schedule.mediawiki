@@ -235,7 +235,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 4:35-4:50
 | Nobuaki Kono
-| [Visualization] [[Media:38_BOSC2010.pdf | Pathway Projector: Web-Based Zoomable Pathway Browser Using KEGG Atlas and Google Maps API]]
+| [Visualization] [[Media:38_BOSC2010.pdf | Pathway Projector: Web-Based Zoomable Pathway Browser Using KEGG Atlas and Google Maps API]] [http://www.slideshare.net/bosc2010/kono-bosc2010-pathwayprojector ***SLIDES***]
 |-
 | 4:50-5:05
 | James A. Morris 
