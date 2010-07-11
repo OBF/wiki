@@ -231,7 +231,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 4:15-4:35
 | Gary D. Bader
-| [Visualization] [[Media:12_BOSC2010.pdf | Cytoscape Web: An interactive, customizable web-based network browser]]
+| [Visualization] [[Media:12_BOSC2010.pdf | Cytoscape Web: An interactive, customizable web-based network browser]] [http://www.slideshare.net/bosc2010/bader-bosc2010-cytoweb ***SLLIDES***]
 |-
 | 4:35-4:50
 | Nobuaki Kono
