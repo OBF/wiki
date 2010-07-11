@@ -239,7 +239,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 4:50-5:05
 | James A. Morris 
-| [Visualization] [[Media:7_BOSC2010.pdf | Evoker: a visualization tool for genotype intensity data]]
+| [Visualization] [[Media:7_BOSC2010.pdf | Evoker: a visualization tool for genotype intensity data]] [http://www.slideshare.net/bosc2010/morris-bosc2010-evoker ***SLIDES***]
 |-
 | 5:05-5:20
 | Pavel Tomancak 
