@@ -247,7 +247,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 5:20-5:30
 | Iddo Friedberg
-| [Visualization] [[Media:32_BOSC2010.pdf | IPRStats: visualization and analysis of InterProScan Results]]
+| [Visualization] [[Media:32_BOSC2010.pdf | IPRStats: visualization and analysis of InterProScan Results]] [http://www.slideshare.net/bosc2010/friedberg-bosc2010-iprstats ***SLIDES***]
 |-
 | 5:30-6:00
 |
