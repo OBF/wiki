@@ -135,7 +135,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 5:58-6:06
 | Tomasz Puton
-| [Lightning Talk] [http://github.com/krother/biopython BioPython modules for handling RNA sequences containing modified nucleosides]
+| [Lightning Talk] [http://github.com/krother/biopython BioPython modules for handling RNA sequences containing modified nucleosides] [http://www.slideshare.net/bosc2010/puton-bosc2010-biopythonmodulesrna ***SLIDES***]
 |-
 | 6:06-6:15
 | Brad Chapman
