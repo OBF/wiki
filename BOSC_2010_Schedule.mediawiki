@@ -191,7 +191,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 12:05-12:20
 | Laurent Gautier
-| [Bio* Update] [[Media:2_BOSC2010.pdf | Bioconductor with Python, What else ?]]
+| [Bio* Update] [[Media:2_BOSC2010.pdf | Bioconductor with Python, What else ?]] [http://www.slideshare.net/bosc2010/gautier-bosc2010-pythonbioconductor ***SLIDES***]
 |-
 | 12:20-12:30
 | Eric W Talevich
