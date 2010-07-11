@@ -175,7 +175,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 11:05-11:20
 | Raoul J.P. Bonnal
-| [Bio* Update] [[Media:15_BOSC2010.pdf | BioRuby 2010 updates: moving to agile bioinformatics]]
+| [Bio* Update] [[Media:15_BOSC2010.pdf | BioRuby 2010 updates: moving to agile bioinformatics]] [http://www.slideshare.net/bosc2010/rice-bosc2010-emboss ***SLIDES***]
 |-
 | 11:20-11:35
 | Peter Rice
