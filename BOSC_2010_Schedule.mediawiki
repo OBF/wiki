@@ -215,7 +215,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 3:00-3:10
 | Alexandros Kanterakis
-| [OS Software/Code Generation] [[Media:17_BOSC2010.pdf | Generating a data platform for microarray gene expression experiments using MOLGENIS and MAGE-TAB]]
+| [OS Software/Code Generation] [[Media:17_BOSC2010.pdf | Generating a data platform for microarray gene expression experiments using MOLGENIS and MAGE-TAB]] [http://www.slideshare.net/bosc2010/kanterakis-bosc2010-molgenis ***SLIDES***]
 |-
 | 3:10-3:25
 | Sebastian J. Schultheiss
