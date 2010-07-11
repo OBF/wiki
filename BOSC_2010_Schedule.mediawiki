@@ -51,7 +51,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 12:00-12:15
 | Ben Langmead
-| [Cloud Computing/HT 'omics Data] [[Media:42_BOSC2010.pdf | Cloud-scale genomics: examples and lessons]]
+| [Cloud Computing/HT 'omics Data] [[Media:42_BOSC2010.pdf | Cloud-scale genomics: examples and lessons]] [http://www.slideshare.net/bosc2010/langmead-bosc2010-cloudgenomics ***SLIDES***]
 |-
 | 12:15-12:30
 | Enis Afgan
