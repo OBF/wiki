@@ -211,7 +211,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |- 
 | 2:40-3:00
 | Morris A. Swertz
-| [OS Software/Code Generation] [[Media:24_BOSC2010.pdf | MOLGENIS: rapid prototyping of biosoftware at the push of a button]]
+| [OS Software/Code Generation] [[Media:24_BOSC2010.pdf | MOLGENIS: rapid prototyping of biosoftware at the push of a button]] [http://www.slideshare.net/bosc2010/swertz-bosc2010-molgenis ***SLIDES***]
 |-
 | 3:00-3:10
 | Alexandros Kanterakis
