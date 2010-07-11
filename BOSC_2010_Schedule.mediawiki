@@ -171,7 +171,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 10:45-11:05
 | Christopher Fields
-| [Bio* Update] [[Media:22_BOSC2010.pdf | Towards a Modern BioPerl: BioPerl Update 2010]]
+| [Bio* Update] [[Media:22_BOSC2010.pdf | Towards a Modern BioPerl: BioPerl Update 2010]] [http://www.slideshare.net/bosc2010/fields-bosc2010-bioperl ***SLIDES***]
 |-
 | 11:05-11:20
 | Raoul J.P. Bonnal
