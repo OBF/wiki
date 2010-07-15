@@ -3,15 +3,7 @@ title: Projects
 ---
 
 ==Main projects==
-* [http://www.biojava.org BioJava]
-* [[bp:BioPerl|BioPerl]]
-* [[biopython:Main Page|Biopython]]
-* [http://www.bioruby.org BioRuby]
-* [[biosql:Main Page|BioSQL]]
-* [http://www.biodas.org DAS] and their list of [http://biodas.org/wiki/GlobalSeqIDs Global Sequence Identifiers]
-* [http://www.biomoby.org MOBY]
-* [http://www.emboss.org EMBOSS]
-* [http://obda.open-bio.org OBDA] (this website is out of date, a new one is being developed)
+{{Main projects}}
 
 ==Affiliated projects==
 * [http://www.gmod.org/ggb Generic Genome Browser] - part of [http://www.gmod.org GMOD]
