@@ -82,7 +82,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 | [HT 'omics Data] [[Media:28_BOSC2010.pdf | Concurrent Bioinformatics Software for Discovering Genome-wide Patterns and Word-based Genomic Signatures]] [http://www.slideshare.net/bosc2010/lichtenberg-bosc2010-wordseeker ***SLIDES***]
 |- 
 | 3:30-3:38
-| Chris Hemmerich
+| [http://gmod.org/wiki/User:Chemmeri Chris Hemmerich]
 | [HT 'omics Data] [[Media:30_BOSC2010.pdf | Automated Annotation of NGS Transcriptome Data using ISGA and Ergatis]] [http://www.slideshare.net/bosc2010/hemmerich-bosc2010-isgaergatis ***SLIDES***]
 |-
 | '''3:38-4:00'''
@@ -226,8 +226,8 @@ Click on the talk title to view the individual abstract as a PDF file.
 | '''Coffee Break'''
 |-
 | 4:00-4:15
-| Lincoln Stein
-| [Visualization] [[Media:34_BOSC2010.pdf | GBrowse2]]
+| [http://gmod.org/wiki/User:Lstein Lincoln Stein]
+| [Visualization] [[Media:34_BOSC2010.pdf | GBrowse2]] [http://prezi.com/xwpsks7tnnd8/gbrowse-20-bosc-talk/ ***SLIDES***]
 |-
 | 4:15-4:35
 | Gary D. Bader
