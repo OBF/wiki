@@ -204,7 +204,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 2:00-2:20
 | Simon Mercer
-| [OS Software Framework] [[Media:9_BOSC2010.pdf | The Microsoft Biology Foundation]]
+| [OS Software Framework] [[Media:9_BOSC2010.pdf | The Microsoft Biology Foundation]] [http://www.slideshare.net/bosc2010/mercer-bosc2010-microsoftframework ***SLIDES***]
 |- 
 | 2:20-2:40
 | William Crawford
