@@ -253,3 +253,6 @@ Click on the talk title to view the individual abstract as a PDF file.
 |
 |[[BOSC_2010/Birds-of-a-Feather | Birds of a Feather]]
 |}
+
+[[Category:BOSC]] [[Category:Conferences]]
+[[Category:BOSC Conferences]]
