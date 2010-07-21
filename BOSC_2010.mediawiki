@@ -10,6 +10,8 @@ The 11th Annual Bioinformatics Open Source Conference (BOSC) 2010 will be held f
 
 '''''SLIDES''''' for both days' talks are up on [http://www.slideshare.net/bosc2010/presentations SlideShare] under the username "bosc2010".  Individual links to each talk are posted on the [[BOSC_2010_Schedule | schedule page]].  Authors, if you haven't sent me your slides for posting, please do so ASAP. ''&mdash; [[User:Kdahlquist|Kdahlquist]] 20:45, 11 July 2010 (UTC)''
 
+'''BOSC 2010 Proceedings''': BOSC presenters, please see updated information about the BOSC 2010 Proceedings on the [[BOSC_2010_Proceedings | proceedings page.]]
+
 <!--'''The deadline for [[BOSC 2010#Abstract_Submission_Information | submitting abstracts]] is April 15, 2010.'''-->
 
 __NOTOC__
