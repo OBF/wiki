@@ -5,6 +5,9 @@ title: BOSC 2010 Proceedings
 * '''[[BOSC_2010 | BOSC 2010 main page]]'''
 * '''[[BOSC_2010_Schedule | BOSC 2010 Schedule page]]'''
 
+__NOTOC__
+<div style="float: right;">__TOC__</div>
+
 == First-ever Published BOSC Proceedings ==
 
 The BOSC Organizing Committee is pleased to announce that this year we will be publishing the first-ever BOSC Proceedings in the Open Access journal, [http://www.biomedcentral.com/bmcbioinformatics/ BMC Bioinformatics].
