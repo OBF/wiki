@@ -37,7 +37,7 @@ The BOSC Organizing Committee is pleased to announce that this year we will be p
 * The decision of the BOSC 2010 Proceedings editor will be final.
 * Once all the decisions (including revisions) are completed, the manuscripts will be given as a set to BMC Bioinformatics for publication.  They will not undergo additional review by BMC, although the Editor-in-Chief (BMC-series) reserves the right to request changes or reject manuscripts that do not meet the Journal standard.
 * Once the article has been typeset by BMC, the authors will be notified to check their articles for corrections.
-* Once all of the corrections are in, the articles will be published.
+* Once all of the corrections are in and payment of the Open Access page charges (see below) has been made, the articles will be published.
 
 == Open Access Page Charges ==
 
