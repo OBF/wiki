@@ -2,8 +2,8 @@
 title: BOSC 2010 Proceedings
 ---
 
-* '''[[BOSC_2010 | BOSC 2010]]''' main page.
-* '''[[BOSC_2010_Schedule | BOSC 2010 Schedule]] page.
+* '''[[BOSC_2010 | BOSC 2010 main page]]'''
+* '''[[BOSC_2010_Schedule | BOSC 2010 Schedule page]]'''
 
 == First-ever Published BOSC Proceedings ==
 
