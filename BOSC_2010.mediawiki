@@ -157,6 +157,8 @@ See the following websites for further information:
 
 == First-ever Published BOSC Proceedings ==
 
+More information can be found on the '''[[BOSC_2010_Proceedings | BOSC 2010 Proceedings]]''' page.
+
 The BOSC Organizing Committee is pleased to announce that this year we will be publishing the first-ever BOSC Proceedings in the Open Access journal, [http://www.biomedcentral.com/bmcbioinformatics/ BMC Bioinformatics].
 
 * Presenters at BOSC 2010 are invited to submit a 4-5 page manuscript for publication in the Open Access journal, [http://www.biomedcentral.com/bmcbioinformatics/ BMC Bioinformatics].
