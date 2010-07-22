@@ -196,7 +196,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |-
 | 12:20-12:30
 | Eric W Talevich
-| [Bio* Update] [[Media:8_BOSC2010.pdf | Bio.Phylo: A unified phylogenetics toolkit for Biopython]] [http://www.slideshare.net/bosc2010/talevich-bosc2010-biophylo ***SLIDES***]
+| [Bio* Update] [[Media:8_BOSC2010.pdf | Bio.Phylo: A unified phylogenetics toolkit for Biopython]] [http://www.slideshare.net/etalevich/biophylo-phylogenetics-in-biopython-bosc-2010 ***SLIDES***]
 |-
 | '''12:30-2:00'''
 |
