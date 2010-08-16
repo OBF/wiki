@@ -4,6 +4,7 @@ title: BOSC 2010 Proceedings
 
 * '''[[BOSC_2010 | BOSC 2010 main page]]'''
 * '''[[BOSC_2010_Schedule | BOSC 2010 Schedule page]]'''
+* '''ANNOUNCEMENT:''' The [http://events.open-bio.org/BOSC2010-Proceedings/openconf.php Open Conferences System BOSC Proceedings site] is currently down.  We are trying to fix it and will notify authors when the site is back up.  ''&mdash; [[User:Kdahlquist|Kdahlquist]] 19:40, 16 August 2010 (UTC)''
 
 __NOTOC__
 <div style="float: right;">__TOC__</div>
