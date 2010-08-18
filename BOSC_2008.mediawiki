@@ -103,7 +103,7 @@ Give us your feedback on BOSC 2008 so we can plan for BOSC 2009, the 10th Annual
 
 =Contact=
 
-Chair of the conference and of the organizing committee is [http://myweb.lmu.edu/kdahlqui/ Kam Dahlquist]. Aside from Dr. Dahlquist, the 2008 BOSC Organizing Committee consists of [http://www.bioperl.org/wiki/Chris_Dagdigian Chris Dagdigian], [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp], Darin London, and [http://www.bioperl.org/wiki/Jason_Stajich Jason Stajich]. For more information about the conference or the call for abstracts, please contact the organizers at [mailto:bosc%40open-bio%2eorg bosc&#64;open-bio&#46;org].
+Chair of the conference and of the organizing committee is Kam Dahlquist. Aside from Dr. Dahlquist, the 2008 BOSC Organizing Committee consists of  Chris Dagdigian,  Hilmar Lapp, Darin London, and  Jason Stajich. For more information about the conference or the call for abstracts, please contact the organizers at [mailto:bosc@open-bio.org bosc@open-bio.org].
 
 NOTE:  Abstract submissions will not be accepted via e-mail this year.  All abstracts must be submitted through our Open Conference Systems site which will open Monday, March 10, 2008.
 
