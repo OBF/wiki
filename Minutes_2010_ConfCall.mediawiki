@@ -1,0 +1,35 @@
+---
+title: Minutes:2010 ConfCall
+---
+
+= Minutes from the meeting =
+
+= Tentative Agenda =
+
+<ol>
+<li> Old business </li>
+ <ul><li> [[Minutes:2009_ConfCall| 2009 BoD meeting minutes]]</li> </ul>  
+ <li>New business</li>
+<ol style="list-style-type:lower-roman">
+<li>BOSC
+<ul>
+  <li> BOSC 2010 (Kam)</li>
+  <ul><li> Money spent/made attendee number, any other feedback</li></ul>
+  <li> BOSC 2011 - held with ISMB2011 in Boston, MA, USA</li>
+  <ul><li> 2011 Organizing Committee chairs</li><li>Plans for the conference</li></ul>
+ </ul></li>
+ <li>Treasurer's 2010 report (ChrisD)</li>
+  <ul><li> [[Minutes:2010 Financial report| 2010 Financial report]]</li></ul>
+ <li> BoD membership and succession.
+   <ul>
+    <li>Kam Dahlquist is resigning from the BoD.</li>
+    <li>Nominations</li>
+    <li>Plan to elect new BoD members and rotate officers.</li>
+   </ul></li>
+ <li> OBF Hardware & Sysadmin report (JasonS and ChrisD)
+ <ul>
+   <li> Domain name registrar and registration payment</li>
+</ul></li>
+ <li>Additional topics proposed by community</li>
+</ol>
+</ol>
