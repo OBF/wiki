@@ -13,9 +13,9 @@ title: Minutes:2010 ConfCall
 <ol style="list-style-type:lower-roman">
 <li>BOSC
 <ul>
-  <li> BOSC 2010 (Kam)</li>
+  <li> BOSC 2010 (Kam) - held with ISMB2011 in Boston, MA, USA</li>
   <ul><li> Money spent/made attendee number, any other feedback</li></ul>
-  <li> BOSC 2011 - held with ISMB2011 in Boston, MA, USA</li>
+  <li> BOSC 2011 </li>
   <ul><li> 2011 Organizing Committee chairs</li><li>Plans for the conference</li></ul>
  </ul></li>
  <li>Treasurer's 2010 report (ChrisD)</li>
