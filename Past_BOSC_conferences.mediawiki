@@ -3,6 +3,7 @@ title: Past BOSC conferences
 ---
 
 Previous BOSC conferences:
+* [[BOSC 2010]] Boston, MA USA
 * [[BOSC 2009]] Stockholm, Sweden
 * [[BOSC 2008]] Toronto, Ontario, Canada
 * [[BOSC 2007]] Vienna, Austria
