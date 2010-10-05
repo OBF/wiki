@@ -22,7 +22,7 @@ title: Minutes:2010 ConfCall
   <ul><li> [[Minutes:2010 Financial report| 2010 Financial report]]</li></ul>
  <li> BoD membership and succession.
    <ul>
-    <li>Kam Dahlquist is resigning from the BoD.</li>
+    <li>Kam Dahlquist is resigning from the BoD. Jason Stajich wants to resign in the near future, too.</li>
     <li>Nominations</li>
     <li>Plan to elect new BoD members and rotate officers.</li>
    </ul></li>
