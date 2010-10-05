@@ -23,6 +23,7 @@ Our main activities are:
 * Managing our servers, colocation facilities, bank account & other assets
 
 We are incorporated in the state of Delaware, USA as a not-for-profit company.
+* [[Bylaws | Our bylaws are found on this page.]]
 
 ===BOSC===
 [[BOSC|Bioinformatics Open Source Conference]] (BOSC) is held annually in conjunction with [http://www.iscb.org ISCB's] meeting ISMB.  [[BOSC 2010]] will be held in conjunction with [http://www.iscb.org/ismb2010 ISMB 2010] in Boston, Massachusetts, USA.
