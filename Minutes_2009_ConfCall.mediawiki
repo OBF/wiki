@@ -4,7 +4,7 @@ title: Minutes:2009 ConfCall
 
 =Minutes from the meeting=
 
-=Tentative Agenda=
+= Agenda=
 <ol>
 <li> Old business </li>
  <ul><li> [[Minutes:2008_ConfCall| 2008 BoD meeting minutes]]</li> </ul>  
