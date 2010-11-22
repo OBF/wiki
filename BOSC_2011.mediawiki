@@ -8,4 +8,17 @@ The 12th Annual Bioinformatics Open Source Conference (BOSC) 2011 will be held i
 
 [[BOSC 2010]] was held in Boston, MA, from July 9-10.  Selected, peer-reviewed papers from BOSC 2010 will published in [http://www.biomedcentral.com/bmcbioinformatics/ BMC Bioinformatics].
 
-The deadline for [[BOSC 2011#Abstract_Submission_Information | submitting abstracts]] is April 15, 2011.
+The deadline for [[BOSC 2011#Abstract_Submission_Information | submitting abstracts]] is April 18, 2011.
+
+== Overview ==
+The Bioinformatics Open Source Conference (BOSC) is sponsored by the Open Bioinformatics Foundation (O|B|F), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development within the biological research community. 
+
+Many open source bioinformatics packages are widely used by the research community across many application areas and form a cornerstone in enabling research in the genomic and post-genomic era. Open source bioinformatics software has facilitated rapid innovation, dissemination, and wide adoption of new computational methods, reusable software components, and standards. One of the hallmarks of BOSC is the coming together of the open source developer community in one location to meet face-to-face. This creates synergy where participants can work together to create use cases, prototype working code, or run bootcamps for developers from other projects as short, informal, and hands-on tutorials in new software packages and emerging technologies.  In short, BOSC is not just a conference for presentations of completed work, but is a dynamic meeting where collaborative work gets done and attendees can learn about new or on-going developments that they can directly apply to their own work.
+
+== Important Dates ==
+
+* February 28, 2011:  Call for abstracts opens
+* April 18, 2010: Deadline for submitting abstracts
+* May 9, 2010: Notifications for accepted abstracts e-mailed to corresponding authors
+* May 16, 2010: Deadline for presenters to confirm acceptance of invitation to speak and for authors offered conditional acceptance to come into compliance with requested changes.
+* '''July 15-16, 2011:  BOSC 2011'''
