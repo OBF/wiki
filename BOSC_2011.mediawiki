@@ -50,3 +50,23 @@ The [[OBF|Open Bioinformatics Foundation]], which is the sole sponsor of BOSC, i
 See the following websites for further information:
 * [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
 * [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
+
+== Organizing Committee ==
+
+'''Co-Chairs'''
+
+* Nomi L. Harris (Lawrence Berkeley National Laboratory)
+* Peter Rice (European Bioinformatics Institute)
+
+'''Members'''
+
+* [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer]; Mass General Hospital)
+* Erwin Frise (Lawrence Berkeley National Laboratory)
+* [http://www.bioperl.org/wiki/Darin_London Darin London] (BioPerl Developer, Duke University)
+* Ron Taylor (Pacific Northwest National Laboratory)
+
+'''Ex Officio (Members of the O|B|F Board)'''
+* [http://www.bioperl.org/wiki/Chris_Dagdigian Chris Dagdigian]
+* [http://myweb.lmu.edu/kdahlqui Kam D. Dahlquist] (Loyola Marymount University)
+* [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp]
+* [http://www.bioperl.org/wiki/Jason_Stajich Jason Stajich]
