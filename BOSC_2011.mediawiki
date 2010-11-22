@@ -18,7 +18,7 @@ Many open source bioinformatics packages are widely used by the research communi
 == Important Dates ==
 
 * February 28, 2011:  Call for abstracts opens
-* April 18, 2010: Deadline for submitting abstracts
-* May 9, 2010: Notifications for accepted abstracts e-mailed to corresponding authors
-* May 16, 2010: Deadline for presenters to confirm acceptance of invitation to speak and for authors offered conditional acceptance to come into compliance with requested changes.
+* April 18, 2011: Deadline for submitting abstracts
+* May 9, 2011: Notifications for accepted abstracts e-mailed to corresponding authors
+* May 16, 2011: Deadline for presenters to confirm acceptance of invitation to speak and for authors offered conditional acceptance to come into compliance with requested changes.
 * '''July 15-16, 2011:  BOSC 2011'''
