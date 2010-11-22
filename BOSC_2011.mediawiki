@@ -2,6 +2,10 @@
 title: BOSC 2011
 ---
 
-The 12th Annual Bioinformatics Open Source Conference (BOSC) 2010 will be held immediately before the 19th Annual [International Conference on Intelligent Systems for Molecular Biology (ISMB 2010)|http://www.iscb.org/ismbeccb2011] at the Austria Center in Vienna, Austria. The dates of BOSC 2011 are July 15-16; the main ISMB Conference runs July 17-19,2011. There will also be a Hackathon before BOSC.
+[[Image:Pear.png|right|The Bosc Pear]]
 
-[BOSC 2010] was held in Boston, MA, from July 9-10.  Selected, peer-reviewed papers from BOSC 2010 will published in [BMC Bioinformatics |http://www.biomedcentral.com/bmcbioinformatics/].
+The 12th Annual Bioinformatics Open Source Conference (BOSC) 2011 will be held immediately before the 19th Annual [http://www.iscb.org/ismbeccb2011 International Conference on Intelligent Systems for Molecular Biology (ISMB 2011)] at the Austria Center in Vienna, Austria. The dates of BOSC 2011 are July 15-16; the main ISMB Conference runs July 17-19,2 011. There will also be a Hackathon before BOSC (date and location TB).
+
+[[BOSC 2010]] was held in Boston, MA, from July 9-10.  Selected, peer-reviewed papers from BOSC 2010 will published in [http://www.biomedcentral.com/bmcbioinformatics/ BMC Bioinformatics].
+
+The deadline for [[BOSC 2011#Abstract_Submission_Information | submitting abstracts]] is April 15, 2011.
