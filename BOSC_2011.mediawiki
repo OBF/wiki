@@ -68,7 +68,7 @@ See the following websites for further information:
 
 '''Ex Officio (Members of the O|B|F Board)'''
 * [http://www.bioperl.org/wiki/Chris_Dagdigian Chris Dagdigian]
-* [http://myweb.lmu.edu/kdahlqui Kam D. Dahlquist] (Loyola Marymount University)
+* [http://myweb.lmu.edu/kdahlqui Kam D. Dahlquist]
 * [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp]
 * [http://www.bioperl.org/wiki/Jason_Stajich Jason Stajich]
 
