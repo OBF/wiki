@@ -70,3 +70,12 @@ See the following websites for further information:
 * [http://myweb.lmu.edu/kdahlqui Kam D. Dahlquist] (Loyola Marymount University)
 * [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp]
 * [http://www.bioperl.org/wiki/Jason_Stajich Jason Stajich]
+
+=== Previous BOSCs ===
+
+The first BOSC was held in 2000.  Please see [[Past BOSC conferences|past BOSC conferences]] for information about the first 11 conferences.
+
+=== Contact Us ===
+
+* If you wish to be on the mailing list for BOSC-related announcements, including the call for abstracts and deadline reminders, please subscribe to the [http://lists.open-bio.org/mailman/listinfo/bosc-announce Bosc-announce] list.
+* For more information about the conference, please contact the organizers at [mailto:bosc@openbio.org bosc@open-bio.org].
