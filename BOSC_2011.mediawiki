@@ -61,7 +61,7 @@ See the following websites for further information:
 '''Members'''
 
 * [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer]; Mass General Hospital)
-* Peter Cock (Scottish Crop Research Institute)
+* [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; Scottish Crop Research Institute)
 * Erwin Frise (Lawrence Berkeley National Laboratory)
 * [http://www.bioperl.org/wiki/Darin_London Darin London] (BioPerl Developer, Duke University)
 * Ron Taylor (Pacific Northwest National Laboratory)
