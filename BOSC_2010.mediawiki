@@ -159,7 +159,7 @@ See the following websites for further information:
 
 == First-ever Published BOSC Proceedings ==
 
-The [http://www.biomedcentral.com/1471-2105/11?issue=S12 Proceedings] have been published as of 21 December 2010 in BMC Bioinformatics.
+'''The [http://www.biomedcentral.com/1471-2105/11?issue=S12 Proceedings] have been published as of 21 December 2010 in ''BMC Bioinformatics''.'''
 
 More information can be found on the '''[[BOSC_2010_Proceedings | BOSC 2010 Proceedings internal web site.]]'''
 
