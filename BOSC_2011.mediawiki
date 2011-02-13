@@ -15,6 +15,13 @@ Many open source bioinformatics packages are widely used by the research communi
 
 [[BOSC 2010]] was held in Boston, MA, from July 9-10.  Selected peer-reviewed papers from BOSC 2010 will be published in [http://www.biomedcentral.com/bmcbioinformatics/ BMC Bioinformatics].
 
+== Keynote Speakers ==
+
+=== Lawrence Hunter ===
+
+Lawrence Hunter is Professor of Pharmacology and Computer Science at the University of Colorado and director of the Computational Bioscience Program at the School of Medicine. He is one of the founders of ISMB, a fellow of the ISCB, and well known for contributions in a broad range of problems in computational biology.  Dr. Hunter will be giving a talk entitled:
+"The role of openness in knowledge-based systems for biomedicine." Knowledge-based approaches to the analysis to genome-scale data require the extraction, sharing and use of very large amounts of knowledge about biomedicine.  Developments such as the open source software movement, the Open Biomedical Ontologies, Semantic Web standards such as OWL and SPARQL, and the spread of open access publishing are creating the potential for powerful knowledge-based computer systems that may play an important role in the future of biomedical research.  Yet several critical challenges remain before this vision can be realized.  Dr. Hunter will discuss some relevant recent resources developed in my lab, some of the socio-political barriers that remain, and what you can do to overcome them.
+
 == Important Dates ==
 
 * February 28, 2011:  Call for abstracts opens
