@@ -15,6 +15,12 @@ Many open source bioinformatics packages are widely used by the research communi
 
 [[BOSC 2010]] was held in Boston, MA, from July 9-10.  Selected peer-reviewed papers from BOSC 2010 will be published in [http://www.biomedcentral.com/bmcbioinformatics/ BMC Bioinformatics].
 
+[[File:Eagle_logo_RGB.png‎|120px|right|Eagle Genomics logo]] 
+
+== Sponsors ==
+
+We thank [http://www.eaglegenomics.com/ Eagle Genomics, Ltd.] for its sponsorship of BOSC 2011.
+
 == Keynote Speakers ==
 
 === Lawrence Hunter ===
