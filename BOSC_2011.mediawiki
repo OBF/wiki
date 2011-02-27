@@ -42,7 +42,7 @@ Knowledge-based approaches to the analysis to genome-scale data require the extr
 
 == Abstract Submission Information ==
 
-The deadline for abstract submissions is Monday, April 18, 2011.
+The deadline for abstract submissions is '''Monday, April 18, 2011'''.
 
 Abstracts must be '''one page''' in length and submitted '''as a PDF file only'''.  Please observe the following formatting guidelines:
 * Use 1 inch (2.5 cm) margins on the top, sides, and bottom of the page.
@@ -54,15 +54,15 @@ Abstracts must be '''one page''' in length and submitted '''as a PDF file only''
 ** URL for accessing the code
 ** The particular Open Source License being used
 * The abstracts will be presented "as is" in the program booklet; please help your all-volunteer Organizing Committee by following the formatting guidelines above.
-* '''NOTE: upload your one-page, PDF-formatted abstract to the Open Conference System site as the ''File''.'''  The text box for the ''Abstract'' is optional; the PDF file is what will be reviewed.
+* '''NOTE: upload your one-page, PDF-formatted abstract to the Open Conference System site as the ''File''.'''  Ignore the "Abstract" box (which, unfortunately, cannot be removed from the submission form).
 
-Accepted talks will be 10-20 minutes, depending on the session. You will be notified of the length of your talk upon abstract acceptance.
+Accepted talks will be 5-20 minutes. You will be notified of the length of your talk upon abstract acceptance.
 
 Submissions for Lightning Talks (5 minutes) will be accepted up until the first day of the conference, though submission to the program following the above guidelines is strongly encouraged to facilitate better planning. The open-source license requirement (see below) applies equally to lightning talks.
 
 === Open Source License Requirement ===
 
-The [[OBF|Open Bioinformatics Foundation]], which is the sole sponsor of BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the biological research community. For this reason, if a submitted talk proposal concerns a specific software system for use by the research community, then that software must be licensed with a recognized Open Source License, and be available for download, including source code, by a tar/zip file accessed through ftp/http or through a widely used version control system like cvs/subversion/git/bazaar/Mercurial.
+The [[OBF|Open Bioinformatics Foundation]], which sponsors BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the biological research community. For this reason, if a submitted talk proposal concerns a specific software system for use by the research community, then that software must be licensed with a recognized Open Source License, and be available for download, including source code, by a tar/zip file accessed through ftp/http or through a widely used version control system like cvs/subversion/git/bazaar/Mercurial.
 
 See the following websites for further information:
 * [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
