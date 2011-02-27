@@ -44,16 +44,16 @@ Knowledge-based approaches to the analysis to genome-scale data require the extr
 
 The deadline for abstract submissions is '''Monday, April 18, 2011'''.
 
-Abstracts must be '''one page''' in length and submitted '''as a PDF file only'''.  Please observe the following formatting guidelines:
+Abstracts must be '''one page''' in length and submitted '''as a PDF or Microsoft Word file only'''.  Please observe the following formatting guidelines:
 * Use 1 inch (2.5 cm) margins on the top, sides, and bottom of the page.
-* List the following elements in order from the top of the page:
+* Include the following pieces of information in order from the top of the page:
 ** Title
 ** Authors, with the presenting author's name underlined.
 ** Author affiliations, including the e-mail address of the presenting author.
 ** URL for the overall project web site
 ** URL for accessing the code
 ** The particular Open Source License being used
-* The abstracts will be presented "as is" in the program booklet; please help your all-volunteer Organizing Committee by following the formatting guidelines above.
+* The abstracts will be printed "as is" in the program booklet; please help your all-volunteer Organizing Committee by following the formatting guidelines above.
 * '''NOTE: upload your one-page, PDF-formatted abstract to the Open Conference System site as the ''File''.'''  Ignore the "Abstract" box (which, unfortunately, cannot be removed from the submission form).
 
 Accepted talks will be 5-20 minutes. You will be notified of the length of your talk upon abstract acceptance.
