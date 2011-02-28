@@ -19,7 +19,7 @@ Many open source bioinformatics packages are widely used by the research communi
 
 == Sponsors ==
 
-We thank [http://www.eaglegenomics.com/ Eagle Genomics, Ltd.] for its sponsorship of BOSC 2011.
+We thank [http://www.eaglegenomics.com/ Eagle Genomics, Ltd.] and an anonymous donor for sponsoring three [[BOSC_2011#Student_Travel_Awards | Student Travel Awards]] at BOSC 2011.
 
 == Keynote Speakers ==
 
