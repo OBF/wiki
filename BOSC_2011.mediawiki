@@ -4,7 +4,7 @@ title: BOSC 2011
 
 [[Image:Pear.png|right|The Bosc Pear]]
 
-The 12th Annual Bioinformatics Open Source Conference (BOSC 2011) will be held immediately before the 19th Annual [http://www.iscb.org/ismbeccb2011 International Conference on Intelligent Systems for Molecular Biology (ISMB 2011)] at the Austria Center in Vienna, Austria. The dates of BOSC 2011 are July 15-16; the main ISMB Conference runs July 17-19, 2011. Participants are also invited to [[Codefest 2011]], July 13-14.
+The 12th Annual Bioinformatics Open Source Conference (BOSC 2011) will be held immediately before the 19th Annual [http://www.iscb.org/ismbeccb2011 International Conference on Intelligent Systems for Molecular Biology (ISMB 2011)] at the Austria Center in Vienna, Austria. BOSC 2011 will take place July 15-16; the main ISMB Conference will be July 17-19, 2011. Participants are also invited to [[Codefest 2011]], July 13-14.
 
 '''The deadline for [[BOSC 2011#Abstract_Submission_Information | submitting abstracts]] is April 18, 2011.
 '''
