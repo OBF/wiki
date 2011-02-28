@@ -71,7 +71,6 @@ See the following websites for further information:
 
 == Sessions ==
 
-
 * '''Approaches to parallel processing''' --  This session will cover data-parallel approaches to analyzing the massive data sets from next-generation sequencing and mass spec proteomics, or reports on the parallelization of bioinformatics algorithms in general.
 * '''Cloud-based approaches to improving software and data accessibility''' -- The emergence of [http://en.wikipedia.org/wiki/Cloud_computing cloud computing] has made highly scalable cluster computing available to computational biologists. Services such as [http://aws.amazon.com/ec2/ Amazon Elastic Compute Cloud] combined with [http://aws.amazon.com/publicdatasets/#1 publicly available datasets] promise to lower the overhead to participate in large scale data analyses. Talks will focus on how the community can build up resources and datasets for cloud infrastructure, as well as the sharing of insights, and the contribution of implemented workflows.
 * '''The Semantic Web in open source bioinformatics''' -- Software that employs semantic web technology: Existing databases such as UniProt are now being made fully available in [http://dev.isb-sib.ch/projects/uniprot-rdf/ RDF] format, and new repositories such as [http://bio2rdf.org/ Bio2RDF] are being built upon RDF and are allowing RDF-based query language use (e.g., SPARQL). This session is devoted to reports on software that works with such new data stores, or aids in their development, as well as descriptions of software that pertains to ontology building or maintenance.  We also solicit talks about projects that employ information management architectures/frameworks such as UIMA, an open source project in Apache Incubator status, that facilitate integration of semantic analysis and search components.
@@ -80,6 +79,14 @@ See the following websites for further information:
 * '''Shared topics with other SIGs''': A session in which participants in other ISMB SIGs can make brief presentations about open source software to a wider audience, allowing BOSC attendees to hear about open source projects in other biology-related areas and for participants in specialized SIGs to meet other open source developers and form collaborations.
 
 In addition to the above sessions, there will be a panel discussion about '''Meeting the challenges of inter-institutional collaboration'''.  Many open source projects involve collaborators from organizations all over the world.  Participants in this panel discussion will comment on how their projects have dealt with the challenges that arise from these multi-institution collaborations.  Please let us know if you would like to be a panelist.
+
+== Student Travel Awards ==
+
+Thanks to generous sponsorship from [http://www.eaglegenomics.com/ Eagle Genomics] and an anonymous donor, we are pleased to announce the competition for three Student Travel Awards for BOSC 2011.  Each winner will be awarded $250 to defray the costs of travel to BOSC 2011.
+* To apply for the award, submit your abstract by the April 18 deadline through the Open Conference Systems site.
+* Be sure to check the box indicating that you are a student.
+* Your abstract will undergo the normal review process for BOSC.  The BOSC Organizing Committee will review the student abstracts and pick the three best abstracts for the Student Travel Awards.
+* You will still need to make your own travel arrangements for BOSC.  The award will take the form of a reimbursement check after the conference.
 
 == Organizing Committee ==
 
