@@ -68,6 +68,10 @@ See the following websites for further information:
 * [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
 * [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
 
+=== Posters ===
+
+This year, BOSC will include a poster session.  You can indicate at the top of your abstract whether you'd like to be considered for a talk, a poster, or both.  (All speakers will also have the opportunity to present posters.)
+
 == Sessions ==
 
 
