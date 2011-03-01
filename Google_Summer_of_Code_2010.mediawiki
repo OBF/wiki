@@ -1,0 +1,33 @@
+---
+title: Google Summer of Code 2010
+---
+
+[[Image:Gsoc_2010_logo.jpg|right|link=http://code.google.com/soc]] 
+
+The OBF was accepted into the 2010 [http://code.google.com/soc Google Summer of Code] (GSoC) program as an umbrella organization for all OBF-affiliated projects. [http://socghop.appspot.com/document/show/gsoc_program/google/gsoc2010/timeline Program Timeline].
+
+== 2010 Funded Students and Projects (6 students) ==
+
+=== BioJava: Improvements including Implementation of Multiple Sequence Alignment Algorithms ===
+
+student [http://biojava.org/wiki/Mark_Chapman Mark Chapman], primary mentor [http://biojava.org/wiki/Andreas_Prlic Andreas Prlic], [http://biojava.org/wiki/GSoC:MSA overview and updates]
+
+=== BioJava: Packages for Identification, Classification, and Visualization of Posttranslational Modification of Proteins ===
+
+student [http://www.biojava.org/wiki/Jianjiong_Gao Jianjiong Gao], primary mentor [http://www.linkedin.com/in/peterrose Peter Rose], [http://www.biojava.org/wiki/GSoC:PTM more information on this project]
+
+=== BioPerl: BioPerl Alignment Subsystem Refactoring ===
+
+student Jun Yin, primary mentor [http://bioperl.org/wiki/User:Cjfields Chris Fields], secondary mentor [http://bioperl.org/wiki/User:Majensen Mark Jensen], [http://bioperl.org/wiki/Google_Summer_of_Code#Alignment_Subsystem_Refactoring more information on this project], [http://gsoc2010-junyin.blogspot.com/ overview and updates]
+
+=== BioPython: Extending Bio.PDB: broadening the usefulness of BioPython’s Structural Biology module ===
+
+student [http://www.biopython.org/wiki/User:Joaor João Rodrigues], primary mentor [http://eric.talevich.com/ Eric Talevich], [http://www.biopython.org/wiki/GSOC2010_Joao Weekly Schedule & Progress Overview], [http://github.com/JoaoRodrigues/biopython/tree/GSOC2010 Project's Code on GitHub]
+
+=== BioRuby: Ruby 1.9.2 support of BioRuby ===
+
+student Kazuhiro Hayashi, primary mentor Naohisa Goto, [http://gsoc2010kh.blogspot.com/ overview and updates]
+
+=== BioRuby: Implementing Speciation & Duplication Inference Algorithm for Binary and Non-binary Species Tree ===
+
+student Sara Rayburn, primary mentor [http://www.linkedin.com/in/cmzmasek Christian Zmasek], secondary mentor Diana Jaunzeikare, [http://wiki.github.com/srayburn/bioruby/gsoc-2010-implementing-sdi-project-updates overview and updates]
