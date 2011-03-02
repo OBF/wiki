@@ -42,6 +42,8 @@ Knowledge-based approaches to the analysis to genome-scale data require the extr
 
 == Abstract Submission Information ==
 
+[http://events.open-bio.org/BOSC2011/author/submit.php Submit your abstract here!]
+
 The deadline for abstract submissions is '''Monday, April 18, 2011'''.
 
 Abstracts must be '''one page''' in length and submitted '''as a PDF or Microsoft Word file only'''.  Please observe the following formatting guidelines:
@@ -59,7 +61,9 @@ Abstracts must be '''one page''' in length and submitted '''as a PDF or Microsof
 
 Accepted talks will be 5-20 minutes. You will be notified of the length of your talk upon abstract acceptance.
 
-This year, BOSC will include a poster session.  Please indicate in the information section of your abstract whether you'd like to be considered for a talk, a poster, or both.  (All speakers will also have the opportunity to present posters.)
+This year, BOSC will include a poster session.  Please indicate in the header section of your abstract whether you'd like to be considered for a talk, a poster, or both.  (All speakers will also have the opportunity to present posters.)
+
+[http://events.open-bio.org/BOSC2011/author/submit.php Click here to submit your abstract]
 
 === Open Source License Requirement ===
 
