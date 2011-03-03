@@ -57,7 +57,6 @@ Abstracts must be '''one page''' in length and submitted '''as a PDF or Microsof
 ** The particular Open Source License being used
 ** Whether you would like your abstract to be considered for a talk, a poster, or both.
 * The abstracts will be printed "as is" in the program booklet; please help your all-volunteer Organizing Committee by following the formatting guidelines above.
-* '''NOTE: upload your one-page, PDF-formatted abstract to the Open Conference System site as the ''File''.'''  Ignore the "Abstract" box (which, unfortunately, cannot be removed from the submission form).
 
 Accepted talks will be 5-20 minutes. You will be notified of the length of your talk upon abstract acceptance.
 
