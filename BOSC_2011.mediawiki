@@ -13,6 +13,8 @@ The Bioinformatics Open Source Conference (BOSC) is sponsored by the Open Bioinf
 
 Many open source bioinformatics packages are widely used by the research community across many application areas and form a cornerstone in enabling research in the genomic and post-genomic era. Open source bioinformatics software has facilitated rapid innovation, dissemination, and wide adoption of new computational methods, reusable software components, and standards. One of the hallmarks of BOSC is the coming together of the open source developer community in one location to meet face-to-face. This creates synergy where participants can work together to create use cases, prototype working code, or run bootcamps for developers from other projects as short, informal, and hands-on tutorials in new software packages and emerging technologies.  In short, BOSC is not just a conference for presentations of completed work, but is a dynamic meeting where collaborative work gets done and attendees can learn about new or on-going developments that they can directly apply to their own work.
 
+Please spread the word about BOSC to interested developers; all are welcome. On twitter, we recommend the hash tag #bosc2011.
+
 [[BOSC 2010]] was held in Boston, MA, from July 9-10.  Selected peer-reviewed papers from BOSC 2010 were be published in [http://www.biomedcentral.com/1471-2105/11?issue=S12 BMC Bioinformatics] on 21 December, 2010.
 
 <div style="float:right; background-color: #FFFFFF">[[File:Eagle_logo_CMYK.jpg‎|120px|right|Eagle Genomics logo|link=http://www.eaglegenomics.com/]]</div>
