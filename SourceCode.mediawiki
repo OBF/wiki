@@ -4,7 +4,7 @@ title: SourceCode
 
 =Anonymous access to the latest hosted source code repositories=
 
-The following OBF supported projects originally used CVS and/or SVN hosted by the OBF, but are now using git hosted on [[http://hithub.com github.com]]:
+The following OBF supported projects originally used CVS and/or SVN hosted by the OBF, but are now using git hosted on [http://hithub.com github.com]:
 
     * [http://www.bioruby.org BioRuby] uses http://github.com/bioruby/bioruby
     * [http://www.biopython.org Biopython] uses http://github.com/biopython/biopython
