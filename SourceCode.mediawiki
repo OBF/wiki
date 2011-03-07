@@ -2,14 +2,14 @@
 title: SourceCode
 ---
 
+=Anonymous access to the latest hosted source code repositories=
+
 The following OBF supported projects originally used CVS and/or SVN hosted by the OBF, but are now using git hosted on [[http://hithub.com github.com]]:
 
     * [http://www.bioruby.org BioRuby] uses http://github.com/bioruby/bioruby
     * [http://www.biopython.org Biopython] uses http://github.com/biopython/biopython
     * [http://www.bioperl.org BioPerl] uses http://github.com/bioperl
     * [http://www.biosql.org BioSQL] uses http://github.com/biosql/biosql
-
-=Anonymous access to the latest hosted source code repositories=
 
 This page documents the process of obtaining anonymous [[wp:Concurrent_Versions_System | CVS]], [[wp:SVN | SVN]] or [[wp:Rsync | RSYNC]] based access to the source code repositories hosted by the Open Bioinformatics Foundation. These methods are useful for obtaining cutting edge sourcecode and developer snapshots:
 
