@@ -16,9 +16,9 @@ GPL v2
 
 ;Why is your organization applying to participate in GSoC 2010? What do you hope to gain by participating? (required):
 
-There are a lot of good reasons to apply for GSoC, but the most important for us is the opportunity to hopefully recruit and retain new, competent contributors for our projects.  In fact, even if a student does not go on to be a regular contributor, they would still be much more likely to consider a career in bioinformatics or medical informatics after a summer working with us.  And if there's one thing that bioinformatics needs, it is more good software developers!  But not just good developers, ones with biological domain knowledge, or enough intellectual curiosity to develop the necessary domain knowledge. 
+There are a lot of good reasons to apply for GSoC, but the most important for us is the opportunity to hopefully recruit and retain new, competent contributors for our projects. In fact, even if a student does not go on to be a regular contributor, they would still be much more likely to consider a career in bioinformatics or medical informatics after a summer working with us. And if there's one thing that bioinformatics needs, it is more good software developers! But not just good developers, ones with biological domain knowledge, or enough intellectual curiosity to develop the necessary domain knowledge.
 
-A program like GSoC is a great opportunity to cultivate some of the next generation of bioinformatics developers.  Based on our experience with a few GSoC students we've had work on our projects (through NESCent), they do good work. 
+A program like GSoC is a great opportunity to cultivate some of the next generation of bioinformatics developers. Based on our experience with GSoC students last year, they do good work.
 
 ;Did your organization participate in past GSoCs? If so, please summarize your involvement and the successes and challenges of your participation. (required):
 
@@ -28,7 +28,7 @@ The main reason that OBF is applying as a separate organization (apart from TPF 
 
 ;If your organization participated in past GSoCs, please let us know the ratio of students passing to students allocated, e.g. 2006 3/6 for 3 out of 6 students passed in 2006. (required) :
 
-OBF has not directly participated.
+2010: 5/6
 
 ;Add a Comment (optional):
 
@@ -59,7 +59,7 @@ http://open-bio.org/wiki/Google_Summer_of_Code
 
 ;What is the main IRC channel for your organization? (required):
 
-BioPerl has an IRC channel, #bioperl on freenode.  The other subprojects do not maintain IRC channels.  Depending on the number of GSoC students we end up with and their working habits, we will most likely create an #obf-soc or similar channel to coordinate student and mentor work, if OBF is accepted as a mentoring organization.
+#obf-soc for GSoC students, #bioperl for BioPerl.  Other subprojects do not have IRC channels.  All on freenode.
 
 ;Add a Comment (optional):
 
