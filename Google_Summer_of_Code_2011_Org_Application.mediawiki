@@ -22,9 +22,7 @@ A program like GSoC is a great opportunity to cultivate some of the next generat
 
 ;Did your organization participate in past GSoCs? If so, please summarize your involvement and the successes and challenges of your participation. (required):
 
-The OBF has applied for GSoC in past years, but has not been accepted so far.  The past two years, some of the GSoC students working under NESCent's aegis have made some contributions to our projects, but those have necessarily been related to our toolkits' support for comparative genomics, evolution, phylogeny, and so forth, since those are in NESCent's domain.  However, we have a lot of opportunities for student contributions in areas outside of NESCent's purview, for example, in more technical areas of project build systems and refactoring, or other more fundamental areas of bioinformatics such as sequence alignment, assembly, annotation, and so forth.
-
-The main reason that OBF is applying as a separate organization (apart from TPF and NESCent) is to get some GSoC students to work in these areas.
+The OBF had a great crop of students for GSoC 2010.  Six students, only one of which failed.  Of the five that passed, all of them did outstanding work, learning a lot.  Administering the program for OBF was surprisingly easy.  People in the (mostly academic) bioinformatics community tend to be very independent workers, and five of the six mentor-student teams coordinated, collaborated, and did excellent work.  The only hiccup was when one of the students disappeared (due to mis-managed commitments) about halfway through the summer and we had to fail them.  We were a bit slow to respond in that case, I wish we had been a bit faster to notice.  However, we still failed him within a reasonable time frame, before he collected his final payment.  I'd like us to be a bit faster this year though.
 
 ;If your organization participated in past GSoCs, please let us know the ratio of students passing to students allocated, e.g. 2006 3/6 for 3 out of 6 students passed in 2006. (required) :
 
