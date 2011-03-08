@@ -57,7 +57,7 @@ http://open-bio.org/wiki/Google_Summer_of_Code
 
 ;What is the main IRC channel for your organization? (required):
 
-#obf-soc for GSoC students, #bioperl for BioPerl.  Other subprojects do not have IRC channels.  All on freenode.
+#obf-soc for GSoC students, #bioperl for BioPerl, #bioruby for BioRuby.  Other subprojects do not currently have IRC channels.  All on freenode.
 
 ;Add a Comment (optional):
 
