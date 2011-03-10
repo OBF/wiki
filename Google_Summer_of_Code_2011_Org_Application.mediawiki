@@ -83,14 +83,6 @@ All students will be subscribed to the developer mailing list of the relevant pr
 
 For mentors, they will of course be referred to the excellent materials developed by previous GSoC mentors.  In particular, within 2 weeks of OBF getting accepted as a mentoring organization, each mentor will be required to read through the new mentoring guide (http://en.flossmanuals.net/GSoCMentoringGuide), and the organization administrator will follow up with each of them to make sure that they have read and absorbed the wisdom therein.  A number of the OBF mentor volunteers have previous experience mentoring students for GSoC as well.
 
-;What will you do to ensure that your accepted students stick with the project after GSoC concludes? (required):
-
-The two most important indicators for a student's continued participation are 1.) the student's career path continuing in biology and bioinformatics, and 2.) the quality and success of the student's GSoC experience.
-
-Let's face it, it's unlikely that someone would continue as a regular contributor to open-source bioinformatics toolkits without it being related to their career in biology or bioinformatics in some way.  That aspect is mostly out of our control, but we can influence that somewhat by which students we pick to fill whatever GSoC slots would be allocated to our organization.
-
-With respect to the quality of the experience, responsibility for that lies primarily with the mentors, guided by the organization administrator.  If they have a good, realistic project (preferably one that they thought up themselves), and we keep them engaged and on track for the summer, and bring it to a successful conclusion, that's about as much as one can ask for.
-
 ;Is there anything else you would like to tell the Google Summer of Code program administration team? (required):
 
 No, I think we've made our case.
