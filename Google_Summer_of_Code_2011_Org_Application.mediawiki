@@ -83,6 +83,14 @@ All students will be subscribed to the developer mailing list of the relevant pr
 
 For mentors, they will of course be referred to the excellent materials developed by previous GSoC mentors.  In particular, within 2 weeks of OBF getting accepted as a mentoring organization, each mentor will be required to read through the new mentoring guide (http://en.flossmanuals.net/GSoCMentoringGuide), and the organization administrator will follow up with each of them to make sure that they have read and absorbed the wisdom therein.  A number of the OBF mentor volunteers have previous experience mentoring students for GSoC as well.
 
+;If you are a small or new organization applying to GSoC, please list a larger, established GSoC organization or a Googler that can vouch for you here.:
+
+If needed, the Perl Foundation and the Parrot Foundation can certainly vouch for us.
+
+;If you are a large organization who is vouching for a small organization applying to GSoC for their first time this year, please list their name and why you think they'd be good candidates for GSoC here.:
+
+I heard that the GMOD project is putting in an org application this year, I can certainly vouch for them as a real, important, and well-run organization.
+
 ;Is there anything else you would like to tell the Google Summer of Code program administration team? (required):
 
 No, I think we've made our case.
