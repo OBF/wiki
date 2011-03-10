@@ -17,8 +17,8 @@ See the [http://code.google.com/soc Main GSoC Site] for more information and FAQ
 Mentors and project ideas are hosted on each member project's wiki on a dedicated Google Summer of Code page.  See each of the member projects, linked below, for more details about any project:
 
 * [http://bioperl.org/wiki/Google_Summer_of_Code#Major_BioPerl_reorganization (BioPerl) Major BioPerl reorganization]
-* [http://bioperl.org/wiki/Google_Summer_of_Code#Lightweight_Sequence_objects_and_Lazy_Parsing (BioPerl) Lightweight Sequence objects and Lazy Parsing]
-* [http://bioperl.org/wiki/Google_Summer_of_Code#Perl_Run_Wrappers_for_External_Programs_in_a_Flash (BioPerl) Perl Run Wrappers for External Programs in a Flash]
+* [http://bioperl.org/wiki/Google_Summer_of_Code#Lightweight.2FLazy_BioPerl_Classes (BioPerl) Lightweight Sequence objects and Lazy Parsing]
+* [http://bioperl.org/wiki/Google_Summer_of_Code#Perl_Run_Wrappers_for_External_Programs_in_a_Flash (BioPerl) Perl Generic Wrappers for External Programs]
 * [http://bioperl.org/wiki/Google_Summer_of_Code#BioPerl_2.0_.28and_beyond.29 (BioPerl) BioPerl 2.0: Modern::Perl, Perl6, and BioPerl]
 * [http://biopython.org/wiki/Google_Summer_of_Code#Biopython_and_PyCogent_interoperability (Biopython) Biopython and PyCogent interoperability]
 * [http://biopython.org/wiki/Google_Summer_of_Code#Galaxy_phylogenetics_pipeline_development (Biopython) Galaxy phylogenetics pipeline development]
