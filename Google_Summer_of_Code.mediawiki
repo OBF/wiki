@@ -33,8 +33,8 @@ Mentors and project ideas are hosted on each member project's wiki on a dedicate
 * [http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Modular_annotation_knowledge_base_for_BioRuby (BioRuby) Modular annotation knowledge base for BioRuby]
 * [http://biolib.open-bio.org/wiki/GSoC2011 (Biolib) Mapping JAVA libraries to Perl/Ruby/Python using Biolib+SWIG+JNI (2011)]
 * [http://biolib.open-bio.org/wiki/GSoC2011 (Biolib) Mapping EMBOSS to Perl, Ruby or Python using BioLib+SWIG+EMBOSS (2011)]
-* [http://www.biodas.org/wiki/GSoC2010 (BioDAS) Redesign of the DAS Registry]
-* [http://www.biodas.org/wiki/GSoC2010 (BioDAS) DAS Server for large files on local filesystems]
+* [http://www.biodas.org/wiki/GSoC2011 (BioDAS) Redesign of the DAS Registry]
+* [http://www.biodas.org/wiki/GSoC2011 (BioDAS) DAS Server for large files on local filesystems]
 
 ''Note to students: project ideas on the wikis of member projects are only selected projects, albeit well thought-out ones. You are encouraged to propose your own project, just make sure it is still a contribution to one the OBF member projects (see list below)! If we like your proposal, we will try to find a mentor to help you with the project.  Regardless of what you decide to do, make sure you read and follow the [[#What_should_prospective_students_know.3F|guidelines for students]] below.''
 
