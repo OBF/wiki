@@ -107,7 +107,7 @@ Some mentors and developers can regularly be found on IRC, see the list of OBF p
 :* [http://bioruby.org Project website]
 :* [http://lists.open-bio.org/mailman/listinfo/bioruby developers mailing list]
 :* [http://github.com/bioruby/bioruby/tree/master source code]
-:* No IRC channel at present
+:* IRC: <code>#bioruby</code> on [http://freenode.net Freenode]
 
 [[Image:BioSQL_logo.png|160px|right|link=biosql:Main Page]]
 ; [[biosql:Main Page|BioSQL]] :
