@@ -27,9 +27,9 @@ We thank [http://www.eaglegenomics.com/ Eagle Genomics, Ltd.] and an anonymous d
 
 === Lawrence Hunter ===
 
-Lawrence Hunter is Professor of Pharmacology and Computer Science at the University of Colorado and director of the Computational Bioscience Program at the School of Medicine. He is one of the founders of ISMB, a fellow of the ISCB, and well known for contributions in a broad range of problems in computational biology.  Dr. Hunter will be giving a talk entitled ''The role of openness in knowledge-based systems for biomedicine.''
+Lawrence Hunter is Professor of Pharmacology and Computer Science at the University of Colorado and director of the Computational Bioscience Program at the School of Medicine. He is one of the founders of ISMB, a fellow of the ISCB, and is well known for contributions in a broad range of problems in computational biology.
 
-Knowledge-based approaches to the analysis to genome-scale data require the extraction, sharing and use of very large amounts of knowledge about biomedicine.  Developments such as the open source software movement, the Open Biomedical Ontologies, Semantic Web standards such as OWL and SPARQL, and the spread of open access publishing are creating the potential for powerful knowledge-based computer systems that may play an important role in the future of biomedical research.  Yet several critical challenges remain before this vision can be realized.  Dr. Hunter will discuss some relevant recent resources developed in my lab, some of the socio-political barriers that remain, and what you can do to overcome them.
+Dr. Hunter will be giving a talk entitled ''The role of openness in knowledge-based systems for biomedicine.''  Knowledge-based approaches to the analysis to genome-scale data require the extraction, sharing and use of very large amounts of knowledge about biomedicine.  Developments such as the open source software movement, the Open Biomedical Ontologies, Semantic Web standards such as OWL and SPARQL, and the spread of open access publishing are creating the potential for powerful knowledge-based computer systems that may play an important role in the future of biomedical research.  Yet several critical challenges remain before this vision can be realized.  Dr. Hunter will discuss some relevant recent resources developed in my lab, some of the socio-political barriers that remain, and what you can do to overcome them.
 
 === Matt Wood ===
 
@@ -42,7 +42,7 @@ sequenced DNA in Hinxton and developed scientific software in Cambridge.
 He is a frequent speaker at international conferences, a blogger,
 published author and an advocate of research productivity.
 
-The title of Matt's talk will be 'Into the Wonderful', and will feature a
+Matt's talk, entitled [i]Into the Wonderful[i], will feature a
 discussion of the constraints of working with the size, scope and
 complexity of modern research data, and how cloud computing can help
 accelerate academic research, collaboration and reproducibility.
