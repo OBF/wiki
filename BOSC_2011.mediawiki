@@ -44,8 +44,12 @@ published author and an advocate of research productivity.
 
 Matt's talk, entitled ''Into the Wonderful'', will feature a
 discussion of the constraints of working with the size, scope and
-complexity of modern research data, and how cloud computing can help
-accelerate academic research, collaboration and reproducibility.
+complexity of modern research data, and how cloud computing can help accelerate
+academic research. We'll take a look at the current state of the art, the
+role cloud computing plays in increasing the impact of open source tools,
+the use of public hosted data in the cloud and how academic cloud
+platforms can help promote collaboration, reproducibility and reuse across
+disciplines.
 
 == Important Dates ==
 
