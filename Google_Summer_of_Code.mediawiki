@@ -56,6 +56,7 @@ IRC is the preferred method of real-time communication between GSoC participants
 
 ;Main OBF GSoC Channel: <code>#obf-soc</code>
 ;BioPerl: <code>#bioperl</code>
+;BioRuby: <code>#bioruby</code>
 
 === Email ===
 
