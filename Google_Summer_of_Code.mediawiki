@@ -62,17 +62,17 @@ IRC is the preferred method of real-time communication between GSoC participants
 
 For prospective students, the first point of contact should be the mailing list of the OBF project you are interested in working with:
 
-;BioPerl: [mailto:bioperl-l%40lists%2eopen-bio%2eorg bioperl-l&#64;lists&#46;open-bio&#46;org]
-;BioPython: [mailto:biopython%40lists%2eopen-bio%2eorg biopython&#64;lists&#46;open-bio&#46;org]
-;BioJava: [mailto:biojava-l%40lists%2eopen-bio%2eorg biojava-l&#64;lists&#46;open-bio&#46;org]
-;BioRuby: [mailto:bioruby%40lists%2eopen-bio%2eorg bioruby&#64;lists&#46;open-bio&#46;org]
-;BioSQL: [mailto:biosql-l%40lists%2eopen-bio%2eorg biosql-l&#64;lists&#46;open-bio&#46;org]
-;BioLib: [mailto:biolib-dev%40lists%2eopen-bio%2eorg biolib-dev&#64;lists&#46;open-bio&#46;org]
+;BioPerl: [mailto:bioperl-l@lists.open-bio.org bioperl-l@lists.open-bio.org]
+;BioPython: [mailto:biopython@lists.open-bio.org biopython@lists.open-bio.org]
+;BioJava: [mailto:biojava-l@lists.open-bio.org biojava-l@lists.open-bio.org]
+;BioRuby: [mailto:bioruby@lists.open-bio.org bioruby@lists.open-bio.org]
+;BioSQL: [mailto:biosql-l@lists.open-bio.org biosql-l@lists.open-bio.org]
+;BioLib: [mailto:biolib-dev@lists.open-bio.org biolib-dev@lists.open-bio.org]
 ;BioDAS: [mailto:das@lists.open-bio.org das@lists.open-bio.org]
 
 Also, it would be a good idea to CC the organization administrator, so he can make sure that you are properly taken care of:
 
-;Organization administrator: [[User:RobertBuels|Robert Buels]] ([mailto:rmb32%40cornell%2eedu rmb32&#64;cornell&#46;edu])
+;Organization administrator: [[User:RobertBuels|Robert Buels]] ([mailto:rmb32@cornell.edu rmb32@cornell.edu])
 ;Backup administrator: [[User:Lapp|Hilmar Lapp]] ([mailto:hlapp%40gmx%2enet hlapp&#64;gmx&#46;net])
 
 If you are not quite sure which project you would like to contribute to, you can email to the organization administrator for help.  However, do not worry overly much about picking the right OBF project at the outset.  If you are unsure, simply make your best guess, and other members of the email list will help you to find the best organization to suit your idea.
