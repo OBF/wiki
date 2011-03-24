@@ -75,12 +75,11 @@ Abstracts must be '''one page''' in length and submitted '''as a PDF or Microsof
 ** URL for the overall project web site
 ** URL for accessing the code
 ** The particular Open Source License being used
-** Whether you would like your abstract to be considered for a talk, a poster, or both.
 * The abstracts will be printed "as is" in the program booklet; please help your all-volunteer Organizing Committee by following the formatting guidelines above.
 
 Accepted talks will be 5-20 minutes. You will be notified of the length of your talk upon abstract acceptance.
 
-This year, BOSC will include a poster session.  Please indicate in the header section of your abstract whether you'd like to be considered for a talk, a poster, or both.  (All speakers will also have the opportunity to present posters.)
+This year, BOSC will include a poster session.  All speakers will also have the opportunity to present posters.  In addition, abstracts for which there is not enough time to allocate a talk may be selected for poster presentation.
 
 [http://events.open-bio.org/BOSC2011/author/submit.php Click here to submit your abstract]
 
