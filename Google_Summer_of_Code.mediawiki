@@ -145,9 +145,9 @@ Some mentors and developers can regularly be found on IRC, see the list of OBF p
 === Before you apply ===
 
 * Proposals should extend one of affiliated toolkits, not start a new project.
-* If you want to apply with your own idea, try to [[#Contact|contact us]] early on so we can work with you to find a mentor and solidify your project idea and application.
-* [[#Contact|Ask us questions]] about the project idea you have in mind.
-* Write a project proposal draft, include a project plan (see below), and [[#Contact|bounce those off of us]].
+* If you want to apply with your own idea, it's best to [[#Contact|contact]] the OBF subproject you're interested in well before the application deadline, so we can work with you to find a mentor and solidify your project idea and application.
+* [[#Contact|Ask us questions]] on the subproject mailing lists about the project idea you have in mind.
+* Write a project proposal draft, include a project plan (see below), and [[#Contact|send it to a project mailing list]] for comments before submitting it.
 
 Again, '''students are strongly encouraged to [[#Contact|contact us]] as early as possible'''. Frequent and early communication is extremely valuable for putting together successful projects.
 
