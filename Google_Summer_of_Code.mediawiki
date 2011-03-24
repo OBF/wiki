@@ -70,7 +70,7 @@ For prospective students, the first point of contact should be the mailing list 
 ;BioLib: [mailto:biolib-dev%40lists%2eopen-bio%2eorg biolib-dev&#64;lists&#46;open-bio&#46;org]
 ;BioDAS: [mailto:das@lists.open-bio.org das@lists.open-bio.org]
 
-Also, it would be a good idea to CC the organization adminstrator, so he can make sure that you are properly taken care of:
+Also, it would be a good idea to CC the organization administrator, so he can make sure that you are properly taken care of:
 
 ;Organization administrator: [[User:RobertBuels|Robert Buels]] ([mailto:rmb32%40cornell%2eedu rmb32&#64;cornell&#46;edu])
 ;Backup administrator: [[User:Lapp|Hilmar Lapp]] ([mailto:hlapp%40gmx%2enet hlapp&#64;gmx&#46;net])
