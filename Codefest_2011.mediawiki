@@ -22,6 +22,7 @@ Metalab has a nice [http://metalab.at/wiki/Lage location map]. We'll be counting
 == Attendees ==
 
 * [http://bcbio.wordpress.com/ Brad Chapman]
+* [[User:Lapp| Hilmar Lapp]]
 * [http://blog.malde.org/ Ketil Malde] from the [http://biohaskell.org Biohaskell]...er, crowd.
 * Thomas Down from [http://biodas.org/ DAS]/[http://www.biodalliance.org/ Biodalliance].
 * Raoul J.P. Bonnal from [http://bioruby.org BioRuby]
