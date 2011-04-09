@@ -15,7 +15,7 @@ The goals for the two days are determined entirely by developers. We welcome you
 
 == Location ==
 
-We are being kindly hosted by the [http://metalab.at/wiki/English Metalab Hacker space] in Vienna. Check out their [http://log.metalab.at/ daily web log] to get a feel for life in the lab.
+We are being kindly hosted by the [http://metalab.at/wiki/English Metalab Hacker space] in Vienna. Check out their [http://log.metalab.at/ daily web log] to get a feel for life in the lab, and the [http://metalab.at/wiki/OpenBio_Codefest_2011 Metalab Codefest page].
 
 Metalab has a nice [http://metalab.at/wiki/Lage location map]. We'll be counting on local residents to help with additional detailed directions.
 
