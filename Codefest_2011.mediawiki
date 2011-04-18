@@ -27,5 +27,7 @@ Metalab has a nice [http://metalab.at/wiki/Lage location map]. We'll be counting
 * Thomas Down from [http://biodas.org/ DAS]/[http://www.biodalliance.org/ Biodalliance].
 * Raoul J.P. Bonnal from [http://bioruby.org BioRuby]
 * Peter Cock from [http://biopyton.org Biopython]
+* Hervé Ménager from the [https://projets.pasteur.fr/wiki/mobyle Mobyle project]
+* Bertrand Néron from the [https://projets.pasteur.fr/wiki/mobyle Mobyle project]
 
 You are very welcome to attend. Please add yourself if you are interested.
