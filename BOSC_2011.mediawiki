@@ -6,8 +6,6 @@ title: BOSC 2011
 
 The 12th Annual Bioinformatics Open Source Conference (BOSC 2011) will be held immediately before the 19th Annual [http://www.iscb.org/ismbeccb2011 International Conference on Intelligent Systems for Molecular Biology (ISMB 2011)] at the Austria Center in Vienna, Austria. BOSC 2011 will take place July 15-16; the main ISMB Conference will be July 17-19, 2011. Participants are also invited to [[Codefest 2011]], July 13-14.
 
-'''The deadline for [[BOSC 2011#Abstract_Submission_Information | submitting abstracts]] is April 18, 2011.
-'''
 == Overview ==
 The Bioinformatics Open Source Conference (BOSC) is sponsored by the Open Bioinformatics Foundation (O|B|F), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development within the biological research community. 
 
@@ -62,26 +60,9 @@ disciplines.
 
 == Abstract Submission Information ==
 
-[http://events.open-bio.org/BOSC2011/author/submit.php Submit your abstract here!]
+The deadline for submitting talk abstracts has passed.  However, there will be a few slots left open for last-minute "lightning" talks, as well as some last-minute poster slots.
 
-The deadline for abstract submissions is '''Monday, April 18, 2011'''.
-
-Abstracts must be '''one page''' in length and submitted '''as a PDF or Microsoft Word file only'''.  Please observe the following formatting guidelines:
-* Use 1 inch (2.5 cm) margins on the top, sides, and bottom of the page.
-* Include the following pieces of information in order from the top of the page:
-** Title
-** Authors, with the presenting author's name underlined.
-** Author affiliations, including the e-mail address of the presenting author.
-** URL for the overall project web site
-** URL for accessing the code
-** The particular Open Source License being used
-* The abstracts will be printed "as is" in the program booklet; please help your all-volunteer Organizing Committee by following the formatting guidelines above.
-
-Accepted talks will be 5-20 minutes. You will be notified of the length of your talk upon abstract acceptance.
-
-This year, BOSC will include a poster session.  All speakers will also have the opportunity to present posters.  In addition, abstracts for which there is not enough time to allocate a talk may be selected for poster presentation.
-
-[http://events.open-bio.org/BOSC2011/author/submit.php Click here to submit your abstract]
+Those who submitted abstracts by the April 18th deadline will be notified on May 9th about whether their abstract was accepted for a talk.
 
 === Open Source License Requirement ===
 
