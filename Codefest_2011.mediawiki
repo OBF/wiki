@@ -26,9 +26,10 @@ Metalab has a nice [http://metalab.at/wiki/Lage location map]. We'll be counting
 * [http://blog.malde.org/ Ketil Malde] from the [http://biohaskell.org Biohaskell]...er, crowd.
 * Thomas Down from [http://biodas.org/ DAS]/[http://www.biodalliance.org/ Biodalliance].
 * Raoul J.P. Bonnal from [http://bioruby.org BioRuby]
-* Peter Cock from [http://biopyton.org Biopython]
+* Peter Cock from [http://biopython.org Biopython]
 * Hervé Ménager from the [https://projets.pasteur.fr/wiki/mobyle Mobyle project]
 * Bertrand Néron from the [https://projets.pasteur.fr/wiki/mobyle Mobyle project]
 * [http://about.me/pablopareja Pablo Pareja] from [http://www.ohnosequences.com Oh no sequences!], main developer of  [http://www.bio4j.com Bio4j project]
+* Peter Rice from [http://emboss.sf.net EMBOSS]
 
 You are very welcome to attend. Please add yourself if you are interested.
