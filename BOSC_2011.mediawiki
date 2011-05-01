@@ -78,9 +78,7 @@ Those who submitted abstracts by the April 18th deadline will be notified on May
 * '''Data visualization'''-- Approaches to presenting large biomedical datasets with visual aids that make the data easier to understand and analyze.
 * '''Tools for next-generation sequencing''' -- Practical approaches to analyzing next generation sequencing data, focusing on flexible tools that combine existing software and algorithms.
 * '''Open Source Software''' -- Open source bioinformatics software that does not fit neatly into the above categories.  
-* '''Shared topics with other SIGs''': A session in which participants in other ISMB SIGs can make brief presentations about open source software to a wider audience, allowing BOSC attendees to hear about open source projects in other biology-related areas, and for participants in specialized SIGs to meet other open source developers and form collaborations.
-
-In addition to the above sessions, there will be a panel discussion about '''Meeting the challenges of inter-institutional collaboration'''.  Many open source projects involve collaborators from organizations all over the world.  Participants in this panel discussion will comment on how their projects have dealt with the challenges that arise from these multi-institution collaborations.  Please let us know if you would like to be a panelist.
+* '''Meeting the challenges of inter-institutional collaboration''' (panel discussion) --  Many open source projects involve collaborators from organizations all over the world.  Participants in this panel discussion will comment on how their projects have dealt with the challenges that arise from these multi-institution collaborations.
 
 == Organizing Committee ==
 
