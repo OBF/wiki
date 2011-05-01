@@ -19,7 +19,7 @@ Please spread the word about BOSC to interested developers; all are welcome. On 
 
 == Sponsors ==
 
-We thank [http://www.eaglegenomics.com/ Eagle Genomics, Ltd.] and an anonymous donor for sponsoring three [[BOSC_2011#Student_Travel_Awards | Student Travel Awards]] at BOSC 2011.
+We thank [http://www.eaglegenomics.com/ Eagle Genomics, Ltd.] and an anonymous donor for sponsoring three Student Travel Awards at BOSC 2011.
 
 == Keynote Speakers ==
 
