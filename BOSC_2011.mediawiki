@@ -65,9 +65,20 @@ The deadline for discounted early registration is June 3, 2011.
 
 == Abstract Submission Information ==
 
-The deadline for submitting talk abstracts has passed.  However, there will be a few slots left open for last-minute "lightning" talks, as well as some last-minute poster slots.
+The deadline for submitting talk abstracts has passed.  However, you can still [[http://events.open-bio.org/BOSC2011/author/submit.php submit a poster abstract].  Poster abstracts must be received by June 15 in order to appear in the BOSC program.  If you miss that deadline, there may still be last-minute poster spots available (but your poster will not be included in the program).
 
-Those who submitted abstracts by the April 18th deadline will be notified on May 9th about whether their abstract was accepted for a talk.
+Abstracts must be '''one page''' in length and submitted '''as a PDF or Microsoft Word file only'''.  Please observe the following formatting guidelines:
+* Use 1 inch (2.5 cm) margins on the top, sides, and bottom of the page.
+* Include the following pieces of information in order from the top of the page:
+** Title
+** Authors, with the presenting author's name underlined.
+** Author affiliations, including the e-mail address of the presenting author.
+** URL for the overall project web site
+** URL for accessing the code
+** The particular Open Source License being used
+* The abstracts will be printed "as is" in the program booklet
+
+[http://events.open-bio.org/BOSC2011/author/submit.php Click here to submit your poster abstract]
 
 === Open Source License Requirement ===
 
