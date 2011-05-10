@@ -87,6 +87,7 @@ See the following websites for further information:
 * '''Tools for next-generation sequencing''' -- Practical approaches to analyzing next generation sequencing data, focusing on flexible tools that combine existing software and algorithms.
 * '''Open Source Software''' -- Open source bioinformatics software that does not fit neatly into the above categories.  
 * '''Meeting the challenges of inter-institutional collaboration''' (panel discussion) --  Many open source projects involve collaborators from organizations all over the world.  Participants in this panel discussion will comment on how their projects have dealt with the challenges that arise from these multi-institution collaborations.
+* '''Poster session''' -- This year, BOSC attendees will have the opportunity to present posters about their work.
 
 == Organizing Committee ==
 
