@@ -65,7 +65,7 @@ The deadline for discounted early registration is June 3, 2011.
 
 == Abstract Submission Information ==
 
-The deadline for submitting talk abstracts has passed, and authors have been notified about whether their abstract was accepted for a talk or poster.  If you submitted an abstract and haven't heard from us, please let us know.
+The deadline for submitting talk abstracts has passed, and authors have been notified about whether their abstract was accepted for a talk or poster.  If you submitted an abstract and haven't heard from us, please [mailto:bosc@open-bio.org contact us].
 
 If you'd like to present a poster at BOSC, you can still [http://events.open-bio.org/BOSC2011/author/submit.php submit a poster abstract].  Poster abstracts must be received by June 15 in order to appear in the BOSC program.  If you miss that deadline, there may still be last-minute poster spots available (but your poster will not be included in the program).
 
