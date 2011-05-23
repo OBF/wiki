@@ -2,14 +2,12 @@
 title: BOSC 2011 Schedule
 ---
 
-== Schedule ==
-
-Click on the talk title to view the individual abstract as a PDF file.
+== Day 1: Friday,  July 15  (Austria Center Vienna,  Room TBA) ==
 
 {| border="1" cellspacing="0" cellpadding="10" align="left"
-! Day 1
-! Friday,  July 15: Austria Center Vienna
-| Room TBA
+! Time
+! Session
+| Speaker or Moderator
 |- 
 | 7:30-9:00AM
 | Pick up badges for BOSC 2011, Austria Center Vienna (early arrival is recommended as there are usually long lines)
@@ -63,14 +61,14 @@ Click on the talk title to view the individual abstract as a PDF file.
 | 7:00
 | Pay-your-own-way optional dinner at a nearby restaurant
 |-
-|-
-|
-|
-|
-|-
-| '''Day 2'''
-| '''Saturday, July 16''':  Austria Center Vienna
-| Room TBA
+|}
+
+== Day 2: Saturday, July 16 (Austria Center Vienna, Room TBA) ==
+
+{| border="1" cellspacing="0" cellpadding="10" align="left"
+! Time
+! Session
+| Speaker or Moderator
 |- 
 | 8:45-8:50
 | Announcements
