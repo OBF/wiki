@@ -7,7 +7,7 @@ title: BOSC 2011 Schedule
 {| border="1" cellspacing="0" cellpadding="10" align="left"
 ! Time
 ! Session
-| Speaker or Moderator
+! Speaker or Moderator
 |- 
 | 7:30-9:00AM
 | Pick up badges for BOSC 2011, Austria Center Vienna (early arrival is recommended as there are usually long lines)
@@ -70,7 +70,7 @@ title: BOSC 2011 Schedule
 {| border="1" cellspacing="0" cellpadding="10" align="left"
 ! Time
 ! Session
-| Speaker or Moderator
+! Speaker or Moderator
 |- 
 | 8:45-8:50
 | Announcements
