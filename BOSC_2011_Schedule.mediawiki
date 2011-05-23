@@ -15,7 +15,7 @@ title: BOSC 2011 Schedule
 |
 |- 
 | 9:00-9:15AM
-| [Welcome] Introduction and welcome
+| Introduction and welcome
 | Nomi Harris, Co-Chair, BOSC
 |-
 | 9:15-10:15
