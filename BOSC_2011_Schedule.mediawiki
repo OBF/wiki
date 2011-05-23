@@ -75,7 +75,7 @@ title: BOSC 2011 Schedule
 ! Speaker or Moderator
 |- 
 | 8:45-8:50
-| Announcements &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| Announcements
 |
 |-
 | 8:50-9:50
@@ -84,7 +84,7 @@ title: BOSC 2011 Schedule
 |-
 | 9:50-10:15
 | [Cloud] Securing and sharing bioinformatics in the cloud
-| Richard Holland, Eagle Genomics
+| Richard Holland, Eagle Genomics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |-
 | '''10:15-10:45'''
 | '''Coffee Break'''
