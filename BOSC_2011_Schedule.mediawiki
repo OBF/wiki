@@ -13,7 +13,7 @@ title: BOSC 2011 Schedule
 |- 
 | 7:30-9:00AM
 | Pick up badges for BOSC 2011, Austria Center Vienna
-(early arrival is recommended as there are usually long lines)
+(Early arrival is recommended as there are usually long lines)
 | '''Registration'''
 |- 
 | 9:00-9:15AM
@@ -131,6 +131,8 @@ title: BOSC 2011 Schedule
 |
 |-
 |}
+
+'''NOTE: Schedule is preliminary--subject to change.'''
 
 [[Category:BOSC]] [[Category:Conferences]]
 [[Category:BOSC Conferences]]
