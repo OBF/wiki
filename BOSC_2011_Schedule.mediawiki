@@ -60,6 +60,7 @@ title: BOSC 2011 Schedule
 |-
 | 7:00
 | Pay-your-own-way optional dinner at a nearby restaurant
+|
 |-
 |}
 
@@ -123,8 +124,8 @@ title: BOSC 2011 Schedule
 |
 |-
 | 5:30-6:30
-|
 | BOFs
+|
 |-
 |}
 
