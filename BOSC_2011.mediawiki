@@ -55,7 +55,7 @@ disciplines.
 * April 18, 2011: Deadline for submitting talk abstracts
 * May 9, 2011: Notifications of accepted talk abstracts emailed to authors
 * May 20, 2011: Deadline for presenters to confirm acceptance of invitation to speak and for authors offered conditional acceptance to come into compliance with requested changes
-* June 3, 2011: Early registration deadline for SIGs (including BOSC).  Register via the [ISMB website http://www.iscb.org/ismbeccb2011-registration#1daysig].  You can register for BOSC (a two-day SIG) without registering for ISMB, if you wish.
+* June 3, 2011: [http://www.iscb.org/ismbeccb2011-registration#1daysig Early registration deadline for SIGs (including BOSC)].
 * '''July 13-14, 2011:  [[Codefest 2011]] programming session'''
 * '''July 15-16, 2011:  BOSC 2011'''
 
