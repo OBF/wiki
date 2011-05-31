@@ -18,7 +18,7 @@ Many open source bioinformatics packages are widely used by the research communi
 
 Please spread the word about BOSC to interested developers; all are welcome. On Twitter, we recommend the hash tag #bosc2011.
 
-[[BOSC 2010]] was held in Boston, MA, from July 9-10.  Selected peer-reviewed papers from BOSC 2010 were be published in [http://www.biomedcentral.com/1471-2105/11?issue=S12 BMC Bioinformatics] on 21 December, 2010.
+[[BOSC 2010]] was held in Boston, MA, from July 9-10.  Selected peer-reviewed papers from BOSC 2010 were published in [http://www.biomedcentral.com/1471-2105/11?issue=S12 BMC Bioinformatics] on 21 December, 2010.
 
 <div style="float:right; background-color: #FFFFFF">[[File:Eagle_logo_CMYK.jpg‎|120px|right|Eagle Genomics logo|link=http://www.eaglegenomics.com/]]</div>
 
