@@ -41,7 +41,7 @@ title: BOSC 2011 Schedule
 |
 |-
 | 2:30-3:30
-| Session: Next Generation Sequencing
+| Session: Visualization
 |
 |-
 | '''3:30-4:00'''
@@ -49,7 +49,7 @@ title: BOSC 2011 Schedule
 |
 |-
 | 4:00-5:30
-| Session: Visualization and Semantic Web
+| Session: Next Generation Sequencing
 |
 |-
 | 5:30-6:30
@@ -65,7 +65,6 @@ title: BOSC 2011 Schedule
 |
 |-
 |}
-
 
 == Day 2: Saturday, July 16 (Austria Center Vienna, Room TBA) ==
 
