@@ -6,7 +6,12 @@ title: BOSC 2011
 
 The 12th Annual Bioinformatics Open Source Conference (BOSC 2011) will be held immediately before the 19th Annual [http://www.iscb.org/ismbeccb2011 International Conference on Intelligent Systems for Molecular Biology (ISMB 2011)] at the Austria Center in Vienna, Austria. BOSC 2011 will take place July 15-16; the main ISMB Conference will be July 17-19, 2011. Participants are also invited to [[Codefest 2011]], July 13-14.
 
+Preliminary [[BOSC_2011_Schedule|BOSC 2011 Schedule]]
+
 == Overview ==
+__NOTOC__
+<div style="float: left; margin-right:20px; maxwidth: 200px">__TOC__</div>
+
 The Bioinformatics Open Source Conference (BOSC) is sponsored by the Open Bioinformatics Foundation (O|B|F), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development within the biological research community. 
 
 Many open source bioinformatics packages are widely used by the research community across many application areas and form a cornerstone in enabling research in the genomic and post-genomic era. Open source bioinformatics software has facilitated rapid innovation, dissemination, and wide adoption of new computational methods, reusable software components, and standards. One of the hallmarks of BOSC is the coming together of the open source developer community in one location to meet face-to-face. This creates synergy where participants can work together to create use cases, prototype working code, or run bootcamps for developers from other projects as short, informal, and hands-on tutorials in new software packages and emerging technologies.  In short, BOSC is not just a conference for presentations of completed work, but is a dynamic meeting where collaborative work gets done and attendees can learn about new or ongoing developments that they can directly apply to their own work.
