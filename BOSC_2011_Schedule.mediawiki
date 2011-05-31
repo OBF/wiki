@@ -116,7 +116,7 @@ title: BOSC 2011 Schedule
 |-
 | 4:30-5:20
 | Panel: Meeting the challenges of inter-institutional collaboration
-|
+| Panelists: Richard Holland (Eagle Genomics), Hilmar Lapp (National Evolutionary Synthesis Center), Jean Peccoud (Virginia Bioinformatics Institute), Peter Rice (European Bioinformatics Institute)
 |-
 | 5:20-5:30
 | Presentation of awards
