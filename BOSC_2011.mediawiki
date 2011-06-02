@@ -66,7 +66,7 @@ disciplines.
 
 == Registration ==
 
-Registration for BOSC is through the [http://www.iscb.org/ismbeccb2011-registration ISMB main conference web site]. Please note that you can register for BOSC without registering for the ISMB conference.
+Registration for BOSC is through the [http://www.iscb.org/ismbeccb2011-registration#sigs ISMB main conference web site]. BOSC is a two-day SIG.  Please note that you can register for BOSC without registering for the ISMB conference.
 The deadline for discounted early registration is June 3, 2011.
 
 == Abstract Submission Information ==
