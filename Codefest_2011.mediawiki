@@ -27,7 +27,7 @@ Metalab has a nice [http://metalab.at/wiki/Lage location map]. We'll be counting
 
 == Attendees ==
 
-You are very welcome to attend. Please add yourself if you are interested to [https://spreadsheets.google.com/ccc?key=0Agxg-o4ZmoZ4dHQxWEV1aW1raFJKbWxrMk80RDZSOVE&hl=en&authkey=CK3mo_4B this Google spreadsheet]. New user registration on the Codefest Wiki is temporarily disabled due to spam.
+You are very welcome to attend. Please add yourself if you are interested to [https://spreadsheets.google.com/ccc?key=0Agxg-o4ZmoZ4dHQxWEV1aW1raFJKbWxrMk80RDZSOVE&hl=en&authkey=CK3mo_4B this Google spreadsheet] and sign up on the [http://groups.google.com/group/openbio-codefest2011 mailing list].
 
 * [http://bcbio.wordpress.com/ Brad Chapman]
 * [[User:Lapp| Hilmar Lapp]]
