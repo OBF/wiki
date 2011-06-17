@@ -50,7 +50,7 @@ title: BOSC 2011 Detailed Schedule
 |-
 | 12:05-12:15
 |[Genome content management] "Mobyle 1.0: new features, new types of services"
-| Herv\216 M\216nager
+| Hervé Ménager
 |-
 | 12:15-12:25
 |[Genome content management] "BioMart 0.8 offers new tools, more interfaces, and increased flexibility through plug-ins"
@@ -68,9 +68,21 @@ title: BOSC 2011 Detailed Schedule
 | Poster Session I
 |
 |-
-| 2:30-3:30
-| Session: Visualization
+| 2:30-2:50
+|[Visualization] Cytoscape 3.0: Architecture for Extension
+| Michael Smoot
+|-
+| 2:50-3:10
+| Applying Visual Analytics to Extend the Genome Browser from Visualization Tool to Analysis Tool Jeremy Goecks
 |
+|-
+| 3:10-3:20
+| WebApollo: A web-based sequence annotation editor for community annotation
+| Nomi Harris
+|-
+| 3:20-3:30
+| The isobar R package: Analysis of quantitative proteomics data
+| Florian Breitwieser
 |-
 | '''3:30-4:00'''
 | '''Coffee Break'''
@@ -93,7 +105,6 @@ title: BOSC 2011 Detailed Schedule
 |
 |-
 |}
-
 
 == Day 2: Saturday, July 16 (Austria Center Vienna, Room TBA) ==
 
