@@ -28,9 +28,37 @@ title: BOSC 2011 Detailed Schedule
 | '''Coffee Break'''
 |
 |-
-| 10:45-12:30
-| Session: Genome Content Management
-|
+| 10:45-11:05
+|[Genome content management] Unipro UGENE: an open source toolkit for complex genome analysis
+| Konstantin Okonechnikov
+|-
+| 11:05-11:25
+|[Genome content management] Exploring the genome with Dalliance
+| Thomas Down
+|-
+| 11:25-11:45
+|[Genome content management] InterMine - Using RESTful Webservices for Interoperability
+| Alex Kalderimis
+|-
+| 11:45-11:55
+|[Genome content management] easyDAS: Automatic creation of DAS servers
+| Bernat Gel
+|-
+| 11:55-12:05
+|[Genome content management] Enacting Taverna Workflows through Galaxy
+| Marco Roos
+|-
+| 12:05-12:15
+|[Genome content management] "Mobyle 1.0: new features, new types of services"
+| Herv\216 M\216nager
+|-
+| 12:15-12:25
+|[Genome content management] "BioMart 0.8 offers new tools, more interfaces, and increased flexibility through plug-ins"
+| Junjun Zhang
+|-
+| 12:25-12:32
+|[Genome content management] Running Workflows Through Taverna Server [lightning]
+| Donal Fellows
 |-
 | '''12:30-2:00'''
 | '''Lunch'''
