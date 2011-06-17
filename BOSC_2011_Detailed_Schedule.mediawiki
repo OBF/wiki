@@ -158,7 +158,8 @@ title: BOSC 2011 Detailed Schedule
 | Chunlei Wu
 |-
 | 11:05-11:25
-|[Cloud computing] Cloud BioLinux: open source, fully-customizable bioinformatics computing on the cloud for the genomics community and beyond
+|[Cloud computing] Cloud BioLinux: open source, fully-customizable bioinformatics computing on the cloud for the genomics
+community and beyond
 | Konstantinos Krampis
 |-
 | 11:25-11:35
@@ -170,7 +171,8 @@ title: BOSC 2011 Detailed Schedule
 | Brian O'Connor
 |-
 | 11:45-12:05
-|[Cloud computing] Sequencescape - a cloud enabled Laboratory Information Management Systems (LIMS) for second and third generation sequencing
+|[Cloud computing] Sequencescape - a cloud enabled Laboratory Information Management Systems (LIMS) for second and
+third generation sequencing
 | Lars Jorgensen
 |-
 | 12:05-12:15
