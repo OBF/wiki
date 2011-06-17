@@ -73,24 +73,48 @@ title: BOSC 2011 Detailed Schedule
 | Michael Smoot
 |-
 | 2:50-3:10
-| Applying Visual Analytics to Extend the Genome Browser from Visualization Tool to Analysis Tool Jeremy Goecks
-|
+| [Visualization] Applying Visual Analytics to Extend the Genome Browser from Visualization Tool to Analysis Tool 
+| Jeremy Goecks
 |-
 | 3:10-3:20
-| WebApollo: A web-based sequence annotation editor for community annotation
+| [Visualization] WebApollo: A web-based sequence annotation editor for community annotation
 | Nomi Harris
 |-
 | 3:20-3:30
-| The isobar R package: Analysis of quantitative proteomics data
+| [Visualization] The isobar R package: Analysis of quantitative proteomics data
 | Florian Breitwieser
 |-
 | '''3:30-4:00'''
 | '''Coffee Break'''
 |
 |-
-| 4:00-5:30
-| Session: Next Generation Sequencing
+| 4:00-4:20
+| [Next-generation Sequencing] Stacks: building and genotyping loci de novo from short-read sequences
+| Julian Catchen
+|-
+| 4:20-4:40
+| [Next-generation Sequencing] Large scale NGS pipelines using the MOLGENIS platform: processing the Genome of the Netherlands Morris Swertz
 |
+|-
+| 4:40-4:50
+| [Next-generation Sequencing] Bio-NGS: BioRuby plugin to conduct programmable workflows for Next Generation Sequencing data
+| Raoul Bonnal
+|-
+| 4:50-5:00
+| [Next-generation Sequencing] Goby framework: native support in GSNAP, BWA and IGV 2.0
+| Fabien Campagne
+|-
+| 5:00-5:10
+| [Parallel] A Scalable Multicore Implementation of the TEIRESIAS Algorithm
+| Frank Drews
+|-
+| 5:10-5:20
+| [Parallel] Biomanycores, open-source parallel code for many-core bioinformatics
+| Mathieu Giraud
+|-
+| 5:20-5:30
+| [Next-generation Sequencing] GemSIM: General, Error-Model Based Simulator of next-generation sequencing
+| Kerensa McElroy
 |-
 | 5:30-6:30
 | Poster Session II
