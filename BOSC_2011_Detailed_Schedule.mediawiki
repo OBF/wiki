@@ -49,11 +49,11 @@ title: BOSC 2011 Detailed Schedule
 | Marco Roos
 |-
 | 12:05-12:15
-|[Genome content management] "Mobyle 1.0: new features, new types of services"
+|[Genome content management] Mobyle 1.0: new features, new types of services
 | Hervé Ménager
 |-
 | 12:15-12:25
-|[Genome content management] "BioMart 0.8 offers new tools, more interfaces, and increased flexibility through plug-ins"
+|[Genome content management] BioMart 0.8 offers new tools, more interfaces, and increased flexibility through plug-ins
 | Junjun Zhang
 |-
 | 12:25-12:32
