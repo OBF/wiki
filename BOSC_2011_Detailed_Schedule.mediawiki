@@ -206,7 +206,8 @@ title: BOSC 2011 Detailed Schedule
 | Steffen Möller
 |-
 | 2:50-3:10
-|[Misc.] The BALL project: The Biochemical Algorithms Library (BALL) for Rapid Application Development in Structural Bioinformatics and its graphical user interface BALLView
+|[Misc.] The BALL project: The Biochemical Algorithms Library (BALL) for Rapid Application Development in Structural Bioinformatics
+and its graphical user interface BALLView
 | Andreas Hildebrandt
 |-
 | 3:10-3:20
@@ -248,7 +249,7 @@ Peter Rice (European Bioinformatics Institute)
 |-
 | 5:20-5:30
 | Presentation of awards
-|
+| Nomi Harris
 |-
 | 5:30-6:30
 | BOFs
