@@ -134,7 +134,7 @@ title: BOSC 2011 Detailed Schedule
 
 {| border="1" cellspacing="0" cellpadding="10"
 ! Time
-! Session
+! Topic
 ! Speaker or Moderator
 |- 
 | 8:45-8:50
@@ -153,9 +153,33 @@ title: BOSC 2011 Detailed Schedule
 | '''Coffee Break'''
 |
 |-
-| 10:45-12:30
-| Session: Cloud Computing and Parallel Processing
-|
+| 10:45-11:05
+|[Cloud computing] Mygene.info: Gene Annotation as a Service - GAaaS
+| Chunlei Wu
+|-
+| 11:05-11:25
+|[Cloud computing] "Cloud BioLinux: open source, fully-customizable bioinformatics computing on the cloud for the genomics community and beyond"
+| Konstantinos Krampis
+|-
+| 11:25-11:35
+|[Cloud computing] OBIWEE : an open source bioinformatics cloud environment
+| Jonathan Piat
+|-
+| 11:35-11:45
+|[Cloud computing] SeqWare: Analyzing Whole Human Genome Sequence Data on Amazon's Cloud
+| Brian O'Connor
+|-
+| 11:45-12:05
+|[Cloud computing] Sequencescape - a cloud enabled Laboratory Information Management Systems (LIMS) for second and third generation sequencing
+| Lars Jorgensen
+|-
+| 12:05-12:15
+|[Cloud computing] Enabling NGS Analysis with(out) the Infrastructure
+| Enis Afgan
+|-
+| 12:15-12:25
+|[Cloud computing] Hadoop-BAM: A Library for Genomic Data Processing
+| Aleksi Kallio
 |-
 | '''12:30-2:00'''
 | '''Lunch'''
