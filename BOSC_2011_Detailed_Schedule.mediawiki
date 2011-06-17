@@ -146,7 +146,7 @@ title: BOSC 2011 Detailed Schedule
 | Matt Wood (Amazon)
 |-
 | 9:50-10:15
-| [Cloud] Securing and sharing bioinformatics in the cloud
+| [Cloud computing] Securing and sharing bioinformatics in the cloud
 | Richard Holland (Eagle Genomics) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |-
 | '''10:15-10:45'''
