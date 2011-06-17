@@ -105,11 +105,11 @@ title: BOSC 2011 Detailed Schedule
 | Fabien Campagne
 |-
 | 5:00-5:10
-| [Parallel] A Scalable Multicore Implementation of the TEIRESIAS Algorithm
+| [Parallel processing] A Scalable Multicore Implementation of the TEIRESIAS Algorithm
 | Frank Drews
 |-
 | 5:10-5:20
-| [Parallel] Biomanycores, open-source parallel code for many-core bioinformatics
+| [Parallel processing] Biomanycores, open-source parallel code for many-core bioinformatics
 | Mathieu Giraud
 |-
 | 5:20-5:30
