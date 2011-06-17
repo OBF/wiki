@@ -93,8 +93,8 @@ title: BOSC 2011 Detailed Schedule
 | Julian Catchen
 |-
 | 4:20-4:40
-| [Next-generation Sequencing] Large scale NGS pipelines using the MOLGENIS platform: processing the Genome of the Netherlands Morris Swertz
-|
+| [Next-generation Sequencing] Large scale NGS pipelines using the MOLGENIS platform: processing the Genome of the Netherlands
+| Morris Swertz
 |-
 | 4:40-4:50
 | [Next-generation Sequencing] Bio-NGS: BioRuby plugin to conduct programmable workflows for Next Generation Sequencing data
