@@ -147,7 +147,7 @@ title: BOSC 2011 Detailed Schedule
 |-
 | 9:50-10:15
 | [Cloud computing] Securing and sharing bioinformatics in the cloud
-| Richard Holland (Eagle Genomics) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| Richard Holland (Eagle Genomics)
 |-
 | '''10:15-10:45'''
 | '''Coffee Break'''
