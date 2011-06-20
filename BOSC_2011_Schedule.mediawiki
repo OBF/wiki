@@ -114,7 +114,7 @@ title: BOSC 2011 Schedule
 |-
 | 4:50-5:00
 | [Next-Generation Sequencing] Goby framework: native support in GSNAP, BWA and IGV 2.0
-| Fabien Campagne
+| Kevin C. Dorff
 |-
 | 5:00-5:10
 | [Parallel Processing] A Scalable Multicore Implementation of the TEIRESIAS Algorithm
@@ -180,7 +180,7 @@ community and beyond
 |-
 | 11:25-11:35
 |[Cloud Computing] OBIWEE : an open source bioinformatics cloud environment
-| Jonathan Piat
+| Olivier Sallou
 |-
 | 11:35-11:45
 |[Cloud Computing] SeqWare: Analyzing Whole Human Genome Sequence Data on Amazon's Cloud
