@@ -53,3 +53,4 @@ You are very welcome to attend. Please add yourself if you are interested to [ht
 * Dawn Field ([http://nebc.nerc.ac.uk Bio-Linux])
 * Konstantinos Krampis ([http://cloudbiolinux.org CloudBioLinx])
 * Scott Cain ([http://gmod.org GMOD])
+* Roman Valls Guimerà ([http://scilifelab.se Science For Life Lab Stockholm])
