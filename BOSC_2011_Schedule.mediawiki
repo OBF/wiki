@@ -188,8 +188,7 @@ community and beyond
 | Brian O'Connor
 |-
 | 11:45-12:05
-|[Cloud Computing] Sequencescape - a cloud enabled Laboratory Information Management Systems (LIMS) for second and
-third generation sequencing
+|[Cloud Computing] Sequencescape - a cloud enabled Laboratory Information Management Systems (LIMS) for second and third generation sequencing
 | Lars Jorgensen
 |-
 | 12:05-12:15
@@ -229,8 +228,7 @@ third generation sequencing
 | Steffen Möller
 |-
 | 2:50-3:10
-|[Misc.] The BALL project: The Biochemical Algorithms Library (BALL) for Rapid Application Development in Structural Bioinformatics
-and its graphical user interface BALLView
+|[Misc.] The BALL project: The Biochemical Algorithms Library (BALL) for Rapid Application Development in Structural Bioinformatics and its graphical user interface BALLView
 | Andreas Hildebrandt
 |-
 | 3:10-3:20
