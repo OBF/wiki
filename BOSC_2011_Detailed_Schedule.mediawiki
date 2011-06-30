@@ -2,10 +2,5 @@
 title: BOSC 2011 Detailed Schedule
 ---
 
-
-
 [[BOSC_2011_Schedule | BOSC 2011 Schedule]]
 == Return to '''[[BOSC_2011 | BOSC 2011]]''' main page ==
-
-[[Category:BOSC]] [[Category:Conferences]]
-[[Category:BOSC Conferences]]
