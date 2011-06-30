@@ -240,7 +240,7 @@ community and beyond
 | Scott Cain
 |-
 | 3:27-3:34
-| Exploring human variation data with Clojure [lightning]
+| [Misc.] Exploring human variation data with Clojure [lightning]
 | Brad Chapman
 |-
 | '''3:30-4:00'''
