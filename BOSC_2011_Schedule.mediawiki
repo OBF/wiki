@@ -264,9 +264,7 @@ community and beyond
 | Moderator: Brad Chapman
 Panelists: Richard Holland (Eagle Genomics),
 Hilmar Lapp (National Evolutionary Synthesis Center),
-
 Jean Peccoud (Virginia Bioinformatics Institute),
-
 Peter Rice (European Bioinformatics Institute)
 |-
 | 5:20-5:30
