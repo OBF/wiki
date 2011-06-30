@@ -261,7 +261,8 @@ community and beyond
 |-
 | 4:30-5:20
 | '''Panel''': Meeting the challenges of inter-institutional collaboration
-| Panelists: Richard Holland (Eagle Genomics),
+| Moderator: Brad Chapman
+Panelists: Richard Holland (Eagle Genomics),
 Hilmar Lapp (National Evolutionary Synthesis Center),
 
 Jean Peccoud (Virginia Bioinformatics Institute),
