@@ -69,24 +69,11 @@ disciplines.
 Registration for BOSC is through the [http://www.iscb.org/ismbeccb2011-registration#sigs ISMB main conference web site]. BOSC is a two-day SIG.  Please note that you can register for BOSC without registering for the ISMB conference.
 The deadline for discounted early registration is June 3, 2011.
 
-== Abstract Submission Information ==
+== Posters ==
 
-The deadline for submitting talk abstracts has passed, and authors have been notified about whether their abstract was accepted for a talk or poster.  If you submitted an abstract and haven't heard from us, please [mailto:bosc@open-bio.org contact us].
+If you'd like to present a poster at BOSC, there will be a few last-minute poster spots available.  Please send your one-page abstract to  [mailto:bosc@open-bio.org bosc@open-bio.org] by noon on the first day of the conference, and you will be assigned a poster spot.
 
-If you'd like to present a poster at BOSC, you can still [http://events.open-bio.org/BOSC2011/author/submit.php submit a poster abstract].  Poster abstracts must be received by June 15 in order to appear in the BOSC program.  If you miss that deadline, there may still be last-minute poster spots available (but your poster will not be included in the program).
-
-Abstracts must be '''one page''' (8.5 by 11 inches) and submitted '''as a PDF or Microsoft Word file only'''.  Please format your abstract as follows:
-* Use 1 inch (2.5 cm) margins on the top, sides, and bottom of the page.
-* Include the following pieces of information in order from the top of the page:
-** Title
-** Authors, with the presenting author's name underlined
-** Author affiliations, including the e-mail address of the presenting author
-** URL for the overall project web site
-** URL for accessing the code
-** The particular Open Source License being used
-* The abstracts will be printed "as is" in the program booklet
-
-[http://events.open-bio.org/BOSC2011/author/submit.php Click here to submit your poster abstract]
+In order to qualify for poster presentation, your work must be open source, and your abstract should specify the open source license.
 
 === Open Source License Requirement ===
 
