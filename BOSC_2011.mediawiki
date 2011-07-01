@@ -71,9 +71,12 @@ The deadline for discounted early registration is June 3, 2011.
 
 == Posters ==
 
-If you'd like to present a poster at BOSC, there will be a few last-minute poster spots available.  Please send your one-page abstract to  [mailto:bosc@open-bio.org bosc@open-bio.org] by noon on the first day of the conference, and you will be assigned a poster spot.
+This year, BOSC attendees have the opportunity to present posters, and there will be three poster sessions.  There will be a few last-minute poster spots available.  Please send your one-page abstract to  [mailto:bosc@open-bio.org bosc@open-bio.org] by noon on the first day of the conference, and you will be assigned a poster spot. 
+In order to qualify for poster presentation, your work must be open source, and your abstract should specify the open source license (see next section).
 
-In order to qualify for poster presentation, your work must be open source, and your abstract should specify the open source license.
+Poster abstracts that were already accepted in advance have been assigned poster spots--please see the [[Proceedings]] to find your poster number (listed at the bottom of the abstract).
+
+The poster boards are 130 cm high x 90 cm wide. Fasteners (Velcro / double sided tape) will be provided at the site for putting up your poster, so you don't need to bring tape, tacks or pins.
 
 === Open Source License Requirement ===
 
