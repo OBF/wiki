@@ -25,6 +25,8 @@ We are being kindly hosted by the [http://metalab.at/wiki/English Metalab Hacker
 
 Metalab has a nice [http://metalab.at/wiki/Lage location map]. We'll be counting on local residents to help with additional detailed directions.
 
+We'll plan to get started coding at 10am on July 13th and 14th.
+
 == Attendees ==
 
 You are very welcome to attend. Please add yourself if you are interested to [https://spreadsheets.google.com/ccc?key=0Agxg-o4ZmoZ4dHQxWEV1aW1raFJKbWxrMk80RDZSOVE&hl=en&authkey=CK3mo_4B this Google spreadsheet] and sign up on the [http://groups.google.com/group/openbio-codefest2011 mailing list].
