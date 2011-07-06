@@ -122,7 +122,7 @@ title: BOSC 2011 Schedule
 |-
 | 5:10-5:20
 | [Parallel Processing] Biomanycores, open-source parallel code for many-core bioinformatics
-| Mathieu Giraud
+| Jean-Frédéric Berthelot
 |-
 | 5:20-5:30
 | [Next-Generation Sequencing] GemSIM: General, Error-Model Based Simulator of next-generation sequencing
