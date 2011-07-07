@@ -50,7 +50,7 @@ title: BOSC 2011 Schedule
 |-
 | 11:55-12:05
 |[Genome Content Management] Enacting Taverna Workflows through Galaxy
-| Marco Roos
+| Kostas Karasavvas
 |-
 | 12:05-12:15
 |[Genome Content Management] Mobyle 1.0: new features, new types of services
