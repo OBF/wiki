@@ -97,7 +97,7 @@ title: BOSC 2011 Schedule
 |
 |-
 | 4:00-5:30
-| Session: Next-Generation Sequencing and Parallel Processing]
+| Session: Next-Generation Sequencing and Parallel Processing
 | 
 |-
 | 4:00-4:20
