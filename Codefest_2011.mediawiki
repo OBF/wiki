@@ -41,6 +41,7 @@ You are very welcome to attend. Please add yourself if you are interested to [ht
 * Bertrand Néron from the [https://projets.pasteur.fr/wiki/mobyle Mobyle project]
 * [http://about.me/pablopareja Pablo Pareja] from [http://www.ohnosequences.com Oh no sequences!], main developer of  [http://www.bio4j.com Bio4j project]
 * Peter Rice from [http://emboss.sf.net EMBOSS]
+* [http://thebird.nl/ Pjotr Prins]
 * Paul Horton ([http://seq.cbrc.jp CBRC])
 * Vipin T Sreedharan ([http://galaxy.tuebingen.mpg.de/ FML, Max Planck Society])
 * Ben Woodcroft (University of Melbourne)
