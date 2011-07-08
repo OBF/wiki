@@ -2,9 +2,6 @@
 title: BOSC 2011/BOFs
 ---
 
- Return to '''[[BOSC_2011_Schedule | BOSC 2011 Schedule]].'''
-* Return to '''[[BOSC_2011 | BOSC 2011]]''' main page.
-
 If you would like to organize a Birds of a Feather (BOF) meeting, just sign up for a [[Special:Userlogin| wiki account]], login, and edit this page. Please list the BOF topic and the name of the organizer.
 
 == Friday BOFs (Day 1) ==
@@ -16,3 +13,7 @@ If you would like to organize a Birds of a Feather (BOF) meeting, just sign up f
 
 *
 *
+
+----
+ * Return to '''[[BOSC_2011_Schedule | BOSC 2011 Schedule]].'''
+* Return to '''[[BOSC_2011 | BOSC 2011]]''' main page.
