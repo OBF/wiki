@@ -18,6 +18,7 @@ The goals for the two days are determined entirely by developers. We welcome you
 and discuss:
 
 * [http://groups.google.com/group/openbio-codefest2011 Codefest 2011 mailing list]
+* During the Codefest, on IRC (freenode/#codefest)
 
 == Location ==
 
