@@ -10,6 +10,8 @@ The 12th Annual Bioinformatics Open Source Conference (BOSC 2011) will be held i
 
 You can also download the [http://www.oboedit.org/BOSC2011/BOSC2011-program.pdf  complete proceedings].  This large (6 Mb) PDF file includes the schedule and all of the talk and poster abstracts.  '''This year, ISMB has decided that only the schedule will be printed and given to conference attendees, so if you want to print the Proceedings, you should do so at home before you head to BOSC.  ISMB does not make it possible to print documents at the conference.'''
 
+If you'd like to organize a BOF at BOSC, please post it [[BOSC_2011/BOFs|here]].
+
 There will be a pay-your-own-way optional dinner on Friday at 7pm at [http://www.ufertaverne.at Ufertaverne], A-1220 Wien, An der Oberen Alten Donau 186 [[Media:Ufertaverne.png | (map)]]
 
 == Overview ==
