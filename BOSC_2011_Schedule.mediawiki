@@ -137,7 +137,7 @@ title: BOSC 2011 Schedule
 |
 |-
 | 7:00
-| Pay-your-own-way optional dinner at [http://www.ufertaverne.at Ufertaverne], A-1220 Wien, An der Oberen Alten Donau 186. Map: [[File:Ufertaverne.png]]
+| Pay-your-own-way optional dinner at [http://www.ufertaverne.at Ufertaverne], A-1220 Wien, An der Oberen Alten Donau 186. [[Media:Ufertaverne.png (map)]]
 |
 |- 
 |}
