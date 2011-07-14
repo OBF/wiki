@@ -167,7 +167,7 @@ title: BOSC 2011 Schedule
 |-
 | 10:45-12:30
 | Session: Cloud Computing
-| 
+| Chair: Brad Chapman
 |-
 | 10:45-11:05
 |[Cloud Computing] Mygene.info: Gene Annotation as a Service - GAaaS
@@ -208,7 +208,7 @@ community and beyond
 |-
 | 2:00-3:30
 | Session: Semantic Web and Misc. Open Source Projects
-| 
+| Chair: Peter Cock
 |-
 | 2:00-2:10
 |[Semantic Web] SADI for GMOD: Bringing Model Organism Data onto the Semantic Web
