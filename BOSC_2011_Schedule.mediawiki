@@ -133,7 +133,7 @@ title: BOSC 2011 Schedule
 |
 |-
 | 5:30-6:30
-| BOFs
+| [[BOSC_2011/BOFs|BOFs]]
 |
 |-
 | 7:00
