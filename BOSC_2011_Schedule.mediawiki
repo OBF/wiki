@@ -274,7 +274,7 @@ Peter Rice (European Bioinformatics Institute)
 | Nomi Harris
 |-
 | 5:30-6:30
-| BOFs
+| [[BOSC_2011/BOFs|BOFs]]
 |
 |-
 |}
