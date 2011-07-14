@@ -30,7 +30,7 @@ title: BOSC 2011 Schedule
 |-
 | 10:45-12:30
 | Session: Genome Content Management
-| 
+| Chair: Peter Rice
 |-
 | 10:45-11:05
 |[Genome Content Management] Unipro UGENE: an open source toolkit for complex genome analysis
@@ -74,7 +74,7 @@ title: BOSC 2011 Schedule
 |-
 | 2:30-3:30
 | Session: Visualization
-| 
+| Chair: Jan Aerts
 |-
 | 2:30-2:50
 |[Visualization] Cytoscape 3.0: Architecture for Extension
@@ -98,7 +98,7 @@ title: BOSC 2011 Schedule
 |-
 | 4:00-5:30
 | Session: Next-Generation Sequencing and Parallel Processing
-| 
+| Chair: Thomas Down
 |-
 | 4:00-4:20
 | [Next-Generation Sequencing] Stacks: building and genotyping loci de novo from short-read sequences
