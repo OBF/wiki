@@ -6,13 +6,11 @@ title: BOSC 2011
 
 The 12th Annual Bioinformatics Open Source Conference (BOSC 2011) will be held immediately before the 19th Annual [http://www.iscb.org/ismbeccb2011 International Conference on Intelligent Systems for Molecular Biology (ISMB 2011)] at the Austria Center in Vienna, Austria. BOSC 2011 will take place July 15-16; the main ISMB Conference will be July 17-19, 2011. Participants are also invited to [[Codefest 2011]], July 13-14.
 
-'''The BOSC schedule can be viewed [[BOSC_2011_Schedule|as html]] or downloaded [[Media:BOSC2011_schedule.pdf | as a PDF file]].'''
+'''The BOSC schedule can be viewed [[BOSC_2011_Schedule|as html]] or downloaded [[Media:BOSC2011_schedule.pdf | as a PDF file]].''' You can also download the [http://www.oboedit.org/BOSC2011/BOSC2011-program.pdf  complete proceedings].  This large (6 Mb) PDF file includes the schedule and all of the talk and poster abstracts.
 
-You can also download the [http://www.oboedit.org/BOSC2011/BOSC2011-program.pdf  complete proceedings].  This large (6 Mb) PDF file includes the schedule and all of the talk and poster abstracts.  '''This year, ISMB has decided that only the schedule will be printed and given to conference attendees, so if you want to print the Proceedings, you should do so at home before you head to BOSC.  ISMB does not make it possible to print documents at the conference.'''
+If you'd like to '''organize a BOF''' at BOSC, please post it [[BOSC_2011/BOFs|here]].
 
-If you'd like to organize a BOF at BOSC, please post it [[BOSC_2011/BOFs|here]].
-
-There will be a pay-your-own-way optional dinner at [http://www.ufertaverne.at Ufertaverne], A-1220 Wien, An der Oberen Alten Donau 186. [http://maps.google.com/maps?saddr=Austria+Center+Vienna&daddr=A-1220+Wien,+An+der+Oberen+Alten+Donau+186&hl=en&ll=48.236522,16.421256&spn=0.009904,0.021758&sll=48.23755,16.42124&sspn=0.009904,0.021758&geocode=FYoC4AIdc3T6ACl5Giph7wZtRzFexwA0Boj8xQ%3BFaIY4AIdjKX6AClz0v2A6gZtRzFn2dZ8En5z8w&mra=ltm&dirflg=w&z=16  (map)]
+At 7pm on Friday, there will be a '''pay-your-own-way optional dinner at [http://www.ufertaverne.at Ufertaverne]''', A-1220 Wien, An der Oberen Alten Donau 186. [http://maps.google.com/maps?saddr=Austria+Center+Vienna&daddr=A-1220+Wien,+An+der+Oberen+Alten+Donau+186&hl=en&ll=48.236522,16.421256&spn=0.009904,0.021758&sll=48.23755,16.42124&sspn=0.009904,0.021758&geocode=FYoC4AIdc3T6ACl5Giph7wZtRzFexwA0Boj8xQ%3BFaIY4AIdjKX6AClz0v2A6gZtRzFn2dZ8En5z8w&mra=ltm&dirflg=w&z=16  (map)]
 
 (Please note: RSVPs for the dinner are now closed--if you have not RSVPed, we have not included you in the headcount!)
 
