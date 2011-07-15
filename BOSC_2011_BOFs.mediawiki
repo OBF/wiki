@@ -6,7 +6,7 @@ If you would like to organize a Birds of a Feather (BOF) meeting, just sign up f
 
 == Friday BOFs (Day 1) ==
 
-* Galaxy and Taverna working together  [Organizer?]
+* Galaxy and Taverna working together  (Marco Roos)
 :: Galaxy and Taverna are both workflow systems with different strengths. It is in the interest of users if they can be used together, while each keeps extending their strong points. A tool to generate Galaxy tools from Taverna workflows has already been developed and in a previous meeting we concluded that allowing Galaxy and Taverna Server to work from one (virtual) box could be the next step. In this BOF we discuss how we could make the tools benefit most from working together and what additional requirements that might set. Developers of both Galaxy and Taverna will participate in this BOF, and we welcome interested (potential) users and developers.
 *
 
