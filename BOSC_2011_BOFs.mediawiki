@@ -19,6 +19,9 @@ The BOFs are from 5:30-6:30 in the same room as the BOSC talks (F2).
 * Hands-on to prepare a Debian package for your software. Organizer: Steffen M&ouml;ller
 :: Walk through the Debian Med repository on build instructions for biological software, preparation of a package for your source code, identification of what is missing in Debian/Ubuntu to help your daily routine.
 
+* Python in Bioinformatics. Organizer: Brad Chapman
+:: Discuss Biopython development or ask questions. Generally talk about use of Python in Bioinformatics and useful libraries.
+
 ----
 * Return to '''[[BOSC_2011_Schedule | BOSC 2011 Schedule]]'''
 * Return to '''[[BOSC_2011 | BOSC 2011]]''' main page
