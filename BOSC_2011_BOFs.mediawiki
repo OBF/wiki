@@ -17,7 +17,8 @@ The BOFs are from 5:30-6:30 in the same room as the BOSC talks (F2).
 * [http://campagnelab.org/software/goby/ Goby Framework] and APIs. Organizer: Fabien Campagne.
 :: Goby offers an efficient framework to store and work with large volumes of NGS data. Developers interested in implementing Goby support in NGS tools, and/or end users interested in using the Goby toolbox are encouraged to attend to meet and chat with the developers.
 
-*
+* Hands-on to prepare a Debian package for your software. Organizer: Steffen M&ouml;ller
+:: Walk through the Debian Med repository on build instructions for biological software, preparation of a package for your source code, identification of what is missing in Debian/Ubuntu to help your daily routine.
 
 ----
 * Return to '''[[BOSC_2011_Schedule | BOSC 2011 Schedule]]'''
