@@ -8,6 +8,10 @@ The 12th Annual Bioinformatics Open Source Conference (BOSC 2011) was held immed
 
 '''The BOSC schedule can be viewed [[BOSC_2011_Schedule|as html]] or downloaded [[Media:BOSC2011_schedule.pdf | as a PDF file]].''' You can also download the [http://www.oboedit.org/BOSC2011/BOSC2011-program.pdf  complete proceedings].  This large (6 Mb) PDF file includes the schedule and all of the talk and poster abstracts.
 
+Congratulations to the winners of the BOSC 2011 Student Travel Fellowships: Florian P. Breitwieser, Kerensa McElroy, and Konstantin Okonechnikov�!
+
+Congratulations to the winners (tied) of the Audience Favorite Talk:  Andreas Hildebrandt and Konstantinos Krampis!
+
 == Overview ==
 __NOTOC__
 <div style="float: left; margin-right:20px; maxwidth: 200px">__TOC__</div>
