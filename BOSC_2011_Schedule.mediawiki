@@ -19,7 +19,7 @@ title: BOSC 2011 Schedule
 | Nomi Harris (Co-Chair, BOSC)
 |-
 | 9:15-10:15
-| [Keynote] The role of openness in knowledge-based systems for biomedicine
+| [Keynote] The role of openness in knowledge-based systems for biomedicine [http://www.slideshare.net/bosc2011/a01openness-in-knowledgebased-systems ***SLIDES***]
 | Lawrence Hunter (University of Colorado)
 |-
 | '''10:15-10:45'''
@@ -43,7 +43,7 @@ title: BOSC 2011 Schedule
 | Alex Kalderimis
 |-
 | 11:45-11:55
-|[Genome Content Management] easyDAS: Automatic creation of DAS servers
+|[Genome Content Management] easyDAS: Automatic creation of DAS servers [http://www.slideshare.net/bosc2011/easy-das-bosc2011 ***SLIDES***]
 | Bernat Gel
 |-
 | 11:55-12:05
@@ -79,11 +79,12 @@ title: BOSC 2011 Schedule
 | Michael Smoot
 |-
 | 2:50-3:10
-| [Visualization] Applying Visual Analytics to Extend the Genome Browser from Visualization Tool to Analysis Tool 
+| [Visualization] Applying Visual Analytics to Extend the Genome Browser from Visualization Tool to Analysis Tool [http://www.slideshare.net/bosc2011/goecks-bosc-2011 ***SLIDES***]
+
 | Jeremy Goecks
 |-
 | 3:10-3:20
-| [Visualization] WebApollo: A web-based sequence annotation editor for community annotation
+| [Visualization] WebApollo: A web-based sequence annotation editor for community annotation [http://www.slideshare.net/bosc2011/webapollo-bosc2011 ***SLIDES***]
 | Nomi Harris
 |-
 | 3:20-3:30
@@ -103,11 +104,11 @@ title: BOSC 2011 Schedule
 | Julian Catchen
 |-
 | 4:20-4:40
-| [Next-Generation Sequencing] Large scale NGS pipelines using the MOLGENIS platform: processing the Genome of the Netherlands
+| [Next-Generation Sequencing] Large scale NGS pipelines using the MOLGENIS platform: processing the Genome of the Netherlands [http://www.slideshare.net/bosc2011/d02nextgenseqmolgenis ***SLIDES***]
 | Morris Swertz
 |-
 | 4:40-4:50
-| [Next-Generation Sequencing] Bio-NGS: BioRuby plugin to conduct programmable workflows for Next Generation Sequencing data
+| [Next-Generation Sequencing] Bio-NGS: BioRuby plugin to conduct programmable workflows for Next Generation Sequencing data [http://www.slideshare.net/bosc2011/raoul-bosc2011bio-ngs ***SLIDES***]
 | Raoul Bonnal
 |-
 | 4:50-5:00
