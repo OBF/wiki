@@ -169,7 +169,7 @@ title: BOSC 2011 Schedule
 | Chair: Brad Chapman
 |-
 | 10:45-11:05
-|[Cloud Computing] Mygene.info: Gene Annotation as a Service - GAaaS
+|[Cloud Computing] Mygene.info: Gene Annotation as a Service - GAaaS [http://www.slideshare.net/bosc2011/2011-bosc-ismbtalkcwu ***SLIDES***]
 | Chunlei Wu
 |-
 | 11:05-11:25
@@ -178,7 +178,7 @@ community and beyond
 | Konstantinos Krampis
 |-
 | 11:25-11:35
-|[Cloud Computing] OBIWEE : an open source bioinformatics cloud environment
+|[Cloud Computing] OBIWEE : an open source bioinformatics cloud environment [http://www.slideshare.net/bosc2011/obiwee-slide-v3 ***SLIDES***]
 | Olivier Sallou
 |-
 | 11:35-11:45
@@ -186,15 +186,15 @@ community and beyond
 | Brian O'Connor
 |-
 | 11:45-12:05
-|[Cloud Computing] Sequencescape - a cloud enabled Laboratory Information Management Systems (LIMS) for second and third generation sequencing
+|[Cloud Computing] Sequencescape - a cloud enabled Laboratory Information Management Systems (LIMS) for second and third generation sequencing [http://www.slideshare.net/bosc2011/lj3-bosc-2011sequencescape ***SLIDES***]
 | Lars Jorgensen
 |-
 | 12:05-12:15
-|[Cloud Computing] Enabling NGS Analysis with(out) the Infrastructure
+|[Cloud Computing] Enabling NGS Analysis with(out) the Infrastructure [http://www.slideshare.net/bosc2011/cloud-man-enisafganbosc2011 ***SLIDES***]
 | Enis Afgan
 |-
 | 12:15-12:25
-|[Cloud Computing] Hadoop-BAM: A Library for Genomic Data Processing
+|[Cloud Computing] Hadoop-BAM: A Library for Genomic Data Processing [http://www.slideshare.net/bosc2011/kallio-bosc2011-hadoopbam ***SLIDES***]
 | Aleksi Kallio
 |-
 | '''12:30-2:00'''
@@ -222,7 +222,7 @@ community and beyond
 | Tomasz Adamusiak
 |-
 | 2:30-2:50
-|[Misc.] Debian Med: individuals' expertize and their sharing of package build instructions
+|[Misc.] Debian Med: individuals' expertize and their sharing of package build instructions [http://www.slideshare.net/bosc2011/debianmed-bosc-05 ***SLIDES***]
 | Steffen Möller
 |-
 | 2:50-3:10
@@ -234,7 +234,7 @@ community and beyond
 | Peter Cock
 |-
 | 3:20-3:27
-|[Misc.] What's new with GMOD [lightning]
+|[Misc.] What's new with GMOD [lightning] [http://www.slideshare.net/bosc2011/gmod-bosc-2011 ***SLIDES***]
 | Scott Cain
 |-
 | 3:27-3:34
@@ -250,7 +250,7 @@ community and beyond
 | Chair: Jim Procter
 |-
 | 4:00-4:10
-|[Misc.] EMBOSS: New developments and extended data access
+|[Misc.] EMBOSS: New developments and extended data access [http://www.slideshare.net/bosc2011/emboss-8619441 ***SLIDES***]
 | Peter Rice
 |-
 | 4:10-4:20
