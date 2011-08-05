@@ -68,11 +68,6 @@ disciplines.
 * '''July 13-14, 2011:  [[Codefest 2011]] programming session'''
 * '''July 15-16, 2011:  BOSC 2011'''
 
-== Registration ==
-
-Registration for BOSC is through the [http://www.iscb.org/ismbeccb2011-registration#sigs ISMB main conference web site]. BOSC is a two-day SIG.  Please note that you can register for BOSC without registering for the ISMB conference.
-The deadline for discounted early registration is June 3, 2011.
-
 == Posters ==
 
 This year, BOSC attendees have the opportunity to present posters, and there will be three poster sessions.  There will be a few last-minute poster spots available.  Please send your one-page abstract to  [mailto:bosc@open-bio.org bosc@open-bio.org] by noon on the first day of the conference, and you will be assigned a poster spot. 
