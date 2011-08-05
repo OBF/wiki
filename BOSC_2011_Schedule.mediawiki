@@ -39,7 +39,7 @@ title: BOSC 2011 Schedule
 | Thomas Down
 |-
 | 11:25-11:45
-|[Genome Content Management] InterMine - Using RESTful Webservices for Interoperability
+|[Genome Content Management] InterMine - Using RESTful Webservices for Interoperability [http://www.slideshare.net/bosc2011/alex-interminebosc-presentation ***SLIDES***]
 | Alex Kalderimis
 |-
 | 11:45-11:55
@@ -55,7 +55,7 @@ title: BOSC 2011 Schedule
 | Hervé Ménager
 |-
 | 12:15-12:25
-|[Genome Content Management] BioMart 0.8 offers new tools, more interfaces, and increased flexibility through plug-ins
+|[Genome Content Management] BioMart 0.8 offers new tools, more interfaces, and increased flexibility through plug-ins [http://www.slideshare.net/bosc2011/b07genomecontentbiomart ***SLIDES***]
 | Junjun Zhang
 |-
 | 12:25-12:32
