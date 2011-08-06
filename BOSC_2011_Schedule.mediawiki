@@ -31,7 +31,7 @@ title: BOSC 2011 Schedule
 | Chair: Peter Rice
 |-
 | 10:45-11:05
-|[Genome Content Management] Unipro UGENE: an open source toolkit for complex genome analysis
+|[Genome Content Management] Unipro UGENE: an open source toolkit for complex genome analysis [http://www.slideshare.net/bosc2011/unipro-ugene-bosc-2011-update ***SLIDES***]
 | Konstantin Okonechnikov
 |-
 | 11:05-11:25
