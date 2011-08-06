@@ -173,8 +173,7 @@ title: BOSC 2011 Schedule
 | Chunlei Wu
 |-
 | 11:05-11:25
-|[Cloud Computing] Cloud BioLinux: open source, fully-customizable bioinformatics computing on the cloud for the genomics [http://www.slideshare.net/bosc2011/f02cloudcloud-biolinux ***SLIDES***]
-community and beyond
+|[Cloud Computing] Cloud BioLinux: open source, fully-customizable bioinformatics computing on the cloud for the genomics community and beyond [http://www.slideshare.net/bosc2011/bosc2011-ntinokrampisfull ***SLIDES***]
 | Konstantinos Krampis
 |-
 | 11:25-11:35
