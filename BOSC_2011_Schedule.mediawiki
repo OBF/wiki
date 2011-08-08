@@ -229,7 +229,7 @@ title: BOSC 2011 Schedule
 | Andreas Hildebrandt
 |-
 | 3:10-3:20
-|[Misc.] Biopython Project Update
+|[Misc.] Biopython Project Update [http://www.slideshare.net/bosc2011/talk6-biopython-bosc2011 *** SLIDES***]
 | Peter Cock
 |-
 | 3:20-3:27
@@ -253,7 +253,7 @@ title: BOSC 2011 Schedule
 | Peter Rice
 |-
 | 4:10-4:20
-|[Misc.] G-language Project: the last 10 years and beyond
+|[Misc.] G-language Project: the last 10 years and beyond [http://www.slideshare.net/bosc2011/bosc2011-arakawa ***SLIDES***]
 | Kazuharu Arakawa
 |-
 | 4:20-4:30
