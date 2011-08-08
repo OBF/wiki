@@ -88,7 +88,7 @@ title: BOSC 2011 Schedule
 | Nomi Harris
 |-
 | 3:20-3:30
-| [Visualization] The isobar R package: Analysis of quantitative proteomics data
+| [Visualization] The isobar R package: Analysis of quantitative proteomics data [http://www.slideshare.net/bosc2011/bosc2011-isobarfbp ***SLIDES***]
 | Florian Breitwieser
 |-
 | '''3:30-4:00'''
