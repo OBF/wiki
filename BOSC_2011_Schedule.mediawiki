@@ -112,7 +112,7 @@ title: BOSC 2011 Schedule
 | Raoul Bonnal
 |-
 | 4:50-5:00
-| [Next-Generation Sequencing] Goby framework: native support in GSNAP, BWA and IGV 2.0
+| [Next-Generation Sequencing] Goby framework: native support in GSNAP, BWA and IGV 2.0 [http://campagnelab.org/files/campagne-lab-bosc-presentation-2011-final.zip ***SLIDES as PREZI***]
 | Kevin C. Dorff
 |-
 | 5:00-5:10
