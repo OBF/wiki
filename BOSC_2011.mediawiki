@@ -8,6 +8,8 @@ The 12th Annual Bioinformatics Open Source Conference (BOSC 2011) was held immed
 
 '''The [[BOSC_2011_Schedule|BOSC schedule]] can be viewed [[BOSC_2011_Schedule|as html]] or downloaded [[Media:BOSC2011_schedule.pdf | as a PDF file]].''' You can also download the [http://www.oboedit.org/BOSC2011/BOSC2011-program.pdf  complete proceedings].  This large (6 Mb) PDF file includes the schedule and all of the talk and poster abstracts.
 
+'''Slides for the BOSC talks are now linked (where available) from the [[BOSC_2011_Schedule|BOSC schedule]].'''
+
 Congratulations to the winners of the BOSC 2011 Student Travel Fellowships: Florian P. Breitwieser, Kerensa McElroy, and Konstantin Okonechnikov!
 
 Congratulations to the winners (tied) of the Audience Favorite Talk:  Andreas Hildebrandt and Konstantinos Krampis!
@@ -67,15 +69,6 @@ disciplines.
 * June 3, 2011: [http://www.iscb.org/ismbeccb2011-registration#1daysig Early registration deadline for SIGs (including BOSC)].
 * '''July 13-14, 2011:  [[Codefest 2011]] programming session'''
 * '''July 15-16, 2011:  BOSC 2011'''
-
-== Posters ==
-
-This year, BOSC attendees have the opportunity to present posters, and there will be three poster sessions.  There will be a few last-minute poster spots available.  Please send your one-page abstract to  [mailto:bosc@open-bio.org bosc@open-bio.org] by noon on the first day of the conference, and you will be assigned a poster spot. 
-In order to qualify for poster presentation, your work must be open source, and your abstract should specify the open source license (see next section).
-
-Posters that were accepted in advance have been assigned poster spots--please check the [[Media:BOSC2011_schedule.pdf | BOSC schedule]] or the complete [http://www.oboedit.org/BOSC2011/BOSC2011-Program.pdf Proceedings] to find your poster number.  '''Please note that the [http://www.oboedit.org/BOSC2011/BOSC2011-Program.pdf Proceedings] (with all of the poster abstracts) will not be distributed in printed form at the conference.'''
-
-The poster boards are 130 cm high x 90 cm wide. Fasteners (Velcro / double sided tape) will be provided at the site for putting up your poster, so you don't need to bring tape, tacks or pins.
 
 === Open Source License Requirement ===
 
