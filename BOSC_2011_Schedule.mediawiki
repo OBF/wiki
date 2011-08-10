@@ -59,7 +59,7 @@ title: BOSC 2011 Schedule
 | Junjun Zhang
 |-
 | 12:25-12:32
-|[Genome Content Management] Running Workflows Through Taverna Server [lightning]
+|[Genome Content Management] Running Workflows Through Taverna Server [lightning] [http://www.slideshare.net/bosc2011/running-workflows-through-galaxy-bosc-presentation ***SLIDES***]
 | Donal Fellows
 |-
 | '''12:30-2:00'''
