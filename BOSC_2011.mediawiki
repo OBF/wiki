@@ -74,7 +74,7 @@ disciplines.
 
 The [[OBF|Open Bioinformatics Foundation]], which sponsors BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the biological research community. For this reason, if a submitted talk proposal concerns a specific software system for use by the research community, then that software must be licensed with a recognized Open Source License, and be available for download, including source code, by a tar/zip file accessed through ftp/http or through a widely used version control system like cvs/subversion/git/bazaar/Mercurial.
 
-See the following websites for further information:
+See the following pages for further information:
 * [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
 * [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
 
