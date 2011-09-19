@@ -16,7 +16,7 @@ See the following websites for further information:
 
 == Previous BOSCs ==
 
-The first BOSC was held in 2000.  [BOSC_2011 BOSC 2011] took place in Vienna in July 2011.
+The first BOSC was held in 2000.  [[BOSC 2011]] took place in Vienna in July 2011.
 
 [[Past BOSC conferences | information about the first 12 conferences]]
 
