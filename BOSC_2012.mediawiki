@@ -6,13 +6,17 @@ title: BOSC 2012
 
 The 13th Annual Bioinformatics Open Source Conference (BOSC 2012) will take place July 13-14, 2012, in Long Beach, CA, right before [http://www.iscb.org/ismb2012 ISMB 2012].
 
-=== Open Source License Requirement ===
+== Open Source License Requirement ==
 
 The [[OBF|Open Bioinformatics Foundation]], which sponsors BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the biological research community. For this reason, if a submitted talk proposal concerns a specific software system for use by the research community, then that software must be licensed with a recognized Open Source License, and be available (including source code) for download as a tar/zip file accessed through ftp/http or through a widely used version control system like cvs/subversion/git/bazaar/Mercurial.
 
 More information on Open Source:
 * [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
 * [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
+
+== Important Dates ==
+* '''July 13-14, 2012:  BOSC 2012'''
+* July 15-18, 2012: [http://www.iscb.org/ismb2012 ISMB 2012]
 
 == Previous BOSCs ==
 
