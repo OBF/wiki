@@ -16,9 +16,9 @@ More information on Open Source:
 
 == Previous BOSCs ==
 
-The first BOSC was held in 2000.  [[BOSC 2011]] took place in Vienna in July 2011.
-
-[[Past BOSC conferences | Information about the first 12 conferences]]
+* The first BOSC was held in 2000. 
+* [[BOSC 2011]] took place in Vienna in July 2011.
+* [[Past BOSC conferences | Information about the first 12 conferences]]
 
 == Contact Us ==
 
