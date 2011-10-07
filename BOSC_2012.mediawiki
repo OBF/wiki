@@ -62,7 +62,6 @@ More information on Open Source:
 * [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp]
 * [http://www.bioperl.org/wiki/Jason_Stajich Jason Stajich]
 
-
 == Previous BOSCs ==
 
 * The first BOSC was held in 2000.
