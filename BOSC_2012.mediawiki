@@ -11,6 +11,18 @@ The 13th Annual Bioinformatics Open Source Conference (BOSC 2012) will take plac
 * '''July 13-14, 2012:  BOSC 2012'''
 * July 15-17, 2012: [http://www.iscb.org/ismb2012 ISMB 2012]
 
+== Overview ==
+__NOTOC__
+<div style="float: left; margin-right:20px; maxwidth: 200px">__TOC__</div>
+
+The Bioinformatics Open Source Conference (BOSC) is sponsored by the Open Bioinformatics Foundation (O|B|F), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development within the biological research community. 
+
+Open Source software has flourished in the bioinformatics community for well over a decade. When the first BOSC (Bioinformatics Open Source Conference) was held in 2000, there were already a number of popular open source bioinformatics packages, and the number and range of these projects has increased dramatically since then. Many open source bioinformatics packages are widely used by the research community across a wide variety of applications. Open source bioinformatics software has facilitated rapid innovation, dissemination, and wide adoption of new computational methods, reusable software components, and standards.
+
+BOSC brings together bioinformatics open source developers from all over the world so they can increase the visibility of their work, forge connections with other developers, and work together to build shared resources. For those who are bioinformatics software users rather than developers, BOSC helps expose them to the wide array of projects that they might find useful (and perhaps they will be inspired to begin contributing to some of these projects). BOSC is not just a conference for presentations of completed work, but is a dynamic meeting where collaborative work gets done and attendees can learn about new or ongoing developments that they can directly apply to their own work.
+
+Please spread the word about BOSC to interested developers; all are welcome. On Twitter, we recommend the hash tag #bosc2012.
+
 == Sessions ==
 
 * '''Cloud and Parallel Computing''' -- This session will cover cloud-based approaches to improving software and data accessibility. The emergence of [http://en.wikipedia.org/wiki/Cloud_computing cloud computing] has made highly scalable cluster computing available to computational biologists. Services such as [http://aws.amazon.com/ec2/ Amazon's Elastic Compute Cloud] combined with [http://aws.amazon.com/publicdatasets/#1 publicly available datasets] promise to lower the overhead to participate in large scale data analyses. Talks will focus on how the community can build up resources, datasets, and workflows for making the best use of cloud infrastructure. We will also include talks on data-parallel approaches to analyzing massive data sets, such as those resulting from next-generation sequencing and mass spec proteomics, and reports on the parallelization of bioinformatics algorithms in general.
@@ -29,9 +41,31 @@ More information on Open Source:
 * [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
 * [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
 
+== Organizing Committee ==
+
+'''Chair'''
+
+* Nomi L. Harris (Lawrence Berkeley National Laboratory)
+
+'''Members'''
+
+* Jan Aerts (Katholieke Universiteit Leuven)
+* [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer]; Mass General Hospital)
+* [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; James Hutton Institute, formerly Scottish Crop Research Institute)
+* Christopher Fields (National Center for Supercomputing Applications)
+* Erwin Frise (Lawrence Berkeley National Laboratory)
+* Peter Rice (European Bioinformatics Institute) 
+
+'''Ex Officio (Members of the O|B|F Board)'''
+* [http://www.bioperl.org/wiki/Chris_Dagdigian Chris Dagdigian]
+* [http://myweb.lmu.edu/kdahlqui Kam D. Dahlquist]
+* [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp]
+* [http://www.bioperl.org/wiki/Jason_Stajich Jason Stajich]
+
+
 == Previous BOSCs ==
 
-* The first BOSC was held in 2000. 
+* The first BOSC was held in 2000.
 * [[BOSC 2011]] took place in Vienna in July 2011.
 * [[Past BOSC conferences | Information about the first 12 conferences]]
 
