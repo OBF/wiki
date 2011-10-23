@@ -30,6 +30,7 @@ title: Minutes:2011 ConfCall
   <ul>
     <li>How to become an affiliate project? (Alan R Williams)</li>
     <li>BioSmalltalk as an OBF member project? (Hernán Morales)</li>
+    <li>CloudBiolinux as an OBF member project? (Pjotr Prins, Brad Chapman)</li>
     <li>OBF Europe and Asia (Steffen Möller)</li>
     <li>OBF holding copyright as a community organization using the Apache model for licensing (Jean Peccoud)</li>
  </ul></li>
