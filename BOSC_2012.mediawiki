@@ -50,7 +50,7 @@ More information on Open Source:
 '''Members'''
 
 * Jan Aerts (Katholieke Universiteit Leuven)
-* [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer]; Mass General Hospital)
+* [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer]; [http://compbio.sph.harvard.edu/chb/ Harvard School of Public Health])
 * [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; James Hutton Institute, formerly Scottish Crop Research Institute)
 * Christopher Fields (National Center for Supercomputing Applications)
 * Erwin Frise (Lawrence Berkeley National Laboratory)
