@@ -28,6 +28,9 @@ The board can be contacted via email at [mailto:board@open-bio.org board@open-bi
 
 == Board of Directors Meetings ==
 
+'''Upcoming Board Meeting:'''
+* [[Minutes:2011_ConfCall| Conference call Nov 8, 2011]]
+
 '''Minutes of past Board Meetings:'''
 * [[Minutes:2010_ConfCall| Conference call Oct 5, 2010]]
 * [[Minutes:2009_ConfCall|Conference call Dec 14, 2009]]
