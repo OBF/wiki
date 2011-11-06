@@ -7,6 +7,7 @@ title: Minutes:2011 ConfCall
 <ol>
 <li> Old business </li>
  <ul><li> [[Minutes:2010_ConfCall| 2010 BoD meeting minutes]]</li> </ul>  
+ <ul><li> [[Minutes:2010_Financial_report| 2010 Financial Report]]</li> </ul>  
 <li>New business</li>
 <ol style="list-style-type:lower-roman">
 <li>BOSC
