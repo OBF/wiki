@@ -12,7 +12,7 @@ title: Minutes:2011 ConfCall
 <li>BOSC
 <ul>
   <li> BOSC 2011 (Nomi) - held with [http://www.iscb.org/ismbeccb2011 ISMB2011] in Vienna, Austria</li>
-  <ul><li> Money spent/made attendee number, any other feedback</li></ul>
+  <ul><li> Money spent/made, attendee number, any other feedback</li></ul>
   <li> BOSC 2012 - with [http://www.iscb.org/ismb2012 ISMB 2012] in Long Beach, CA</li>
   <ul><li> 2012 Organizing Committee chair</li><li>Plans for the conference</li></ul>
  </ul></li>
