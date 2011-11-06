@@ -24,7 +24,7 @@ title: Minutes:2011 ConfCall
  <li>Treasurer's 2011 report (ChrisD)</li>
  <li> BoD membership and succession.
    <ul>
-    <li>Nominations</li>
+    <li>Nominations: Peter Cock</li>
     <li>Plan to elect new BoD members and rotate officers.</li>
    </ul></li>
  <li>Additional topics proposed by community
