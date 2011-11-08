@@ -40,7 +40,7 @@ title: Minutes:2010 ConfCall
 * Directors: Kam Dahlquist, Jason Stajich, Chris Dagdigian, Hilmar Lapp, Nomi Harris
 * Guests: Ron Taylor, Peter Cock, Mauricio Herrera Cuadra
 
-'''Minutes:''''
+'''Minutes:'''
 
 Hilmar calls meeting to order at 5.05pm EDT.
 * Approval of previous meeting minutes.
