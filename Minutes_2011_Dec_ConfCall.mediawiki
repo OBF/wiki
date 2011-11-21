@@ -1,0 +1,21 @@
+---
+title: Minutes:2011 Dec ConfCall
+---
+
+= Tentative agenda =
+
+<ol>
+<li> Old business </li>
+ <ul><li> [[Minutes:2010_Financial_report| 2010 Financial Report]]</li> </ul>
+ <ul><li> [[Minutes:2010_ConfCall| 2010 BoD meeting minutes]]</li> </ul>  
+<li>New business</li>
+<ol style="list-style-type:lower-roman">
+ <li>Treasurer's 2011 report: [[File:2011-OBF-Treasurers-Report_v1.pdf]] (Chris Dagdigian)</li>
+ <li>Elections:
+  <ul><li>Hilmar Lapp, running for office of President</li>
+   <li>Nomi Harris, running for office of Parliamentarian</li>
+   <li>Peter Cock, running for BoD member-at-large</li>
+  </ul></li>
+  <li>Alternative procedure(s) for elections (Jason Stajich)</li>
+</ol>
+</ol>
