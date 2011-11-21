@@ -7,7 +7,7 @@ title: Minutes:2011 Dec ConfCall
 <ol>
 <li> Old business </li>
  <ul><li> [[Minutes:2010_Financial_report| 2010 Financial Report]]</li> </ul>
- <ul><li> [[Minutes:2010_ConfCall| 2010 BoD meeting minutes]]</li> </ul>  
+ <ul><li> [[Minutes:2011_ConfCall| 2011 BoD meeting minutes]]</li> </ul>  
 <li>New business</li>
 <ol style="list-style-type:lower-roman">
  <li>Treasurer's 2011 report: [[File:2011-OBF-Treasurers-Report_v1.pdf]] (Chris Dagdigian)</li>
