@@ -8,6 +8,8 @@ The 13th Annual Bioinformatics Open Source Conference (BOSC 2012) will take plac
 
 == Important Dates ==
 * March 1, 2012: Call for Abstracts opens
+* April 13, 2012: Deadline for submitting abstracts
+* May 7, 2012: Notification of accepted talk abstracts emailed to authors
 * '''July 13-14, 2012:  BOSC 2012'''
 * July 15-17, 2012: [http://www.iscb.org/ismb2012 ISMB 2012]
 
