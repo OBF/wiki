@@ -2,6 +2,10 @@
 title: Minutes:2011 Dec ConfCall
 ---
 
+The meeting will be held conference call. Dial-in information:
+* Dial-in Number: 1-940-287-4000
+* Participant Access Code: 279610
+
 = Tentative agenda =
 
 <ol>
