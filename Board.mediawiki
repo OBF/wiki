@@ -6,19 +6,22 @@ title: Board
 The board can be contacted via email at [mailto:board@open-bio.org board@open-bio.org]
 
 '''President'''
-:; [[bp:Jason Stajich|Jason Stajich]] : [[bp:BioPerl|BioPerl]] core developer. [http://stajichlab.fungalgenomes.org Assistant Professor] at [http://www.ucr.edu/ University of California, Riverside].
+:; [[bp:Hilmar Lapp|Hilmar Lapp]] : Representing [[bp:BioPerl|BioPerl]].  Employed by the [http://www.nescent.org/ National Evolutionary Synthesis Center] (NESCent). Former OBF Parliamentarian, and currently acting Secretary.
 
 '''Treasurer'''
 :; [[bp:Chris Dagdigian|Chris Dagdigian]] : [[bp:BioPerl|BioPerl]] co-founder & O|B|F sysadmin. Employed by [http://www.bioteam.net the BioTeam].
 
 '''Secretary'''
-: Currently Unfilled. Duties carried out by Parliamentarian in the interim.
+: Currently Unfilled. Duties carried out by President in the interim.
 
 '''Parliamentarian'''
-:; [[bp:Hilmar Lapp|Hilmar Lapp]] : Representing [[bp:BioPerl|BioPerl]].  Employed by the [http://www.nescent.org/ National Evolutionary Synthesis Center] (NESCent).
+:; <span class="plainlinks">[http://www.linkedin.com/in/nomiharris Nomi Harris]</span> : Member of the [http://www.berkeleybop.org/ Berkeley Bioinformatics Open-Source Projects] group at the Lawrence Berkeley National Laboratory.
 
 '''At-large members'''
-:; <span class="plainlinks">[http://www.linkedin.com/in/nomiharris Nomi Harris]</span> : Member of the [http://www.berkeleybop.org/ Berkeley Bioinformatics Open-Source Projects] group at the Lawrence Berkeley National Laboratory.
+
+:; [[bp:Jason Stajich|Jason Stajich]] : [[bp:BioPerl|BioPerl]] core developer. [http://stajichlab.fungalgenomes.org Assistant Professor] at [http://www.ucr.edu/ University of California, Riverside]. Former OBF President.
+
+:; <span class="plainlinks">[http://www.hutton.ac.uk/staff/peter-cock Peter Cock]</span> : [[bp:Biopython|Biopython]] core developer, bioinformatician at the [http://www.hutton.ac.uk/ James Hutton Institute].
 
 === Past Board Members ===
 ; [[bp:Ewan Birney|Ewan Birney]] : ''Past President and At-large Member'',  [[bp:BioPerl|BioPerl]] core developer.  Coordinator of the [http://www.ebi.ac.uk EBI] half of the [http://www.ensembl.org Ensembl] genome annotation project.
