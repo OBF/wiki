@@ -56,14 +56,6 @@ Her talk is entitled "Fun with Standards":
 
 ''Standards, as a topic, do not make a heart flutter with excitement or chills go up your spine. Despite this, in order to find the data I was after, I have been involved in designing a number of controlled vocabularies and ontologies such as the Gene Ontology and the Phenotypic Quality Ontology, and I have learned from these experiences. In this talk I will discuss: information space as a graph made up of simple relationships between things; what physical centralization can offer; standards as a way to enable interoperability which in turn can drive innovation; and the relative (in)effectiveness of top-down standardization committees.''
 
-== Open Source License Requirement for Talks at BOSC ==
-
-The [[OBF|Open Bioinformatics Foundation]], which sponsors BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the biological research community. For this reason, if a submitted talk proposal concerns a specific software system for use by the research community, then that software must be licensed with a recognized Open Source License, and be available (including source code) for download as a tar/zip file accessed through ftp/http or through a widely used version control system like cvs/subversion/git/bazaar/Mercurial.
-
-More information on Open Source:
-* [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
-* [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
-
 == Organizing Committee ==
 
 '''Chair'''
@@ -84,6 +76,14 @@ More information on Open Source:
 * [http://myweb.lmu.edu/kdahlqui Kam D. Dahlquist]
 * [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp]
 * [http://www.bioperl.org/wiki/Jason_Stajich Jason Stajich]
+
+== Open Source License Requirement for Talks at BOSC ==
+
+The [[OBF|Open Bioinformatics Foundation]], which sponsors BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the biological research community. For this reason, if a submitted talk proposal concerns a specific software system for use by the research community, then that software must be licensed with a recognized Open Source License, and be available (including source code) for download as a tar/zip file accessed through ftp/http or through a widely used version control system like cvs/subversion/git/bazaar/Mercurial.
+
+More information on Open Source:
+* [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
+* [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
 
 == Previous BOSCs ==
 
