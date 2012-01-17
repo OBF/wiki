@@ -35,7 +35,34 @@ Please spread the word about BOSC to interested developers; all are welcome. On 
 * '''Bioinformatics Open Source Project Updates''' -- This session will feature short talks from ongoing projects describing their recent progress. Abstracts will be solicited from open source projects affiliated with the O|B|F (see http://www.open-bio.org/wiki/Projects), including the Bio* projects, DAS, BioMOBY, EMBOSS, and GMOD, but any other open-source project will be equally eligible to submit presentations for this session.
 * '''Panel: Interfacing with Industry''' -- Companies are more and more seeing the benefits of working with open source code and making their own code open; meanwhile, academics frequently partner with companies on their research projects. We encourage submissions from companies that work with open source software, as well as developers from non-commercial organizations who collaborate with companies.  We anticipate a broadly useful conversation about the benefits and pitfalls of academic/commercial interaction.
 
-== Open Source License Requirement ==
+== Keynote Speakers ==
+
+=== Jonathan Eisen ===
+
+Dr. Eisen is a professor of evolutionary biology at U. C. Davis, and also has an adjunct position at the Department of Energy Joint Genome Institute in Walnut Creek, CA.  His research focuses on the origin of novelty (how new processes and functions originate). Dr. Eisen is heavily involved in the Open Access publishing movement and is Academic Editor in Chief of PLoS Biology. 
+
+His talk is entitled, "Science Wants to Be Open - If Only We Could Get Out of Its Way":
+
+"Scientific research and education is inherently an open activity.  Yet
+the culture of scientific practice has inserted barriers in the way of
+this openness in every conceivable area from peer review, to
+publishing, to sharing resources, to education.  I will argue that
+most or even all of these barriers are unnecessary and should be
+eliminated for scientific progress to be most efficient.''
+
+=== Suzanna Lewis ===
+
+Suzanna Lewis is the head of the Berkeley Bioinformatics and Open Source Projects and a founder of the Gene Ontology Consortium. In addition to the Gene Ontology, she is involved in the 
+OBO Foundry, the Phenotypic Quality Ontology, modENCODE, and the Generic Model Organism Database Project.
+
+Her talk is entitled "Fun with Standards":
+
+''The Web is a wonderful soapbox for publishing data of all kinds. Labs of all sizes are using it to distribute their results and conclusions to the entire world. As DNA sequencers and other lab instruments continue to improve, the sheer volume of this information is going to continue to increase super-linearly. Providing open access to it is straightforward from a technical standpoint, but if you are a consumer, trying to locate particular data, then trolling the Web is not much better than rolling dice. Zipf’s law applies, and the things you are most interested in can only be found in a tiny minority of the items available on the Web.
+
+Standards, as a topic, do not make a heart flutter with excitement or chills go up your spine. Despite this, in order to find the data I was after, I have been involved in designing a number of controlled vocabularies and ontologies such as the Gene Ontology and the Phenotypic Quality Ontology, and I have learned from these experiences. In this talk I will discuss: information space as a graph made up of simple relationships between things; what physical centralization can offer; standards as a way to enable interoperability which in turn can drive innovation; and the relative (in)effectiveness of top-down standardization committees.  
+''
+
+== Open Source License Requirement for Talks at BOSC ==
 
 The [[OBF|Open Bioinformatics Foundation]], which sponsors BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the biological research community. For this reason, if a submitted talk proposal concerns a specific software system for use by the research community, then that software must be licensed with a recognized Open Source License, and be available (including source code) for download as a tar/zip file accessed through ftp/http or through a widely used version control system like cvs/subversion/git/bazaar/Mercurial.
 
