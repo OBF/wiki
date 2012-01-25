@@ -15,7 +15,7 @@ title: Projects
 
 ==Other related projects==
 * BioHaskell [http://biohaskell.org/ home page], [http://hackage.haskell.org/packages/archive/pkg-list.html#cat:bioinformatics releases]
-* BioCaml [http://github.com/agarwal/biocaml source code]
+* [http://github.com/agarwal/biocaml Biocaml] - bioinformatics library in the functional programming language OCaml
 * [http://biophp.org BioPHP]
 * [http://bioweka.sourceforge.net/index.php/Main_Page BioWeka]
 * [http://www.bioclipse.net/ BioClipse] - visual platform based on Eclipse
