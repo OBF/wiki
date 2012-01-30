@@ -6,7 +6,7 @@ title: EU Codefest 2012
 
 In coordination with the [[BOSC]] committee we are organising the first EU-Codefest, a low-key event the week after [[BOSC 2012]] in California. 
 
-The EU-Codefest will take place on 19 and 20 July 2012, in Lodi, Italy, near the Bergamo and Milano airports (Bergamo is a hub for Ryanair).
+The EU-Codefest will take place on 19 and 20 July 2012, in [http://www.openstreetmap.org/?lat=45.31&lon=9.508&zoom=10&layers=M Lodi, Italy], near the Bergamo and Milano airports (Bergamo is a hub for Ryanair).
 
 The EU-Codefest is modeled on the successful biohackathons in Japan, though we would like it more free-flowing. There will be few invited speakers, and instead attendees will have a chance to give micro-presentations on their ongoing open source projects. In short, the focus of the EU-Codefest will be on coding, open source projects, and general fun. We also hope to show BOSC talks on video.
 
