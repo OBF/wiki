@@ -213,7 +213,7 @@ title: BOSC 2011 Schedule
 | Ben Vandervalk
 |-
 | 2:10-2:20
-|[Semantic Web] Scufl2: because a workflow is more than its definition
+|[Semantic Web] Scufl2: because a workflow is more than its definition [http://www.slideshare.net/soilandreyes/2011-0716-scufl2-because-a-workflow-is-more-than-its-definition-bosc-2011 ***SLIDES***]
 | Stian Soiland-Reyes
 |-
 | 2:20-2:30
