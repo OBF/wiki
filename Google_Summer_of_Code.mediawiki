@@ -168,8 +168,8 @@ When applying, (aside from the information requested by Google) please provide t
 This section contains links to content related to OBF's participation
 in GSoC in previous years.
 
-* [[Google_Summer_of_Code_2010|2010]]
 * [[Google_Summer_of_Code_2011|2011]]
+* [[Google_Summer_of_Code_2010|2010]]
 
 == Other Facts & Links ==
 
