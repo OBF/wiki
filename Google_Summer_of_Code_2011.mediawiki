@@ -23,7 +23,7 @@ Here are links to the progress report pages for OBF's 2011 Google Summer of Code
 ;BioPython: Mikael Eric Trellet,  mentored by João Rodrigues and Eric Talevich
 :[http://www.biopython.org/wiki/GSoC2011_mtrellet Interface analysis module for BioPython]
 
-== Mentors and Project Ideas ==
+== 2011 Mentor Volunteers and Project Ideas ==
 
 Mentors and project ideas are hosted on each member project's wiki on a dedicated Google Summer of Code page.  See each of the member projects, linked below, for more details about any project:
 
