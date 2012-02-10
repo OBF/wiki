@@ -26,13 +26,13 @@ Mentors and project ideas are hosted on each member project's wiki on a dedicate
 :* add links to BioJava project ideas here (see [[Google_Summer_of_Code_2011]] for examples)
 
 ;BioRuby:
-:* add links to BioJava project ideas here (see [[Google_Summer_of_Code_2011]] for examples)
+:* add links to BioRuby project ideas here (see [[Google_Summer_of_Code_2011]] for examples)
 
 ;BioLib:
-:* add links to BioJava project ideas here (see [[Google_Summer_of_Code_2011]] for examples)
+:* add links to BioLib project ideas here (see [[Google_Summer_of_Code_2011]] for examples)
 
 ;BioDAS:
-:* add links to BioJava project ideas here (see [[Google_Summer_of_Code_2011]] for examples)
+:* add links to BioDAS project ideas here (see [[Google_Summer_of_Code_2011]] for examples)
 
 ''Note to students: project ideas on the wikis of member projects are only selected projects, albeit well thought-out ones. You are encouraged to propose your own project, just make sure it is still a contribution to one the OBF member projects (see list below)! If we like your proposal, we will try to find a mentor to help you with the project.  Regardless of what you decide to do, make sure you read and follow the guidelines for students below.''
 
