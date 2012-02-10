@@ -2,7 +2,7 @@
 title: Google Summer of Code 2011
 ---
 
-[[Image:Gsoc_2011_logo.png|right|link=http://code.google.com/soc]] 
+[[Image:Gsoc_2011_logo.png|right|frame|link=http://code.google.com/soc]] 
 
 The OBF was accepted into the 2011 Google Summer of Code (GSoC) program as an umbrella organization for all OBF-affiliated projects. [http://socghop.appspot.com/document/show/gsoc_program/google/gsoc2011/timeline Program Timeline].
 
