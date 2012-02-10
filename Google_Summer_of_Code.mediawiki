@@ -14,7 +14,7 @@ See the [http://code.google.com/soc Main GSoC Site] for more information and FAQ
 
 == Mentors and Project Ideas ==
 
-Mentors and project ideas are hosted on each member project's wiki on a dedicated Google Summer of Code page.  See each of the member projects, linked below, for more details about any project:
+Mentor names and project ideas are hosted on each member project's wiki on a dedicated Google Summer of Code page.  See each of the member projects, linked below, for more details about any project:
 
 ;BioPerl:
 :* [http://bioperl.org/wiki/Google_Summer_of_Code#Lightweight.2FLazy_BioPerl_Classes Lightweight Sequence objects and Lazy Parsing]
