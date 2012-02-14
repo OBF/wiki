@@ -11,8 +11,9 @@ The 13th Annual Bioinformatics Open Source Conference (BOSC 2012) will take plac
 * April 13, 2012: Deadline for submitting abstracts
 * May 7, 2012: Notification of accepted talk abstracts emailed to authors
 * July 11-12, 2012: Codefest 2012 (in planning phase as we secure space)
-* '''July 13-14, 2012:  BOSC 2012'''
-* July 15-17, 2012: [http://www.iscb.org/ismb2012 ISMB 2012]
+* '''July 13-14, 2012:  BOSC 2012''' (Long Beach, California)
+* July 15-17, 2012: [http://www.iscb.org/ismb2012 ISMB 2012] (Long Beach, California)
+* July 19-20, 2012: [http://www.inab.org/news/eu-codefest-2012/ EU-Codefest] (Lodi, Italy)
 
 == Overview ==
 
