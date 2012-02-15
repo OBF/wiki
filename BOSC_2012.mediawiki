@@ -41,7 +41,7 @@ Please spread the word about BOSC to interested developers; all are welcome. On 
 
 === Jonathan Eisen ===
 
-Dr. Eisen is a professor of evolutionary biology at U. C. Davis, and also has an adjunct position at the Department of Energy Joint Genome Institute in Walnut Creek, CA.  His research focuses on the origin of novelty (how new processes and functions originate). Dr. Eisen is heavily involved in the Open Access publishing movement and is Academic Editor in Chief of PLoS Biology. 
+Dr. Eisen is a professor of evolutionary biology at U. C. Davis, and also has an adjunct position at the Department of Energy Joint Genome Institute in Walnut Creek, CA.  His research focuses on the origin of novelty (how new processes and functions originate). Dr. Eisen is heavily involved in the Open Access publishing movement and is Academic Editor in Chief of PLoS Biology.  In 2011, he was awarded the 2012 Benjamin Franklin Award for Open Access in the Life Sciences.
 
 His talk is entitled "Science Wants to Be Open - If Only We Could Get Out of Its Way":
 
