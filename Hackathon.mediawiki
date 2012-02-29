@@ -21,3 +21,5 @@ title: Hackathon
 ** Mar 16-20, 2009, in Tokyo and Okinawa, Japan. Sponsored by the Database Center for Life Science (DBCLS) and the Okinawa Institute of Science and Technology (OIST).
 * [http://hackathon3.dbcls.jp/ 2010 BioHackathon]
 ** Feb 8-12, 2010, in Tokyo, Japan. Sponsored by the Database Center for Life Science (DBCLS) and the Computational Biology Research Center (CBRC).
+* [Codefest 2011]
+** July 13-14, 2011, in Vienna, Austria.
