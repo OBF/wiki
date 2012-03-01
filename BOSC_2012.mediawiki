@@ -6,9 +6,11 @@ title: BOSC 2012
 
 The 13th Annual Bioinformatics Open Source Conference (BOSC 2012) will take place July 13-14, 2012, in Long Beach, CA, right before [http://www.iscb.org/ismb2012 ISMB 2012].
 
+[[#Submitting_Abstracts|Submit your abstract now!]] The deadline for submitting abstracts for talks is '''April 13, 2012'''.
+
 == Important Dates ==
 * March 1, 2012: Call for Abstracts opens
-* April 13, 2012: Deadline for submitting abstracts
+* April 13, 2012: Deadline for submitting abstracts for talks
 * May 7, 2012: Notification of accepted talk abstracts emailed to authors
 * July 11-12, 2012: Codefest 2012 (in planning phase as we secure space)
 * '''July 13-14, 2012:  BOSC 2012''' (Long Beach, California)
@@ -37,6 +39,45 @@ Please spread the word about BOSC to interested developers; all are welcome. On 
 * '''Software Interoperability''' (possibly a joint session with [http://www.broadinstitute.org/software/bsi-sig/ BSI-SIG, the Software Interoperability SIG]) -- Open Source approaches to integrating the latest bioinformatics tools. Examples of interoperability environments include Galaxy, Cytoscape, caBIG, and myGrid.
 * '''Bioinformatics Open Source Project Updates''' -- This session will feature short talks from ongoing projects describing their recent progress. Abstracts will be solicited from open source projects affiliated with the O|B|F (see http://www.open-bio.org/wiki/Projects), including the Bio* projects, DAS, BioMOBY, EMBOSS, and GMOD, but any other open-source project will be equally eligible to submit presentations for this session.
 * '''Panel: Interfacing with Industry''' -- Companies are more and more seeing the benefits of working with open source code and making their own code open; meanwhile, academics frequently partner with companies on their research projects. We encourage submissions from companies that work with open source software, as well as developers from non-commercial organizations who collaborate with companies.  We anticipate a broadly useful conversation about the benefits and pitfalls of academic/commercial interaction.
+
+== Submitting Abstracts ==
+
+The deadline for abstract submissions is '''Friday, April 13, 2012'''.
+
+Abstracts must be '''one page''' in length and submitted '''as a PDF (preferred) or Microsoft Word file only'''.  Please observe the following formatting guidelines:
+* Use 1 inch (2.5 cm) margins on the top, sides, and bottom of the page.
+* Include the following pieces of information in order from the top of the page:
+** Title
+** Authors, with the presenting author's name underlined.
+** Author affiliations, including the e-mail address of the presenting author.
+** URL for the overall project web site
+** URL for accessing the code
+** The particular Open Source License being used
+* The abstracts will be printed "as is" in the program booklet; please help your all-volunteer Organizing Committee by following the formatting guidelines above.
+
+Accepted talks will be 5-20 minutes. You will be notified of the length of your talk upon abstract acceptance.
+
+'''[http://events.open-bio.org/BOSC2012/author/submit.php Click here to submit your abstract]'''
+
+=== Open Source License Requirement ===
+
+The [[OBF|Open Bioinformatics Foundation]], which sponsors BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the biological research community. For this reason, if a submitted talk proposal concerns a specific software system for use by the research community, then that software must be licensed with a recognized Open Source License, and be available for download, including source code, by a tar/zip file accessed through ftp/http or through a widely used version control system like cvs/subversion/git/bazaar/Mercurial.
+
+See the following websites for further information:
+* [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
+* [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
+
+=== Posters at BOSC ===
+
+BOSC includes poster sessions. All accepted speakers will also have the opportunity to present posters.  In addition, abstracts for which there is not enough time to allocate a talk may be selected for poster presentation. Finally, there will be a few spots reserved for last-minute posters.
+
+== Student Travel Awards ==
+
+Thanks to generous sponsorship from [http://www.eaglegenomics.com/ Eagle Genomics] and an anonymous donor, we are pleased to announce the competition for three Student Travel Awards for BOSC 2011.  Each winner will be awarded $250 to defray the costs of travel to BOSC 2011.
+* To apply for the award, [http://events.open-bio.org/BOSC2011/author/submit.php submit your abstract] by the April 13 deadline.
+* Be sure to indicate that you are a student on the abstract submission form.
+* Your abstract will undergo the normal review process for BOSC.  The BOSC Organizing Committee will select the three best abstracts for the Student Travel Awards.
+* You will still need to make your own travel arrangements for BOSC.  The award will take the form of a reimbursement check after the conference.
 
 == Keynote Speakers ==
 
