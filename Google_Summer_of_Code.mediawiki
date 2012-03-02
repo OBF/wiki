@@ -24,8 +24,8 @@ Mentor names and project ideas are hosted on each member project's wiki on a ded
 :* [http://bioperl.org/wiki/Google_Summer_of_Code#Semantic_Web_Support  Semantic web support]
 
 ;BioPython:
-:* [http://biopython.org/wiki/Google_Summer_of_Code#Mocapy.2B.2BBiopython:_from_data_to_probabilistic_models_of_biomolecules  Mocapy++Biopython: from data to probabilistic models of biomolecules]
-:* [http://biopython.org/wiki/Google_Summer_of_Code#Variant_representation.2C_parser.2C_generator.2C_and_coordinate_converter Variant representation, parser, generator, and coordinate converter]
+:* [http://biopython.org/wiki/Google_Summer_of_Code SearchIO]
+:* [http://biopython.org/wiki/Google_Summer_of_Code Variant representation, parser, generator, and coordinate converter]
 
 ;BioJava:
 :* [http://biojava.org/wiki/Google_Summer_of_Code#Amino_acids_physico-chemical_properties_calculation  Amino acids physico-chemical properties calculation]
