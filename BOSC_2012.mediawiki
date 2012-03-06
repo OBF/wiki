@@ -9,6 +9,9 @@ The 13th Annual Bioinformatics Open Source Conference (BOSC 2012) will take plac
 [[#Submitting_Abstracts|Submit your abstract now!]] The deadline for submitting abstracts for talks is '''April 13, 2012'''.
 
 == Important Dates ==
+__NOTOC__
+<div style="float: right; margin-right:20px; maxwidth: 200px">__TOC__</div>
+
 * March 1, 2012: Call for Abstracts opens
 * April 13, 2012: Deadline for submitting abstracts for talks
 * May 7, 2012: Notification of accepted talk abstracts emailed to authors
@@ -19,8 +22,6 @@ The 13th Annual Bioinformatics Open Source Conference (BOSC 2012) will take plac
 
 == Overview ==
 
-__NOTOC__
-<div style="float: right; margin-right:20px; maxwidth: 200px">__TOC__</div>
 The Bioinformatics Open Source Conference (BOSC) is sponsored by the Open Bioinformatics Foundation (O|B|F), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development within the biological research community. 
 
 Open Source software has flourished in the bioinformatics community for well over a decade. When the first BOSC (Bioinformatics Open Source Conference) was held in 2000, there were already a number of popular open source bioinformatics packages, and the number and range of these projects has increased dramatically since then. Many open source bioinformatics packages are widely used by the research community across a wide variety of applications. Open source bioinformatics software has facilitated rapid innovation, dissemination, and wide adoption of new computational methods, reusable software components, and standards.
