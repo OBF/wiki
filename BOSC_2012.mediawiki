@@ -29,6 +29,12 @@ BOSC brings together bioinformatics open source developers from all over the wor
 
 Please spread the word about BOSC to interested developers; all are welcome. On Twitter, we recommend the hash tag #bosc2012.
 
+<div style="float:right; background-color: #FFFFFF">[[File:Eagle_logo_CMYK.jpg‎|120px|right|Eagle Genomics logo|link=http://www.eaglegenomics.com/]]</div>
+
+== Sponsors ==
+
+We thank [http://www.eaglegenomics.com/ Eagle Genomics, Ltd.] and an anonymous donor for sponsoring three Student Travel Awards at BOSC 2012.
+
 == Sessions ==
 
 * '''Cloud and Parallel Computing''' -- This session will cover cloud-based approaches to improving software and data accessibility. The emergence of [http://en.wikipedia.org/wiki/Cloud_computing cloud computing] has made highly scalable cluster computing available to computational biologists. Services such as [http://aws.amazon.com/ec2/ Amazon's Elastic Compute Cloud] combined with [http://aws.amazon.com/publicdatasets/#1 publicly available datasets] promise to lower the overhead to participate in large scale data analyses. Talks will focus on how the community can build up resources, datasets, and workflows for making the best use of cloud infrastructure. We will also include talks on data-parallel approaches to analyzing massive data sets, such as those resulting from next-generation sequencing and mass spec proteomics, and reports on the parallelization of bioinformatics algorithms in general.
