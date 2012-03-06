@@ -132,7 +132,6 @@ Some mentors and developers can regularly be found on IRC, see the list of OBF p
 
 [[Image:DAS_logo_160px.png|100px|right|link=http://www.biodas.org]]
 ; [http://www.biodas.org BioDAS] :
-:* '''[http://www.biodas.org/wiki/GSoC2010 BioDAS GSoC Page]''' - project ideas and mentors
 :* [http://www.biodas.org Project website]
 :* [http://lists.open-bio.org/mailman/listinfo/das mailing list]
 :* No IRC channel at present
