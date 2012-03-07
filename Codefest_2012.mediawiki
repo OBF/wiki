@@ -26,6 +26,18 @@ We are being hosted by the [http://cse.lmu.edu/departments/math.htm math departm
 
 Many thanks to Kam Dahlquist for help in organizing.
 
+== Travel and Hotels ==
+
+LMU is located a short cab ride from [http://www.lawa.org/welcomeLAX.aspx Los Angeles International Airport (LAX)]. Logistically, we hope attendees will fly into LAX, spend the Codefest time at a hotel near LMU, and then travel down to Long Beach on the night of the 12th for BOSC and ISMB.
+
+We will work to arrange group transport from LMU to Long Beach on the night of the 12th.
+
+There are several hotels nearby:
+
+* [http://www.jdvhotels.com/hotels/losangeles/custom_hotel Custom Hotel] -- [http://reservations.ihotelier.com/crs/indexaccount.cfm?hotelid=75065&languageid=1&identifire=LOYOLA&taid=0&identifier=LOYOLA Register with Loyola Rate code]
+
+* [http://www.lmu.edu/about/services/bao/Auxiliary_Business_Services/localhotels.htm Alphabetical list of nearby hotels]
+
 == Attendees ==
 
 You are very welcome to attend. Please add yourself if you are interested to [https://spreadsheets.google.com/ccc?key=0Agxg-o4ZmoZ4dHQxWEV1aW1raFJKbWxrMk80RDZSOVE&hl=en&authkey=CK3mo_4B this Google spreadsheet] and sign up on the [https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2012 mailing list].
