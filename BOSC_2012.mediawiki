@@ -15,7 +15,7 @@ __NOTOC__
 * March 1, 2012: Call for Abstracts opens
 * April 13, 2012: Deadline for submitting abstracts for talks
 * May 7, 2012: Notification of accepted talk abstracts emailed to authors
-* July 11-12, 2012: Codefest 2012 (in planning phase as we secure space)
+* July 11-12, 2012: [[Codefest 2012]] ([http://www.lmu.edu/ Loyola Marymount University], Los Angeles, California)
 * '''July 13-14, 2012:  BOSC 2012''' (Long Beach, California)
 * July 15-17, 2012: [http://www.iscb.org/ismb2012 ISMB 2012] (Long Beach, California)
 * July 19-20, 2012: [[EU_Codefest_2012|EU-codefest 2012]] (Lodi, Italy)
