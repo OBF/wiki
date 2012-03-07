@@ -2,7 +2,7 @@
 title: Codefest 2012
 ---
 
-OpenBio Codefest 2012 will take place July 11th and 12th, 2012 in Los Angeles, California at [http://www.lmu.edu/ Loyola Marymount University]; the two days before [[BOSC 2012]]. This is a great opportunity for open source bioinformatics developers to meet and work collaboratively. We hope to have developers from projects such as [http://bioperl.org BioPerl], [http://www.biojava.org BioJava], [http://biopython.org Biopython], [http://www.bioruby.org BioRuby], [http://wiki.g2.bx.psu.edu/ Galaxy] and [http://www.emboss.org EMBOSS] in attendance.
+OpenBio Codefest 2012 will take place July 11th and 12th, 2012 (the two days before [[BOSC 2012]]) in Los Angeles, California at [http://www.lmu.edu/ Loyola Marymount University]. This is a great opportunity for open source bioinformatics developers to meet and work collaboratively. We hope to have developers from projects such as [http://bioperl.org BioPerl], [http://www.biojava.org BioJava], [http://biopython.org Biopython], [http://www.bioruby.org BioRuby], [http://wiki.g2.bx.psu.edu/ Galaxy] and [http://www.emboss.org EMBOSS] in attendance.
 
 This is a follow-up to [[Codefest 2010]] in Boston and [[Codefest 2011]] in Vienna.
 
