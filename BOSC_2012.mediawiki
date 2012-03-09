@@ -21,7 +21,7 @@ __NOTOC__
 
 == Overview ==
 
-The Bioinformatics Open Source Conference (BOSC) is sponsored by the Open Bioinformatics Foundation (O|B|F), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development within the biological research community. 
+The Bioinformatics Open Source Conference (BOSC) is a satellite of [ISMB http://www.iscb.org/ismb2012]. It is sponsored by the Open Bioinformatics Foundation (O|B|F), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development within the biological research community. 
 
 Open Source software has flourished in the bioinformatics community for well over a decade. When the first BOSC (Bioinformatics Open Source Conference) was held in 2000, there were already a number of popular open source bioinformatics packages, and the number and range of these projects has increased dramatically since then. Many open source bioinformatics packages are widely used by the research community across a wide variety of applications. Open source bioinformatics software has facilitated rapid innovation, dissemination, and wide adoption of new computational methods, reusable software components, and standards.
 
