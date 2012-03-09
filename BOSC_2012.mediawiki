@@ -7,10 +7,10 @@ title: BOSC 2012
 The 13th Annual Bioinformatics Open Source Conference (BOSC 2012) will take place July 13-14, 2012, in Long Beach, CA, right before [http://www.iscb.org/ismb2012 ISMB 2012].
 
 [[#Submitting_Abstracts|Submit your abstract now!]] The deadline for submitting abstracts for talks is '''April 13, 2012'''.
+__NOTOC__
+<div style="float: left; margin-right:20px; maxwidth: 150px">__TOC__</div>
 
 == Important Dates ==
-__NOTOC__
-<div style="float: right; margin-right:20px; maxwidth: 200px">__TOC__</div>
 
 * '''April 13, 2012: Deadline for submitting abstracts for talks'''
 * May 7, 2012: Notification of accepted talk abstracts emailed to authors
