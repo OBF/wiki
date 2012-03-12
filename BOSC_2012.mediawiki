@@ -114,7 +114,7 @@ Her talk is entitled "Fun with Standards":
 
 '''Members'''
 
-* Jan Aerts (Katholieke Universiteit Leuven)
+* [http://www.esat.kuleuven.be/scd/person.php?persid=473 Jan Aerts] (Katholieke Universiteit Leuven)
 * [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer]; [http://compbio.sph.harvard.edu/chb/ Harvard School of Public Health])
 * [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; James Hutton Institute, formerly Scottish Crop Research Institute)
 * Christopher Fields (National Center for Supercomputing Applications)
