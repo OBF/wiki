@@ -169,7 +169,7 @@ When applying, (aside from the information requested by Google) please provide t
 
 == Mentor Resources ==
 
-* [http://en.flossmanuals.net/GSoCMentoringGuide GSoC Mentoring Guide]
+* [http://en.flossmanuals.net/GSoCMentoring/ GSoC Mentoring Guide]
 * [[Google_Summer_of_Code_Application_Evaluation|OBF Application Evaluation Guidelines]]
 
 == Previous Years ==
