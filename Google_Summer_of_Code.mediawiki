@@ -10,7 +10,7 @@ For those not familiar with the program, Google Summer of Code (GSoC) is a stude
 
 From the viewpoint of each open-source project, the program not only offers to pay students for contributing, but more importantly offers an opportunity to recruit new developers who will hopefully go on to become regular, sustaining contributors.
 
-See the [http://code.google.com/soc Main GSoC Site] for more information and FAQs, and see below for [[ #Other_Facts_.26_Links |other facts such as eligibility and timelines ]].
+See the [http://code.google.com/soc Main GSoC Site] for general information about the Google Summer of Code program, how to apply, frequently asked general questions, and more.
 
 == 2012 Mentors and Project Ideas ==
 
