@@ -184,16 +184,15 @@ in GSoC in previous years.
 
 '''[http://code.google.com/soc Google Summer of Code Main Site]'''
 
-* Mentoring organizations apply between March 8-12, 2010. Accepted mentoring organizations will be published March 19.
+* [http://www.google-melange.com/gsoc/events/google/gsoc2012 GSoC 2012 time line]
 * Google expects to accept around 150 mentoring organizations.
-* Students apply between March 22-April 2, 2010. See the [http://code.google.com/soc GSoC site] for eligibility requirements.
 * Development is done entirely remotely and on-line, there is no requirement or expectation for either students or mentors to travel.
 * Org application documents, with Google's questions and our answers:
 ** [[Google Summer of Code 2010 Org Application | 2010 ]]
 ** [http://docs.google.com/Doc?id=dhs98hzv_7zn8bxqjm 2009]
-* For questions of eligibility, see the [http://socghop.appspot.com/document/show/gsoc_program/google/gsoc2010/faqs#eligibility 2010 GSoC eligibility requirements for students].
+* For questions of eligibility, see the [http://www.google-melange.com/document/show/gsoc_program/google/gsoc2012/faqs GSoC 2012 FAQ].
 * There is also a [http://groups.google.com/group/google-summer-of-code-discuss Google group for posting GSoC questions] (and receiving answers; note that you will need to sign up for the group) that relate to the program itself (and are not specific to our organization).
-* Students receive a stipend from Google if accepted. See the [http://socghop.appspot.com/document/show/gsoc_program/google/gsoc2010/faqs#payments 2010 GSoC FAQ on payments] for full documentation.
+* Students receive a stipend from Google if accepted. See the  [http://www.google-melange.com/document/show/gsoc_program/google/gsoc2012/faqs GSoC 2012 FAQ] for full documentation.
 
 
 [[Category:Google Summer of Code]]
