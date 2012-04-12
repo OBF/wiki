@@ -29,7 +29,6 @@ first round.
 # If you are a secondary mentor, to avoid confusion I suggest you propose your score as a private comment (i.e., as above, except write the score in the comment and leave the drop-down at zero) for the primary mentor to take into consideration, or email the primary mentor.
 # Give the top 2 or 3 applications for your idea that may warrant funding (see below) a graduated positive score to establish your preference (+4 for the best, +3 second, +2 third). Add +1 to the best one (for a total of +5) if your comments only point out refinements and in principle you're happy with the application as is.
 # Only give a positive score if you have confidence that the student is already or would after requested improvements be worth accepting, and you spending your mentoring time. There may be fewer than 3 of those for your idea!
-# Score all others for your idea with a -1.
 # If you are a primary mentor, request mentorship by clicking 'I am willing to mentor' for those you have scored positively. This should be no more than 3.
 # Keep in mind for any of the above that total scores you assign aren't final. By adding or subtracting you can shift an application from one category to another, and you can withdraw your mentorship request later.
 
