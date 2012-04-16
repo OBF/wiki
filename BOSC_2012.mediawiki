@@ -48,7 +48,7 @@ We thank [http://www.eaglegenomics.com/ Eagle Genomics, Ltd.] and an anonymous d
 
 == Submitting Abstracts ==
 
-The deadline for abstract submissions is '''Friday, April 13, 2012'''.
+The deadline for abstract submissions was '''Friday, April 13, 2012'''. There will be openings for last-minute lightning talks and last-minute posters at the conference. 
 
 Abstracts must be '''one page''' in length and submitted '''as a PDF (preferred) or Microsoft Word file only'''.  Please observe the following formatting guidelines:
 * Use 1 inch (2.5 cm) margins on the top, sides, and bottom of the page.
