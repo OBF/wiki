@@ -62,8 +62,6 @@ Abstracts must be '''one page''' in length and submitted '''as a PDF (preferred)
 
 Accepted talks will be 5-20 minutes. You will be notified of the length of your talk upon abstract acceptance.
 
-'''[http://events.open-bio.org/BOSC2012/author/submit.php Click here to submit your abstract]'''
-
 === Open Source License Requirement ===
 
 The [[OBF|Open Bioinformatics Foundation]], which sponsors BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the biological research community. For this reason, if a submitted talk proposal concerns a specific software system for use by the research community, then that software must be licensed with a recognized Open Source License, and be available for download, including source code, by a tar/zip file accessed through ftp/http or through a widely used version control system like cvs/subversion/git/bazaar/Mercurial.
