@@ -49,3 +49,4 @@ You are very welcome to attend. Please add yourself if you are interested to [ht
 * [http://www.bioinformatics.net.au/ Torsten Seemann]
 * [https://projets.pasteur.fr/projects/mobyle/wiki Hervé Ménager]
 * [https://projets.pasteur.fr/projects/mobyle/wiki Bertrand Néron]
+* [http://nebc.nerc.ac.uk/tools/bio-linux Tim Booth]
