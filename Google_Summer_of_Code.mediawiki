@@ -22,7 +22,7 @@ The Open Bioinformatics Foundation has been accepted as a mentoring organization
 
 ;Artem Tarasov
 :mentored by Pjotr Prins, Francesco Strozzi, Raoul Bonnal
-:Fast parallelized GFF3/GTF parser in C++, with Ruby FFI bindings
+:[http://lomereiter.wordpress.com/tag/gsoc Robust and fast parallel BAM parser in D for binding against dynamic languages]
 
 ;Clayton Wheeler
 :mentored by Francesco Strozzi and Raoul Bonnal 
