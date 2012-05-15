@@ -26,7 +26,7 @@ The Open Bioinformatics Foundation has been accepted as a mentoring organization
 
 ;Clayton Wheeler
 :mentored by Francesco Strozzi and Raoul Bonnal 
-:Multiple Alignment Format parser for BioRuby
+:[http://csw.github.com/bioruby-maf/ Multiple Alignment Format parser for BioRuby]
 
 == About Google Summer of Code ==
 
