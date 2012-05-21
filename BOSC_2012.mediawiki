@@ -14,6 +14,7 @@ __NOTOC__
 
 * '''April 13, 2012: Deadline for submitting abstracts for talks'''
 * June 1, 2012: Last day for early registration discount (registration is through [http://www.iscb.org/ismb2012-registration ISMB], but you don't have to register for ISMB itself in order to register for BOSC)
+* June 4, 2012: Deadline for authors to submit updated abstracts, and for submission of poster abstracts if you want them to be included in the BOSC program. (There will also be room at BOSC for last-minute posters.)
 * July 11-12, 2012: [[Codefest 2012]] ([http://www.lmu.edu/ Loyola Marymount University], Los Angeles, California)
 * '''July 13-14, 2012:  BOSC 2012''' (Long Beach, California)
 * July 15-17, 2012: [http://www.iscb.org/ismb2012 ISMB 2012] (Long Beach, California)
