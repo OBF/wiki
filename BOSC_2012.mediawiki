@@ -85,9 +85,21 @@ Thanks to generous sponsorship from [http://www.eaglegenomics.com/ Eagle Genomic
 
 === Jonathan Eisen ===
 
-Dr. Eisen is a professor of evolutionary biology at U. C. Davis, and also has an adjunct position at the Department of Energy Joint Genome Institute in Walnut Creek, CA.  His research focuses on the origin of novelty (how new processes and functions originate). Dr. Eisen is heavily involved in the Open Access publishing movement and is Academic Editor in Chief of PLoS Biology.  In 2011, he was awarded the 2012 Benjamin Franklin Award for Open Access in the Life Sciences.
+Dr. Eisen is a professor at the University of California, Davis,
+where he holds appointments in the Genome Center, the Department of
+Evolution and Ecology and the Department of Medical Microbiology and
+Immunology.  In addition, he has an adjunct position at the Department
+of Energy Joint Genome Institute in Walnut Creek, CA.  Prior to moving
+to UC Davis he was on the faculty at The Institute for Genomic
+Research (TIGR) for eight years.  His research focuses on the genomic
+basis for the origin of novelty (how new processes and functions
+originate), in particular in microbes. Dr. Eisen is heavily involved
+in the Open Access publishing movement and is Academic Editor in Chief
+of PLoS Biology.  He is also an active blogger and microblogger (e.g.,
+see [http://phylogenomics.blogspot.com phylogenomics.blogspot.com] and
+[http://twitter.com/phylogenomics twitter.com/phylogenomics]).
 
-His talk is entitled "Science Wants to Be Open - If Only We Could Get Out of Its Way":
+His talk is entitled '''Science Wants to Be Open - If Only We Could Get Out of Its Way''':
 
 ''Scientific research and education is inherently an open activity.  Yet the culture of scientific practice has inserted barriers in the way of this openness in every conceivable area from peer review, to publishing, to sharing resources, to education.  I will argue that most or even all of these barriers are unnecessary and should be eliminated for scientific progress to be most efficient.''
 
