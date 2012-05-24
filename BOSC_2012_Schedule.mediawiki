@@ -131,6 +131,7 @@ title: BOSC 2012 Schedule
 |- 
 |}
 
+
 == Day 2: Saturday, July 14 (Room TBA) ==
 
 {| border="1" cellspacing="0" cellpadding="10"
