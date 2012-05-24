@@ -153,7 +153,7 @@ title: BOSC 2012 Schedule
 |-
 | 15
 | [Interoperability] Take-aways from the Interoperability SIG ([http://www.broadinstitute.org/software/bsi-sig/ BSI-SIG])
-| Michael Reich
+| Michael Reich (Co-Chair, BSI-SIG)
 |-
 | 15
 | [Interoperability] Galaxy Project Update
@@ -188,28 +188,48 @@ title: BOSC 2012 Schedule
 |
 |-
 | 1:45-3:30
-| Session: 
+| Session: Bioinformatics Open Source Project Updates
 | Chair: 
+|-
+| 15
+| [Project Updates] Mobyle Web Framework: New Features
+| Hervé Ménager
+|-
+| 15
+| [Project Updates] Biopython Project Update
+| Eric Talevich
+|-
+| 25
+| [Project Updates] Biogem,Ruby UCSC API, and BioRuby
+| Hiroyuki Mishima
+|-
+| 15
+| [Misc/Project Updates] scabio - a framework for bioinformatics algorithms in Scala
+| Markus Gumbel
+|-
+|25
+| [Project Updates] Why Scientists Should Contribute to Wikipedia
+| Spencer Bliven
 |-
 | '''3:30-4:00'''
 | '''Coffee Break'''
 |
 |-
 | 4:00-4:30
-| Session: Misc. Open Source Projects
-| Chair: 
+| Session: Lightning Talks
+| Chair: Kam Dahlquist
 |-
-| 4:30-5:20
-| '''Panel''': 
+| 4:30-5:30
+| '''Panel''': Bioinformatics Paper Reviews: Openness of Standards and Standards of Openness
 | Moderator: Brad Chapman
 Panelists: 
 Hilmar Lapp (National Evolutionary Synthesis Center),
 |-
-| 5:20-5:30
+| 5:30-5:40
 | Presentation of awards
 | Nomi Harris
 |-
-| 5:30-6:30
+| 5:40-6:30
 | [[BOSC_2012/BOFs|BOFs]]
 |
 |-
