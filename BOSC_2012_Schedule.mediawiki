@@ -111,19 +111,22 @@ title: BOSC 2012 Schedule
 | Sophia Cheng 
 |-
 | 5:20-5:30
+| Report on [http://www.open-bio.org/wiki/Codefest_2012 Codefest 2012]
+| Brad Chapman
+|-
+| 5:30-5:40
 | Introduction to the Open Bioinformatics Foundation
 | Hilmar Lapp (President, Open Bioinformatics Foundation)
 |-
-| 5:30-6:30
-| '''Poster Session II''' (Room TBA)
+| 5:40-6:30 '''Poster Session II''' (Room TBA)
 |
 |-
-| 5:30-6:30
+| 5:40-6:30
 | [[BOSC_2012/BOFs|BOFs]]
 |
 |-
 | 7:00
-| Pay-your-own-way optional dinner
+| Pay-your-own-way optional dinner (place TBA)
 |
 |- 
 |}
