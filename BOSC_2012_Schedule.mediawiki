@@ -151,6 +151,34 @@ title: BOSC 2012 Schedule
 | Session: Interoperability
 | Chair: 
 |-
+| 15
+| [Interoperability] Take-aways from the Interoperability SIG
+| Michael Reich
+|-
+| 15
+| [Interoperability] Galaxy Project Update
+| Dannon Baker
+|-
+| 15
+| [Interoperability] Zero to a Bioinformatics Analysis Platform in 4 Minutes
+| Enis Afgan
+|-
+| 25
+| [Interoperability] PyPedia: A python crowdsourcing development environment for bioinformatics and computational biology       
+| Alexandros Kanterakis
+|-
+| 15
+| [Interoperability] InterMine - Embeddable Data-Mining Components
+| Alexis Kalderimis
+|-
+| 15
+| [Interoperability] Creating biology pipelines with BioUno
+| Bruno
+|-
+| 15
+| [Interoperability] A Framework for Interactive Visual Analysis of NGS Data using Galaxy
+| Jeremy Goecks
+|-
 | '''12:30-1:30'''
 | '''Lunch'''
 |
