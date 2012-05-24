@@ -10,8 +10,7 @@ title: BOSC 2012 Schedule
 ! Speaker or Moderator
 |- 
 | 7:30-9:00
-| Pick up badges for BOSC 2012
-(Early arrival is recommended as there are usually long lines)
+| Registration (Early arrival is recommended as there are usually long lines)
 | '''Registration'''
 |- 
 | 9:00-9:15
@@ -130,7 +129,6 @@ title: BOSC 2012 Schedule
 |
 |- 
 |}
-
 
 == Day 2: Saturday, July 14 (Room TBA) ==
 
