@@ -148,11 +148,11 @@ title: BOSC 2012 Schedule
 |
 |-
 | 10:45-12:30
-| Session: Interoperability
+| Session: Software Interoperability
 | Chair: 
 |-
 | 15
-| [Interoperability] Take-aways from the Interoperability SIG
+| [Interoperability] Take-aways from the Interoperability SIG ([http://www.broadinstitute.org/software/bsi-sig/ BSI-SIG])
 | Michael Reich
 |-
 | 15
