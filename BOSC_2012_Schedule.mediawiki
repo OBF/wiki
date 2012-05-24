@@ -4,7 +4,7 @@ title: BOSC 2012 Schedule
 
 == Day 1: Friday,  July 13 ==
 
-{| border="1" cellspacing="0" cellpadding="10"
+{| border="1" cellspacing="0" cellpadding="6"
 ! Time
 ! Topic
 ! Speaker or Moderator
