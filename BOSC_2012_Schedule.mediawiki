@@ -4,7 +4,7 @@ title: BOSC 2012 Schedule
 
 == Day 1: Friday,  July 13 ==
 
-{| border="1" cellspacing="0" cellpadding="6"
+{| border="1" cellspacing="0" cellpadding="7"
 ! Time
 ! Topic
 ! Speaker or Moderator
@@ -117,7 +117,8 @@ title: BOSC 2012 Schedule
 | Introduction to the Open Bioinformatics Foundation
 | Hilmar Lapp (President, Open Bioinformatics Foundation)
 |-
-| 5:40-6:30 '''Poster Session II''' (Room TBA)
+| 5:40-6:30
+|'''Poster Session II''' (Room TBA)
 |
 |-
 | 5:40-6:30
@@ -132,7 +133,7 @@ title: BOSC 2012 Schedule
 
 == Day 2: Saturday, July 14 (Room TBA) ==
 
-{| border="1" cellspacing="0" cellpadding="10"
+{| border="1" cellspacing="0" cellpadding="7"
 ! Time
 ! Topic
 ! Speaker or Moderator
@@ -235,6 +236,7 @@ Panelists: C. Titus Brown,  Hilmar Lapp, Scott Markel, Ben Temperton
 |
 |-
 |}
+
 
 == Return to '''[[BOSC_2012 | BOSC 2012]]''' main page ==
 
