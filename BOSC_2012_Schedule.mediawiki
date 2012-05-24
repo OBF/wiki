@@ -62,7 +62,7 @@ title: BOSC 2012 Schedule
 | Session: Genome-scale Data Management
 | Chair: 
 |-
- 15
+| 15
 | [Genome-scale] Using HDF5 to Work With Large Quantities of Biological Data
 | Dana Robinson
 |-
@@ -90,14 +90,32 @@ title: BOSC 2012 Schedule
 | '''Coffee Break'''
 |
 |-
-| 4:00-5:30
-| Session: 
-| Chair: 
+| 4:00-5:20
+| Session: Linked Data and Translational Knowledge Discovery
+| Chair: Jan Aerts
 |-
-| 
+|| 25
+| [Linked / Translational] The open source ISA metadata tracking framework: from data curation and management at the source, to the linked data universe
+| Philippe Rocca-Serra
+|-
+| 25
+| [Linked / Translational] Automated infrastructure for custom variant comparison and analysis
+| Brad Chapman
+|-
+| 15
+| [Linked / Translational] KUPKB: Sharing, Connecting and Exposing Kidney and Urinary Knowledge using RDF and OWL 
+| Julie Klein
+|-
+| 15
+| [Linked / Translational] eagle-i: development and expansion of a scientific resource discovery network 
+| Sophia Cheng 
+|-
+| 5:20-5:30
+| Introduction to the Open Bioinformatics Foundation (O|B|F)
+| Hilmar Lapp (President, O|B|F)
 |-
 | 5:30-6:30
-| '''Poster Session II''' (Foyer A)
+| '''Poster Session II''' (Room TBA)
 |
 |-
 | 5:30-6:30
