@@ -19,7 +19,7 @@ title: BOSC 2012 Schedule
 | Nomi Harris (Chair, BOSC 2012)
 |-
 | 9:15-10:15
-| [Keynote] 
+| [Keynote] Science Wants to Be Open - If Only We Could Get Out of Its Way
 | Jonathan Eisen (University of California, Davis)
 |-
 | '''10:15-10:45'''
@@ -27,7 +27,7 @@ title: BOSC 2012 Schedule
 |
 |-
 | 10:45-12:30
-| Session: Cloud Computing
+| Session: Cloud and Parallel Computing
 | Chair: 
 |-
 || 25
@@ -50,19 +50,41 @@ title: BOSC 2012 Schedule
 | [Cloud] How to use BioJava to calculate one billion protein structure alignments at the RCSB PDB website
 | Andreas Prlic
 |-
-| '''12:30-2:00'''
+| '''12:30-1:30'''
 | '''Lunch'''
 |
 |-
-| 1:30-2:30
-| '''Poster Session I''' (Foyer A)
+| 12:30-2:00
+| '''Poster Session I''' (Room TBA)
 |
 |-
-| 2:30-3:30
-| Session: 
+| 2:00-3:30
+| Session: Genome-scale Data Management
 | Chair: 
 |-
-| 
+ 15
+| [Genome-scale] Using HDF5 to Work With Large Quantities of Biological Data
+| Dana Robinson
+|-
+| 15
+| [Genome-scale] Large scale data management in Chipster 2 workflow environment
+| Aleksi Kallio
+|-
+| 15
+| [Genome-scale] JBrowse 2012
+| Ian Holmes
+|-
+| 15
+| [Genome-scale] Khmer: A probabilistic approach for efficient counting of k-mers 
+| Qingpeng Zhang
+|-
+| 15
+| [Genome-scale] AmiGO 2: a document-oriented approach to ontology software and escaping the heartache of an SQL backend
+| Seth Carbon
+|-
+| 15
+| [Genome-scale] Discovery of motif-based regulatory signatures in whole genome methylation experiments
+| Jens Lichtenberg
 |-
 | '''3:30-4:00'''
 | '''Coffee Break'''
