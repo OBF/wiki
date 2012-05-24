@@ -173,7 +173,7 @@ title: BOSC 2012 Schedule
 |-
 | 15
 | [Interoperability] Creating biology pipelines with BioUno
-| Bruno Kinosh ita
+| Bruno Kinoshi ta
 |-
 | 15
 | [Interoperability] A Framework for Interactive Visual Analysis of NGS Data using Galaxy
