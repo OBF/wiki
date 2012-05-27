@@ -206,7 +206,7 @@ title: BOSC 2012 Schedule
 | 2:15-2:40
 | [Project Updates] Biogem,Ruby UCSC API, and BioRuby
 | Hiroyuki Mishima
--
+|-
 | 2:40-2:55
 | [Interoperability] A Framework for Interactive Visual Analysis of NGS Data using Galaxy
 | Jeremy Goecks
