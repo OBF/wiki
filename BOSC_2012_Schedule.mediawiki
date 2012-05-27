@@ -208,7 +208,7 @@ title: BOSC 2012 Schedule
 | Hiroyuki Mishima
 |-
 | 2:40-2:55
-| [Interoperability] A Framework for Interactive Visual Analysis of NGS Data using Galaxy
+| [Project Updates] A Framework for Interactive Visual Analysis of NGS Data using Galaxy
 | Jeremy Goecks
 |-
 | 2:55-3:10
