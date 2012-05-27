@@ -146,6 +146,10 @@ title: BOSC 2012 Schedule
 | [Keynote] Title TBA
 | Carole Goble (University of Manchester)
 |-
+| 9:50-10:15
+| [Misc.] Pistoia Alliance Sequence Squeeze: Using a competition model to spur development of novel open-source algorithms
+| Richard Holland
+-
 | '''10:15-10:45'''
 | '''Coffee Break'''
 |
@@ -178,10 +182,6 @@ title: BOSC 2012 Schedule
 | [Interoperability] Creating biology pipelines with BioUno
 | Bruno Kinoshi ta
 |-
-| 12:25-12:40
-| [Interoperability] A Framework for Interactive Visual Analysis of NGS Data using Galaxy
-| Jeremy Goecks
-|-
 | '''12:30-1:30'''
 | '''Lunch'''
 |
@@ -205,6 +205,10 @@ title: BOSC 2012 Schedule
 | 25
 | [Project Updates] Biogem,Ruby UCSC API, and BioRuby
 | Hiroyuki Mishima
+-
+| 15
+| [Interoperability] A Framework for Interactive Visual Analysis of NGS Data using Galaxy
+| Jeremy Goecks
 |-
 | 15
 | [Project Updates] scabio - a framework for bioinformatics algorithms in Scala
