@@ -147,6 +147,7 @@ More information on Open Source:
 
 == Contact Us ==
 
+* [http://twitter.com/#!/BOSC2012 Follow BOSC on Twitter]: @BOSC2012
 * If you'd like to join the mailing list for BOSC-related announcements, including the call for abstracts and deadline reminders, please subscribe to the [http://lists.open-bio.org/mailman/listinfo/bosc-announce Bosc-announce] list.  This list has low traffic, and your address will be kept private.
 * If you have questions about the conference, please contact the organizers at [mailto:bosc@open-bio.org bosc@open-bio.org].
 
