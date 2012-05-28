@@ -2,9 +2,7 @@
 title: BOSC 2012 Schedule
 ---
 
-(Preliminary)
-
-= Day 1: Friday,  July 13 =
+= Day 1: Friday,  July 13 (Preliminary Schedule) =
 
 {| border="1" cellspacing="0" cellpadding="7"
 ! Time
@@ -135,7 +133,7 @@ title: BOSC 2012 Schedule
 
 <br>
 
-= Day 2: Saturday, July 14 (Room TBA) =
+= Day 2: Saturday, July 14 (Preliminary Schedule) =
 
 {| border="1" cellspacing="0" cellpadding="7"
 ! Time
