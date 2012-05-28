@@ -54,7 +54,7 @@ title: BOSC 2012 Schedule
 |
 |-
 | 12:30-2:00
-| '''Poster Session I''' (Room TBA)
+| '''Poster Session I''' ([http://www.open-bio.org/wiki/BOSC_2012#Submitting_Abstracts Instructions for submitting last-minute poster abstract])
 |
 |-
 | 2:00-3:30
