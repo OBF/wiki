@@ -6,14 +6,15 @@ title: BOSC 2012
 
 The 13th Annual Bioinformatics Open Source Conference (BOSC 2012) will take place July 13-14, 2012, in Long Beach, CA, right before [http://www.iscb.org/ismb2012 ISMB 2012].
 
-The deadline for submitting abstracts has passed, but there will be openings for last-minute lightning talks and last-minute posters at the conference.
+'''[[BOSC_2012_Schedule|Preliminary schedule]]'''
+
 __NOTOC__
 <div style="float: left; margin-right:20px; maxwidth: 150px">__TOC__</div>
 
 == Important Dates ==
 
-* '''April 13, 2012: Deadline for submitting abstracts for talks'''
-* June 1, 2012: Last day for early registration discount (registration is through [http://www.iscb.org/ismb2012-registration ISMB], but you don't have to register for ISMB itself in order to register for BOSC)
+* April 13, 2012: Deadline for submitting abstracts for talks
+* '''June 1, 2012: Last day for early registration discount''' (registration is through [http://www.iscb.org/ismb2012-registration ISMB], but you don't have to register for ISMB itself in order to register for BOSC)
 * June 4, 2012: Deadline for authors to [http://events.open-bio.org/BOSC2012/openconf.php update their submitted abstracts]
 * June 4, 2012: Deadline for [http://events.open-bio.org/BOSC2012/openconf.php submitting new poster abstracts] if you want them to be included in the BOSC program. (There will also be room at BOSC for last-minute posters.)
 * July 11-12, 2012: [[Codefest 2012]] ([http://www.lmu.edu/ Loyola Marymount University], Los Angeles, California)
