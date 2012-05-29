@@ -158,7 +158,7 @@ title: BOSC 2012 Schedule
 |-
 | 10:45-12:30
 | Session: Software Interoperability
-| Chair: 
+| Chair: Hilmar Lapp
 |-
 | 10:45-11:00
 | [Interoperability] Take-aways from the Interoperability SIG ([http://www.broadinstitute.org/software/bsi-sig/ BSI-SIG])
@@ -194,7 +194,7 @@ title: BOSC 2012 Schedule
 |-
 | 1:45-3:30
 | Session: Bioinformatics Open Source Project Updates
-| Chair: 
+| Chair: Jeremy Goecks
 |-
 | 1:45-2:00
 | [Project Updates] Mobyle Web Framework: New Features
