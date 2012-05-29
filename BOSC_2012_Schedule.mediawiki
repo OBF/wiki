@@ -27,7 +27,7 @@ title: BOSC 2012 Schedule
 |-
 | 10:45-12:30
 | Session: Cloud and Parallel Computing
-| Chair: 
+| Chair: Richard Holland
 |-
 || 10:45
 | [Cloud] Cloudgene - an execution platform for MapReduce programs in public and private clouds
@@ -59,7 +59,7 @@ title: BOSC 2012 Schedule
 |-
 | 2:00-3:30
 | Session: Genome-scale Data Management
-| Chair: 
+| Chair: Ronald Taylor
 |-
 | 2:00
 | [Genome-scale] Using HDF5 to Work With Large Quantities of Biological Data
