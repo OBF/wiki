@@ -36,6 +36,7 @@ Please spread the word about BOSC to interested developers; all are welcome. On 
 We thank [http://www.eaglegenomics.com/ Eagle Genomics, Ltd.] and an anonymous donor for sponsoring three Student Travel Awards at BOSC 2012.
 
 == Sessions ==
+'''[[BOSC_2012_Schedule|Preliminary schedule]]'''
 
 * '''Cloud and Parallel Computing''' -- This session will cover cloud-based approaches to improving software and data accessibility. The emergence of [http://en.wikipedia.org/wiki/Cloud_computing cloud computing] has made highly scalable cluster computing available to computational biologists. Services such as [http://aws.amazon.com/ec2/ Amazon's Elastic Compute Cloud] combined with [http://aws.amazon.com/publicdatasets/#1 publicly available datasets] promise to lower the overhead to participate in large scale data analyses. Talks will focus on how the community can build up resources, datasets, and workflows for making the best use of cloud infrastructure. We will also include talks on data-parallel approaches to analyzing massive data sets, such as those resulting from next-generation sequencing and mass spec proteomics, and reports on the parallelization of bioinformatics algorithms in general.
 * '''Genome-scale Data Management''' -- This session will focus on processes and technologies that support the creating, managing and reporting of genomic data. This session is appropriate for discussion of systems that involve components such as (but not limited to) Ensembl and GMOD/Chado data stores, Taverna and Galaxy analysis workflows, and BioMart and InterMine warehouses.
@@ -48,7 +49,7 @@ We thank [http://www.eaglegenomics.com/ Eagle Genomics, Ltd.] and an anonymous d
 
 == Submitting Abstracts ==
 
-The deadline for abstract submissions was '''Friday, April 13, 2012'''. There will be openings for last-minute lightning talks and last-minute posters at the conference. If you would like your poster abstract to be included in the BOSC program, please [http://events.open-bio.org/BOSC2012/openconf.php submit it] by June 4. That date is also the deadline for authors of accepted abstracts to [http://events.open-bio.org/BOSC2012/openconf.php update their submitted abstract].
+The deadline for abstract submissions was '''Friday, April 13, 2012'''. There will be openings for a few last-minute lightning talks and last-minute posters at the conference. If you would like your poster abstract to be included in the BOSC program, please [http://events.open-bio.org/BOSC2012/openconf.php submit it] by June 4. That date is also the deadline for authors of accepted abstracts to [http://events.open-bio.org/BOSC2012/openconf.php update their submitted abstract].
 
 Abstracts must be '''one page''' in length and submitted '''as a PDF (preferred) or Microsoft Word file only'''.  Please observe the following formatting guidelines:
 * Use 1 inch (2.5 cm) margins on the top, sides, and bottom of the page.
