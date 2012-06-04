@@ -28,7 +28,6 @@ BOSC brings together bioinformatics open source developers from all over the wor
 
 Please spread the word about BOSC to interested developers; all are welcome. On Twitter, follow @BOSC2012 and use hash tag #bosc2012.
 
-
 == Sessions ==
 '''[[BOSC_2012_Schedule|Preliminary schedule]]'''
 
@@ -130,14 +129,6 @@ Thanks to generous sponsorship from [http://www.eaglegenomics.com/ Eagle Genomic
 * [http://myweb.lmu.edu/kdahlqui Kam D. Dahlquist]
 * [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp]
 * [http://www.bioperl.org/wiki/Jason_Stajich Jason Stajich]
-
-== Open Source License Requirement for Talks at BOSC ==
-
-The [[OBF|Open Bioinformatics Foundation]], which sponsors BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the biological research community. For this reason, if a submitted talk proposal concerns a specific software system for use by the research community, then that software must be licensed with a recognized Open Source License, and be available (including source code) for download as a tar/zip file accessed through ftp/http or through a widely used version control system like cvs/subversion/git/bazaar/Mercurial.
-
-More information on Open Source:
-* [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
-* [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
 
 == Previous BOSCs ==
 
