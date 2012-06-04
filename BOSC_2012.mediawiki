@@ -16,7 +16,7 @@ __NOTOC__
 * June 4, 2012: Deadline for authors to [http://events.open-bio.org/BOSC2012/openconf.php update their submitted abstracts]
 * June 4, 2012: Deadline for [http://events.open-bio.org/BOSC2012/openconf.php submitting new poster abstracts] if you want them to be included in the BOSC program. (There will also be room at BOSC for last-minute posters.)
 * July 11-12, 2012: [[Codefest 2012]] ([http://www.lmu.edu/ Loyola Marymount University], Los Angeles, California)
-* '''July 13-14, 2012:  BOSC 2012''' (Long Beach, California)--[[[BOSC_2012_Schedule|preliminary schedule]]
+* '''July 13-14, 2012:  BOSC 2012''' (Long Beach, California)--[[BOSC_2012_Schedule|preliminary schedule]]
 * July 15-17, 2012: [http://www.iscb.org/ismb2012 ISMB 2012] (Long Beach, California)
 * July 19-20, 2012: [[EU_Codefest_2012|EU-codefest 2012]] (Lodi, Italy)
 
