@@ -4,18 +4,19 @@ title: BOSC 2012
 
 [[Image:Pear.png|right|The Bosc Pear]]
 
-The 13th Annual Bioinformatics Open Source Conference (BOSC 2012) will take place July 13-14, 2012, in Long Beach, CA, right before [http://www.iscb.org/ismb2012 ISMB 2012]. Check out the '''[[BOSC_2012_Schedule|preliminary schedule]]'''!
+The 13th Annual Bioinformatics Open Source Conference (BOSC 2012) will take place July 13-14, 2012, in Long Beach, CA, right before [http://www.iscb.org/ismb2012 ISMB 2012]. Registration is through [http://www.iscb.org/ismb2012-registration ISMB] (but you don't have to register for ISMB itself in order to register for BOSC)
+
+Check out the '''[[BOSC_2012_Schedule|preliminary schedule]]'''!
 __NOTOC__
 <div style="float: left; margin-right:20px; maxwidth: 150px">__TOC__</div>
 
 == Important Dates ==
 
 * April 13, 2012: Deadline for submitting abstracts for talks
-* '''June 1, 2012: Last day for early registration discount''' (registration is through [http://www.iscb.org/ismb2012-registration ISMB], but you don't have to register for ISMB itself in order to register for BOSC)
 * June 4, 2012: Deadline for authors to [http://events.open-bio.org/BOSC2012/openconf.php update their submitted abstracts]
 * June 4, 2012: Deadline for [http://events.open-bio.org/BOSC2012/openconf.php submitting new poster abstracts] if you want them to be included in the BOSC program. (There will also be room at BOSC for last-minute posters.)
 * July 11-12, 2012: [[Codefest 2012]] ([http://www.lmu.edu/ Loyola Marymount University], Los Angeles, California)
-* '''July 13-14, 2012:  BOSC 2012''' (Long Beach, California)
+* '''July 13-14, 2012:  BOSC 2012''' (Long Beach, California)--[[[BOSC_2012_Schedule|preliminary schedule]]
 * July 15-17, 2012: [http://www.iscb.org/ismb2012 ISMB 2012] (Long Beach, California)
 * July 19-20, 2012: [[EU_Codefest_2012|EU-codefest 2012]] (Lodi, Italy)
 
@@ -27,7 +28,7 @@ Open Source software has flourished in the bioinformatics community for well ove
 
 BOSC brings together bioinformatics open source developers from all over the world so they can forge connections each other (both within and across projects), increase the visibility of their work, and collaborate to build shared resources. Participants can work together to create use cases, prototype working code, or run hands-on tutorials in new software packages and emerging technologies. For those who are bioinformatics software users rather than developers, BOSC introduces or updates them on a wide array of projects that they might find useful. 
 
-Please spread the word about BOSC to interested developers; all are welcome. On Twitter, we recommend the hash tag #bosc2012.
+Please spread the word about BOSC to interested developers; all are welcome. On Twitter, follow @BOSC2012 and use hash tag #bosc2012.
 
 <div style="float:right; background-color: #FFFFFF">[[File:Eagle_logo_CMYK.jpg‎|120px|right|Eagle Genomics logo|link=http://www.eaglegenomics.com/]]</div>
 
