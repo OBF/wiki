@@ -161,8 +161,8 @@ title: BOSC 2012 Schedule
 | Chair: Hilmar Lapp
 |-
 | 10:45-11:00
-| [Interoperability] Take-aways from the Interoperability SIG ([http://www.broadinstitute.org/software/bsi-sig/ BSI-SIG])
-| Michael Reich (Co-Chair, BSI-SIG)
+| [Interoperability] GenomeSpace: An open source environment for frictionless bioinformatics
+| Michael Reich
 |-
 | 11:00-11:15
 | [Interoperability] Galaxy Project Update
