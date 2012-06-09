@@ -67,6 +67,9 @@ Carole Goble is a full professor in the School of Computer Science at the Univer
 
 In 2008 Carole was awarded the inaugural Microsoft Jim Gray award for outstanding contributions to e-Science. In 2010 she was elected a Fellow of the Royal Academy of Engineering for her contributions to e-Science. In 2012 she was nominated for the Benjamin Franklin award for open science in Biology.
 
+Carole's keynote talk title is "If I build it will they come?":
+[i]Over the years I have built a bunch of open source software and services for reseachers: the Taverna workflow system, myExperiment for workflow sharing, BioCatalogue for services, SEEK for Systems Biology data and models, and most recently MethodBox for longtitudinal data sets. As well as building software we built communities: development communities and user communities. So what drives/hinders adoption? What do I know now that I wished I had known before? How do we sustain communities on time-limited grants? How do we build it so they come, stay and join in?[/i]
+
 == Submitting Abstracts ==
 
 The deadline for abstract submissions was '''Friday, April 13, 2012'''. There will be openings for a few last-minute lightning talks and last-minute posters at the conference. If you would like your poster abstract to be included in the BOSC program, please [http://events.open-bio.org/BOSC2012/openconf.php submit it] by June 4. That date is also the deadline for authors of accepted abstracts to [http://events.open-bio.org/BOSC2012/openconf.php update their submitted abstract].
