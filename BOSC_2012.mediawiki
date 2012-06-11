@@ -104,13 +104,12 @@ Thanks to generous sponsorship from [http://www.eaglegenomics.com/ Eagle Genomic
 * [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer]; [http://compbio.sph.harvard.edu/chb/ Harvard School of Public Health])
 * [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; James Hutton Institute, formerly Scottish Crop Research Institute)
 * Christopher Fields (National Center for Supercomputing Applications)
-* Erwin Frise (Lawrence Berkeley National Laboratory)
+* [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp] (National Evolutionary Synthesis Center)
 * Peter Rice (European Bioinformatics Institute) 
 
 '''Ex Officio (Members of the O|B|F Board)'''
 * [http://www.bioperl.org/wiki/Chris_Dagdigian Chris Dagdigian]
 * [http://myweb.lmu.edu/kdahlqui Kam D. Dahlquist]
-* [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp]
 * [http://www.bioperl.org/wiki/Jason_Stajich Jason Stajich]
 
 == Previous BOSCs ==
