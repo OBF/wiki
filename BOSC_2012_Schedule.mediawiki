@@ -2,6 +2,8 @@
 title: BOSC 2012 Schedule
 ---
 
+[[File:Pear.png‎|100px|right|BOSC logo|link=BOSC_2012]]
+
 = Day 1: Friday,  July 13 (Preliminary Schedule) =
 
 {| border="1" cellspacing="0" cellpadding="7"
@@ -132,6 +134,7 @@ title: BOSC 2012 Schedule
 |}
 
 <br>
+[[File:Pear.png‎|100px|right|BOSC logo|link=BOSC_2012]]
 
 = Day 2: Saturday, July 14 (Preliminary Schedule) =
 
