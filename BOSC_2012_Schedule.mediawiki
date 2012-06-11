@@ -228,6 +228,22 @@ title: BOSC 2012 Schedule
 | Session: Lightning Talks ([http://www.open-bio.org/wiki/BOSC_2012#Submitting_Abstracts Instructions for submitting a lightning talk abstract])
 | Chair: Kam Dahlquist
 |-
+| 4:00-4:07
+| [Lightning] bioKepler: A Comprehensive Bioinformatics Scientific Workflow Module for Distributed Analysis of Large-Scale Biological Data
+| Jianwu Wang
+|-
+| 4:07-4:14
+| [Lightning] 
+| 
+|-
+| 4:14-4:21
+| [Lightning] 
+| 
+|-
+| 4:21-4:28
+| [Lightning] Bioinformatics Testing Consortium: Codebase peer-review to improve robustness of bioinformatic pipelines
+| Ben Temperton
+|-
 | 4:30-5:30
 | '''Panel''': Bioinformatics Paper Reviews: Openness of Standards and Standards of Openness
 | Moderator: Brad Chapman
@@ -237,7 +253,7 @@ Panelists: C. Titus Brown,  Hilmar Lapp, Scott Markel, Ben Temperton
 | Presentation of awards
 | Nomi Harris
 |-
-| 5:40-6:30
+| 5:40-6:40
 | [[BOSC_2012/BOFs|BOFs]]
 |
 |-
