@@ -250,7 +250,7 @@ title: BOSC 2012 Schedule
 | 4:30-5:30
 | '''Panel''': Bioinformatics Paper Reviews: Openness of Standards and Standards of Openness
 | Moderator: Brad Chapman
-Panelists: C. Titus Brown,  Hilmar Lapp, Scott Markel, Ben Temperton
+Panelists: C. Titus Brown,  Iain Hrynaszkiewicz, Hilmar Lapp, Scott Markel, Ben Temperton
 |-
 | 5:30-5:40
 | Presentation of awards
