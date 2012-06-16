@@ -216,12 +216,12 @@ title: BOSC 2012 Schedule
 | Jeremy Goecks
 |-
 | 2:55-3:10
-| [Project Updates] scabio - a framework for bioinformatics algorithms in Scala
-| Markus Gumbel
-|-
-| 3:10-3:35
 | [Project Updates] Why Scientists Should Contribute to Wikipedia
 | Spencer Bliven
+|-
+| 3:10-3:35
+| [Project Updates] scabio - a framework for bioinformatics algorithms in Scala
+| Markus Gumbel
 |-
 | '''3:30-4:00'''
 | '''Coffee Break'''
