@@ -128,7 +128,7 @@ title: BOSC 2012 Schedule
 |
 |-
 | 7:00
-| Pay-your-own-way BOSC dinner: George’s Greek Café, 135 Pine Avenue, Long Beach (near the Convention Center)
+| Pay-your-own-way BOSC dinner ($25/person): George’s Greek Café, [https://maps.google.com/maps?q=George%27s+Greek+Cafe,+135+Pine+Avenue,+Long+Beach,+CA&hl=en&ll=33.766216,-118.187495&spn=0.008518,0.013883&sll=37.887965,-122.267949&sspn=0.016173,0.027766&hq=George%27s+Greek+Cafe,&hnear=135+Pine+Ave,+Long+Beach,+California+90802&t=m&z=17 135 Pine Avenue, Long Beach] (near the Convention Center)
 |
 |- 
 |}
