@@ -9,7 +9,7 @@ __NOTOC__
 The 13th Annual Bioinformatics Open Source Conference (BOSC 2012) will take place July 13-14, 2012, in Long Beach, CA, right before [http://www.iscb.org/ismb2012 ISMB 2012]. Registration is through [http://www.iscb.org/ismb2012-registration ISMB] (but you don't have to register for ISMB itself in order to register for BOSC).
 
 The conference schedule is available '''[[BOSC_2012_Schedule|here as HTML]]''' and '''[[Media:BOSC2012_schedule.pdf | here as a PDF file]]'''.
-You can also download the [http://www.oboedit.org/BOSC2012/BOSC2012-program.pdf  complete program].  This large (2.5 Mb) PDF file includes the schedule and all of the talk and poster abstracts.
+You can also download the [BOSC2012-program.pdf  complete program].  This large (2.5 Mb) PDF file includes the schedule and all of the talk and poster abstracts.
 
 == Important Dates ==
 
