@@ -51,3 +51,5 @@ You are very welcome to attend. Please add yourself if you are interested to [ht
 * [https://projets.pasteur.fr/projects/mobyle/wiki Bertrand Néron]
 * [http://nebc.nerc.ac.uk/tools/bio-linux Tim Booth]
 * [http://www.jcvi.org/cms/about/bios/kkrampis/ Ntino Krampis]
+* [http://bioinformaticscore.blogspot.com/ Dawei Lin]
+* [http://usegalaxy.org Dannon Baker]
