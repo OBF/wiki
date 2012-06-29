@@ -20,11 +20,28 @@ and discuss:
 * [https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2012 Codefest 2012 mailing list]
 * During the Codefest, on IRC (freenode/#codefest)
 
-== Location ==
+== Location and Time ==
 
 We are being hosted by the [http://cse.lmu.edu/departments/math.htm math department at LMU].
 
-Many thanks to Kam Dahlquist for help in organizing.
+* The Math Department at LMU is in University Hall Suite 2700.  We will have several rooms and a lounge area to spread out and work in.
+* Kam will be there at 9:00 AM on Wednesday to make sure the rooms are open and to greet people.
+
+=== Directions if you are driving ===
+
+* Use the address
+
+ 1 LMU Drive, Los Angeles, CA 90045
+
+: in your favorite mapping program.  This will give you directions to the main entrance to campus.  University Hall is the first building on the right as you enter campus.  There is underground parking underneath this building.  Parking is free on the P2 and P3 levels.  Take an elevator up to the second floor; Suite 2700 is on the West side of the building.
+
+=== Directions if you are walking from the Custom Hotel ===
+
+* When you leave the hotel, head South on Lincoln Boulevard and cross over to the other side of the street at one of the stop lights.  You will pass three stop lights at Manchester, 84th St., and 83rd St.  Then you will go down a hill and see some fountains on the right side.  This is the entrance to campus.  University Hall is the large building immediately on your right as you enter campus.  There is an entrance to the building on the side facing Lincoln, but it can be tricky to find.  If you continue walking on the sidewalk next to the building, you will find another entrance at the other end of the building.  Suite 2700 is on the second floor, closer to the Lincoln side of the building.
+
+=== Directions from other hotels ===
+
+* Most likely a taxi driver will be familiar with finding the campus.  Otherwise, use the driving directions above.  The other hotels are probably not within easy walking distance.
 
 == Travel and Hotels ==
 
