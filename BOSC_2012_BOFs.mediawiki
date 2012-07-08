@@ -8,6 +8,8 @@ The BOFs are from ~5:30-6:30 in the same room as the BOSC talks.
 
 == Friday BOFs (Day 1) ==
 
+===HDF5 Users===
+Anyone interested in HDF5 or who has questions that could not be answered during the talk is invited to talk to one of the HDF5 developers during this BOF.
 
 == Saturday BOFs (Day 2) ==
 
