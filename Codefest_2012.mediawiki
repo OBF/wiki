@@ -57,6 +57,8 @@ There are several hotels nearby:
 
 * [http://www.lmu.edu/about/services/bao/Auxiliary_Business_Services/localhotels.htm Alphabetical list of nearby hotels]
 
+== Food ==
+
 == Attendees ==
 
 You are very welcome to attend. Please add yourself if you are interested to [https://docs.google.com/spreadsheet/ccc?key=0Agxg-o4ZmoZ4dDRWSTdMaE1Qeng3Y1FGN0tvT0t3eGc this Google spreadsheet] and sign up on the [https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2012 mailing list].
