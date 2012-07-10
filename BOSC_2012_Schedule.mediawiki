@@ -4,6 +4,10 @@ title: BOSC 2012 Schedule
 
 [[File:Pear.png‎|100px|right|BOSC logo|link=BOSC_2012]]
 
+'''[[Media:BOSC2012_schedule.pdf | Click here to download this schedule as PDF]]'''
+
+'''Please note: hardcopies of this schedule will be distributed at BOSC, but hardcopies of the [http://www.open-bio.org/bosc2012/BOSC2012-program.pdf complete program] will not, so attendees should print the program before leaving for BOSC, if they want it on paper.''' There will not be access to printers at the meeting.
+
 = Day 1: Friday,  July 13 (Preliminary Schedule) =
 
 {| border="1" cellspacing="0" cellpadding="7"
