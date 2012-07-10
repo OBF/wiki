@@ -267,6 +267,12 @@ Panelists: C. Titus Brown,  Iain Hrynaszkiewicz, Hilmar Lapp, Scott Markel, Ben 
 |}
 
 
+'''[[Media:BOSC2012_schedule.pdf | Click here to download this schedule as PDF]]'''
+
+'''[http://www.open-bio.org/bosc2012/BOSC2012-program.pdf Click here to download the complete BOSC program as PDF]'''
+
+----
+
 == Return to '''[[BOSC_2012 | BOSC 2012]]''' main page ==
 
 [[Category:BOSC]] [[Category:Conferences]]
