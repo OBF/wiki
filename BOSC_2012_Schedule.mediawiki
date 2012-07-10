@@ -33,7 +33,7 @@ title: BOSC 2012 Schedule
 |-
 || 10:45
 | [Cloud] Cloudgene - an execution platform for MapReduce programs in public and private clouds
-| Sebastian Schoenherr
+| Sebastian Schönherr
 |-
 | 11:10
 | [Cloud] Data reduction and division approaches for assembling short-read data in the cloud
