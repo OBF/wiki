@@ -56,15 +56,16 @@ Research (TIGR) for eight years.  His research focuses on the genomic
 basis for the origin of novelty (how new processes and functions
 originate), in particular in microbes. Dr. Eisen is heavily involved
 in the Open Access publishing movement and is Academic Editor in Chief
-of PLoS Biology.  He is also an active blogger and microblogger (e.g.,
+of PLoS Biology.  He is also an active and award-winning blogger and microblogger (e.g.,
 see [http://phylogenomics.blogspot.com phylogenomics.blogspot.com] and
-[http://twitter.com/phylogenomics twitter.com/phylogenomics]).
+[http://twitter.com/phylogenomics twitter.com/phylogenomics]). In 2011, Eisen was awarded the [http://www.bioinformatics.org/franklin/ Benjamin Franklin Award (Bioinformatics)] for promoting open access in the life sciences.
 
 His talk is entitled '''Science Wants to Be Open - If Only We Could Get Out of Its Way''':
 
 ''Scientific research and education is inherently an open activity.  Yet the culture of scientific practice has inserted barriers in the way of this openness in every conceivable area from peer review, to publishing, to sharing resources, to education.  I will argue that most or even all of these barriers are unnecessary and should be eliminated for scientific progress to be most efficient.''
 
 [[Image:Goble.jpg|150px|right|Carole Goble]]
+
 === Carole Goble ===
 Carole Goble is a full professor in the School of Computer Science at the University of Manchester, UK, where she co-leads the Information Management Group. She has an international reputation in Semantic Web, Distributed computing, and Social Computing for scientific collaboration. She is the Director of the myGrid project, which has produced the widely-used Taverna open source software; myExperiment, a social web site that enables researchers to share scientific workflows; and the Biocatalogue of web services for the life sciences.
 
