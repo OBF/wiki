@@ -4,14 +4,17 @@ title: BOSC 2012
 
 [[Image:Pear.png|left|The Bosc Pear]]
 __NOTOC__
-<div style="float: right; margin-left:20px; maxwidth: 150px">__TOC__</div>
+<div style="float: right; margin-left:20px; margin-right:10px; maxwidth: 150px">__TOC__</div>
 
 === Notes for BOSC Attendees ===
 
-** '''Pay-your-own-way BOSC dinner''' ($25/person) tonight at 7pm: George’s Greek Café, [https://maps.google.com/maps?q=George%27s+Greek+Cafe,+135+Pine+Avenue,+Long+Beach,+CA&hl=en&ll=33.766216,-118.187495&spn=0.008518,0.013883&sll=37.887965,-122.267949&sspn=0.016173,0.027766&hq=George%27s+Greek+Cafe,&hnear=135+Pine+Ave,+Long+Beach,+California+90802&t=m&z=17 135 Pine Avenue, Long Beach] (near the Convention Center). (Registration for dinner is now closed.)
-** The last-minute lightning talk spots are full, but you are welcome to put up a '''last-minute poster''' (use poster spots 20-25).
-** If you would like to organize a '''Birds of a Feather''' (BOF) meeting at BOSC 2012, add your BOF description to [http://www.open-bio.org/wiki/BOSC_2012/BOFs the BOF page]. The BOFs will take place after the talks each day (at 5:30pm).
-** Follow BOSC on Twitter: @BOSC2012. Use the hashtag #bosc2012 when tweeting about BOSC.
+- '''Pay-your-own-way BOSC dinner''' ($25/person) tonight at 7pm: George’s Greek Café, [https://maps.google.com/maps?q=George%27s+Greek+Cafe,+135+Pine+Avenue,+Long+Beach,+CA&hl=en&ll=33.766216,-118.187495&spn=0.008518,0.013883&sll=37.887965,-122.267949&sspn=0.016173,0.027766&hq=George%27s+Greek+Cafe,&hnear=135+Pine+Ave,+Long+Beach,+California+90802&t=m&z=17 135 Pine Avenue, Long Beach] (Registration for dinner is now closed.)
+
+- The last-minute lightning talk spots are full, but you are welcome to put up a '''last-minute poster''' (use poster spots 20-25).
+
+- If you would like to organize a '''Birds of a Feather''' (BOF) meeting at BOSC 2012, add your BOF description to [http://www.open-bio.org/wiki/BOSC_2012/BOFs the BOF page]. The BOFs will take place after the talks each day (at 5:30pm).
+
+- Follow BOSC on Twitter: @BOSC2012. Use the hashtag #bosc2012 when tweeting about BOSC.
 ----
 
 == About BOSC 2012 ==
