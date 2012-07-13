@@ -6,9 +6,9 @@ title: BOSC 2012
 __NOTOC__
 <div style="float: right; margin-left:20px; margin-right:10px; maxwidth: 150px">__TOC__</div>
 
-=== Notes for BOSC Attendees ===
+=== Notes and Links for BOSC Attendees ===
 
-- '''[[BOSC_2012_Schedule|Conference schedule]]'''
+- '''[[BOSC_2012_Schedule|Updated conference schedule]]'''
 
 - '''[http://www.open-bio.org/bosc2012/BOSC2012-program.pdf Complete program (PDF)], including talk abstracts
 
