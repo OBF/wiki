@@ -121,9 +121,13 @@ title: BOSC 2012 Schedule
 | [Linked / Translational] eagle-i: development and expansion of a scientific resource discovery network 
 | Sophia Cheng 
 |-
-| 5:20-5:30
+| 5:20
 | Introduction to the [http://www.open-bio.org/wiki/Main_Page Open Bioinformatics Foundation]
 | Hilmar Lapp (President, Open Bioinformatics Foundation)
+|-
+| 5:30
+| Announcements
+| Nomi Harris (Chair, BOSC 2012)
 |-
 | 5:30-6:30
 |'''Poster Session II''' (Room TBA)
