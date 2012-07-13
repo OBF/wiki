@@ -122,7 +122,7 @@ title: BOSC 2012 Schedule
 | Sophia Cheng 
 |-
 | 5:20-5:30
-| Introduction to the Open Bioinformatics Foundation
+| Introduction to the [http://www.open-bio.org/wiki/Main_Page Open Bioinformatics Foundation]
 | Hilmar Lapp (President, Open Bioinformatics Foundation)
 |-
 | 5:30-6:30
