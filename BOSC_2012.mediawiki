@@ -8,7 +8,10 @@ __NOTOC__
 
 '''BOSC Attendees: Pay-your-own-way BOSC dinner''' ($25/person) tonight at 7pm: George’s Greek Café, [https://maps.google.com/maps?q=George%27s+Greek+Cafe,+135+Pine+Avenue,+Long+Beach,+CA&hl=en&ll=33.766216,-118.187495&spn=0.008518,0.013883&sll=37.887965,-122.267949&sspn=0.016173,0.027766&hq=George%27s+Greek+Cafe,&hnear=135+Pine+Ave,+Long+Beach,+California+90802&t=m&z=17 135 Pine Avenue, Long Beach] (near the Convention Center). [http://www.doodle.com/vn4i2kd5fde7nx92#table RSVP for dinner by 12:30 today.]
 
+If you would like to organize a Birds of a Feather (BOF) meeting at BOSC 2012, add your BOF description to [http://www.open-bio.org/wiki/BOSC_2012/BOFs the BOF page]. 
 ----
+
+== About BOSC 2012 ==
 
 The 13th Annual Bioinformatics Open Source Conference (BOSC 2012) will take place July 13-14, 2012, in Long Beach, CA, right before [http://www.iscb.org/ismb2012 ISMB 2012]. Registration is through [http://www.iscb.org/ismb2012-registration ISMB] (but you don't have to register for ISMB itself in order to register for BOSC).
 
