@@ -62,7 +62,7 @@ title: BOSC 2012 Schedule
 |
 |-
 | 12:30-2:00
-| '''Poster Session I''' ([http://www.open-bio.org/wiki/BOSC_2012#Submitting_Abstracts Instructions for submitting last-minute poster abstract])
+| '''Poster Session I'''
 |
 |-
 | 2:00-3:30
@@ -130,7 +130,7 @@ title: BOSC 2012 Schedule
 | Nomi Harris (Chair, BOSC 2012)
 |-
 | 5:30-6:30
-|'''Poster Session II''' (Room TBA)
+|'''Poster Session II''' (Hall B)--there are still spots open for last-minute posters!
 |
 |-
 | 5:30-6:30
