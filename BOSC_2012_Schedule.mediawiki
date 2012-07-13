@@ -238,7 +238,7 @@ title: BOSC 2012 Schedule
 |
 |-
 | 4:00-4:30
-| Session: Lightning Talks (Send last-minute lightning talk abstracts to bosc @ open-bio.org!)
+| Session: Lightning Talks
 | Chair: Kam Dahlquist
 |-
 | 4:00-4:07
