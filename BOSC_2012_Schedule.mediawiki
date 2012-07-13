@@ -79,7 +79,7 @@ title: BOSC 2012 Schedule
 |-
 | 2:30
 | [Genome-scale] JBrowse 2012
-| Ian Holmes
+| (Ian Holmes is sick--instead we will see a short talk on JBrowse by Robert Buels)
 |-
 | 2:45
 | [Genome-scale] Khmer: A probabilistic approach for efficient counting of k-mers 
