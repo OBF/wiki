@@ -81,6 +81,10 @@ title: BOSC 2012 Schedule
 | [Genome-scale] JBrowse 2012
 | (Ian Holmes is sick--instead we will see a short talk on JBrowse by Robert Buels)
 |-
+| 2:38
+| Report on [http://www.open-bio.org/wiki/Codefest_2012 Codefest 2012]
+| Brad Chapman
+|-
 | 2:45
 | [Genome-scale] Khmer: A probabilistic approach for efficient counting of k-mers 
 | Qingpeng Zhang
