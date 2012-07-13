@@ -246,8 +246,8 @@ title: BOSC 2012 Schedule
 | Limin Fu
 |-
 | 4:14-4:21
-| [Lightning] 
-| 
+| [Lightning] GMOD in the Cloud
+| Scott Cain
 |-
 | 4:21-4:28
 | [Lightning] Bioinformatics Testing Consortium: Codebase peer-review to improve robustness of bioinformatic pipelines
