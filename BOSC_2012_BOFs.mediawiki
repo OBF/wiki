@@ -31,6 +31,8 @@ From the NBIC (Netherlands BioInformatics Centre) - myGrid collaboration, we can
 
 Packaging of high quality (digital) 'materials and methods' may be a function of bioinformatics environments. This is the topic of the workflow forever project [[http://wf4ever-project.org]], which itself uses a Semantic Web approach for interoperability. Requirements for non-invasive use of its tools and guidelines may be a topic for discussion.
 
+The [http://www.isa-tools.org/ ISA team] would like to enable ISA tools' output to be interoperable with GenomeSpace to benefit our [http://isacommons.org/ ISA user community]. The ISA-based Harvard Stem Cell Discovery Engine ([http://discovery.hsci.harvard.edu/ live database here];  [http://nar.oxfordjournals.org/content/early/2011/11/24/nar.gkr1051.short?rss=1 NAR paper here]; Ben Chapman has also contributed to) is already using Galaxy, so we partly have that link, but interested in expanding for different data types.
+
 ----
 * Return to '''[[BOSC_2012_Schedule | BOSC 2012 Schedule]]'''
 * Return to '''[[BOSC_2012 | BOSC 2012]]''' main page
