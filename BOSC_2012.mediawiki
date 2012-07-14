@@ -16,6 +16,8 @@ __NOTOC__
 
 - If you would like to organize a '''Birds of a Feather''' (BOF) meeting at BOSC 2012, add your BOF description to [http://www.open-bio.org/wiki/BOSC_2012/BOFs the BOF page]. The BOFs will take place after the talks each day (at 5:30pm).
 
+- Authors: if you didn't copy your slides onto the computer under the podium, please email them to us at at [mailto:bosc@open-bio.org bosc@open-bio.org].
+
 - Follow BOSC on Twitter: @BOSC2012. Use the hashtag #bosc2012 when tweeting about BOSC.
 ----
 
