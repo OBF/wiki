@@ -27,6 +27,10 @@ Topics of interest to developers and users of bioinformatics interoperability en
 The myGrid team would like to discuss the interoperability of Taverna (http://www.taverna.org.uk), myExperiment (http://www.myexperiment.org), BioCatalogue (http://www.biocatalogue.org) with GenomeSpace and Galaxy in particular.
 We would also like to add in RightField (http://www.rightfield.org.uk) and SEEK (http://www.seek4science.org) into the mix.
 
+From the NBIC (Netherlands BioInformatics Centre) - myGrid collaboration, we can add the work on enabling the use of Taverna workflows as tools in Galaxy [[https://trac.nbic.nl/elabfactory/wiki/eGalaxy]].
+
+Packaging of high quality (digital) 'materials and methods' may be a function of bioinformatics environments. This is the topic of the workflow forever project [[http://wf4ever-project.org]], which itself uses a Semantic Web approach for interoperability. Requirements for non-invasive use of its tools and guidelines may be a topic for discussion.
+
 ----
 * Return to '''[[BOSC_2012_Schedule | BOSC 2012 Schedule]]'''
 * Return to '''[[BOSC_2012 | BOSC 2012]]''' main page
