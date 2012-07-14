@@ -15,7 +15,9 @@ Anyone interested in HDF5 or who has questions that could not be answered during
 For people interested in chatting about tools, approaches, best practices, unsolved issues, ... in (biological) data visualization.
 
 == Saturday BOFs (Day 2) ==
+'''Bioinformatics Interoperability BoF'''
 
+Topics of interest to developers and users of bioinformatics interoperability environments, e.g. GenomeSpace and others as available
 ----
 * Return to '''[[BOSC_2012_Schedule | BOSC 2012 Schedule]]'''
 * Return to '''[[BOSC_2012 | BOSC 2012]]''' main page
