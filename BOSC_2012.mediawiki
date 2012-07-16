@@ -8,25 +8,10 @@ __NOTOC__
 
 === Notes and Links for BOSC Attendees ===
 
-- '''[[BOSC_2012_Schedule|Updated conference schedule]]'''
-
-- '''[http://www.open-bio.org/bosc2012/BOSC2012-program.pdf Complete program (PDF)], including talk abstracts
-
-- The last-minute lightning talk spots are full, but you are welcome to put up a '''last-minute poster''' (use poster spots 20-25).
-
-- [http://www.open-bio.org/wiki/BOSC_2012/BOFs BoFs at BOSC]--today after the talks, at 5:30pm or so.
-
-- Authors: if you didn't copy your slides onto the computer under the podium, please email them to us at at [mailto:bosc@open-bio.org bosc@open-bio.org].
-
-- Follow BOSC on Twitter: @BOSC2012. Use the hashtag #bosc2012 when tweeting about BOSC.
-----
-
-== About BOSC 2012 ==
-
-The 13th Annual Bioinformatics Open Source Conference (BOSC 2012) will take place July 13-14, 2012, in Long Beach, CA, right before [http://www.iscb.org/ismb2012 ISMB 2012]. Registration is through [http://www.iscb.org/ismb2012-registration ISMB] (but you don't have to register for ISMB itself in order to register for BOSC).
+The 13th Annual Bioinformatics Open Source Conference (BOSC 2012) was held July 13-14, 2012, in Long Beach, CA, right before [http://www.iscb.org/ismb2012 ISMB 2012].
 
 The conference schedule is available '''[[BOSC_2012_Schedule|here as HTML]]''' and '''[[Media:BOSC2012_schedule.pdf | here as a PDF file]]'''.
-You can also download the [http://www.open-bio.org/bosc2012/BOSC2012-program.pdf complete program], which includes the schedule and all of the talk and poster abstracts. '''Hardcopies of the BOSC schedule will be distributed at BOSC, but hardcopies of the [http://www.open-bio.org/bosc2012/BOSC2012-program.pdf complete program] will not, so attendees should print the program before leaving for BOSC, if they want it on paper.''' There will not be access to printers at the meeting.
+You can also download the [http://www.open-bio.org/bosc2012/BOSC2012-program.pdf complete program], which includes the schedule and all of the talk and poster abstracts.
 
 == Important Dates ==
 
