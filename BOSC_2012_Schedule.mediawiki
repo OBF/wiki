@@ -24,7 +24,7 @@ title: BOSC 2012 Schedule
 | Nomi Harris (Chair, BOSC 2012)
 |-
 | 9:15-10:15
-| [Keynote] Science Wants to Be Open - If Only We Could Get Out of Its Way
+| [Keynote] Science Wants to Be Open - If Only We Could Get Out of Its Way ** [http://www.youtube.com/watch?v=oWZzUe3Kxeo Talk] **
 | Jonathan Eisen (University of California, Davis)
 |-
 | '''10:15-10:45'''
