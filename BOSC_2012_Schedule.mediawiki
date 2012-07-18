@@ -36,11 +36,11 @@ title: BOSC 2012 Schedule
 | Chair: Richard Holland
 |-
 || 10:45
-| [Cloud] Cloudgene - an execution platform for MapReduce programs in public and private clouds
+| [Cloud] [http://www.slideshare.net/jandot/l-forer-cloudgene-an-execution-platform-for-mapreduce-programs-in-public-and-private-clouds Cloudgene - an execution platform for MapReduce programs in public and private clouds]
 | Sebastian Schönherr
 |-
 | 11:10
-| [Cloud] Data reduction and division approaches for assembling short-read data in the cloud
+| [Cloud] [http://www.slideshare.net/jandot/ct-brown-doing-nextgen-sequencing-analysis-in-the-cloud Data reduction and division approaches for assembling short-read data in the cloud]
 | C. Titus Brown
 |-
 | 11:35
@@ -68,7 +68,7 @@ title: BOSC 2012 Schedule
 | Chair: Ronald Taylor
 |-
 | 2:00
-| [Genome-scale] Using HDF5 to Work With Large Quantities of Biological Data
+| [Genome-scale] [http://www.slideshare.net/jandot/d-robinson-using-hdf5-to-work-with-large-quantities-of-rich-biological-data Using HDF5 to Work With Large Quantities of Biological Data]
 | Dana Robinson
 |-
 | 2:15
@@ -172,15 +172,15 @@ title: BOSC 2012 Schedule
 | Chair: Hilmar Lapp
 |-
 | 10:45-11:00
-| [Interoperability] GenomeSpace: An open source environment for frictionless bioinformatics
+| [Interoperability] [http://www.slideshare.net/jandot/m-reich-genomespace GenomeSpace: An open source environment for frictionless bioinformatics]
 | Michael Reich
 |-
 | 11:00-11:15
-| [Interoperability] Galaxy Project Update
+| [Interoperability] [http://www.slideshare.net/jandot/d-baker-galaxy-update Galaxy Project Update]
 | Dannon Baker
 |-
 | 11:15-11:30
-| [Interoperability] Zero to a Bioinformatics Analysis Platform in 4 Minutes
+| [Interoperability] http://www.slideshare.net/jandot/e-afgan-zero-to-a-bioinformatics-analysis-platform-in-four-minutes Zero to a Bioinformatics Analysis Platform in 4 Minutes]
 | Enis Afgan
 |-
 | 11:30-11:55
@@ -188,12 +188,12 @@ title: BOSC 2012 Schedule
 | Alexandros Kanterakis
 |-
 | 11:55-12:10
-| [Interoperability] InterMine - Embeddable Data-Mining Components
+| [Interoperability] [http://www.slideshare.net/jandot/a-kalderimis-intermine-embeddable-datamining-components InterMine - Embeddable Data-Mining Components]
 | Alexis Kalderimis
 |-
 | 12:10-12:25
-| [Interoperability] Creating biology pipelines with BioUno
-| Bruno Kinoshi''ta''
+| [Interoperability] [http://slidesha.re/MHApSM Creating biology pipelines with BioUno]
+| Bruno Kinoshi ta
 |-
 | '''12:30-1:30'''
 | '''Lunch'''
