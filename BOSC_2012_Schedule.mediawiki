@@ -72,7 +72,7 @@ title: BOSC 2012 Schedule
 | Dana Robinson
 |-
 | 2:15
-| [Genome-scale] Large scale data management in Chipster 2 workflow environment
+| [Genome-scale] [http://www.slideshare.net/jandot/a-kallio-large-scale-data-management-in-chipster-2-workflow-environment Large scale data management in Chipster 2 workflow environment]
 | Aleksi Kallio
 |-
 | 2:30
@@ -104,19 +104,19 @@ title: BOSC 2012 Schedule
 | Chair: Jan Aerts
 |-
 || 4:00
-| [Linked / Translational] The open source ISA metadata tracking framework: from data curation and management at the source, to the linked data universe
+| [Linked / Translational] [http://www.slideshare.net/jandot/p-roccaserra-the-open-source-isa-metadata-tracking-framework-from-data-curation-and-management-at-the-source-to-the-linked-data-universe The open source ISA metadata tracking framework: from data curation and management at the source, to the linked data universe]
 | Philippe Rocca-Serra
 |-
 | 4:25
-| [Linked / Translational] Automated infrastructure for custom variant comparison and analysis
+| [Linked / Translational] [http://www.slideshare.net/jandot/b-chapman-toolkit-for-variation-comparison-and-analysis Automated infrastructure for custom variant comparison and analysis]
 | Brad Chapman
 |-
 | 4:50
-| [Linked / Translational] KUPKB: Sharing, Connecting and Exposing Kidney and Urinary Knowledge using RDF and OWL 
+| [Linked / Translational] [http://www.slideshare.net/jandot/j-klein-kupkb-sharing-connecting-and-exposing-kidney-and-urinary-knowledge-using-rdf-and-owl KUPKB: Sharing, Connecting and Exposing Kidney and Urinary Knowledge using RDF and OWL]
 | Julie Klein
 |-
 | 5:05
-| [Linked / Translational] eagle-i: development and expansion of a scientific resource discovery network 
+| [Linked / Translational] [http://www.slideshare.net/jandot/s-cheng-eaglei-development-and-expansion-of-a-scientific-resource-discovery-network eagle-i: development and expansion of a scientific resource discovery network]
 | Sophia Cheng 
 |-
 | 5:20
@@ -184,7 +184,7 @@ title: BOSC 2012 Schedule
 | Enis Afgan
 |-
 | 11:30-11:55
-| [Interoperability] PyPedia: A python crowdsourcing development environment for bioinformatics and computational biology       
+| [Interoperability] [http://www.slideshare.net/jandot/a-kanterakis-pypedia-a-python-crowdsourcing-development-environment-for-bioinformatics-and-computational-biology PyPedia: A python crowdsourcing development environment for bioinformatics and computational biology]
 | Alexandros Kanterakis
 |-
 | 11:55-12:10
@@ -220,7 +220,7 @@ title: BOSC 2012 Schedule
 | Hiroyuki Mishima
 |-
 | 2:40-2:55
-| [Project Updates] A Framework for Interactive Visual Analysis of NGS Data using Galaxy
+| [Project Updates] [http://www.slideshare.net/jandot/j-goecks-the-galaxy-visual-analysis-framework A Framework for Interactive Visual Analysis of NGS Data using Galaxy]
 | Jeremy Goecks
 |-
 | 2:55-3:10
@@ -240,7 +240,7 @@ title: BOSC 2012 Schedule
 | Chair: Kam Dahlquist
 |-
 | 4:00-4:07
-| [Lightning] bioKepler: A Comprehensive Bioinformatics Scientific Workflow Module for Distributed Analysis of Large-Scale Biological Data
+| [Lightning] [http://www.slideshare.net/jandot/j-wang-biokepler-a-comprehensive-bioinformatics-scientific-workflow-module-for-distributed-analysis-of-largescale-biological-data bioKepler: A Comprehensive Bioinformatics Scientific Workflow Module for Distributed Analysis of Large-Scale Biological Data]
 | Jianwu Wang
 |-
 | 4:07-4:14
@@ -248,11 +248,11 @@ title: BOSC 2012 Schedule
 | Limin Fu
 |-
 | 4:14-4:21
-| [Lightning] GMOD in the Cloud
+| [Lightning] [http://www.slideshare.net/jandot/s-cain-gmod-in-the-cloud-13656789 GMOD in the Cloud]
 | Scott Cain
 |-
 | 4:21-4:28
-| [Lightning] Bioinformatics Testing Consortium: Codebase peer-review to improve robustness of bioinformatic pipelines
+| [Lightning] [http://www.slideshare.net/jandot/b-temperton-the-bioinformatics-testing-consortium Bioinformatics Testing Consortium: Codebase peer-review to improve robustness of bioinformatic pipelines]
 | Ben Temperton
 |-
 | 4:30-5:30
