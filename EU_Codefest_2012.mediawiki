@@ -28,6 +28,19 @@ Three main topics were worked on during the CodeFest:
 * RDF and semantic web for bioinformatics.
 * Bioinformatics pipelines definition, execution and distribution.
 
+During the conference we discussed current issues and added 
+
+* Service discovery and integration (Debian, BioMoby, biogems.info, BioLinux)
+* Workflow (bio-ngs, Galaxy, Taverna)
+* PBS (bio-ngs)
+* Software
+** bio-ngs
+** bio-maf introducing into pipeline
+** gff3
+** biogems.info (Debian packages)
+** bio-table (RDF support)
+** biowsr
+
 == Talks ==
 
 The following talks/introductons were given at the Codefest:
