@@ -37,3 +37,9 @@ The following talks/introductons were given at the Codefest:
 * ''Software resources for Bioinformatics, including http://biogems.info/'' by Pjotr Prins, Wageningen University, The Netherlands
 
 == Reports ==
+
+=== Adding a list of BioLinux Software packages to biogems.info ===
+
+We recognise is it often hard to find relevant information on current software packages.
+At the USA codefest, a week earlier, Brad Chapman and Hervé Ménager created a Manifest of bioinformatics packages installed on a running CloudBiolinux system (VM). At the EU codefest
+a web representation was created that parsed the manifest, pulled some more information from the Debian package information and generates the page http://www.biogems.info/biolinux.html.
