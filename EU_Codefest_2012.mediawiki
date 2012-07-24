@@ -2,30 +2,17 @@
 title: EU Codefest 2012
 ---
 
-= EU-codefest 2012 will be 19 and 20 July in Lodi Italy =
+= EU-codefest 2012 was 19 and 20 July in Lodi Italy =
 
-In coordination with the [[BOSC]] committee we are organising the first EU-Codefest, a low-key event the week after [[BOSC 2012]] in California. 
+In coordination with the [[BOSC]] committee we are organised the first EU-Codefest, a low-key event the week after [[BOSC 2012]] in California. 
 
-The EU-Codefest will take place on 19 and 20 July 2012, in [http://www.openstreetmap.org/?lat=45.31&lon=9.508&zoom=10&layers=M Lodi, Italy], near the Bergamo and Milano airports (Bergamo is a hub for Ryanair).
+The EU-Codefest took place on 19 and 20 July 2012, in [http://www.openstreetmap.org/?lat=45.31&lon=9.508&zoom=10&layers=M Lodi, Italy], near the Bergamo and Milano airports (Bergamo is a hub for Ryanair).
 
 The EU-Codefest is modeled on the successful biohackathons in Japan, though we would like it more free-flowing. There will be few invited speakers, and instead attendees will have a chance to give micro-presentations on their ongoing open source projects. In short, the focus of the EU-Codefest will be on coding, open source projects, and general fun. We also hope to show BOSC talks on video. You are invited to bring in your own open source software project, and to see how others can collaborate and involve it into general Open-Bio.
 
-The weekend after 21 and 22 July we can continue (unofficially) to have a good time, and will organise some outings.
-
-Please [http://tecnoparco.org/codefest register] if you are interested in attending. Places are served on a first-come basis, and the number of places is limited.
+The weekend after 21 and 22 July continued (unofficially) to have a good time, and organised some outings.
 
 Organising committee: Francesco Strozzi, Raoul Bonnal and Pjotr Prins
-
-== Topics ==
-
-Three main topics will be worked on during the CodeFest:
-
-* NGS and high performance parsers for OpenBio projects.
-* RDF and semantic web for bioinformatics.
-* Bioinformatics pipelines definition, execution and distribution.
-
-other tracks are welcome!
-
 
 == Location ==
 
@@ -33,6 +20,20 @@ other tracks are welcome!
 vie Einstein - Loc. Cascina Codazza
 26900, [http://www.openstreetmap.org/?lat=45.31&lon=9.508&zoom=10&layers=M Lodi] - ITALY
 
-=== Further info ===
+== Topics ==
 
-See the [http://tecnoparco.org/codefest registration] page.
+Three main topics were worked on during the CodeFest:
+
+* NGS and high performance parsers for OpenBio projects.
+* RDF and semantic web for bioinformatics.
+* Bioinformatics pipelines definition, execution and distribution.
+
+== Talks ==
+
+The following talks/introductons were given at the Codefest:
+
+* ''Semantic Web for Bioinformatics'' by Toshiaki Katayama, Tokyo, Japan
+* ''Writing the worlds fastest GFF3 parser'' by Marjan Povolni, Faculty of Technical Sciences Novi Sad, Serbia
+* ''Software resources for Bioinformatics, including http://biogems.info/'' by Pjotr Prins, Wageningen University, The Netherlands
+
+== Reports ==
