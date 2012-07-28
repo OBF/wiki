@@ -66,6 +66,24 @@ ondary analysis data.
 We recognise is it often hard to find relevant information on current software packages.
 At the USA codefest, a week earlier, Brad Chapman and Hervé Ménager created a Manifest of bioinformatics packages installed on a running CloudBiolinux system (VM). At the EU codefest a web representation was created that parsed the manifest, pulled some more information from the Debian package information and generates the page http://www.biogems.info/biolinux.html.
 
+The new overview led to a discussion on BioLinux/Debian packaging:
+
+The overview helps the different parties focus on priorities (with packaging software).
+
+Brad writes: From the Debian/Bio-Linux/packaging side, I'm happy to modify where we
+pull packages from. The goal is to have everything in single
+repositories to be community maintained so I'm similarly happy if some
+of the CloudBioLinux specific builds pick up package maintainers. The
+(CloudBiolunx) custom scripts now are there of necessity and not meant to be permanent.
+I'm also digging into nix so if there are any packages there that we've
+missed and would be useful, we can move that direction as well. It was also noted that proper Debian packages also track
+popularity statistics (based on installation of Debian).
+
+Steffen added: My general concern (and motivation) is community forming and an avoidance
+of redundancies. That is why a nice friendly embracing email sent to the
+Debian/Ubuntu folks on Debian Med I consider important. Your efforts should
+be perceived as a continuation of the Debian Med efforts, not as a competition.
+
 === BioWSR ===
 
 In bioinformatics, and in general life sciences, there are plenty of web services built following the different web service paradigms and bioinformatic web service variants: REST
