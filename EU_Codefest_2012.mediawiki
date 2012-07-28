@@ -68,3 +68,11 @@ So we (at INB) started the design and implementation of a new web service reposi
 range of web service paradigms and variants used in bioinformatics. Due to the large web
 service portfolio the INB possesses, one of the main concerns when designing BioWSR was
 that web services from any paradigm should be describable at a certain level. As the new registry is strongly inspired by the BioMOBY repository, one requisite was that RDF triples should be a superset of the ones used in BioMOBY to make it backward compatible.
+
+=== GFF3/GTF tools ===
+
+During the codefest we collected info on what requirements are
+there for GFF3/GTF tools, and worked on Debian packages for the same
+tools
+
+=== Debian packaging ===
