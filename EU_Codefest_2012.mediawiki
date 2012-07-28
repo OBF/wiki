@@ -47,6 +47,7 @@ The following talks/introductons were given at the Codefest:
 
 * ''Semantic Web for Bioinformatics'' by Toshiaki Katayama, Tokyo, Japan
 * ''Writing the worlds fastest GFF3 parser'' by Marjan Povolni, Faculty of Technical Sciences Novi Sad, Serbia
+* ''BioWSR Bioinformatic Web Services Registry project update'' by José María Fernández González, Protein Design Group, CNB-CSIC Cantoblanco, Madrid, Spain 
 * ''Software resources for Bioinformatics, including http://biogems.info/'' by Pjotr Prins, Wageningen University, The Netherlands
 
 == Reports ==
