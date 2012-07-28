@@ -83,3 +83,7 @@ there for GFF3/GTF tools, and worked on Debian packages for the same
 tools
 
 === Debian packaging ===
+
+=== RNA-seq visualisation ===
+
+We were working on NGS, more specifically looking to our RNA sequencing project... Just wanted to check with you guys if everyone follows the same methods/pipeline for RNA sequencing. Also managed to set up Gbrowser with help of Paulo for our RNA seq project and also looked to other visualization tools. Meeting you guys and learning from the group was really helpful. Now I have a feeling to work on some of the open source projects but I guess I need to learn bit more to reach that level.
