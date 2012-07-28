@@ -55,5 +55,16 @@ The following talks/introductons were given at the Codefest:
 === Adding a list of BioLinux Software packages to biogems.info ===
 
 We recognise is it often hard to find relevant information on current software packages.
-At the USA codefest, a week earlier, Brad Chapman and Hervé Ménager created a Manifest of bioinformatics packages installed on a running CloudBiolinux system (VM). At the EU codefest
-a web representation was created that parsed the manifest, pulled some more information from the Debian package information and generates the page http://www.biogems.info/biolinux.html.
+At the USA codefest, a week earlier, Brad Chapman and Hervé Ménager created a Manifest of bioinformatics packages installed on a running CloudBiolinux system (VM). At the EU codefest a web representation was created that parsed the manifest, pulled some more information from the Debian package information and generates the page http://www.biogems.info/biolinux.html.
+
+=== BioWSR ===
+
+In bioinformatics, and in general life sciences, there are plenty of web services built following the different web service paradigms and bioinformatic web service variants: REST
+, SOAP, BioMOBY[1], DAS[2], BioMart[3], etc... Although there are already web service repositories like BioMOBY and web service catalogues like BioCatalogue[4] or DASRegistry[5],
+we feel that many of the existing solutions are not extensible enough to be applied to new web service paradigms. Even worse, in some cases the source code of the registry is
+not available, so it cannot be reused, improved or extended.
+
+So we (at INB) started the design and implementation of a new web service repository (in Ruby) that will allow us (and anyone using the codebase we are developing) to document and manage the web services developed by different groups, being open and extensible to the entire
+range of web service paradigms and variants used in bioinformatics. Due to the large web
+service portfolio the INB possesses, one of the main concerns when designing BioWSR was
+that web services from any paradigm should be describable at a certain level. As the new registry is strongly inspired by the BioMOBY repository, one requisite was that RDF triples should be a superset of the ones used in BioMOBY to make it backward compatible.
