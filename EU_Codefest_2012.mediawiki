@@ -61,6 +61,11 @@ We worked on developing bio-ngs to better handle pipelines
 and reproducible workflows, plus semantic databases to manage and query NGS sec
 ondary analysis data.
 
+=== Bio RDF support ===
+
+During the codefest we discussed the ins- and outs of graph stores, and the semantic web (triple stores). We now share a vision on how to move forward, using
+RDF for biological analysis. The next biohackathon will be in Japan in September 2012. Four of us will be there to continue this work.
+
 === Adding a list of BioLinux Software packages to biogems.info ===
 
 We recognise is it often hard to find relevant information on current software packages.
