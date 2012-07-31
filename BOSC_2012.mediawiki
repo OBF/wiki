@@ -85,9 +85,6 @@ See the following websites for further information:
 * [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
 * [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
 
-=== Posters at BOSC ===
-There are a few spots reserved for walk-in last-minute posters. Your poster should not exceed these dimensions: 46 inches wide by 45 inches high.
-
 <div style="float:right; background-color: #FFFFFF">[[File:Eagle_logo_CMYK.jpg‎|120px|right|Eagle Genomics logo|link=http://www.eaglegenomics.com/]]</div>
 
 == Sponsors ==
