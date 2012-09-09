@@ -1,0 +1,26 @@
+---
+title: Minutes:2012 Sep ConfCall
+---
+
+The meeting will be held via ''&lt;details to follow&gt;''.
+
+= Agenda =
+
+<ol>
+<li> Old business </li>
+ <ul><li> [[Minutes:2011_Dec_ConfCall| 2011 December BoD meeting minutes]]</li> </ul>  
+<li>New business</li>
+<ol style="list-style-type:lower-roman">
+ <li>Approval of [https://github.com/OBF/obf-docs/pull/8 changes to O|B|F Bylaws]</li>
+</ol>
+</ol>
+
+= Minutes =
+
+'''Venue:''' held by ''&lt;details to follow&gt;'', scheduled for Sep 11, 2012, 11.30am EDT (16:30 UTC) 
+
+'''Attending:'''
+* Directors: 
+* Guests: 
+
+'''Minutes:'''
