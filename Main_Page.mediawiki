@@ -22,9 +22,8 @@ Our main activities are:
 * Organizing and supporting developer-centric "[[Hackathon]]" events
 * Managing our servers, colocation facilities, bank account & other assets
 
-We are incorporated in the state of Delaware, USA as a not-for-profit company.
-* [[Bylaws | Our bylaws]], in the version enacted in 2004.
-* We have recently applied to the [http://www.spi-inc.org Software in the Public Interest, Inc.] (SPI) fiscal sponsorship organization to become associated project. If accepted, this would end our own incorporation status. As a consequence we have recently proposed a [https://github.com/OBF/obf-docs/pull/8 series of changes to the bylaws], which are pending approval from the [[Board]] on Sep 11, 2012.
+We have recently applied to the [http://www.spi-inc.org Software in the Public Interest, Inc.] (SPI) fiscal sponsorship organization to become associated project. If accepted, this would end our own incorporation status (in the state of Delaware, USA as a not-for-profit company).
+* [[:File:OBF-Bylaws.pdf| Our bylaws]], with the [https://github.com/OBF/obf-docs/pull/8 changes] approved on Sep 11, 2012.
 
 ===BOSC===
 The [[BOSC 2012|Bioinformatics Open Source Conference]] (BOSC) is held annually in conjunction with [http://www.iscb.org ISCB's] meeting, ISMB.  [[BOSC 2012]] will take place July 13-14, 2012, right before [http://www.iscb.org/ismb2012 ISMB 2012] in Long Beach, California.
