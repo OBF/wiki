@@ -6,7 +6,7 @@ title: BOSC 2013
 __NOTOC__
 <div style="float: right; margin-left:20px; margin-right:10px; maxwidth: 150px">__TOC__</div>
 
-The 14th Annual Bioinformatics Open Source Conference (BOSC 2012) will take place July 17-18, 2013, in Berlin, Germany, right before [http://www.iscb.org/ismb2013 ISMB 2013].
+The 14th Annual Bioinformatics Open Source Conference (BOSC 2012) will take place July 17-18, 2013, in Berlin, Germany, right before [http://www.iscb.org/ismbeccb2013 ISMB/ECCB 2013].
 
 == Important Dates ==
 
@@ -14,7 +14,7 @@ The 14th Annual Bioinformatics Open Source Conference (BOSC 2012) will take plac
 * April, 2013 (exact date TBA): Abstracts due for BOSC 2013
 * July 15-16, 2013: [[Codefest 2013]]
 * July 17-18, 2013: '''BOSC 2013'''
-* July 19-22, 2013: [http://www.iscb.org/ismb2013 ISMB 2013]
+* July 19-22, 2013: [http://www.iscb.org/ismbeccb2013 ISMB/ECCB 2013]
 == Overview ==
 
 The Bioinformatics Open Source Conference (BOSC) is a satellite of [http://www.iscb.org/ismb2013 ISMB]. It is sponsored by the Open Bioinformatics Foundation (O|B|F), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development within the biological research community. 
@@ -43,7 +43,7 @@ See the following websites for further information:
 
 * [http://www.esat.kuleuven.be/scd/person.php?persid=473 Jan Aerts] (Katholieke Universiteit Leuven)
 * [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer]; [http://compbio.sph.harvard.edu/chb/ Harvard School of Public Health])
-* [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; James Hutton Institute, formerly Scottish Crop Research Institute)
+* [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; James Hutton Institute)
 * Christopher Fields (National Center for Supercomputing Applications)
 * Jeremy Goecks (Emory University)
 * [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp] (National Evolutionary Synthesis Center)
