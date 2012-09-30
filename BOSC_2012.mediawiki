@@ -6,8 +6,6 @@ title: BOSC 2012
 __NOTOC__
 <div style="float: right; margin-left:20px; margin-right:10px; maxwidth: 150px">__TOC__</div>
 
-=== Notes and Links for BOSC Attendees ===
-
 The 13th Annual Bioinformatics Open Source Conference (BOSC 2012) was held July 13-14, 2012, in Long Beach, CA, right before [http://www.iscb.org/ismb2012 ISMB 2012].
 
 The conference schedule is available '''[[BOSC_2012_Schedule|here as HTML]]''' (with links to the slide presentations) and '''[[Media:BOSC2012_schedule.pdf | here as a PDF file]]'''.
@@ -19,7 +17,7 @@ You can also download the [http://www.open-bio.org/bosc2012/BOSC2012-program.pdf
 * '''July 13-14, 2012:  BOSC 2012''' (Long Beach, California)--[[BOSC_2012_Schedule|schedule]]
 * July 15-17, 2012: [http://www.iscb.org/ismb2012 ISMB 2012] (Long Beach, California)
 * July 19-20, 2012: [[EU_Codefest_2012|EU-codefest 2012]] (Lodi, Italy)
-* July 17-18, 2013: BOSC 2013 (Berlin, Germany)
+* July 17-18, 2013: [[BOSC 2013]] (Berlin, Germany)
 
 == Overview ==
 
