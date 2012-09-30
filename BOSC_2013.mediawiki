@@ -1,0 +1,71 @@
+---
+title: BOSC 2013
+---
+
+[[Image:Pear.png|left|The Bosc Pear]]
+__NOTOC__
+<div style="float: right; margin-left:20px; margin-right:10px; maxwidth: 150px">__TOC__</div>
+
+The 14th Annual Bioinformatics Open Source Conference (BOSC 2012) will take place July 17-18, 2013, in Berlin, Germany, right before [http://www.iscb.org/ismb2013 ISMB 2013].
+
+== Important Dates ==
+
+* March, 2103: Call for abstracts
+* April, 2013 (exact date TBA): Abstracts due for BOSC 2013
+* July 15-16, 2013: [[Codefest 2013]]
+* July 17-18, 2013: '''BOSC 2013'''
+* July 19-22, 2013: [http://www.iscb.org/ismb2013 ISMB 2013]
+== Overview ==
+
+The Bioinformatics Open Source Conference (BOSC) is a satellite of [http://www.iscb.org/ismb2013 ISMB]. It is sponsored by the Open Bioinformatics Foundation (O|B|F), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development within the biological research community. 
+
+Open Source software has flourished in the bioinformatics community for well over a decade. When the first BOSC (Bioinformatics Open Source Conference) was held in 2000, there were already a number of popular open source bioinformatics packages, and the number and range of these projects has increased dramatically since then. Many open source bioinformatics packages are widely used by the research community across a wide variety of applications. Open source bioinformatics software has facilitated rapid innovation, dissemination, and wide adoption of new computational methods, reusable software components, and standards.
+
+BOSC brings together bioinformatics open source developers from all over the world so they can forge connections each other (both within and across projects), increase the visibility of their work, and collaborate to build shared resources. Participants can work together to create use cases, prototype working code, or run hands-on tutorials in new software packages and emerging technologies. For those who are bioinformatics software users rather than developers, BOSC introduces or updates them on a wide array of projects that they might find useful. 
+
+Please spread the word about BOSC--all are welcome. On Twitter, follow @BOSC2013 and use hash tag #bosc2013.
+
+=== Open Source License Requirement ===
+
+The [[OBF|Open Bioinformatics Foundation]], which sponsors BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the biological research community. For this reason, if a submitted talk proposal concerns a specific software system for use by the research community, then that software must be licensed with a recognized Open Source License, and be available for download, including source code, by a tar/zip file accessed through ftp/http or through a widely used version control system like cvs/subversion/git/bazaar/Mercurial.
+
+See the following websites for further information:
+* [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
+* [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
+
+<div style="float:right; background-color: #FFFFFF">[[File:Eagle_logo_CMYK.jpg‎|120px|right|Eagle Genomics logo|link=http://www.eaglegenomics.com/]]</div>
+
+== BOSC Organizing Committee ==
+
+'''Chair'''
+
+* Nomi L. Harris (Lawrence Berkeley National Laboratory)
+
+'''Members'''
+
+* [http://www.esat.kuleuven.be/scd/person.php?persid=473 Jan Aerts] (Katholieke Universiteit Leuven)
+* [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer]; [http://compbio.sph.harvard.edu/chb/ Harvard School of Public Health])
+* [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; James Hutton Institute, formerly Scottish Crop Research Institute)
+* Christopher Fields (National Center for Supercomputing Applications)
+* Jeremy Goecks (Emory University)
+* [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp] (National Evolutionary Synthesis Center)
+
+'''Ex Officio (Members of the O|B|F Board)'''
+* [http://www.bioperl.org/wiki/Chris_Dagdigian Chris Dagdigian]
+* [http://myweb.lmu.edu/kdahlqui Kam D. Dahlquist]
+* [http://www.bioperl.org/wiki/Jason_Stajich Jason Stajich]
+
+== Previous BOSCs ==
+
+* The first BOSC was held in 2000.
+* [[BOSC 2012]] took place in Long Beach, California, in July 2012.
+* [[Past BOSC conferences | Information about the first 12 conferences]]
+
+== Contact Us ==
+
+* [http://twitter.com/#!/BOSC2012 Follow BOSC on Twitter]: @BOSC2013, #bosc2013
+* If you'd like to join the mailing list for BOSC-related announcements, including the call for abstracts and deadline reminders, please subscribe to the [http://lists.open-bio.org/mailman/listinfo/bosc-announce Bosc-announce] list.  This list has low traffic, and your address will be kept private.
+* If you have questions about the conference, or would like to volunteer to help out, please contact the organizers at [mailto:bosc@open-bio.org bosc@open-bio.org].
+
+[[Category:BOSC]] [[Category:Conferences]]
+[[Category:BOSC Conferences]]
