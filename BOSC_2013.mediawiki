@@ -46,6 +46,7 @@ See the following websites for further information:
 * [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; James Hutton Institute)
 * Christopher Fields (National Center for Supercomputing Applications)
 * [http://bx.mathcs.emory.edu/people/jeremy/ Jeremy Goecks] (Emory University)
+* Hans-Rudolf Hotz (Friedrich Miescher Institute for Biomedical Research)
 * [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp] (National Evolutionary Synthesis Center)
 
 '''Ex Officio (Members of the O|B|F Board)'''
