@@ -22,7 +22,7 @@ Our main activities are:
 * Organizing and supporting developer-centric "[[Hackathon]]" events
 * Managing our servers, colocation facilities, bank account & other assets
 
-We have recently applied to the [http://www.spi-inc.org Software in the Public Interest, Inc.] (SPI) fiscal sponsorship organization to become associated project. If accepted, this would end our own incorporation status (in the state of Delaware, USA as a not-for-profit company).
+As of October 12, 2012, the O|B|F is now a [http://www.spi-inc.org Software in the Public Interest, Inc.] (SPI) associated project.
 * [[:File:OBF-Bylaws.pdf| Our bylaws]], with the [https://github.com/OBF/obf-docs/pull/8 changes] approved on Sep 11, 2012.
 
 ===BOSC===
