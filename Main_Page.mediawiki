@@ -26,6 +26,6 @@ As of October 12, 2012, the O|B|F is now a [http://www.spi-inc.org Software in t
 * [[:File:OBF-Bylaws.pdf| Our bylaws]], with the [https://github.com/OBF/obf-docs/pull/8 changes] approved on Sep 11, 2012.
 
 ===BOSC===
-The [[BOSC 2012|Bioinformatics Open Source Conference]] (BOSC) is held annually in conjunction with [http://www.iscb.org ISCB's] meeting, ISMB.  [[BOSC 2012]] will take place July 13-14, 2012, right before [http://www.iscb.org/ismb2012 ISMB 2012] in Long Beach, California.
+The [[BOSC 2012|Bioinformatics Open Source Conference]] (BOSC) is held annually in conjunction with [http://www.iscb.org ISCB's] meeting, ISMB.  [[BOSC 2013]] will take place July 17-18, right before [http://www.iscb.org/ismbeccb2013 ISMB/ECCB 2013] in Berlin, Germany.
 
 See some of the [[Past BOSC conferences]].
