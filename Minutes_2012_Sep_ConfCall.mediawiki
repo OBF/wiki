@@ -2,8 +2,6 @@
 title: Minutes:2012 Sep ConfCall
 ---
 
-The meeting will be held via ''&lt;details to follow&gt;''.
-
 = Agenda =
 
 <ol>
