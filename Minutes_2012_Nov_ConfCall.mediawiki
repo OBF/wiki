@@ -17,7 +17,7 @@ If you call in, please mute your phone if you aren't speaking or about to speak,
  <ul><li> [[Minutes:2012_Sep_ConfCall| Sep 2012 BoD meeting minutes]]</li> </ul>  
 <li>New business</li>
 <ol style="list-style-type:lower-roman">
- <li>Election of new Board members. Nominated candidates are Chris Fields and Richard Holland.</li>
+ <li>Election of new Board members. Nominated candidate is Chris Fields.</li>
  <li>Review and possibly revamping of the procedure for joining and maintaining the OBF membership</li>
  <li>Asset transfer to SPI</li>
 </ol>
