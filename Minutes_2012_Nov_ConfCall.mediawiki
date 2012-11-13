@@ -1,0 +1,28 @@
+---
+title: Minutes:2012 Nov ConfCall
+---
+
+The meeting will be held via conference call.
+
+= Agenda =
+
+<ol>
+<li> Old business </li>
+ <ul><li> [[Minutes:2012_Sep_ConfCall| Sep 2012 BoD meeting minutes]]</li> </ul>  
+<li>New business</li>
+<ol style="list-style-type:lower-roman">
+ <li>Election of new Board members</li>
+ <li>Review and possibly revamping of the procedure for joining and maintaining the OBF membership</li>
+ <li>Asset transfer to SPI</li>
+</ol>
+</ol>
+
+= Minutes =
+
+'''Venue:''' to be held by conference call, scheduled for Nov 13, 2012, 11.30am EST (16:30 UTC) 
+
+'''Attending:'''
+* Directors: 
+* Guests: 
+
+'''Minutes:'''
