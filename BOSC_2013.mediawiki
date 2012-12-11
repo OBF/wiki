@@ -12,7 +12,7 @@ __NOTOC__
 
 == Important Dates ==
 
-* March 12, 2103: Call for abstracts
+* March 12, 2103: Call for abstracts opens
 * April 12, 2013: Abstracts due
 * July 17-18, 2013: Codefest 2013
 * July 19-20, 2013: '''BOSC 2013'''
