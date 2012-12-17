@@ -8,7 +8,7 @@ __NOTOC__
 {|
 |[[Image:Pear.png|left|The Bosc Pear]]
 |
-|The 14th Annual Bioinformatics Open Source Conference (BOSC 2012) will take place July 19-20, 2013, in Berlin, Germany, right before [http://www.iscb.org/ismbeccb2013 ISMB/ECCB 2013].
+|The 14th Annual Bioinformatics Open Source Conference (BOSC 2013) will take place July 19-20, 2013, in Berlin, Germany, right before [http://www.iscb.org/ismbeccb2013 ISMB/ECCB 2013].
 
 == Important Dates ==
 
