@@ -1,0 +1,21 @@
+---
+title: BOSC/Broad Interoperability Hackathon
+---
+
+The BOSC/Broad interoperability hackathon will take place Sunday and Monday, April 7th and 8th at the [http://www.broadinstitute.org/ Broad Institute] in Cambridge, Massachusetts. It occurs just prior to [http://www.bio-itworldexpo.com/ Bio-IT World] in Boston. Everyone is welcome, and we'll have more details soon.
+
+== Goals ==
+
+The goal of this hackathon will be developing open source tools to help enhance bioinformatics interoperability. 
+
+== Location ==
+
+The Hackathon will take place in the [http://www.broadinstitute.org Broad Institute] auditorium at [https://maps.google.com/maps?hl=en&ie=UTF-8&q=7+cambridge+center&fb=1&gl=us&hq=7+cambridge+center&hnear=0x89e377297bf5e165:0x7a907799d8f97b03,Somerville,+MA&cid=0,0,3930528473612492834&ei=tSTRUO6xOeHs0QHEiYGADA&ved=0CJsBEPwSMAM 7 Cambridge Center, Cambridge MA] 
+The [http://www.genomespace.org/ GenomeSpace] team at Broad is graciously hosting.
+
+
+== Attendees ==
+
+You are very welcome to attend. Please add yourself if you are interested to [https://docs.google.com/spreadsheet/ccc?key=0Agxg-o4ZmoZ4dFBpVllXX0s5OFJ1WFVPN2pzb29tWlE this Google spreadsheet] and sign up on the [https://groups.google.com/forum/?fromgroups#!forum/bosc-broad-interop mailing list].
+
+* [http://bcbio.wordpress.com/ Brad Chapman]
