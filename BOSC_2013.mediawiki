@@ -65,6 +65,13 @@ Cameron Neylon is Advocacy Director for the Public Library of Science, a researc
 
 Cameron will speak about ''Network ready research: The role of open source and open thinking''.
 
+
+<div style="float:right; background-color: #FFFFFF">[[File:Eagle_logo_CMYK.jpg‎|120px|right|Eagle Genomics logo|link=http://www.eaglegenomics.com/]]</div>
+
+== Sponsors ==
+
+We thank [http://www.eaglegenomics.com/ Eagle Genomics, Ltd.] for sponsoring three Student Travel Awards at BOSC 2012. Each student winner will get free admission to BOSC.
+
 == BOSC Open Source License Requirement ==
 
 The [[OBF|Open Bioinformatics Foundation]], which sponsors BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the biological research community. For this reason, if a submitted talk proposal concerns a specific software system for use by the research community, then that software must be licensed with a recognized Open Source License, and be available for download, including source code, by a tar/zip file accessed through ftp/http or through a widely used version control system like cvs/subversion/git/bazaar/Mercurial.
