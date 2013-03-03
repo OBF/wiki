@@ -30,12 +30,12 @@ Please spread the word about BOSC--all are welcome. On Twitter, follow @BOSC2013
 
 == Session Topics ==
 
-* Cloud and Parallel Computing
-* Genome-scale Data Management
-* Software Interoperability
-* Open Science and Reproducible Research
-* Visualization
-* Bioinformatics Open Source Project Updates
+* Cloud and Parallel Computing -- This session will cover cloud-based approaches to improving software and data accessibility. Talks will focus on how the community can build up resources, datasets, and workflows to make the best use of cloud infrastructure. We will also include talks on data-parallel approaches to analyzing massive data sets, such as those resulting from next-generation sequencing and mass spec proteomics, and reports on the parallelization of bioinformatics algorithms in general.
+* Genome-scale Data Management -- This session will focus on processes and technologies for the analysis and management of genomic or other 'omic data.
+* Visualization -- The main goal of data visualization is to communicate information clearly and effectively through graphical means. This session explores approaches to presenting large biomedical datasets with visual aids that make the data easier to understand and analyze.
+* Software Interoperability -- This session covers Open Source approaches to integrating the latest bioinformatics tools. Building flexible, reproducible workflows with connected tools is essential to modern bioinformatics. The goal of this session is to investigate how we can increase tool connectivity and help communities work better together.
+* Open Science and Reproducible Research -- New this year, this session encompasses the theory and practice of open science, including open notebook science, open data, transparent and reproducible workflows, and shared standards for reviewing and publishing research papers.
+* Bioinformatics Open Source Project Updates -- This session will feature short talks from ongoing projects describing their recent progress. Abstracts will be solicited from open source projects affiliated with the O|B|F (see http://www.open-bio.org/wiki/Projects), including the Bio* projects, DAS, BioMOBY, EMBOSS, and GMOD, but any other open-source project will be equally eligible to submit abstracts for this session.
 * Panel (TBD)
 
 == Keynote Speakers ==
