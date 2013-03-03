@@ -10,11 +10,11 @@ The Google Summer of Code 2013 is ON! OBF is going to apply for mentoring this y
 
 Important dates for 2013:
 
-  * March 22nd: Finalise project ideas
-  * March 29th: Deadline OBF mentoring organisation submission to Google
+* March 22nd: Finalise project ideas
+* March 29th: Deadline OBF mentoring organisation submission to Google
 
 ;Organization administrator: [[User:PjotrPrins|Pjotr Prins]] ([mailto:pjotr.public11@thebird.nl pjotr.public11@thebird.nl])
-;Backup administrators: [[User:Lapp|Hilmar Lapp]] ([mailto:hlapp%40gmx%2enet hlapp&#64;gmx&#46;net]), Robert Buels, Chris Fields
+;Backup administrators: [[User:Lapp|Hilmar Lapp]], Robert Buels, Chris Fields
 
 == GSoC 2012 ==
 
