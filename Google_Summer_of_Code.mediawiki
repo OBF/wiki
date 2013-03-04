@@ -218,6 +218,7 @@ You will be writing under your own name, but with a clear association with your 
 This section contains links to content related to OBF's participation
 in GSoC in previous years.
 
+* [[Google_Summer_of_Code_2012|2012]] - 5 student projects
 * [[Google_Summer_of_Code_2011|2011]] - 6 student projects
 * [[Google_Summer_of_Code_2010|2010]] - 6 student projects
 
