@@ -104,7 +104,6 @@ For prospective students, the first point of contact should be the mailing list 
 ;BioRuby: [mailto:bioruby@lists.open-bio.org bioruby@lists.open-bio.org]
 ;BioSQL: [mailto:biosql-l@lists.open-bio.org biosql-l@lists.open-bio.org]
 ;BioLib: [mailto:biolib-dev@lists.open-bio.org biolib-dev@lists.open-bio.org]
-;BioDAS: [mailto:das@lists.open-bio.org das@lists.open-bio.org]
 
 Also, it would be a good idea to CC the organization administrator, so he can make sure that you are properly taken care of:
 
