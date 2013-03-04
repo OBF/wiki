@@ -168,12 +168,6 @@ Some mentors and developers can regularly be found on IRC, see the list of OBF p
 :* [http://github.com/pjotrp/biolib/tree/master source code]
 :* No IRC channel at present
 
-[[Image:DAS_logo_160px.png|100px|right|link=http://www.biodas.org]]
-; [http://www.biodas.org BioDAS] :
-:* [http://www.biodas.org Project website]
-:* [http://lists.open-bio.org/mailman/listinfo/das mailing list]
-:* No IRC channel at present
-
 == Guide for prospective GSoC students ==
 
 === Before you apply ===
