@@ -2,22 +2,6 @@
 title: Past BOSC conferences
 ---
 
-Previous BOSC conferences:
-* [[BOSC 2012]] Long Beach, CA, USA
-* [[BOSC 2011]] Vienna, Austria
-* [[BOSC 2010]] Boston, MA USA
-* [[BOSC 2009]] Stockholm, Sweden
-* [[BOSC 2008]] Toronto, Ontario, Canada
-* [[BOSC 2007]] Vienna, Austria
-* [[BOSC 2006]] Fortaleza, Brasil
-* [[BOSC 2005]] Detroit, MI USA
-* [[BOSC 2004]] Glasgow, UK
-* [[BOSC 2003]] Brisbane, Australia
-* [[BOSC 2002]] Edmonton, Canada
-* [[BOSC 2001]] Copenhagen, Denmark
-* [[BOSC 2000]] San Diego, CA USA
-
-Other conferences
-* A [[bp:BioPerl|BioPerl]] [[BioPerl Heidelberg 1999|workshop]] was held in conjunction with ISMB'99 in Heidelberg, Germany.
+We're going to redirect this page to [[BOSC]] instead.
 
 [[Category:BOSC Conferences]]
