@@ -2,8 +2,6 @@
 title: BOSC Keynote Speakers
 ---
 
-== Keynote Speakers ==
-
 BOSC 2013 is pleased to announce the following keynote speakers:
 
 === Sean Eddy ===
