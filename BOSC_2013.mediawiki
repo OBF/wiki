@@ -63,14 +63,14 @@ Lifting our gaze from the networks we work on to the networks we occupy is a cha
 
 == Session Topics ==
 
-* ''Open Science and Reproducible Research'' -- New this year, this session encompasses the theory and practice of open science, including open notebook science, open data, transparent and reproducible workflows, and shared standards for reviewing and publishing research papers.
-* ''Cloud and Parallel Computing'' -- This session focuses on approaches that use cloud and other massively parallel infrastructures for processing and analyzing large and heterogeneous biological data. We are particularly interested in solutions demonstrating how to build new or extend existing software, resources and workflows to perform at scale for "Big Data" problems.
-* ''Genome-scale Data Management'' -- This session encompasses software and other tools designed for managing, exploring, and analyzing genome-level data to address research questions, including but not limited to genome assembly, variant prediction, eQTL analysis, and phylogenomic methods.
-* ''Visualization'' -- Current data acquisition technologies are moving us more and more towards a "data first, hypothesis later" paradigm for scientific research. As a result, data visualization and visual analytics are of increasing importance. This session focuses on approaches for interactive as well as static visual representations of biomedical data, ranging from exploration to explanation.
-* ''Software Interoperability'' -- This session covers Open Source approaches to integrating the latest bioinformatics tools. Building flexible, reproducible workflows with connected tools is essential to modern bioinformatics. The goal of this session is to investigate how we can increase tool connectivity and help communities work better together.
-* ''Translational Bioinformatics'' -- This session will explore applications of biological and medical informatics to the development of personalized healthcare, therapies, and a better understanding of human health and disease. Topics include the analysis of large scale population and family sequencing data, bioinformatics methodologies for clinical research, and tools for discovering clinically useful associations in human databases. We especially welcome work that bridges the gap between research and patients, making analysis tools available and understandable for non-scientists.
-* ''Bioinformatics Open Source Project Updates'' -- This session will feature short talks from ongoing projects describing their recent progress. Abstracts will be solicited from open source projects affiliated with the O|B|F (see http://www.open-bio.org/wiki/Projects), including the Bio* projects, DAS, BioMOBY, EMBOSS, and GMOD, but any other open-source project will be equally eligible to submit abstracts for this session.
-* ''Panel'' (TBD)
+* Open Science and Reproducible Research -- New this year, this session encompasses the theory and practice of open science, including open notebook science, open data, transparent and reproducible workflows, and shared standards for reviewing and publishing research papers.
+* Cloud and Parallel Computing -- This session focuses on approaches that use cloud and other massively parallel infrastructures for processing and analyzing large and heterogeneous biological data. We are particularly interested in solutions demonstrating how to build new or extend existing software, resources and workflows to perform at scale for "Big Data" problems.
+* Genome-scale Data Management -- This session encompasses software and other tools designed for managing, exploring, and analyzing genome-level data to address research questions, including but not limited to genome assembly, variant prediction, eQTL analysis, and phylogenomic methods.
+* Visualization -- Current data acquisition technologies are moving us more and more towards a "data first, hypothesis later" paradigm for scientific research. As a result, data visualization and visual analytics are of increasing importance. This session focuses on approaches for interactive as well as static visual representations of biomedical data, ranging from exploration to explanation.
+* Software Interoperability -- This session covers Open Source approaches to integrating the latest bioinformatics tools. Building flexible, reproducible workflows with connected tools is essential to modern bioinformatics. The goal of this session is to investigate how we can increase tool connectivity and help communities work better together.
+* Translational Bioinformatics -- This session will explore applications of biological and medical informatics to the development of personalized healthcare, therapies, and a better understanding of human health and disease. Topics include the analysis of large scale population and family sequencing data, bioinformatics methodologies for clinical research, and tools for discovering clinically useful associations in human databases. We especially welcome work that bridges the gap between research and patients, making analysis tools available and understandable for non-scientists.
+* Bioinformatics Open Source Project Updates -- This session will feature short talks from ongoing projects describing their recent progress. Abstracts will be solicited from open source projects affiliated with the O|B|F (see http://www.open-bio.org/wiki/Projects), including the Bio* projects, DAS, BioMOBY, EMBOSS, and GMOD, but any other open-source project will be equally eligible to submit abstracts for this session.
+* Panel (TBD)
 
 == Submitting Abstracts ==
 
@@ -127,7 +127,6 @@ We thank [http://www.eaglegenomics.com/ Eagle Genomics, Ltd.] for sponsoring thr
 
 '''Ex Officio (Members of the O|B|F Board)'''
 * [http://www.bioperl.org/wiki/Chris_Dagdigian Chris Dagdigian]
-* [http://myweb.lmu.edu/kdahlqui Kam D. Dahlquist]
 * [http://www.bioperl.org/wiki/Jason_Stajich Jason Stajich]
 
 == Previous BOSCs ==
