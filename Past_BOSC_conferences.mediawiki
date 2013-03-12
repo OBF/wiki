@@ -2,6 +2,4 @@
 title: Past BOSC conferences
 ---
 
-We're going to redirect this page to [[BOSC]] instead.
-
-[[Category:BOSC Conferences]]
+#REDIRECT [[BOSC]]
