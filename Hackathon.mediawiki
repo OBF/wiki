@@ -24,11 +24,11 @@ Since 2010, people from the O|B|F project communities have organized or co-organ
 == Other hackathons involving O|B|F projects ==
 
 * [http://2013.biohackathon.org/ BioHackathon 2013]
-** June, 2013, in Tokyo, Japan. Sponsored by the Database Center for Life Science (DBCLS).
+** June, 2013, in Tokyo, Japan. Sponsored by the National Bioscience Database Center (NBCD) and Database Center for Life Science (DBCLS).
 * [http://2012.biohackathon.org/ BioHackathon 2012]
-** September 8-12, 2012, in Toyama, Japan. Sponsored by the NBCD and Database Center for Life Science (DBCLS).
+** September 8-12, 2012, in Toyama, Japan. Sponsored by the National Bioscience Database Center (NBCD) and Database Center for Life Science (DBCLS).
 * [http://hackathon3.dbcls.jp/ BioHackathon 2011]
-** August, 2011, in Kyoto, Japan. Sponsored by the NBDC and Database Center for Life Science (DBCLS).
+** August, 2011, in Kyoto, Japan. Sponsored by the National Bioscience Database Center (NBCD) and Database Center for Life Science (DBCLS).
 * [http://hackathon3.dbcls.jp/ BioHackathon 2010]
 ** Feb 8-12, 2010, in Tokyo, Japan. Sponsored by the Database Center for Life Science (DBCLS) and the Computational Biology Research Center (CBRC).
 * [http://hackathon2.dbcls.jp/ BioHackathon 2009]
