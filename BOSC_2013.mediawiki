@@ -136,7 +136,7 @@ In addition to the student awards, the Open Bioinformatics Foundation will offer
 
 * The first BOSC was held in 2000.
 * [[BOSC 2012]] took place in Long Beach, California, in July 2012.
-* [[Past BOSC conferences | Information about the first 12 conferences]]
+* [[Past BOSC conferences | Information about the first 13 BOSC conferences]]
 
 == Contact Us ==
 
