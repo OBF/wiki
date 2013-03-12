@@ -19,7 +19,7 @@ Our main activities are:
 * Running and supporting the [[BOSC]] conferences.
 * Organizing and supporting developer-centric "[[Hackathon]]" events.
 * [[Google Summer of Code| Participating in the Google Summer of Code program]] on behalf of our [[Projects| member projects]] as an umbrella mentoring organization.
-* Managing our servers, colocation facilities, bank account, domain names, and other assets.
+* Managing servers, colocation facilities, bank account, domain names, and other assets for the benefit of our [[Projects| member projects]].
 * Public opinion and policy statements about matters related to Open Source and Open Science in bioinformatics.
 
 As of October 12, 2012, the O|B|F is a [http://www.spi-inc.org Software in the Public Interest, Inc.] (SPI) associated project.
