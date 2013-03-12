@@ -7,7 +7,7 @@ The '''B'''ioinformatics '''O'''pen '''S'''ource '''C'''onference is held annual
 # Provide a focused environment for developers and users to interact and share ideas about software development, and practical techniques in bioinformatics; 
 # Pnform the Research Community of important developments occuring within the Open Source Bioinformatics Developer community.
 
-Find out about the [[Upcoming BOSC conference]], or research [[Past BOSC conferences]].
+Find out about the [[Upcoming BOSC conference]].
 
 == Previous BOSC conferences ==
 
