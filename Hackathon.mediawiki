@@ -2,6 +2,16 @@
 title: Hackathon
 ---
 
+== O|B|F Codefests ==
+
+Since 2010, people from the O|B|F project communities have organized or co-organized short 2-3 day events focused on collaborative coding, documentation, and better interoperation between O|B|F and other bioinformatics open-source projects.
+
+* [[Codefest 2013]]: July 17-18, 2013, in Berlin, Germany.
+* [[EU Codefest 2012]]: July 19-20, 2012, in Lodi, Italy.
+* [[Codefest 2012]]: July 11-12, 2012, at Loyola Marymount University, Los Angeles, CA, USA.
+* [[Codefest 2011]]: July 13-14, 2011, in Vienna, Austria.
+* [[Codefest 2010]]: July 7-8, 2010, in Boston, MA, USA.
+
 == O|B|F-run hackathons ==
  
 * 2002 hackathon [http://gallery.open-bio.org/gallery2/v/hackathon2002/ pictures].
@@ -11,7 +21,7 @@ title: Hackathon
 ** Sponsored by Apple Asia
 ** This gathering focused more on [[BioSQL]] and [[bp:OBDA|OBDA]] as well as several supporting projects from the different toolkits.
 
-== Hackathons involving O|B|F projects ==
+== Other hackathons involving O|B|F projects ==
 
 * 2006 [http://hackathon.nescent.org/Phylohackathon_1 NESCent Phyloinformatics Hackathon]
 ** Dec 11-15, 2006, in Durham, North Carolina. Sponsored by the National Evolutionary Synthesis Center (NESCent).
@@ -21,5 +31,3 @@ title: Hackathon
 ** Mar 16-20, 2009, in Tokyo and Okinawa, Japan. Sponsored by the Database Center for Life Science (DBCLS) and the Okinawa Institute of Science and Technology (OIST).
 * [http://hackathon3.dbcls.jp/ 2010 BioHackathon]
 ** Feb 8-12, 2010, in Tokyo, Japan. Sponsored by the Database Center for Life Science (DBCLS) and the Computational Biology Research Center (CBRC).
-* [[Codefest 2011]]
-** July 13-14, 2011, in Vienna, Austria.
