@@ -36,3 +36,7 @@ The [[OBF|Open Bioinformatics Foundation]], which sponsors BOSC, is dedicated to
 See the following websites for further information:
 * [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
 * [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
+
+
+----
+[[BOSC_2013|Back to BOSC 2013 home page]]
