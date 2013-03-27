@@ -45,7 +45,7 @@ This year's keynote speakers will be Sean Eddy of the Howard Hughes Medical Inst
 * '''Software Interoperability''' -- This session covers Open Source approaches to integrating the latest bioinformatics tools. Building flexible, reproducible workflows with connected tools is essential to modern bioinformatics. The goal of this session is to investigate how we can increase tool connectivity and help communities work better together.
 * '''Translational Bioinformatics''' -- This session will explore applications of biological and medical informatics to the development of personalized healthcare, therapies, and a better understanding of human health and disease. Topics include the analysis of large scale population and family sequencing data, bioinformatics methodologies for clinical research, and tools for discovering clinically useful associations in human databases. We especially welcome work that bridges the gap between research and patients, making analysis tools available and understandable for non-scientists.
 * '''Bioinformatics Open Source Project Updates''' -- This session will feature short talks from ongoing projects describing their recent progress. Abstracts will be solicited from open source projects affiliated with the O|B|F (see http://www.open-bio.org/wiki/Projects), including the Bio* projects, DAS, BioMOBY, EMBOSS, and GMOD, but any other open-source project will be equally eligible to submit abstracts for this session.
-* '''Panel: Strategies for funding and maintaining open source software'''
+* '''[[BOSC_Panel_2013|Panel: Strategies for funding and maintaining open source software]]'''
 
 == Submitting Abstracts ==
 
