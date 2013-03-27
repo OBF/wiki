@@ -17,3 +17,7 @@ The panel will discuss current funding approaches used in open source software d
 * Commercial value added services: This model provides commercially available services on top of open-source software. Some examples in the larger software community are RedHat, JBoss and PostgreSQL.
 
 The goals of the panel are to identify past approaches that have been successful for OS scientific software, and to discuss and build community support for long-term, sustainable development practices.
+
+
+----
+[[BOSC_2013|Back to BOSC 2013 home page]]
