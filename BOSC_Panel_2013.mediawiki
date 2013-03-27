@@ -2,7 +2,7 @@
 title: BOSC Panel 2013
 ---
 
-= Panel: Strategies for funding and maintaining open source software =
+== Strategies for funding and maintaining open source software ==
 
 Funding the ongoing maintenance and development of open-source scientific software is a critical challenge as science becomes increasingly reliant on interoperable tools. Ensuring the long-term success of a scientific software project, from implementing new features to maintaining and documenting existing features, is often challenging due to limited resources. Maintenance issues, such as fixing bugs, enhancing usability, or adding documentation can be especially problematic for the health of an open-source project, creating an environment where bioinformaticians spend an inordinate amount of work on managing software complexity instead of solving scientific problems.
  
