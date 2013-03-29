@@ -21,6 +21,26 @@ See the [http://code.google.com/soc Main GSoC Site] for general information abou
 
 == Project ideas ==
 
+Interested mentors and students should subscribe to the OBF/GSoC [http://lists.open-bio.org/mailman/listinfo/gsoc mailing list] and announce their interest - that is the way we can track what is happening.
+
+Mentor names and project ideas are hosted on each member project's wiki on a dedicated Google Summer of Code page.  See each of the member projects, linked below, for more details about any project:
+
+;BioPerl:
+
+See http://bioperl.org/wiki/Google_Summer_of_Code
+
+;Biopython:
+
+See http://biopython.org/wiki/Google_Summer_of_Code
+
+;BioRuby:
+
+Project ideas for BioRuby are listed [http://bioruby.open-bio.org/wiki/Google_Summer_of_Code here]
+
+;BioJava:
+
+http://biojava.org/wiki/Google_Summer_of_Code
+
 == Contact ==
 
 === IRC - Internet Relay Chat ===
