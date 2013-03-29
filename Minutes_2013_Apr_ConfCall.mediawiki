@@ -1,0 +1,27 @@
+---
+title: Minutes:2013 Apr ConfCall
+---
+
+= Agenda =
+
+'''Venue:''' to be held by conference call on April 9, 2013, 1.30pm EDT (17:30 UTC) 
+
+<ol>
+<li> Old business </li>
+ <ul>
+  <li> [[Minutes:2012_Nov_ConfCall| Nov 2012 BoD meeting minutes]]</li>
+  <li> [[Media:2012-OBF-Treasurers-Report.pdf| Treasurer's 2012 report]] (Chris Dagdigian)</li>
+ </ul>  
+<li>New business</li>
+<ol style="list-style-type:lower-roman">
+ <li>Administration of O|B|F'S 2013 Google Summer of Code participation (Pjotr Prins)</li>
+</ol>
+</ol>
+
+= Minutes =
+
+'''Attending:'''
+* Directors: 
+* Guests: 
+
+'''Minutes:'''
