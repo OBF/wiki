@@ -8,14 +8,9 @@ title: Google Summer of Code
 
 The Google Summer of Code 2013 is ON! OBF is going to apply for mentoring this year. Interested mentors and students should subscribe to the OBF/GSoC [http://lists.open-bio.org/mailman/listinfo/gsoc mailing list]. The main information page for GSoC 2013 can be found [here https://github.com/OBF/GSoC/wiki/Google-Summer-of-Code-2013]!
 
-Important dates for 2013:
-
-* March 22nd: Finalise project ideas
-* March 29th: Deadline OBF mentoring organisation submission to Google
 
 ;Organization administrator: [[User:PjotrPrins|Pjotr Prins]] ([mailto:pjotr.public15@thebird.nl pjotr.public15@thebird.nl])
-;Backup administrators: [[User:Lapp|Hilmar Lapp]], Robert Buels, Chris Fields
-
+;Backup administrators: Chis Fields, [[User:Lapp|Hilmar Lapp]], Robert Buels
 
 == About Google Summer of Code ==
 
