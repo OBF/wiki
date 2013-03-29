@@ -16,31 +16,6 @@ Important dates for 2013:
 ;Organization administrator: [[User:PjotrPrins|Pjotr Prins]] ([mailto:pjotr.public15@thebird.nl pjotr.public15@thebird.nl])
 ;Backup administrators: [[User:Lapp|Hilmar Lapp]], Robert Buels, Chris Fields
 
-== GSoC 2012 ==
-
-The Open Bioinformatics Foundation has been accepted as a mentoring organization for Google Summer of Code 2012, with 5 student projects funded!
-
-== 2012 Student Projects ==
-
-;Wibowo Arindrarto
-:mentored by Peter Cock
-:[http://bow.web.id/blog/tag/gsoc/ SearchIO Implementation in Biopython]
-
-;Lenna Peterson
-:mentored by Brad Chapman
-:[http://arklenna.tumblr.com/tagged/gsoc2012 Diff My DNA: Development of a Genomic Variant Toolkit for BioPython]
-
-;Marjan Povolni
-:mentored by Pjotr Prins, Francesco Strozzi, Raoul Bonnal
-:[http://blog.mpthecoder.com/tagged/gsoc The world's fastest parallelized GFF3/GTF parser in D, and an interfacing biogem plugin for Ruby]
-
-;Artem Tarasov
-:mentored by Pjotr Prins, Francesco Strozzi, Raoul Bonnal
-:[http://lomereiter.wordpress.com/tag/gsoc Robust and fast parallel BAM parser in D for binding against dynamic languages]
-
-;Clayton Wheeler
-:mentored by Francesco Strozzi and Raoul Bonnal 
-:[http://csw.github.com/bioruby-maf/ Multiple Alignment Format parser for BioRuby]
 
 == About Google Summer of Code ==
 
