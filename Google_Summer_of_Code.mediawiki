@@ -2,7 +2,7 @@
 title: Google Summer of Code
 ---
 
-[[Image:none|right|frame|link=http://code.google.com/soc]] 
+[[Image:Soc-2013-300x200.png|right|frame|link=http://code.google.com/soc]] 
 
 == GSoC 2013 ==
 
