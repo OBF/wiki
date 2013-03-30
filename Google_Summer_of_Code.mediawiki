@@ -31,6 +31,12 @@ See http://biopython.org/wiki/Google_Summer_of_Code
 
 ;BioRuby:
 
+:A parallelized framework for processing large numbers of VCF files using Scala Actors and JRuby
+:D3 based graphics package for Bioinformatics
+:Semantic web/RDF support for Bioinformatics
+:Machine Learning & Data Mining Algorithms for Ruby
+:Create a dynamic and social web portal for Bioinformatics packages
+
 Project ideas for BioRuby are listed [http://bioruby.open-bio.org/wiki/Google_Summer_of_Code here]
 
 ;BioJava:
