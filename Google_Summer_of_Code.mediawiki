@@ -27,7 +27,11 @@ Mentor names and project ideas are hosted on each member project's wiki on a ded
 
 ;Biopython:
 
-See http://biopython.org/wiki/Google_Summer_of_Code
+:* [http://biopython.org/wiki/Google_Summer_of_Code#Codon_alignment_and_analysisCodon alignment and analysis]
+:* [http://biopython.org/wiki/Google_Summer_of_Code#Bio.Phylo:_filling_in_the_gaps Bio.Phylo: filling in the gaps]
+:* [http://biopython.org/wiki/Google_Summer_of_Code#Indexing_.26_Lazy-loading_Sequence_Parsers Indexing & Lazy-loading Sequence Parsers]
+
+See also the Biopython<F11> [http://biopython.org/wiki/Google_Summer_of_Code GSoC page]
 
 ;BioRuby:
 
