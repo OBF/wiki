@@ -64,10 +64,11 @@ For prospective students, the first point of contact should be the mailing list 
 ;BioSQL: [mailto:biosql-l@lists.open-bio.org biosql-l@lists.open-bio.org]
 ;BioLib: [mailto:biolib-dev@lists.open-bio.org biolib-dev@lists.open-bio.org]
 
-Also, it would be a good idea to CC the organization administrator, so he can make sure that you are properly taken care of:
+Also, it would be a good idea to CC the organization administrator, so he can make sure that you are properly taken care of!
 
-;Organization administrator: [[User:RobertBuels|Robert Buels]] ([mailto:rmb32@cornell.edu rmb32@cornell.edu])
+<!-- ;Organization administrator: [[User:RobertBuels|Robert Buels]] ([mailto:rmb32@cornell.edu rmb32@cornell.edu])
 ;Backup administrator: [[User:Lapp|Hilmar Lapp]] ([mailto:hlapp%40gmx%2enet hlapp&#64;gmx&#46;net])
+-->
 
 If you are not quite sure which project you would like to contribute to, you can email to the organization administrator for help.  However, do not worry overly much about picking the right OBF project at the outset.  If you are unsure, simply make your best guess, and other members of the email list will help you to find the best organization to suit your idea.
 
