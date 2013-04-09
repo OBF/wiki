@@ -10,9 +10,9 @@ The panel will discuss current funding approaches used in open source software d
 
 * Grant based: Open-source tools with a paid developer community supported by grants. This describes projects like Galaxy and Ensembl.
 
-* Mixed commercial and open source: These are tools that are freely available to the academic/non-profit community, but require commercial  users to pay for use. Some examples in the biology community are GATK and KEGG.
-
 * Community maintained: A collection of volunteers maintain these tools in their spare time or as part of other research or development work.  Some familiar examples are BioPerl, Biopython, BioJava, and BioRuby.
+
+* Mixed commercial and open source: These are tools that are freely available to the academic/non-profit community, but require commercial  users to pay for use. Some examples in the biology community are GATK and KEGG.
 
 * Commercial value-added services: This model provides commercially available services on top of open-source software. Some examples in the larger software community are RedHat, JBoss and PostgreSQL.
 
