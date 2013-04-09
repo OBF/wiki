@@ -18,6 +18,17 @@ The goals for the two days are determined entirely by developers.
 
 We'll be hosted in lab rooms at the [http://www.biologie.hu-berlin.de/ Department of Biology, Humboldt-Universität zu Berlin], near historic [https://en.wikipedia.org/wiki/Invalidenstra%C3%9Fe Invalidenstrasse]. Thanks to Steffen Möller and Ivo Maintz for help securing the room. More details on times and directions will be available. In the meantime, enjoy some [http://jaguar.biologie.hu-berlin.de/~ivo/ISMB/30Plaetze_alt/ pictures of the room].
 
+== Accomodation ==
+
+The venue is in a nice area of Berlin and everyone is wholeheartedly invited to stay nearby for the full conference. Prices vary with availability, so book soon. Public transport in Berlin is excellent, throughout the night, so do not worry too much if prices for the hotels listed below have already gone through the roof. Just take anything between our venue and the conference site. The usual internet booking services are your friend. To increase chances for us to meet by chance, check for one the following hotels, which should pop up when sorting for distance from the center:
+
+ * Hotel Aquino (55 Euros)
+ * Mercure Hotel Berlin City (65 Euros)
+ * Hotel Motel One Berlin Bellevue (59 Euros)
+ * Gat Point Charlie (51 Euros incl. breakfast)
+
+The Gat Point Charlie is a bit south, but it is a truly nice walk through Berlin of 2.5km to Codefest.
+
 == Attendees ==
 
 You are very welcome to attend. Please add yourself if you are interested to [https://docs.google.com/spreadsheet/ccc?key=0Agxg-o4ZmoZ4dEQyOFhrLUt4YVBXX0xxWjRyYTBRb2c this Google spreadsheet] and sign up on the [https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2013 mailing list].
