@@ -4,7 +4,9 @@ title: Minutes:2013 Apr ConfCall
 
 = Agenda =
 
-'''Venue:''' to be held by conference call on April 9, 2013, 1.30pm EDT (17:30 UTC) 
+'''Venue:''' to be held by conference call on April 9, 2013, 1.30pm EDT (17:30 UTC) <br/>
+Dial-in Number:	1-605-475-5950 (Midwest) <br/>
+Participant Access Code:	279610
 
 <ol>
 <li> Old business </li>
