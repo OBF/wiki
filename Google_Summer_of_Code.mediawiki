@@ -10,6 +10,8 @@ The Google Summer of Code 2013 is ON! Sadly, OBF applied for mentoring this year
 try again in 2014.
 <!-- Interested mentors and students should subscribe to the OBF/GSoC [http://lists.open-bio.org/mailman/listinfo/gsoc mailing list]. Please announce yourself, so we know who you are! -->
 
+Other organisations relevant for bioinformatics students are: [http://informatics.nescent.org/wiki/Phyloinformatics_Summer_of_Code_2013 Nescent], [https://github.com/SciRuby/sciruby/wiki/Google-Summer-of-Code-2013-Ideas SciRuby], [http://gmod.org/wiki/GSoC GMOD], who have taken on some of our projects and mentors.
+
 ;Organization administrator: [[User:PjotrPrins|Pjotr Prins]] ([mailto:pjotr.gsoc2013@thebird.nl pjotr.gsoc2013@thebird.nl])
 ;Backup administrators: Chis Fields, [[User:Lapp|Hilmar Lapp]], Robert Buels
 
