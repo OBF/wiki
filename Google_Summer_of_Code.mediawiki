@@ -6,7 +6,7 @@ title: Google Summer of Code
 
 == GSoC 2013 ==
 
-The Google Summer of Code 2013 is ON! Sadly, OBF applied for mentoring this year, but did *not* get accepted as a mentoring organisation by Google - despite our good track record. We'll 
+The Google Summer of Code 2013 is ON! Sadly, OBF applied for mentoring this year, but did '''not''' get accepted as a mentoring organisation by Google - despite our good track record. We'll 
 try again in 2014.
 <!-- Interested mentors and students should subscribe to the OBF/GSoC [http://lists.open-bio.org/mailman/listinfo/gsoc mailing list]. Please announce yourself, so we know who you are! -->
 
