@@ -12,7 +12,7 @@ __NOTOC__
 
 == Important Dates ==
 
-* April 7-8, 2013: [http://www.broadinstitute.org/events/interoperability-hackathon-2013/home BOSC/Broad Interoperability Hackathon], Cambridge, MA. '''(Free event--sign up now!)'''
+* April 7-8, 2013: [http://www.broadinstitute.org/events/interoperability-hackathon-2013/home BOSC/Broad Interoperability Hackathon], Cambridge, MA.
 * '''April 12, 2013: BOSC abstracts due'''
 * July 17-18, 2013: [[Codefest 2013]], Berlin
 * July 19-20, 2013: '''BOSC 2013''', Berlin
