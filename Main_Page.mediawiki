@@ -6,7 +6,7 @@ title: Main Page
  <div style="width:26em; background-color: rgb(184,214,245); border: 1px solid grey; border-radius: 1em; margin: 0em 1em 0em 1em; padding: 0.6em;">
 <span class="plainlinks" style="font-size: larger">'''[http://spi-inc.org/donations/ Please Donate]'''</span>
 
-Through our fiscal sponsor, [http://spi-inc.org/ Software in the Public Interest, Inc.], we can accept charitable donations, including [https://co.clickandpledge.com/advanced/default.aspx?wid=66788# online by credit card]. Donations made through SPI are 501(c)3 tax-exempt in the US. (SPI also has a charitable partner organization in Europe.) Your contribution helps O|B|F to fund activities towards maintaining, nurturing, and growing a vibrant community of people committed to developing reusable open-source software for advancing biological research. 
+Through our fiscal sponsor, [http://spi-inc.org/ Software in the Public Interest, Inc.], we accept charitable donations, including [https://co.clickandpledge.com/advanced/default.aspx?wid=66788# online by credit card]. Donations made through SPI are 501(c)3 tax-exempt in the US. (SPI also has a charitable partner organization in Europe.) Your contribution helps O|B|F to fund activities towards maintaining, nurturing, and growing a vibrant community of people committed to developing reusable open-source software for advancing biological research. 
  </div>
  <div style="width:26em; background-color: white; border: 1px solid grey; border-radius: 1em; margin: 1em 1em 0em 1em; padding: 0.6em;">
   <rss>http://news.open-bio.org/news/feed/|charset=utf-8|short|data|max=10|date</rss>
