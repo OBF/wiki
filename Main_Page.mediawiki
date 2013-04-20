@@ -30,7 +30,7 @@ As of October 12, 2012, the O|B|F is a [http://www.spi-inc.org Software in the P
 
 === History ===
 
-O|B|F grew out of the volunteer projects [[BioPerl]], [[BioJava]] and [[Biopython]] and was formally incorporated in 2001 in order to handle our modest requirements of hardware ownership, domain name management and funding for conferences and workshops. The Foundation does not participate directly in the development or structure of the open source work, but as the members of the foundation are drawn from our projects' developer communities, there is clear commonality of direction and purpose.
+O|B|F grew out of the volunteer projects [[BioPerl]], [[BioJava]] and [[Biopython]] and was formally incorporated in 2001 in order to handle modest requirements of hardware ownership, domain name management and funding for conferences and workshops. The Foundation does not participate directly in the development or structure of the open source work, but as the members of the foundation are drawn from our projects' developer communities, there is clear commonality of direction and purpose.
 
 ===BOSC===
 The [[BOSC|Bioinformatics Open Source Conference (BOSC)]] is held annually in conjunction with [http://www.iscb.org ISCB's] meeting, ISMB. 
