@@ -13,7 +13,7 @@ Through our fiscal sponsor, [http://spi-inc.org/donations Software in the Public
 See also our [[News|news page]], and [http://twitter.com/obf_news twitter].
  </div>
 </div>
-===About Us===
+== About Us ==
 
 The Open Bioinformatics Foundation or O|B|F is a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of [[wp:open source|Open Source]] software development and [[wp:Open science|Open Science]] within the biological research community.
 
@@ -25,14 +25,17 @@ Our main activities are:
 * Managing servers, colocation facilities, bank account, domain names, and other assets for the benefit of our [[Projects| member projects]].
 * Public opinion and policy statements about matters related to Open Source and Open Science in bioinformatics.
 
-As of October 12, 2012, the O|B|F is a [http://www.spi-inc.org Software in the Public Interest, Inc.] (SPI) associated project.
-* [[:File:OBF-Bylaws.pdf| Our bylaws]], with the [https://github.com/OBF/obf-docs/pull/8 changes] approved on Sep 11, 2012.
+The Foundation does not participate directly in the development or structure of the open source work, but as the members of the foundation are drawn from our projects' developer communities, there is clear commonality of direction and purpose.
 
-=== History ===
+O|B|F is governed by a [[Board|Board of Directors]]. [[:File:OBF-Bylaws.pdf| Our bylaws]] lay out how the Board is elected, holds public meetings, and conducts its business, as well as the scope and role of our [[Open_Bioinformatics_Foundation:Membership_application| membership]]. O|B|F is an associated project with [http://spi-inc.org/ Software In The Public Interest, Inc.], a fiscal sponsorship organization, and through SPI we can accept tax-exempt charitable donations.
 
-O|B|F grew out of the volunteer projects [[BioPerl]], [[BioJava]] and [[Biopython]] and was formally incorporated in 2001 in order to handle modest requirements of hardware ownership, domain name management and funding for conferences and workshops. The Foundation does not participate directly in the development or structure of the open source work, but as the members of the foundation are drawn from our projects' developer communities, there is clear commonality of direction and purpose.
+== History ==
 
-===BOSC===
+O|B|F grew out of the volunteer projects [[BioPerl]], [[BioJava]] and [[Biopython]] and was formally incorporated in 2001 in order to handle modest requirements of hardware ownership, domain name management and funding for conferences and workshops. In 2005, we enacted [[:File:OBF-Bylaws.pdf| bylaws]] for the first time, and along with it created a formal membership. 
+
+In 2012, we decided to give up our own incorporation to associate ourselves with [http://spi-inc.org/ Software In The Public Interest, Inc.], a fiscal sponsorship organization that we felt aligned well with our own values and culture. The bylaws [https://github.com/OBF/obf-docs/pull/8 underwent a series of changes], in part to better reflect our current practices, and in part to pave the way for joining SPI. The changes [[Minutes:2012_Sep_ConfCall| were approved on Sep 11, 2012]], [http://vote.heliosvoting.org/helios/e/OBFjoiningSPI our membership overwhelmingly approved of associating with SPI], and as of October 12, 2012, O|B|F is a SPI-associated project.
+
+== BOSC ==
 The [[BOSC|Bioinformatics Open Source Conference (BOSC)]] is held annually in conjunction with [http://www.iscb.org ISCB's] meeting, ISMB. 
 
 [[BOSC 2013]] will take place July 17-18, right before [http://www.iscb.org/ismbeccb2013 ISMB/ECCB 2013] in Berlin, Germany.
