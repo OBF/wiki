@@ -20,6 +20,6 @@ The goals of the panel are to identify past approaches that have been successful
 
 '''Moderator''': Brad Chapman
 
-'''Panelists''': Jean Peccoud, Sean Eddy, Peter Cock, Scott Markel, Richard Holland, Carole Gobel
+'''Panelists''': Jean Peccoud, Sean Eddy, Peter Cock, Scott Markel, Richard Holland, Carole Goble
 ----
 [[BOSC_2013|Back to BOSC 2013 home page]]
