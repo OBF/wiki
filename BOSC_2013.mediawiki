@@ -57,7 +57,7 @@ The deadline for abstract submissions for talks was April 12, 2013. Authors will
 
 == Sponsor ==
 
-We thank [http://www.eaglegenomics.com/ Eagle Genomics, Ltd.] for sponsoring three Student Travel Awards at BOSC 2012. Each student winner will receive $250 towards travel expenses. In addition, the Open Bioinformatics Foundation will grant these three students free admission to the conference.
+We thank [http://www.eaglegenomics.com/ Eagle Genomics, Ltd.] for helping to sponsor three Student Travel Awards at BOSC 2013. Each student winner will receive $250 towards travel expenses. In addition, the Open Bioinformatics Foundation will grant these three students free admission to the conference.
 
 == Complementary Registration ==
 In addition to the student awards, the Open Bioinformatics Foundation will offer free admission to several other people whose abstracts are accepted for talks. Please [mailto:bosc@open-bio.org send us a letter] explaining why you are seeking free registration for BOSC. Decisions will be made by the BOSC organizing committee and announced on May 8, 2013.
