@@ -10,9 +10,10 @@ The deadline for abstract submissions for talks was Friday, April 12, 2013. Auth
 BOSC includes poster sessions, and we still have openings for posters. If you want to present a poster and would like your poster abstract to be included in the BOSC program, please [http://events.open-bio.org/BOSC2013/openconf.php submit it] by '''June 7'''. We will have space for some last-minute walk-in posters as well (but they will not be listed in the BOSC program).
 
 === Abstract Formatting Requirements ===
-Abstracts must be '''one page''' in length and submitted '''as a PDF (preferred) or Microsoft Word file only'''. Abstracts should be formatted to fit on A4 paper.
+Abstracts must be '''one page''' in length and submitted '''as a PDF (preferred) or Microsoft Word file only'''.
 
 Please format your abstract as follows:
+* Abstracts should be formatted to fit on A4 paper.
 * Use 1 inch (2.5 cm) margins on the top, sides, and bottom of the page.
 * Include the following pieces of information in order from the top of the page:
 ** Title
