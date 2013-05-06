@@ -29,9 +29,10 @@ Open Source software has flourished in the bioinformatics community for well ove
 Please spread the word about BOSC--all are welcome. On Twitter, follow @BOSC2013 and use hash tag #bosc2013.
 
 == Keynote Speakers ==
-
 This year's keynote speakers will be Sean Eddy of the Howard Hughes Medical Institute's Janelia Farm, and Cameron Neylon of the Public Library of Science.
 
+[[Image:SeanEddy.jpg|150px|Sean Eddy]] 
+[[Image:Neylon.jpg|90px|Cameron Neylon]] 
 [[BOSC_Keynote_Speakers|More information about BOSC 2013 Keynote Speakers]]
 
 == Session Topics ==
