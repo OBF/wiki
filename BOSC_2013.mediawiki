@@ -12,7 +12,7 @@ __NOTOC__
 
 == Important Dates ==
 
-* May 6, 2013: Authors notified of abstract acceptance
+* May 6, 2013: Authors notified of abstract acceptance. (If you submitted an abstract and did not hear back, please [mailto:bosc@open-bio.org let us know].)
 * June 7, 2013: Deadline for [[BOSC_Abstract_Submission|poster abstract submission]] (if you want your abstract to appear in the BOSC program)
 * June 7, 2013: Last day for early [http://www.iscb.org/ismbeccb2013-registration registration] discount for BOSC and ISMB/ECCB
 * July 17-18, 2013: [[Codefest 2013]], Berlin
