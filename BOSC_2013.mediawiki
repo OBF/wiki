@@ -28,8 +28,8 @@ Open Source software has flourished in the bioinformatics community for well ove
 
 Please spread the word about BOSC--all are welcome. On Twitter, follow @BOSC2013 and use hash tag #bosc2013.
 
-[[Image:SeanEddy.jpg|140px|left|Sean Eddy]] 
-[[Image:Neylon.jpg|90px|right|Cameron Neylon]]
+[[Image:SeanEddy.jpg|150px|Sean Eddy]] 
+[[Image:Neylon.jpg|90px|Cameron Neylon]]
 
 == Keynote Speakers ==
 
