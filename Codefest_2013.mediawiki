@@ -33,6 +33,7 @@ The Gat Point Charlie is a bit south, but it is a truly nice walk through Berlin
 
 You are very welcome to attend. Please add yourself if you are interested to [https://docs.google.com/spreadsheet/ccc?key=0Agxg-o4ZmoZ4dEQyOFhrLUt4YVBXX0xxWjRyYTBRb2c this Google spreadsheet] and sign up on the [https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2013 mailing list].
 
+== Main Organisers ==
+
 * [http://bcbio.wordpress.com/ Brad Chapman]
 * [http://www.derma.uni-luebeck.de/ Steffen Möller]
-* [http://www.hutton.ac.uk/staff/peter-cock Peter Cock]
