@@ -14,6 +14,13 @@ The objective of the Codefest is to give these talented developers a chance to b
 
 The goals for the two days are determined entirely by developers. 
 
+== Brainstorming ==
+
+A preliminary outlook of the projects that each developer intends to work on, might help in engaging other developers into common interest areas. It is also good if those short projects require some preparation/reading/configuring before the hackathon. Here are some ideas:
+
+* Benchmarking and possibly integrating Heng Li's [https://github.com/lh3/readfq readfq] into BioPython.
+* Finding and implementing the best scheduling mechanism for [https://github.com/scilifelab/ratatosk ratatosk], a [https://github.com/spotify/luigi luigi]-based bioinformatics pipeline.
+
 == Location ==
 
 We'll be hosted in lab rooms at the [http://www.biologie.hu-berlin.de/ Department of Biology, Humboldt-Universität zu Berlin], near historic [https://en.wikipedia.org/wiki/Invalidenstra%C3%9Fe Invalidenstrasse]. Thanks to Steffen Möller and Ivo Maintz for help securing the room. More details on times and directions will be available. In the meantime, enjoy some [http://jaguar.biologie.hu-berlin.de/~ivo/ISMB/30Plaetze_alt/ pictures of the room].
