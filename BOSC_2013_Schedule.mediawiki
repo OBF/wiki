@@ -164,7 +164,7 @@ title: BOSC 2013 Schedule
 | Brad Chapman
 |-
 | 9:00
-| Introduction to the [http://www.open-bio.org/wiki/Main_Page Open Bioinformatics Foundation]
+| [http://www.open-bio.org/wiki/Main_Page Open Bioinformatics Foundation:]  A Community For, By, and Of You
 | Hilmar Lapp (President, Open Bioinformatics Foundation)
 |-
 | 9:15
