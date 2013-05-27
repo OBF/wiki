@@ -177,7 +177,7 @@ title: BOSC 2013 Schedule
 |-
 | 10:45-12:30
 | Session: Software Interoperability
-| Chair: Jeremy Goecks?
+| Chair: Jeremy Goecks
 |-
 | 10:45
 | [Interoperability] BioBlend - Enabling Pipeline Dreams
