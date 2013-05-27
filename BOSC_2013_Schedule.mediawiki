@@ -29,7 +29,7 @@ title: BOSC 2013 Schedule
 |-
 | 10:45-12:30
 | Session: Open Science
-| Chair: 
+| Chair: Hilmar Lapp?
 |-
 | 10:45 
 | [Open Science] Open Science Data Framework: A Cloud enabled system to store, access, and analyze scientific data
@@ -105,7 +105,7 @@ title: BOSC 2013 Schedule
 |-
 | 4:00-5:15
 | Session: Bioinformatics Open Source Project Updates
-| Chair: 
+| Chair: Hans-Rudolf Hotz
 |-
 | 4:00
 | [Project Updates] BioRuby project updates - power of modularity in the community-based open source development model
@@ -217,7 +217,7 @@ title: BOSC 2013 Schedule
 |-
 | 1:30-3:30
 | Session: Cloud and Genome-Scale Computing
-| Chair: 
+| Chair: Peter Cock?
 |-
 | 1:30
 | [Cloud/Genome-Scale] Towards Enabling Big Data and Federated Computing in the Cloud
@@ -253,7 +253,7 @@ title: BOSC 2013 Schedule
 |-
 | 4:00-4:40
 | Session: Translational Genomics
-| Chair: ? (Not Brad--he's speaking in this session AND chairing the panel after it)
+| Chair: Nomi Harris?
 |-
 | 4:00
 | [Translational] Community development of human variant calling and validation pipelines
