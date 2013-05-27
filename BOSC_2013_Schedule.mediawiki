@@ -29,7 +29,7 @@ title: BOSC 2013 Schedule
 |-
 | 10:45-12:30
 | Session: Open Science
-| Chair: Hilmar Lapp?
+| Chair: Hilmar Lapp
 |-
 | 10:45 
 | [Open Science] Open Science Data Framework: A Cloud enabled system to store, access, and analyze scientific data
@@ -73,7 +73,7 @@ title: BOSC 2013 Schedule
 |-
 | 2:00-3:30
 | Session: Visualization
-| Chair: Jan Aerts?
+| Chair: Jan Aerts
 |-
 | 2:00
 | [Visualization] Refinery Platform - Integrating Visualization and Analysis of Large-Scale Biological Data
