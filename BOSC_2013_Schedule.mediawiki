@@ -33,27 +33,27 @@ title: BOSC 2013 Schedule
 |-
 | 10:45 
 | [Open Science] Open Science Data Framework: A Cloud enabled system to store, access, and analyze scientific data
-| 
+| Anup Mahurkar
 |-
 | 11:00
 | [Open Science] myExperiment Research Objects: Beyond Workflows and Packs
-| 
+| Stian Soiland-Reyes
 |-
 | 11:15
 | [Open Science] Empowering Cancer Research Through Open Development
-| 
+| Juli Klemm
 |-
 | 11:30
 | [Open Science] DNAdigest - a not-for-profit organisation to promote and enable open-access sharing of genomics data
-| 
+| Fiona Nielsen
 |-
 | 11:45
 | [Open Science]  Jug: Reproducible Research in Python
-| 
+| Luis Pedro Coelho
 |-
 | 11:50
 | [Open Science] OpenLabFramework: A Next-Generation Open-Source Laboratory Information Management System for Efficient Sample Tracking
-| 
+| Markus List
 |-
 | 11:55 
 | [Open Science] KBase: An Integrated Community Resource for Systems Biology
@@ -61,7 +61,7 @@ title: BOSC 2013 Schedule
 |-
 | 12:00
 | [Open Science] Ten Simple Rules for the Open Development of Scientific Software
-| 
+| Andreas Prlic
 |-
 | '''12:30-1:30'''
 | '''Lunch'''
@@ -77,27 +77,27 @@ title: BOSC 2013 Schedule
 |-
 | 2:00
 | [Visualization] Refinery Platform - Integrating Visualization and Analysis of Large-Scale Biological Data
-| 
+| Nils Gehlenborg
 |-
 | 2:25
 | [Visualization] MetaSee: An interactive visualization toolbox for metagenomic sample analysis and comparison
-| 
+| Kang Ning
 |-
 | 2:40
 | [Visualization] DGE-Vis: Visualisation of RNA-seq data for Differential Gene Expression analysis
-| 
+| David Powell
 |-
 | 2:55
 | [Visualization] Genomic Visualization Everywhere with Dalliance
-| 
+| Thomas Down
 |-
 | 3:10
 | [Visualization] Robust quality control of Next Generation Sequencing alignment data
-| 
+| Konstantin Okonechnikov
 |-
 | 3:25
 | [Visualization] Visualizing bacterial sequencing data with GenomeView
-| 
+| Thomas Abeel
 |-
 | '''3:30-4:00'''
 | '''Coffee Break'''
@@ -181,31 +181,31 @@ title: BOSC 2013 Schedule
 |-
 | 10:45
 | [Interoperability] BioBlend - Enabling Pipeline Dreams
-| 
+| Enis Afgan
 |-
 | 11:10
 | [Interoperability] Taverna Components: Semantically annotated and shareable units of functionality
-| 
+| Alan Williams
 |-
 | 11:35
 | [Interoperability] UGENE Workflow Designer – flexible control and extension of pipelines with scripts
-| 
+| Yuriy Vaskin
 |-
 | 11:50
 | [Interoperability] Oqtans: A Multifunctional Workbench for RNA-seq Data Analysis
-| 
+| Gunnar Rätsch
 |-
 | 12:05
 | [Interoperability] PhyloCommons: community storage, annotation and reuse of phylogenies
-| 
+| Hilmar Lapp
 |-
 | 12:10
 | [Interoperability] GEMBASSY: an EMBOSS associated package for genome analysis using G-language SOAP/REST web services
-| 
+| Kazuharu Arakawa
 |-
 | 12:15
 | [Interoperability] Rubra - flexible distributed pipelines for bioinformatics
-| 
+| Clare Sloggett
 |-
 | '''12:30-1:30'''
 | '''Lunch'''
@@ -221,31 +221,31 @@ title: BOSC 2013 Schedule
 |-
 | 1:30
 | [Cloud/Genome-Scale] Towards Enabling Big Data and Federated Computing in the Cloud
-| 
+| Enis Afgan
 |-
 | 1:45
 | [Cloud/Genome-Scale] MyGene.info: Making Elastic and Extensible Gene­-centric Web Services
-| 
+| Chunlei Wu
 |-
 | 2:00
 | [Cloud/Genome-Scale] An update on the Seal Hadoop-based sequence processing toolbox
-| 
+| Luca Pireddu
 |-
 | 2:15
 | [Cloud/Genome-Scale] Open Source Configuration of Bioinformatics Infrastructure
-| 
+| John Chilton
 |-
 | 2:30
 | [Cloud/Genome-Scale] An Open Source Framework for Gene Prioritization
-| 
+| Hoan Nguyen
 |-
 | 2:55
 | [Cloud/Genome-Scale] RAMPART (aRobustAutomaticMultipleAssembleRToolkit)
-| 
+| Daniel Mapleson
 |-
 | 3:10
 | [Cloud/Genome-Scale] OmicsConnect: flexible multi-omics data capture and integration tools for high-throughput biology
-| 
+| Joeri van der Velde
 |-
 | '''3:30-4:00'''
 | '''Coffee Break'''
@@ -257,11 +257,11 @@ title: BOSC 2013 Schedule
 |-
 | 4:00
 | [Translational] Community development of human variant calling and validation pipelines
-| 
+| Brad Chapman
 |-
 | 4:25
 | [Translational] Understanding Cancer Genomes Using Galaxy
-| 
+| Jeremy Goecks
 |-
 | 4:40-5:30
 | '''Panel''': Strategies for Funding and Maintaining Open Source Software
