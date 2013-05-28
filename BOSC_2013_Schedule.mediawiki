@@ -112,20 +112,20 @@ title: BOSC 2013 Schedule
 | Toshiaki Katayama
 |-
 | 4:15
+| [Project Updates] Biopython project update
+| Peter Cock
+|-
+| 4:30
 | [Project Updates] InterMine - Collaborative Data Mining 
 | Alex Kalderimis
 |-
-| 4:30
+| 4:45
 | [Project Updates] The GenoCAD 2.2 Grammar Editor
 | Jean Peccoud
 |-
-| 4:45
+| 5:00
 | [Project Updates] Improvements and new features in the 7th major release of the Bio-Linux distro 
 | Timothy Booth
-|-
-| 5:00
-| [Project Updates] Biopython project update
-| Peter Cock
 |-
 | 5:15
 | Announcements
