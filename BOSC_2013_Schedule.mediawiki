@@ -57,7 +57,7 @@ title: BOSC 2013 Schedule
 |-
 | 11:55 
 | [Open Science] KBase: An Integrated Community Resource for Systems Biology
-| 
+| Shiran Pasternak
 |-
 | 12:00
 | [Open Science] Ten Simple Rules for the Open Development of Scientific Software
