@@ -8,10 +8,7 @@ __NOTOC__
 {|
 |[[Image:Pear.png|left|The Bosc Pear]]
 |
-|The 14th Annual Bioinformatics Open Source Conference (BOSC 2013) will take place July 19-20, 2013, in Berlin, Germany, right before [http://www.iscb.org/ismbeccb2013 ISMB/ECCB 2013].
-
-
-== [[BOSC_2013_Schedule|Preliminary Schedule]] ==
+|The 14th Annual Bioinformatics Open Source Conference (BOSC 2013) will take place July 19-20, 2013, in Berlin, Germany, right before [http://www.iscb.org/ismbeccb2013 ISMB/ECCB 2013]. The '''[[BOSC_2013_Schedule|preliminary schedule]]''' is now available.
 
 == Important Dates ==
 
@@ -39,6 +36,8 @@ This year's keynote speakers will be Sean Eddy of the Howard Hughes Medical Inst
 
 == Session Topics ==
 
+'''[[BOSC_2013_Schedule|View the preliminary schedule]]'''
+
 * '''Open Science and Reproducible Research''' -- New this year, this session encompasses the theory and practice of open science, including open notebook science, open data, transparent and reproducible workflows, and shared standards for reviewing and publishing research papers.
 * '''Cloud and Parallel Computing''' -- This session focuses on approaches that use cloud and other massively parallel infrastructures for processing and analyzing large and heterogeneous biological data. We are particularly interested in solutions demonstrating how to build new or extend existing software, resources and workflows to perform at scale for "Big Data" problems.
 * '''Genome-scale Data Management''' -- This session encompasses software and other tools designed for managing, exploring, and analyzing genome-level data to address research questions, including but not limited to genome assembly, variant prediction, eQTL analysis, and phylogenomic methods.
@@ -50,8 +49,7 @@ This year's keynote speakers will be Sean Eddy of the Howard Hughes Medical Inst
 
 == Submitting Abstracts ==
 
-The deadline for abstract submissions for talks was April 12, 2013. Authors will be notified on May 6. 
-[[BOSC_Abstract_Submission|You can still submit a poster abstract.]] Please submit it before June 7 if you want it to appear in the BOSC program.
+The deadline for abstract submissions for talks was April 12, 2013. [[BOSC_Abstract_Submission|You can still submit a poster abstract.]] Please submit it before June 7 if you want it to appear in the BOSC program.
 
 <div style="float:right; background-color: #FFFFFF">[[File:Eagle_logo_2013.jpg‎|120px|right|Eagle Genomics logo|link=http://www.eaglegenomics.com/]]</div>
 
