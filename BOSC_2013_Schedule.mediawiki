@@ -217,7 +217,7 @@ title: BOSC 2013 Schedule
 |-
 | 1:30-3:30
 | Session: Cloud and Genome-Scale Computing
-| Chair: Peter Cock?
+| Chair: Peter Cock
 |-
 | 1:30
 | [Cloud/Genome-Scale] Towards Enabling Big Data and Federated Computing in the Cloud
@@ -253,7 +253,7 @@ title: BOSC 2013 Schedule
 |-
 | 4:00-4:40
 | Session: Translational Genomics
-| Chair: Nomi Harris?
+| Chair: Nomi Harris
 |-
 | 4:00
 | [Translational] Community development of human variant calling and validation pipelines
