@@ -2,6 +2,8 @@
 title: BOSC 2013 Schedule
 ---
 
+__NOTOC__
+
 [[File:Pear.png|100px|right|BOSC logo|link=BOSC_2013]]
 
 == '''Preliminary Schedule--subject to change''' ==
