@@ -49,7 +49,7 @@ This year's keynote speakers will be Sean Eddy of the Howard Hughes Medical Inst
 
 == Submitting Abstracts ==
 
-The deadline for abstract submissions for talks was April 12, 2013. [[BOSC_Abstract_Submission|You can still submit a poster abstract.]] Please submit it before June 7 if you want it to appear in the BOSC program.
+The deadline for abstract submissions for talks was April 12, 2013. Late poster abstracts were accepted until June 7. We have reserved a few spaces for walk-in posters, which [[BOSC_Abstract_Submission|must meet the BOSC requirements of open source and recognized license]]. The ISMB staff specify that posters should not exceed the following dimensions: 0.95 m wide x 1.30 m high.
 
 <div style="float:right; background-color: #FFFFFF">[[File:Eagle_logo_2013.jpg‎|120px|right|Eagle Genomics logo|link=http://www.eaglegenomics.com/]]</div>
 
