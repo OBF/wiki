@@ -8,7 +8,8 @@ __NOTOC__
 {|
 |[[Image:Pear.png|left|The Bosc Pear]]
 |
-|The 14th Annual Bioinformatics Open Source Conference (BOSC 2013) will take place July 19-20, 2013, in Berlin, Germany, right before [http://www.iscb.org/ismbeccb2013 ISMB/ECCB 2013]. The '''[[BOSC_2013_Schedule|preliminary schedule]]''' is now available.
+|The 14th Annual Bioinformatics Open Source Conference (BOSC 2013) will take place July 19-20, 2013, in Berlin, Germany, right before [http://www.iscb.org/ismbeccb2013 ISMB/ECCB 2013].
+The conference schedule is available '''[[BOSC_2013_Schedule|here as HTML]]''' and '''[[Media:BOSC2013_schedule.pdf | here as a PDF file]]'''.
 
 == Important Dates ==
 
@@ -36,7 +37,7 @@ This year's keynote speakers will be Sean Eddy of the Howard Hughes Medical Inst
 
 == Session Topics ==
 
-'''[[BOSC_2013_Schedule|View the preliminary schedule]]'''
+The conference schedule is available '''[[BOSC_2013_Schedule|here as HTML]]''' and '''[[Media:BOSC2013_schedule.pdf | here as a PDF file]]'''.
 
 * '''Open Science and Reproducible Research''' -- New this year, this session encompasses the theory and practice of open science, including open notebook science, open data, transparent and reproducible workflows, and shared standards for reviewing and publishing research papers.
 * '''Cloud and Parallel Computing''' -- This session focuses on approaches that use cloud and other massively parallel infrastructures for processing and analyzing large and heterogeneous biological data. We are particularly interested in solutions demonstrating how to build new or extend existing software, resources and workflows to perform at scale for "Big Data" problems.
