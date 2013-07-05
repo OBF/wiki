@@ -60,7 +60,7 @@ __NOTOC__
 | Markus List
 |-
 | 11:55 
-| [Open Science] Ten Simple Rules for the Open Development of Scientific Software
+| [Open Science] Ten Simple Rules for the Open Development of Scientific Software (followed by discussion)
 | Andreas Prlic
 |-
 | '''12:30-1:30'''
