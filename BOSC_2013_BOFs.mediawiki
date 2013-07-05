@@ -3,7 +3,6 @@ title: BOSC 2013/BOFs
 ---
 
 __NOTOC__
-
 If you would like to organize a Birds of a Feather (BOF) meeting at BOSC 2013, just sign up for a [[Special:Userlogin| wiki account]], log in, and add your BOF description to this page. Please list the BOF topic and the name of the organizer.
 
 The BOFs start after the end of the last talk (around 5:30) and run until 6:30 or until you're kicked out of the room.
