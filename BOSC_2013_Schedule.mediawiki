@@ -240,7 +240,7 @@ __NOTOC__
 | Hoan Nguyen
 |-
 | 2:55
-| [Cloud/Genome-Scale] RAMPART (aRobustAutomaticMultipleAssembleRToolkit)
+| [Cloud/Genome-Scale] RAMPART: an automated de novo assembly pipeline
 | Daniel Mapleson
 |-
 | 3:10
