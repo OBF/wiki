@@ -9,7 +9,9 @@ The BOFs start after the end of the last talk (around 5:30) and run until 6:30 o
 
 == Friday BOFs (Day 1) ==
 
-OBF project affiliation discussion, see this [https://github.com/OBF/project_policy/blob/master/doc/proposal.md|policy proposal] on GitHub.
+OBF project affiliation discussion, see this [https://github.com/OBF/project_policy/blob/master/doc/proposal.md|policy proposal] on GitHub. Contact Peter Cock for scheduling details.
+
+(Enter your BOF description here)
 
 == Saturday BOFs (Day 2) ==
 
