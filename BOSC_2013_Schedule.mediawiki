@@ -273,7 +273,7 @@ Panelists: Peter Cock, Sean Eddy, Carole Goble,  Scott Markel, Jean Peccoud
 | Nomi Harris
 |-
 | 5:40-6:40
-| [[BOSC_2013/BOFs|BOFs]]
+| [[BOSC_2013/BOFs|BOFs]] -- suggest a BOF topic [[BOSC_2013/BOFs|here!]]
 |
 |-
 |}
