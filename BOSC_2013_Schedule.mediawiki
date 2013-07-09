@@ -136,7 +136,7 @@ __NOTOC__
 |
 |-
 | 5:20-6:30
-| [[BOSC_2013/BOFs|BOFs]]
+| [[BOSC_2013/BOFs|BOFs]] -- suggest a BOF topic [[BOSC_2013/BOFs|here!]]
 |
 |-
 | 7:00
