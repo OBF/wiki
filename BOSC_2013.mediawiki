@@ -36,7 +36,7 @@ This year's keynote speakers will be Sean Eddy of the Howard Hughes Medical Inst
 
 == Session Topics ==
 
-The conference schedule is available '''[[BOSC_2013_Schedule|here as HTML]]''' and '''[[Media:BOSC2013_schedule.pdf | here as a PDF file]]'''.
+The conference schedule is available '''[[BOSC_2013_Schedule|here as HTML]]''' and '''[[Media:BOSC2013_schedule.pdf | here as a PDF file]]''', including [[BOSC_2013/BOFs|Birds of a Feather (BoF) meetings]].
 
 * '''Open Science and Reproducible Research''' -- New this year, this session encompasses the theory and practice of open science, including open notebook science, open data, transparent and reproducible workflows, and shared standards for reviewing and publishing research papers.
 * '''Cloud and Parallel Computing''' -- This session focuses on approaches that use cloud and other massively parallel infrastructures for processing and analyzing large and heterogeneous biological data. We are particularly interested in solutions demonstrating how to build new or extend existing software, resources and workflows to perform at scale for "Big Data" problems.
