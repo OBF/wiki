@@ -16,7 +16,7 @@ The goals for the two days are determined entirely by developers. Please add you
 
 == Location ==
 
-We'll be hosted in lab rooms at the [http://www.biologie.hu-berlin.de/ Department of Biology, Humboldt-Universität zu Berlin], near historic [https://en.wikipedia.org/wiki/Invalidenstra%C3%9Fe Invalidenstrasse]. Thanks to Steffen Möller and Ivo Maintz for help securing the room. More details on times and directions will be available. In the meantime, enjoy some [http://jaguar.biologie.hu-berlin.de/~ivo/ISMB/30Plaetze_alt/ pictures of the room].
+We'll be hosted in lab rooms at the [http://www.biologie.hu-berlin.de/ Department of Biology, Humboldt-Universität zu Berlin], in the historic [https://en.wikipedia.org/wiki/Invalidenstra%C3%9Fe Invalidenstraße] number 42. Here some [http://jaguar.biologie.hu-berlin.de/~ivo/ISMB/30Plaetze_alt/ pictures of the room] to find, here a [http://www3.hu-berlin.de/frame/?url=gis.hu-berlin.de/rc13/layout-new.php%3Fq=2220 map of the buildings] - enter directly from the Invalidenstraße.
 
 * [http://goo.gl/maps/ognVO Google map] of Codefest and Conference venues, hotels nearby and train stations
 
