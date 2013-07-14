@@ -16,7 +16,7 @@ The goals for the two days are determined entirely by developers. Please add you
 
 == Location ==
 
-We'll be hosted in lab rooms at the [http://www.biologie.hu-berlin.de/ Department of Biology, Humboldt-Universität zu Berlin], in the historic [https://en.wikipedia.org/wiki/Invalidenstra%C3%9Fe Invalidenstraße] number 42. Here some [http://jaguar.biologie.hu-berlin.de/~ivo/ISMB/30Plaetze_alt/ pictures of the room] to find, here a [http://www3.hu-berlin.de/frame/?url=gis.hu-berlin.de/rc13/layout-new.php%3Fq=2220 map of the buildings] - enter directly from the Invalidenstraße. There will be signs in the entry hall to help direct you to the Codefest venue. In case of questions, ask for Steffen Möller or Ivo Maintz. See the [https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2013 mailing list] for phone contact details.
+We'll be hosted in lab rooms at the [http://www.biologie.hu-berlin.de/ Department of Biology, Humboldt-Universität zu Berlin], in the historic [https://en.wikipedia.org/wiki/Invalidenstra%C3%9Fe Invalidenstraße] number 42. Here some [http://jaguar.biologie.hu-berlin.de/~ivo/ISMB/30Plaetze_alt/ pictures of the room] to find, here a [http://www3.hu-berlin.de/frame/?url=gis.hu-berlin.de/rc13/layout-new.php%3Fq=2220 map of the buildings] - enter directly from the Invalidenstraße. There will be signs in the entry hall to help direct you to the Codefest venue: Mikroskopiersaal, room number 1302. In case of questions, ask for Steffen Möller or Ivo Maintz. See the [https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2013 mailing list] for phone contact details.
 
 We'll plan to start at roughly 9am for the two days. Some folks will be later on the first day with incoming morning flights.
 
