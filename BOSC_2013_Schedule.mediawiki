@@ -192,8 +192,8 @@ __NOTOC__
 | Yuriy Vaskin
 |-
 | 11:50
-| [Interoperability] Oqtans: A Multifunctional Workbench for RNA-seq Data Analysis
-| Gunnar Rätsch
+| [Interoperability] Reproducible Quantitative Transcriptome Analysis with Oqtans
+| Vipin T. Sreedharan
 |-
 | 12:05
 | [Interoperability] PhyloCommons: community storage, annotation and reuse of phylogenies
