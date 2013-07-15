@@ -282,7 +282,11 @@ Panelists: Peter Cock, Sean Eddy, Carole Goble,  Scott Markel, Jean Peccoud
 |-
 |}
 
+You can also:
 
+- '''[[Media:BOSC2013_schedule.pdf | Download schedule as PDF]]''' (A4 format).
+
+- '''[http://www.open-bio.org/bosc2013/BOSC2013-program.pdf Download the complete program]'''
 ----
 
 == Return to '''[[BOSC_2013 | BOSC 2013]]''' main page ==
