@@ -6,8 +6,6 @@ __NOTOC__
 
 [[File:Pear.png|100px|right|BOSC logo|link=BOSC_2013]]
 
-== '''Preliminary Schedule--subject to change''' ==
-
 = Day 1: Friday,  July 19 =
 
 {| border="1" cellspacing="0" cellpadding="7"
