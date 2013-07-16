@@ -205,7 +205,7 @@ You can also:
 |-
 | 12:10
 | [Interoperability] GEMBASSY: an EMBOSS associated package for genome analysis using G-language SOAP/REST web services
-| Kazuharu Arakawa
+| Hidetoshi Itaya
 |-
 | 12:15
 | [Interoperability] Rubra - flexible distributed pipelines for bioinformatics
