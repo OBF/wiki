@@ -189,7 +189,7 @@ You can also:
 |-
 | 11:10
 | [Interoperability] Taverna Components: Semantically annotated and shareable units of functionality
-| Alan Williams
+| Donal Fellows
 |-
 | 11:35
 | [Interoperability] UGENE Workflow Designer – flexible control and extension of pipelines with scripts
