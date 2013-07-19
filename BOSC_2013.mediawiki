@@ -14,7 +14,7 @@ The '''[http://www.open-bio.org/bosc2013/BOSC2013-program.pdf complete program]'
 
 If you are attending BOSC and would like to organize a BOF, please add your topic to the [[BOSC_2013/BOFs|BOFs page]].
 
-Wireless password at BOSC/ISMB: '''ISMBECCB'''
+Wireless access at BOSC/ISMB: ICC Wifi, password ISMBECCB
 
 == Important Dates ==
 
