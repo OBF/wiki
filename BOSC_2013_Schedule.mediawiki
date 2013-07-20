@@ -84,7 +84,7 @@ You can also:
 |-
 | 2:25
 | [Visualization] MetaSee: An interactive visualization toolbox for metagenomic sample analysis and comparison
-| Kang Ning
+| Kang Ning (delayed to Day 2)
 |-
 | 2:40
 | [Visualization] DGE-Vis: Visualisation of RNA-seq data for Differential Gene Expression analysis
