@@ -84,7 +84,7 @@ You can also:
 |-
 | 2:25
 | [Visualization] MetaSee: An interactive visualization toolbox for metagenomic sample analysis and comparison
-| Kang Ning (delayed to Day 2)
+| Kang Ning / Xiaoquan Su (delayed to Day 2)
 |-
 | 2:40
 | [Visualization] DGE-Vis: Visualisation of RNA-seq data for Differential Gene Expression analysis
@@ -201,7 +201,7 @@ You can also:
 |-
 | 12:05
 | [Visualization] MetaSee: An interactive visualization toolbox for metagenomic sample analysis and comparison
-| Kang Ning
+| Xiaoquan Su
 |-
 | 12:15
 | [Interoperability] PhyloCommons: community storage, annotation and reuse of phylogenies
