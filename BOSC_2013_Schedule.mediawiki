@@ -241,7 +241,7 @@ You can also:
 |-
 | 2:30
 | [Cloud/Genome-Scale] An Open Source Framework for Gene Prioritization
-| Hoan Nguyen
+| Hoan Nguyen / Vincent Walter
 |-
 | 2:55
 | [Cloud/Genome-Scale] RAMPART: an automated de novo assembly pipeline
