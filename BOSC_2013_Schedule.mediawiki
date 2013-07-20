@@ -43,7 +43,7 @@ You can also:
 | Anup Mahurkar
 |-
 | 11:00
-| [Open Science] myExperiment Research Objects: Beyond Workflows and Packs
+| [Open Science] myExperiment Research Objects: Beyond Workflows and Packs '''[https://www.slideshare.net/soilandreyes/2013-0719bosc-2013myexperimentresearchobjectsslides (Slides)]'''
 | Stian Soiland-Reyes
 |-
 | 11:15
