@@ -200,14 +200,18 @@ You can also:
 | Vipin T. Sreedharan
 |-
 | 12:05
+| [Visualization] MetaSee: An interactive visualization toolbox for metagenomic sample analysis and comparison
+| Kang Ning
+|-
+| 12:15
 | [Interoperability] PhyloCommons: community storage, annotation and reuse of phylogenies
 | Hilmar Lapp
 |-
-| 12:10
+| 12:20
 | [Interoperability] GEMBASSY: an EMBOSS associated package for genome analysis using G-language SOAP/REST web services
 | Hidetoshi Itaya
 |-
-| 12:15
+| 12:25
 | [Interoperability] Rubra - flexible distributed pipelines for bioinformatics
 | Clare Sloggett
 |-
