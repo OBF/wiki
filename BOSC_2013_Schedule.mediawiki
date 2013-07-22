@@ -164,7 +164,7 @@ You can also:
 | Nomi Harris
 |-
 | 8:50
-| Codefest 2013 Report
+| Codefest 2013 Report ([http://chapmanb.github.io/bcbb/talks/codefest2013_report/codefest2013_report.html slides])
 | Brad Chapman
 |-
 | 9:00
@@ -264,7 +264,7 @@ You can also:
 | Chair: Nomi Harris
 |-
 | 4:00
-| [Translational] Community development of human variant calling and validation pipelines
+| [Translational] Community development of human variant calling and validation pipelines ([http://chapmanb.github.io/bcbb/talks/bosc2013_bcbio_nextgen/chapmanb_bosc2013_bcbio.html slides])
 | Brad Chapman
 |-
 | 4:25
