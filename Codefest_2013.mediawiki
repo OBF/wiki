@@ -14,6 +14,11 @@ The objective of the Codefest is to give these talented developers a chance to b
 
 The goals for the two days are determined entirely by developers. Please add your project ideas to the [https://docs.google.com/document/d/1xbS7ZkjipXct00eOfR7-IL_Ti6QzAsjFvcJtopMeT2g/edit?usp=sharing shared Google document]. We'll use this brainstorming discussion document to prepare directions for the two days of work in Berlin.
 
+== Codefest Report ==
+
+* [https://bcbio.wordpress.com/2013/07/18/summary-from-bioinformatics-open-science-codefest-2013-tools-infrastructure-standards-and-visualization/ Project summary writeup]
+* [https://docs.google.com/document/d/1xbS7ZkjipXct00eOfR7-IL_Ti6QzAsjFvcJtopMeT2g/edit?usp=sharing Detailed writeups on work accomplished]
+
 == Location ==
 
 Attention, we have two different rooms for the two days.
