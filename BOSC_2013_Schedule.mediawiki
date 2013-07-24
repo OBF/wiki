@@ -202,7 +202,7 @@ Open Development Initiative ([http://www.open-bio.org/bosc2013/day1/BOSC2013_NCI
 |-
 | 12:05
 | [Visualization] MetaSee: An interactive visualization toolbox for metagenomic sample analysis and comparison ([http://www.open-bio.org/bosc2013/day2/BOSC2013_MetaSee_-_Xiaoquan_Su.pdf PDF])
-| Xiaoquan Su
+| Xiaoquan Su (postponed from day 1)
 |-
 | 12:15
 | [Interoperability] PhyloCommons: community storage, annotation and reuse of phylogenies ([http://www.open-bio.org/bosc2013/day2/BOSC2013_PhyloCommons_-_Hilmar_Lapp.pdf PDF])
