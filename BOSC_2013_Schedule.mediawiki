@@ -229,15 +229,15 @@ Open Development Initiative ([http://www.open-bio.org/bosc2013/day1/BOSC2013_NCI
 | Chair: Peter Cock
 |-
 | 1:30
-| [Cloud/Genome-Scale] Towards Enabling Big Data and Federated Computing in the Cloud
+| [Cloud/Genome-Scale] Towards Enabling Big Data and Federated Computing in the Cloud ([http://www.open-bio.org/bosc2013/day2/BOSC2013_CloudMan_-_Enis_Afgan.pdf PDF])
 | Enis Afgan
 |-
 | 1:45
-| [Cloud/Genome-Scale] MyGene.info: Making Elastic and Extensible Gene­-centric Web Services
+| [Cloud/Genome-Scale] MyGene.info: Making Elastic and Extensible Gene­-centric Web Services ([http://www.open-bio.org/bosc2013/day2/BOSC2013_MyGene_-_Chunlei_Wu.pdf PDF])
 | Chunlei Wu
 |-
 | 2:00
-| [Cloud/Genome-Scale] An update on the Seal Hadoop-based sequence processing toolbox
+| [Cloud/Genome-Scale] An update on the Seal Hadoop-based sequence processing toolbox ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Seal_Hadoop_-_Luca_Pireddu.pdf PDF])
 | Luca Pireddu
 |-
 | 2:15
@@ -245,15 +245,15 @@ Open Development Initiative ([http://www.open-bio.org/bosc2013/day1/BOSC2013_NCI
 | John Chilton
 |-
 | 2:30
-| [Cloud/Genome-Scale] GEPETTO: An Open Source Framework for Gene Prioritization
+| [Cloud/Genome-Scale] GEPETTO: An Open Source Framework for Gene Prioritization ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Gepetto_-_Vincent_Walter.pdf PDF])
 | Vincent Walter
 |-
 | 2:55
-| [Cloud/Genome-Scale] RAMPART: an automated de novo assembly pipeline
+| [Cloud/Genome-Scale] RAMPART: an automated de novo assembly pipeline ([http://www.open-bio.org/bosc2013/day2/BOSC2013_RAMPART_-_Daniel_Mapleson.pdf PDF])
 | Daniel Mapleson
 |-
 | 3:10
-| [Cloud/Genome-Scale] OmicsConnect: flexible multi-omics data capture and integration tools for high-throughput biology
+| [Cloud/Genome-Scale] OmicsConnect: flexible multi-omics data capture and integration tools for high-throughput biology ([http://www.open-bio.org/bosc2013/day2/BOSC2013_OmicConnect_-_Joeri_van_der_Velde.pdf PDF])
 | Joeri van der Velde
 |-
 | '''3:30-4:00'''
