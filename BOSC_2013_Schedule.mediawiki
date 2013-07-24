@@ -84,8 +84,8 @@ Open Development Initiative ([http://www.open-bio.org/bosc2013/day1/BOSC2013_NCI
 | Nils Gehlenborg
 |-
 | 2:25
-| [Visualization] MetaSee: An interactive visualization toolbox for metagenomic sample analysis and comparison
-| Kang Ning / Xiaoquan Su (delayed to Day 2)
+| [Visualization] MetaSee: An interactive visualization toolbox for metagenomic sample analysis and comparison ([http://www.open-bio.org/bosc2013/day2/BOSC2013_MetaSee_-_Xiaoquan_Su.pdf PDF])
+| Xiaoquan Su (delayed to Day 2)
 |-
 | 2:40
 | [Visualization] DGE-Vis: Visualisation of RNA-seq data for Differential Gene Expression analysis ([http://www.open-bio.org/bosc2013/day1/BOSC2013_DGE-Vis_-_David_Powell.pdf PDF])
