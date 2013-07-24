@@ -165,7 +165,7 @@ Open Development Initiative ([http://www.open-bio.org/bosc2013/day1/BOSC2013_NCI
 | Nomi Harris
 |-
 | 8:50
-| Codefest 2013 Report ([http://chapmanb.github.io/bcbb/talks/codefest2013_report/codefest2013_report.html slides])
+| Codefest 2013 Report ([http://chapmanb.github.io/bcbb/talks/codefest2013_report/codefest2013_report.html SlideShare])
 | Brad Chapman
 |-
 | 9:00
