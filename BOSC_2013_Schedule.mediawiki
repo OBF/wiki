@@ -241,7 +241,7 @@ Open Development Initiative ([http://www.open-bio.org/bosc2013/day1/BOSC2013_NCI
 | Luca Pireddu
 |-
 | 2:15
-| [Cloud/Genome-Scale] Open Source Configuration of Bioinformatics Infrastructure
+| [Cloud/Genome-Scale] Open Source Configuration of Bioinformatics Infrastructure ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Infrastructure_-_John_Chilton.pdf PDF])
 | John Chilton
 |-
 | 2:30
