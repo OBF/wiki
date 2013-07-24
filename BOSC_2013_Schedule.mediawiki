@@ -96,7 +96,7 @@ Open Development Initiative ([http://www.open-bio.org/bosc2013/day1/BOSC2013_NCI
 | David Powell
 |-
 | 2:55
-| [Visualization] Genomic Visualization Everywhere with Dalliance
+| [Visualization] Genomic Visualization Everywhere with Dalliance ([http://www.biodalliance.org/people/thomas/dalliance-talk-201307 Slides])
 | Thomas Down
 |-
 | 3:10
