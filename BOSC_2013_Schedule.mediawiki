@@ -88,7 +88,7 @@ Open Development Initiative ([http://www.open-bio.org/bosc2013/day1/BOSC2013_NCI
 | Kang Ning / Xiaoquan Su (delayed to Day 2)
 |-
 | 2:40
-| [Visualization] DGE-Vis: Visualisation of RNA-seq data for Differential Gene Expression analysis
+| [Visualization] DGE-Vis: Visualisation of RNA-seq data for Differential Gene Expression analysis ([http://www.open-bio.org/bosc2013/day1/BOSC2013_DGE-Vis_-_David_Powell.pdf PDF])
 | David Powell
 |-
 | 2:55
@@ -96,11 +96,11 @@ Open Development Initiative ([http://www.open-bio.org/bosc2013/day1/BOSC2013_NCI
 | Thomas Down
 |-
 | 3:10
-| [Visualization] Robust quality control of Next Generation Sequencing alignment data
+| [Visualization] Robust quality control of Next Generation Sequencing alignment data ([http://www.open-bio.org/bosc2013/day1/BOSC2013_QC_of_NGS_-_Konstantin_Okonechnikov.pdf PDF])
 | Konstantin Okonechnikov
 |-
 | 3:25
-| [Visualization] Visualizing bacterial sequencing data with GenomeView
+| [Visualization] Visualizing bacterial sequencing data with GenomeView ([http://www.open-bio.org/bosc2013/day1/BOSC2013_GenomeView_-_Thomas_Abeel.pdf PDF])
 | Thomas Abeel
 |-
 | '''3:30-4:00'''
@@ -112,23 +112,23 @@ Open Development Initiative ([http://www.open-bio.org/bosc2013/day1/BOSC2013_NCI
 | Chair: Hans-Rudolf Hotz
 |-
 | 4:00
-| [Project Updates] BioRuby project updates - power of modularity in the community-based open source development model
+| [Project Updates] BioRuby project updates - power of modularity in the community-based open source development model ([http://www.open-bio.org/bosc2013/day1/BOSC2013_BioRuby_Update_-_Toshiaki_Katayama.pdf PDF])
 | Toshiaki Katayama
 |-
 | 4:15
-| [Project Updates] Biopython project update
+| [Project Updates] Biopython project update ([http://www.open-bio.org/bosc2013/day1/BOSC2013_Biopython_Update_-_Peter_Cock.pdf PDF])
 | Peter Cock
 |-
 | 4:30
-| [Project Updates] InterMine - Collaborative Data Mining 
+| [Project Updates] InterMine - Collaborative Data Mining ([http://www.open-bio.org/bosc2013/day1/BOSC2013_InterMine_-_Alex_Kalderimis.pdf PDF])
 | Alex Kalderimis
 |-
 | 4:45
-| [Project Updates] The GenoCAD 2.2 Grammar Editor
+| [Project Updates] The GenoCAD 2.2 Grammar Editor ([http://www.open-bio.org/bosc2013/day1/BOSC2013_GenoCAD_-_Jean_Peccoud.pdf PDF])
 | Jean Peccoud
 |-
 | 5:00
-| [Project Updates] Improvements and new features in the 7th major release of the Bio-Linux distro 
+| [Project Updates] Improvements and new features in the 7th major release of the Bio-Linux distro ([http://www.open-bio.org/bosc2013/day1/BOSC2013_BioLinux_-__Tim_Booth.pdf PDF])
 | Timothy Booth
 |-
 | 5:15
