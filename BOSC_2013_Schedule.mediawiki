@@ -23,7 +23,7 @@ You can also:
 | '''Registration'''
 |- 
 | 9:00-9:15
-| Introduction and welcome ([http://www.open-bio.org/bosc2013/day1/BOSC_Intro_-_Nomi_Harris.pdf PDF])
+| Introduction and welcome ([http://www.open-bio.org/bosc2013/day1/BOSC2013_Intro_Nomi_Harris.pdf PDF])
 | Nomi Harris (Chair, BOSC 2013)
 |-
 | 9:15-10:15
