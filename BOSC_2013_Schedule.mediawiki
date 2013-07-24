@@ -245,8 +245,8 @@ Open Development Initiative ([http://www.open-bio.org/bosc2013/day1/BOSC2013_NCI
 | John Chilton
 |-
 | 2:30
-| [Cloud/Genome-Scale] An Open Source Framework for Gene Prioritization
-| Hoan Nguyen / Vincent Walter
+| [Cloud/Genome-Scale] GEPETTO: An Open Source Framework for Gene Prioritization
+| Vincent Walter
 |-
 | 2:55
 | [Cloud/Genome-Scale] RAMPART: an automated de novo assembly pipeline
