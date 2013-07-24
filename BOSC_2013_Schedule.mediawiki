@@ -47,8 +47,7 @@ You can also:
 | Stian Soiland-Reyes
 |-
 | 11:15
-| [Open Science] Empowering Cancer Research Through Open Development: The National Cancer Informatics Program
-Open Development Initiative ([http://www.open-bio.org/bosc2013/day1/BOSC2013_NCIP_-_Juli_Klemm.pdf PDF])
+| [Open Science] Empowering Cancer Research Through Open Development: The National Cancer Informatics Program Open Development Initiative ([http://www.open-bio.org/bosc2013/day1/BOSC2013_NCIP_-_Juli_Klemm.pdf PDF])
 | Juli Klemm
 |-
 | 11:30
