@@ -185,35 +185,35 @@ Open Development Initiative ([http://www.open-bio.org/bosc2013/day1/BOSC2013_NCI
 | Chair: Jeremy Goecks
 |-
 | 10:45
-| [Interoperability] BioBlend - Enabling Pipeline Dreams
+| [Interoperability] BioBlend - Enabling Pipeline Dreams ([http://www.open-bio.org/bosc2013/day2/BOSC2013_BioBlend_-_Enis_Afgan.pdf PDF])
 | Enis Afgan
 |-
 | 11:10
-| [Interoperability] Taverna Components: Semantically annotated and shareable units of functionality
+| [Interoperability] Taverna Components: Semantically annotated and shareable units of functionality ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Taverna_Components_-_Donal_Fellows.pdf PDF])
 | Donal Fellows
 |-
 | 11:35
-| [Interoperability] UGENE Workflow Designer – flexible control and extension of pipelines with scripts
+| [Interoperability] UGENE Workflow Designer – flexible control and extension of pipelines with scripts ([http://www.open-bio.org/bosc2013/day2/BOSC2013_UGENE_-_Yuriy_Vaskin.pdf PDF])
 | Yuriy Vaskin
 |-
 | 11:50
-| [Interoperability] Reproducible Quantitative Transcriptome Analysis with Oqtans
+| [Interoperability] Reproducible Quantitative Transcriptome Analysis with Oqtans ([http://www.open-bio.org/bosc2013/day2/BOSC2013_oqtans_-_Vipin_Sreedharan.pdf PDF])
 | Vipin T. Sreedharan
 |-
 | 12:05
-| [Visualization] MetaSee: An interactive visualization toolbox for metagenomic sample analysis and comparison
+| [Visualization] MetaSee: An interactive visualization toolbox for metagenomic sample analysis and comparison ([http://www.open-bio.org/bosc2013/day2/BOSC2013_MetaSee_-_Xiaoquan_Su.pdf PDF])
 | Xiaoquan Su
 |-
 | 12:15
-| [Interoperability] PhyloCommons: community storage, annotation and reuse of phylogenies
+| [Interoperability] PhyloCommons: community storage, annotation and reuse of phylogenies ([http://www.open-bio.org/bosc2013/day2/BOSC2013_PhyloCommons_-_Hilmar_Lapp.pdf PDF])
 | Hilmar Lapp
 |-
 | 12:20
-| [Interoperability] GEMBASSY: an EMBOSS associated package for genome analysis using G-language SOAP/REST web services
+| [Interoperability] GEMBASSY: an EMBOSS associated package for genome analysis using G-language SOAP/REST web services ([http://www.open-bio.org/bosc2013/day2/BOSC2013_GEMBASSY_-_Hidetoshi_Itaya.pdf PDF])
 | Hidetoshi Itaya
 |-
 | 12:25
-| [Interoperability] Rubra - flexible distributed pipelines for bioinformatics
+| [Interoperability] Rubra - flexible distributed pipelines for bioinformatics ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Rubra_-_Claire_Sloggett.pdf PDF])
 | Clare Sloggett
 |-
 | '''12:30-1:30'''
