@@ -290,6 +290,23 @@ Panelists: Peter Cock, Sean Eddy, Carole Goble,  Scott Markel, Jean Peccoud
 |-
 |}
 
+----
+
+= Posters =
+
+This table currently only lists presented posters where the authors have shared the file online.
+
+{| border="1" cellspacing="0" cellpadding="7"
+! Title
+! Presenter
+|- 
+| BIOINFO-C: C-based Bioinformatics Library and Web Application Framework ([http://bioinfoc.ch/doc/BioinfoC_lib_webfile_poster_BOSC_2013.pdf PDF])
+| Detlef Wolf
+|}
+
+
+----
+
 You can also:
 
 - '''[[Media:BOSC2013_schedule.pdf | Download schedule as PDF]]''' (A4 format).
