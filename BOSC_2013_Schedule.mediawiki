@@ -272,7 +272,7 @@ You can also:
 | Brad Chapman
 |-
 | 4:25
-| [Translational] Understanding Cancer Genomes Using Galaxy
+| [Translational] Understanding Cancer Genomes Using Galaxy ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Galaxy_-_Jeremey_Goecks.pdf PDF])
 | Jeremy Goecks
 |-
 | 4:40-5:30
@@ -281,7 +281,7 @@ You can also:
 Panelists: Peter Cock, Sean Eddy, Carole Goble,  Scott Markel, Jean Peccoud
 |-
 | 5:30-5:40
-| Presentation of Student Travel Awards
+| Presentation of Student Travel Awards ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Student_travel_awards.pdf PDF])
 | Nomi Harris
 |-
 | 5:40-6:40
