@@ -302,6 +302,9 @@ This table currently only lists presented posters where the authors have shared 
 |- 
 | BIOINFO-C: C-based Bioinformatics Library and Web Application Framework ([http://bioinfoc.ch/doc/BioinfoC_lib_webfile_poster_BOSC_2013.pdf PDF])
 | Detlef Wolf
+|-
+| Reproducible Quantitative Transcriptome Analysis with ocqtans ([http://www.open-bio.org/bosc2013/posters/BOSC2013_oqtans_vipin.pdf PDF])
+| Vipin T. Sreedharan
 |}
 
 
