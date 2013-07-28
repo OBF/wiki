@@ -294,7 +294,7 @@ Panelists: Peter Cock, Sean Eddy, Carole Goble,  Scott Markel, Jean Peccoud
 
 = Posters =
 
-This table currently only lists presented posters where the authors have shared the file online.
+This table currently only lists presented posters for which the authors have shared the PDF.
 
 {| border="1" cellspacing="0" cellpadding="7"
 ! Title
