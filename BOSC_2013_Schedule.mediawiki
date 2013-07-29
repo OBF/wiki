@@ -23,11 +23,11 @@ You can also:
 | '''Registration'''
 |- 
 | 9:00-9:15
-| Introduction and welcome ([http://www.open-bio.org/bosc2013/day1/BOSC2013_Intro_Nomi_Harris.pdf PDF])
+| Introduction and welcome ([http://www.open-bio.org/bosc2013/day1/BOSC2013_Intro_Nomi_Harris.pdf PDF] [http://www.youtube.com/watch?v=eODK9lcniK8 YouTube])
 | Nomi Harris (Chair, BOSC 2013)
 |-
 | 9:15-10:15
-| [Keynote] Network ready research: The role of open source and open thinking ([http://www.slideshare.net/CameronNeylon/network-enabled-research-the-role-of-open-source-and-open-thinking SlideShare])
+| [Keynote] Network ready research: The role of open source and open thinking ([http://www.slideshare.net/CameronNeylon/network-enabled-research-the-role-of-open-source-and-open-thinking SlideShare] [http://www.youtube.com/watch?v=zZKc7V4ZHOU YouTube])
 | Cameron Neylon (Public Library of Science)
 |-
 | '''10:15-10:45'''
@@ -176,7 +176,7 @@ You can also:
 | Hilmar Lapp (President, Open Bioinformatics Foundation)
 |-
 | 9:15
-| [Keynote] Biological sequence analysis in the post-data era
+| [Keynote] Biological sequence analysis in the post-data era ([http://www.youtube.com/watch?v=nUwQqwl_VlI YouTube])
 | Sean Eddy (Janelia Farm)
 |-
 | '''10:15-10:45'''
