@@ -23,11 +23,11 @@ You can also:
 | '''Registration'''
 |- 
 | 9:00-9:15
-| Introduction and welcome ([http://www.open-bio.org/bosc2013/day1/BOSC2013_Intro_Nomi_Harris.pdf PDF] [http://www.youtube.com/watch?v=eODK9lcniK8 YouTube])
+| Introduction and welcome ([http://www.open-bio.org/bosc2013/day1/BOSC2013_Intro_Nomi_Harris.pdf PDF])
 | Nomi Harris (Chair, BOSC 2013)
 |-
 | 9:15-10:15
-| [Keynote] Network ready research: The role of open source and open thinking ([http://www.slideshare.net/CameronNeylon/network-enabled-research-the-role-of-open-source-and-open-thinking SlideShare] [http://www.youtube.com/watch?v=zZKc7V4ZHOU YouTube])
+| [Keynote] Network ready research: The role of open source and open thinking ([http://www.slideshare.net/CameronNeylon/network-enabled-research-the-role-of-open-source-and-open-thinking SlideShare])
 | Cameron Neylon (Public Library of Science)
 |-
 | '''10:15-10:45'''
@@ -63,7 +63,7 @@ You can also:
 | Markus List
 |-
 | 11:55 
-| [Open Science] Ten Simple Rules for the Open Development of Scientific Software (followed by discussion) ([http://www.open-bio.org/bosc2013/day1/BOSC2013_TenSimpleRules_-_Prlic_Procter_Lapp.pdf PDF] [http://www.youtube.com/watch?v=IULl7gk8sng YouTube])
+| [Open Science] Ten Simple Rules for the Open Development of Scientific Software (followed by discussion) ([http://www.open-bio.org/bosc2013/day1/BOSC2013_TenSimpleRules_-_Prlic_Procter_Lapp.pdf PDF])
 | Andreas Prlic, Jim Procter, Hilmar Lapp
 |-
 | '''12:30-1:30'''
@@ -168,15 +168,15 @@ You can also:
 | Nomi Harris
 |-
 | 8:50
-| Codefest 2013 Report ([http://chapmanb.github.io/bcbb/talks/codefest2013_report/codefest2013_report.html SlideShare] [http://www.youtube.com/watch?v=dtw4fKTSrUs YouTube])
+| Codefest 2013 Report ([http://chapmanb.github.io/bcbb/talks/codefest2013_report/codefest2013_report.html SlideShare])
 | Brad Chapman
 |-
 | 9:00
-| [http://www.open-bio.org/wiki/Main_Page Open Bioinformatics Foundation:]  A Community For, By, and Of You ([http://www.slideshare.net/hlapp/obf-address-bosc2013 SlideShare] [http://www.youtube.com/watch?v=DiReTX3FoLM YouTube])
+| [http://www.open-bio.org/wiki/Main_Page Open Bioinformatics Foundation:]  A Community For, By, and Of You ([http://www.slideshare.net/hlapp/obf-address-bosc2013 SlideShare])
 | Hilmar Lapp (President, Open Bioinformatics Foundation)
 |-
 | 9:15
-| [Keynote] Biological sequence analysis in the post-data era ([http://www.youtube.com/watch?v=nUwQqwl_VlI YouTube])
+| [Keynote] Biological sequence analysis in the post-data era
 | Sean Eddy (Janelia Farm)
 |-
 | '''10:15-10:45'''
@@ -188,35 +188,35 @@ You can also:
 | Chair: Jeremy Goecks
 |-
 | 10:45
-| [Interoperability] BioBlend - Enabling Pipeline Dreams ([http://www.open-bio.org/bosc2013/day2/BOSC2013_BioBlend_-_Enis_Afgan.pdf PDF] [http://www.youtube.com/watch?v=QnC8ND9q1sk YouTube])
+| [Interoperability] BioBlend - Enabling Pipeline Dreams ([http://www.open-bio.org/bosc2013/day2/BOSC2013_BioBlend_-_Enis_Afgan.pdf PDF])
 | Enis Afgan
 |-
 | 11:10
-| [Interoperability] Taverna Components: Semantically annotated and shareable units of functionality ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Taverna_Components_-_Donal_Fellows.pdf PDF] [http://www.youtube.com/watch?v=9voXGYeEcyw YouTube])
+| [Interoperability] Taverna Components: Semantically annotated and shareable units of functionality ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Taverna_Components_-_Donal_Fellows.pdf PDF])
 | Donal Fellows
 |-
 | 11:35
-| [Interoperability] UGENE Workflow Designer – flexible control and extension of pipelines with scripts ([http://www.open-bio.org/bosc2013/day2/BOSC2013_UGENE_-_Yuriy_Vaskin.pdf PDF] [http://www.youtube.com/watch?v=eiqNcgsdDik YouTube])
+| [Interoperability] UGENE Workflow Designer – flexible control and extension of pipelines with scripts ([http://www.open-bio.org/bosc2013/day2/BOSC2013_UGENE_-_Yuriy_Vaskin.pdf PDF])
 | Yuriy Vaskin
 |-
 | 11:50
-| [Interoperability] Reproducible Quantitative Transcriptome Analysis with Oqtans ([http://www.open-bio.org/bosc2013/day2/BOSC2013_oqtans_-_Vipin_Sreedharan.pdf PDF] [http://www.youtube.com/watch?v=Q3nmrvS-Z8o YouTube])
+| [Interoperability] Reproducible Quantitative Transcriptome Analysis with Oqtans ([http://www.open-bio.org/bosc2013/day2/BOSC2013_oqtans_-_Vipin_Sreedharan.pdf PDF])
 | Vipin T. Sreedharan
 |-
 | 12:05
-| [Visualization] MetaSee: An interactive visualization toolbox for metagenomic sample analysis and comparison ([http://www.open-bio.org/bosc2013/day2/BOSC2013_MetaSee_-_Xiaoquan_Su.pdf PDF] [http://www.youtube.com/watch?v=_ZNGm-cZACk YouTube])
+| [Visualization] MetaSee: An interactive visualization toolbox for metagenomic sample analysis and comparison ([http://www.open-bio.org/bosc2013/day2/BOSC2013_MetaSee_-_Xiaoquan_Su.pdf PDF])
 | Xiaoquan Su (postponed from day 1)
 |-
 | 12:15
-| [Interoperability] PhyloCommons: community storage, annotation and reuse of phylogenies ([http://www.open-bio.org/bosc2013/day2/BOSC2013_PhyloCommons_-_Hilmar_Lapp.pdf PDF], [http://www.slideshare.net/hlapp/phylo-commons-bosc2013 SlideShare] [http://www.youtube.com/watch?v=SalhhoE6X9s YouTube])
+| [Interoperability] PhyloCommons: community storage, annotation and reuse of phylogenies ([http://www.open-bio.org/bosc2013/day2/BOSC2013_PhyloCommons_-_Hilmar_Lapp.pdf PDF], [http://www.slideshare.net/hlapp/phylo-commons-bosc2013 SlideShare])
 | Hilmar Lapp
 |-
 | 12:20
-| [Interoperability] GEMBASSY: an EMBOSS associated package for genome analysis using G-language SOAP/REST web services ([http://www.open-bio.org/bosc2013/day2/BOSC2013_GEMBASSY_-_Hidetoshi_Itaya.pdf PDF] [http://www.youtube.com/watch?v=zzfezywfGKQ YouTube])
+| [Interoperability] GEMBASSY: an EMBOSS associated package for genome analysis using G-language SOAP/REST web services ([http://www.open-bio.org/bosc2013/day2/BOSC2013_GEMBASSY_-_Hidetoshi_Itaya.pdf PDF])
 | Hidetoshi Itaya
 |-
 | 12:25
-| [Interoperability] Rubra - flexible distributed pipelines for bioinformatics ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Rubra_-_Claire_Sloggett.pdf PDF] [http://www.youtube.com/watch?v=A9sdkEancJA YouTube])
+| [Interoperability] Rubra - flexible distributed pipelines for bioinformatics ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Rubra_-_Claire_Sloggett.pdf PDF])
 | Clare Sloggett
 |-
 | '''12:30-1:30'''
@@ -240,23 +240,23 @@ You can also:
 | Chunlei Wu
 |-
 | 2:00
-| [Cloud/Genome-Scale] An update on the Seal Hadoop-based sequence processing toolbox ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Seal_Hadoop_-_Luca_Pireddu.pdf PDF] [http://www.youtube.com/watch?v=6QEPMj5AIs4 YouTube])
+| [Cloud/Genome-Scale] An update on the Seal Hadoop-based sequence processing toolbox ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Seal_Hadoop_-_Luca_Pireddu.pdf PDF])
 | Luca Pireddu
 |-
 | 2:15
-| [Cloud/Genome-Scale] Open Source Configuration of Bioinformatics Infrastructure ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Infrastructure_-_John_Chilton.pdf PDF] [http://www.youtube.com/watch?v=WoiNyaFVOeE YouTube])
+| [Cloud/Genome-Scale] Open Source Configuration of Bioinformatics Infrastructure ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Infrastructure_-_John_Chilton.pdf PDF])
 | John Chilton
 |-
 | 2:30
-| [Cloud/Genome-Scale] GEPETTO: An Open Source Framework for Gene Prioritization ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Gepetto_-_Vincent_Walter.pdf PDF] [http://www.youtube.com/watch?v=J6E_xu_kRdA YouTube])
+| [Cloud/Genome-Scale] GEPETTO: An Open Source Framework for Gene Prioritization ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Gepetto_-_Vincent_Walter.pdf PDF])
 | Vincent Walter
 |-
 | 2:55
-| [Cloud/Genome-Scale] RAMPART: an automated de novo assembly pipeline ([http://www.open-bio.org/bosc2013/day2/BOSC2013_RAMPART_-_Daniel_Mapleson.pdf PDF] [http://www.youtube.com/watch?v=mojcGfZWZtg YouTube])
+| [Cloud/Genome-Scale] RAMPART: an automated de novo assembly pipeline ([http://www.open-bio.org/bosc2013/day2/BOSC2013_RAMPART_-_Daniel_Mapleson.pdf PDF])
 | Daniel Mapleson
 |-
 | 3:10
-| [Cloud/Genome-Scale] OmicsConnect: flexible multi-omics data capture and integration tools for high-throughput biology ([http://www.open-bio.org/bosc2013/day2/BOSC2013_OmicConnect_-_Joeri_van_der_Velde.pdf PDF] [http://www.youtube.com/watch?v=0gLhALQn0cw YouTube])
+| [Cloud/Genome-Scale] OmicsConnect: flexible multi-omics data capture and integration tools for high-throughput biology ([http://www.open-bio.org/bosc2013/day2/BOSC2013_OmicConnect_-_Joeri_van_der_Velde.pdf PDF])
 | Joeri van der Velde
 |-
 | '''3:30-4:00'''
@@ -268,15 +268,15 @@ You can also:
 | Chair: Nomi Harris
 |-
 | 4:00
-| [Translational] Community development of human variant calling and validation pipelines ([http://chapmanb.github.io/bcbb/talks/bosc2013_bcbio_nextgen/chapmanb_bosc2013_bcbio.html slides] [http://www.youtube.com/watch?v=dT5UEU0xF1Q YouTube])
+| [Translational] Community development of human variant calling and validation pipelines ([http://chapmanb.github.io/bcbb/talks/bosc2013_bcbio_nextgen/chapmanb_bosc2013_bcbio.html slides])
 | Brad Chapman
 |-
 | 4:25
-| [Translational] Understanding Cancer Genomes Using Galaxy ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Galaxy_-_Jeremey_Goecks.pdf PDF] [http://www.youtube.com/watch?v=zoSYCLycpMk YouTube])
+| [Translational] Understanding Cancer Genomes Using Galaxy ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Galaxy_-_Jeremey_Goecks.pdf PDF])
 | Jeremy Goecks
 |-
 | 4:40-5:30
-| '''Panel''': Strategies for Funding and Maintaining Open Source Software ([http://www.youtube.com/watch?v=UDBOuuclDsQ YouTube])
+| '''Panel''': Strategies for Funding and Maintaining Open Source Software
 | Moderator: Brad Chapman
 Panelists: Peter Cock, Sean Eddy, Carole Goble,  Scott Markel, Jean Peccoud
 |-
