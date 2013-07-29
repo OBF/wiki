@@ -23,7 +23,7 @@ You can also:
 | '''Registration'''
 |- 
 | 9:00-9:15
-| Introduction and welcome ([http://www.open-bio.org/bosc2013/day1/BOSC2013_Intro_Nomi_Harris.pdf PDF] [http://www.youtube.com/watch?v=eODK9lcniK8 YouTube])
+| Introduction and welcome ([http://www.open-bio.org/bosc2013/day1/BOSC2013_Intro_Nomi_Harris.pdf PDF], [http://www.youtube.com/watch?v=eODK9lcniK8 YouTube])
 | Nomi Harris (Chair, BOSC 2013)
 |-
 | 9:15-10:15
@@ -176,7 +176,7 @@ You can also:
 | Hilmar Lapp (President, Open Bioinformatics Foundation)
 |-
 | 9:15
-| [Keynote] Biological sequence analysis in the post-data era ([http://www.youtube.com/watch?v=nUwQqwl_VlI YouTube])
+| [Keynote] Biological sequence analysis in the post-data era ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Keynote_-_Sean_Eddy.pdf PDF], [http://www.youtube.com/watch?v=nUwQqwl_VlI YouTube])
 | Sean Eddy (Janelia Farm)
 |-
 | '''10:15-10:45'''
@@ -216,7 +216,7 @@ You can also:
 | Hidetoshi Itaya
 |-
 | 12:25
-| [Interoperability] Rubra - flexible distributed pipelines for bioinformatics ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Rubra_-_Claire_Sloggett.pdf PDF] [http://www.youtube.com/watch?v=A9sdkEancJA YouTube])
+| [Interoperability] Rubra - flexible distributed pipelines for bioinformatics ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Rubra_-_Claire_Sloggett.pdf PDF], [http://www.youtube.com/watch?v=A9sdkEancJA YouTube])
 | Clare Sloggett
 |-
 | '''12:30-1:30'''
