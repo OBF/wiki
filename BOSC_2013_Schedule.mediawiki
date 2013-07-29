@@ -268,7 +268,7 @@ You can also:
 | Chair: Nomi Harris
 |-
 | 4:00
-| [Translational] Community development of human variant calling and validation pipelines ([http://chapmanb.github.io/bcbb/talks/bosc2013_bcbio_nextgen/chapmanb_bosc2013_bcbio.html slides] [http://www.youtube.com/watch?v=dT5UEU0xF1Q YouTube)
+| [Translational] Community development of human variant calling and validation pipelines ([http://chapmanb.github.io/bcbb/talks/bosc2013_bcbio_nextgen/chapmanb_bosc2013_bcbio.html slides] [http://www.youtube.com/watch?v=dT5UEU0xF1Q YouTube])
 | Brad Chapman
 |-
 | 4:25
