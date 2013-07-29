@@ -168,7 +168,7 @@ You can also:
 | Nomi Harris
 |-
 | 8:50
-| Codefest 2013 Report ([http://chapmanb.github.io/bcbb/talks/codefest2013_report/codefest2013_report.html SlideShare])
+| Codefest 2013 Report ([http://chapmanb.github.io/bcbb/talks/codefest2013_report/codefest2013_report.html SlideShare] [http://www.youtube.com/watch?v=dtw4fKTSrUs YouTube])
 | Brad Chapman
 |-
 | 9:00
@@ -192,7 +192,7 @@ You can also:
 | Enis Afgan
 |-
 | 11:10
-| [Interoperability] Taverna Components: Semantically annotated and shareable units of functionality ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Taverna_Components_-_Donal_Fellows.pdf PDF])
+| [Interoperability] Taverna Components: Semantically annotated and shareable units of functionality ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Taverna_Components_-_Donal_Fellows.pdf PDF] [http://www.youtube.com/watch?v=9voXGYeEcyw YouTube])
 | Donal Fellows
 |-
 | 11:35
@@ -216,7 +216,7 @@ You can also:
 | Hidetoshi Itaya
 |-
 | 12:25
-| [Interoperability] Rubra - flexible distributed pipelines for bioinformatics ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Rubra_-_Claire_Sloggett.pdf PDF])
+| [Interoperability] Rubra - flexible distributed pipelines for bioinformatics ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Rubra_-_Claire_Sloggett.pdf PDF] [http://www.youtube.com/watch?v=A9sdkEancJA YouTube])
 | Clare Sloggett
 |-
 | '''12:30-1:30'''
@@ -240,11 +240,11 @@ You can also:
 | Chunlei Wu
 |-
 | 2:00
-| [Cloud/Genome-Scale] An update on the Seal Hadoop-based sequence processing toolbox ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Seal_Hadoop_-_Luca_Pireddu.pdf PDF])
+| [Cloud/Genome-Scale] An update on the Seal Hadoop-based sequence processing toolbox ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Seal_Hadoop_-_Luca_Pireddu.pdf PDF] [http://www.youtube.com/watch?v=6QEPMj5AIs4 YouTube])
 | Luca Pireddu
 |-
 | 2:15
-| [Cloud/Genome-Scale] Open Source Configuration of Bioinformatics Infrastructure ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Infrastructure_-_John_Chilton.pdf PDF])
+| [Cloud/Genome-Scale] Open Source Configuration of Bioinformatics Infrastructure ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Infrastructure_-_John_Chilton.pdf PDF] [http://www.youtube.com/watch?v=WoiNyaFVOeE YouTube])
 | John Chilton
 |-
 | 2:30
@@ -252,7 +252,7 @@ You can also:
 | Vincent Walter
 |-
 | 2:55
-| [Cloud/Genome-Scale] RAMPART: an automated de novo assembly pipeline ([http://www.open-bio.org/bosc2013/day2/BOSC2013_RAMPART_-_Daniel_Mapleson.pdf PDF])
+| [Cloud/Genome-Scale] RAMPART: an automated de novo assembly pipeline ([http://www.open-bio.org/bosc2013/day2/BOSC2013_RAMPART_-_Daniel_Mapleson.pdf PDF] [http://www.youtube.com/watch?v=mojcGfZWZtg YouTube])
 | Daniel Mapleson
 |-
 | 3:10
@@ -268,11 +268,11 @@ You can also:
 | Chair: Nomi Harris
 |-
 | 4:00
-| [Translational] Community development of human variant calling and validation pipelines ([http://chapmanb.github.io/bcbb/talks/bosc2013_bcbio_nextgen/chapmanb_bosc2013_bcbio.html slides])
+| [Translational] Community development of human variant calling and validation pipelines ([http://chapmanb.github.io/bcbb/talks/bosc2013_bcbio_nextgen/chapmanb_bosc2013_bcbio.html slides] [http://www.youtube.com/watch?v=dT5UEU0xF1Q YouTube)
 | Brad Chapman
 |-
 | 4:25
-| [Translational] Understanding Cancer Genomes Using Galaxy ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Galaxy_-_Jeremey_Goecks.pdf PDF])
+| [Translational] Understanding Cancer Genomes Using Galaxy ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Galaxy_-_Jeremey_Goecks.pdf PDF] [http://www.youtube.com/watch?v=zoSYCLycpMk YouTube])
 | Jeremy Goecks
 |-
 | 4:40-5:30
