@@ -79,7 +79,7 @@ You can also:
 | Chair: Jan Aerts
 |-
 | 2:00
-| [Visualization] Refinery Platform - Integrating Visualization and Analysis of Large-Scale Biological Data
+| [Visualization] Refinery Platform - Integrating Visualization and Analysis of Large-Scale Biological Data ([http://www.open-bio.org/bosc2013/day1/BOSC2013_Refinery_-_Nils_Gehlenborg.pdf PDF])
 | Nils Gehlenborg
 |-
 | 2:25
