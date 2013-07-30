@@ -24,6 +24,8 @@ BOSC meetings to date:
 * [[BOSC 2001]] Copenhagen, Denmark
 * [[BOSC 2000]] San Diego, CA USA
 
+In recent years the BOSC meetings have been preceded by a two day [[Codefest]], an informal developer meeting.
+
 Other conferences
 * A [[bp:BioPerl|BioPerl]] [[BioPerl Heidelberg 1999|workshop]] was held in conjunction with ISMB'99 in Heidelberg, Germany.
 
