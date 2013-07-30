@@ -6,5 +6,5 @@ In recent years, typically before each annual [[BOSC]] meeting the OBF has organ
 
 * [[Codefest 2010]] in Boston
 * [[Codefest 2011]] in Vienna
-* [[Codefest 2012]] in Los Angeles
+* [[Codefest 2012]] in Los Angeles, followed by the [[EU Codefest 2012]] in Lodi, Italy
 * [[Codefest 2013]] in Berlin
