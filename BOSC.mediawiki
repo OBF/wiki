@@ -9,7 +9,8 @@ The '''B'''ioinformatics '''O'''pen '''S'''ource '''C'''onference is held annual
 
 BOSC meetings to date:
 
-* [[BOSC 2013]] Berlin, Germany -- the upcoming [[Upcoming BOSC conference]].
+* [[BOSC 2014]] Boston, MA USA -- the upcoming [[Upcoming BOSC conference]].
+* [[BOSC 2013]] Berlin, Germany
 * [[BOSC 2012]] Long Beach, CA, USA
 * [[BOSC 2011]] Vienna, Austria
 * [[BOSC 2010]] Boston, MA USA
