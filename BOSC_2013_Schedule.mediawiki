@@ -196,11 +196,11 @@ You can also:
 | Donal Fellows
 |-
 | 11:35
-| [Interoperability] UGENE Workflow Designer – flexible control and extension of pipelines with scripts ([http://www.open-bio.org/bosc2013/day2/BOSC2013_UGENE_-_Yuriy_Vaskin.pdf PDF])
+| [Interoperability] UGENE Workflow Designer – flexible control and extension of pipelines with scripts ([http://www.open-bio.org/bosc2013/day2/BOSC2013_UGENE_-_Yuriy_Vaskin.pdf PDF] [http://www.youtube.com/watch?v=eiqNcgsdDik YouTube])
 | Yuriy Vaskin
 |-
 | 11:50
-| [Interoperability] Reproducible Quantitative Transcriptome Analysis with Oqtans ([http://www.open-bio.org/bosc2013/day2/BOSC2013_oqtans_-_Vipin_Sreedharan.pdf PDF])
+| [Interoperability] Reproducible Quantitative Transcriptome Analysis with Oqtans ([http://www.open-bio.org/bosc2013/day2/BOSC2013_oqtans_-_Vipin_Sreedharan.pdf PDF] [http://www.youtube.com/watch?v=Q3nmrvS-Z8o YouTube])
 | Vipin T. Sreedharan
 |-
 | 12:05
