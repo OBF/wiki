@@ -37,6 +37,6 @@ In 2012, we decided to give up our own incorporation to associate ourselves with
 
 == BOSC ==
 The [[BOSC|Bioinformatics Open Source Conference (BOSC)]] is held annually in conjunction with [http://www.iscb.org ISCB's] meeting, ISMB.
-We typically run an informal [[Codefest]] programers meeting before each BOSC.
+We typically run an informal [[Codefest]] programers' meeting before each BOSC.
 
 [[BOSC 2014]] will take place July 2014, right before [http://www.iscb.org/ismb2014 ISMB 2014] in Boston, MA USA.
