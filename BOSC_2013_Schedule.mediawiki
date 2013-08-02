@@ -204,7 +204,7 @@ You can also:
 | Vipin T. Sreedharan
 |-
 | 12:05
-| [Visualization] MetaSee: An interactive visualization toolbox for metagenomic sample analysis and comparison ([http://www.open-bio.org/bosc2013/day2/BOSC2013_MetaSee_-_Xiaoquan_Su.pdf PDF])
+| [Visualization] MetaSee: An interactive visualization toolbox for metagenomic sample analysis and comparison ([http://www.open-bio.org/bosc2013/day2/BOSC2013_MetaSee_-_Xiaoquan_Su.pdf PDF] [http://www.youtube.com/watch?v=_ZNGm-cZACk YouTube])
 | Xiaoquan Su (postponed from day 1)
 |-
 | 12:15
@@ -248,7 +248,7 @@ You can also:
 | John Chilton
 |-
 | 2:30
-| [Cloud/Genome-Scale] GEPETTO: An Open Source Framework for Gene Prioritization ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Gepetto_-_Vincent_Walter.pdf PDF])
+| [Cloud/Genome-Scale] GEPETTO: An Open Source Framework for Gene Prioritization ([http://www.open-bio.org/bosc2013/day2/BOSC2013_Gepetto_-_Vincent_Walter.pdf PDF] [http://www.youtube.com/watch?v=J6E_xu_kRdA YouTube])
 | Vincent Walter
 |-
 | 2:55
@@ -276,7 +276,7 @@ You can also:
 | Jeremy Goecks
 |-
 | 4:40-5:30
-| '''Panel''': Strategies for Funding and Maintaining Open Source Software
+| '''Panel''': Strategies for Funding and Maintaining Open Source Software ([http://www.youtube.com/watch?v=UDBOuuclDsQ YouTube])
 | Moderator: Brad Chapman
 Panelists: Peter Cock, Sean Eddy, Carole Goble,  Scott Markel, Jean Peccoud
 |-
