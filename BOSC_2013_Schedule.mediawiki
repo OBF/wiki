@@ -172,7 +172,7 @@ You can also:
 | Brad Chapman
 |-
 | 9:00
-| [http://www.open-bio.org/wiki/Main_Page Open Bioinformatics Foundation:]  A Community For, By, and Of You ([http://www.slideshare.net/hlapp/obf-address-bosc2013 SlideShare])
+| [http://www.open-bio.org/wiki/Main_Page Open Bioinformatics Foundation:]  A Community For, By, and Of You ([http://www.slideshare.net/hlapp/obf-address-bosc2013 SlideShare] [http://www.youtube.com/watch?v=DiReTX3FoLM YouTube])
 | Hilmar Lapp (President, Open Bioinformatics Foundation)
 |-
 | 9:15
@@ -208,7 +208,7 @@ You can also:
 | Xiaoquan Su (postponed from day 1)
 |-
 | 12:15
-| [Interoperability] PhyloCommons: community storage, annotation and reuse of phylogenies ([http://www.open-bio.org/bosc2013/day2/BOSC2013_PhyloCommons_-_Hilmar_Lapp.pdf PDF], [http://www.slideshare.net/hlapp/phylo-commons-bosc2013 SlideShare])
+| [Interoperability] PhyloCommons: community storage, annotation and reuse of phylogenies ([http://www.open-bio.org/bosc2013/day2/BOSC2013_PhyloCommons_-_Hilmar_Lapp.pdf PDF], [http://www.slideshare.net/hlapp/phylo-commons-bosc2013 SlideShare] [http://www.youtube.com/watch?v=SalhhoE6X9s YouTube])
 | Hilmar Lapp
 |-
 | 12:20
