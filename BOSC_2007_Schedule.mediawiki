@@ -72,7 +72,7 @@ title: BOSC 2007 Schedule
 | [Lightning Talk] Henrik Abelsson: Mitrion-C Accellerated NCBI Blast Application
 |-
 | 2:30pm
-| Peter Cock: BioPython Project Update [http://www.slideshare.net/bosc/biopython **SLIDES**]
+| Peter Cock: BioPython Project Update 2007 [http://www.slideshare.net/bosc/biopython **SLIDES**]
 | [Lightning Talk] Shawn Houston: The Compute Portal Project
 |- 
 | 2:45
