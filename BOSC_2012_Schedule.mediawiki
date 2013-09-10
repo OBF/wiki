@@ -212,7 +212,7 @@ title: BOSC 2012 Schedule
 | Hervé Ménager
 |-
 | 2:00-2:15
-| [Project Updates] [http://www.slideshare.net/jandot/e-talevich-biopython-projectupdate Biopython Project Update]
+| [Project Updates] [http://www.slideshare.net/jandot/e-talevich-biopython-projectupdate Biopython Project Update 2012]
 | Eric Talevich
 |-
 | 2:15-2:40
