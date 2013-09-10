@@ -119,7 +119,7 @@ You can also:
 | Toshiaki Katayama
 |-
 | 4:15
-| [Project Updates] Biopython project update ([http://www.open-bio.org/bosc2013/day1/BOSC2013_Biopython_Update_-_Peter_Cock.pdf PDF], [http://www.slideshare.net/pjacock/biopython-update-bosc2013/ SlideShare])
+| [Project Updates] Biopython project update 2013 ([http://www.open-bio.org/bosc2013/day1/BOSC2013_Biopython_Update_-_Peter_Cock.pdf PDF], [http://www.slideshare.net/pjacock/biopython-update-bosc2013/ SlideShare])
 | Peter Cock
 |-
 | 4:30
