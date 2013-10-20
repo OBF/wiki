@@ -32,7 +32,7 @@ Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter
 
 '''Members'''
 
-* Raoul Jean Pierre Bonnal (INGM)
+* Raoul Jean Pierre Bonnal (Istituto Nazionale Genetica Molecolare (National Institute of Medical Genetics), Italy)
 * [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer]; [http://compbio.sph.harvard.edu/chb/ Harvard School of Public Health])
 * [http://www.tgac.ac.uk/bioinformatics/sequencing-informatics/robert-davey/ Robert Davey] (The Genome Analysis Centre)
 * Christopher Fields (National Center for Supercomputing Applications)
