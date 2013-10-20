@@ -19,8 +19,8 @@ The '''[http://www.open-bio.org/bosc2013/BOSC2013-program.pdf complete program]'
 * July 17-18, 2013: [[Codefest 2013]], Berlin
 * July 19-20, 2013: '''BOSC 2013''', ICC Berlin, Berlin -- '''[[BOSC_2013_Schedule|schedule]]'''
 * July 19-23, 2013: [http://www.iscb.org/ismbeccb2013 ISMB/ECCB 2013], ICC Berlin, Berlin
-|}
-* July 11-12, 2014: BOSC 2014, Boston, MA
+
+* July 11-12, 2014: [[BOSC 2014]], Boston, MA
 
 == Overview ==
 
