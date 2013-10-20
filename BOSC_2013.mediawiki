@@ -13,13 +13,14 @@ The '''[[BOSC_2013_Schedule|conference schedule is available here as HTML]]''' (
 The '''[http://www.open-bio.org/bosc2013/BOSC2013-program.pdf complete program]''', including all accepted talk and poster abstracts, is '''[http://www.open-bio.org/bosc2013/BOSC2013-program.pdf here]'''.
 
 '''** NEW ** [[Media:BOSC2013_report.pdf | Summary of BOSC 2013]]'''
+|}
 
 == Important Dates ==
 
 * July 17-18, 2013: [[Codefest 2013]], Berlin
 * July 19-20, 2013: '''BOSC 2013''', ICC Berlin, Berlin -- '''[[BOSC_2013_Schedule|schedule]]'''
 * July 19-23, 2013: [http://www.iscb.org/ismbeccb2013 ISMB/ECCB 2013], ICC Berlin, Berlin
-|}
+
 * July 11-12, 2014: [[BOSC 2014]], Boston, MA
 
 == Overview ==
