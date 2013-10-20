@@ -22,3 +22,23 @@ The Bioinformatics Open Source Conference (BOSC) is a two-day Special Interest G
 Open Source software has flourished in the bioinformatics community for well over a decade. When the first BOSC (Bioinformatics Open Source Conference) was held in 2000, there were already a number of popular open source bioinformatics packages, and the number and range of these projects has increased dramatically since then. BOSC covers the wide range of open source bioinformatics software packages that have been successfully developed and adopted by the community, and encompasses the growing movement of Open Science, with its focus on transparency, reproducibility, and data provenance. We welcome submissions relating to all aspects of open source bioinformatics software and open science, including new computational methods, reusable software components, visualization, interoperability, and other approaches that help to advance research in the biomolecular sciences. Two full days of talks, posters, panel discussions, and informal discussion groups will enable BOSC attendees to interact with other developers and share ideas and code, as well as learning about some of the latest developments in the field of open source bioinformatics.
 
 Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter.com/OBF_BOSC follow @OBF_BOSC] and use [https://twitter.com/search?q=%23BOSC2014 hash tag #bosc2014].
+
+== Organizing Committee ==
+
+'''Co-Chairs'''
+
+* [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; James Hutton Institute)
+* Nomi L. Harris (Lawrence Berkeley National Laboratory)
+
+'''Members'''
+
+* Raoul Jean Pierre Bonnal (INGM)
+* [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer]; [http://compbio.sph.harvard.edu/chb/ Harvard School of Public Health])
+* [http://www.tgac.ac.uk/bioinformatics/sequencing-informatics/robert-davey/ Robert Davey] (The Genome Analysis Centre)
+* Christopher Fields (National Center for Supercomputing Applications)
+* Hans-Rudolf Hotz (Friedrich Miescher Institute for Biomedical Research)
+* [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp] (National Evolutionary Synthesis Center)
+
+'''Ex Officio (Members of the O|B|F Board)'''
+* [http://www.bioperl.org/wiki/Chris_Dagdigian Chris Dagdigian]
+* [http://www.bioperl.org/wiki/Jason_Stajich Jason Stajich]
