@@ -12,7 +12,8 @@ __NOTOC__
 The '''[[BOSC_2013_Schedule|conference schedule is available here as HTML]]''' (including links to presentations) and '''[[Media:BOSC2013_schedule.pdf | here as a PDF file]]''' (A4 format).
 The '''[http://www.open-bio.org/bosc2013/BOSC2013-program.pdf complete program]''', including all accepted talk and poster abstracts, is '''[http://www.open-bio.org/bosc2013/BOSC2013-program.pdf here]'''.
 
-'''** NEW ** [[Media:BOSC2013_report.pdf | Summary of BOSC 2013]]'''
+
+Conference report: Harris NL, Cock PJA, Chapman BA, Goecks J, Hotz H et al. (2013) The Bioinformatics Open Source Conference (BOSC) 2013. PeerJ PrePrints 1:e83v1 [http://dx.doi.org/10.7287/peerj.preprints.83v1|doi: 10.7287/peerj.preprints.83v1] ([[Media:BOSC2013_report.pdf | Local Copy]])
 |}
 
 == Important Dates ==
