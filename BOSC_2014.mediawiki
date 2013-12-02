@@ -9,13 +9,13 @@ __NOTOC__
 |[[Image:Pear.png|left|The Bosc Pear]]
 |
 |The 15th Annual Bioinformatics Open Source Conference (BOSC 2014) will be held in Boston on July 11-12, right before ISMB 2014.
-|}
+
 
 == Important Dates ==
 
 * July 11-12, 2014: BOSC 2014, Boston, MA
 * July 12-16, 2014: ISMB 2014, Boston, MA
-
+|}
 == Overview ==
 
 The Bioinformatics Open Source Conference (BOSC) is a two-day Special Interest Group of ISMB. It is sponsored by the Open Bioinformatics Foundation (O|B|F), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development within the biological research community. 
