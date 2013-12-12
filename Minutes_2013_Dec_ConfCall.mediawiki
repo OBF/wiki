@@ -18,8 +18,8 @@ Participant Access Code:	279610
  <li> Board elections:
  <ul><li>Hilmar Lapp, running for a 2nd term as President</li>
    <li>Peter Cock, running for office of Secretary</li>
+  <li> Nomi Harris, running for a 2nd term on the Board, as at-large member </li>
   </ul></li>
-  <li> Nomi Harris stepping down from the Parliamentarian office (but intends to remain on the Board)</li>
   <li> To the extent available, review of 2013 financials (Hilmar) </li>
   <li> BOSC 2014: update from and vote of confidence for the 2014 chairs (Nomi, Peter)</li>
   <li> Does OBF and/or BOSC want to be listed as an [http://www.iscb.org/iscb-affiliates-cosis ISCB "Community of Special Interest"] (COSI) along side other SIGs and communities? See [http://www.iscb.org/iscb-netbio-cosi NetBio] and [http://www.iscb.org/iscb-regsys-cosi RegSys examples]. (Peter) </li>
