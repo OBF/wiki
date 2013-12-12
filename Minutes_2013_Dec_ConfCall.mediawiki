@@ -1,0 +1,35 @@
+---
+title: Minutes:2013 Dec ConfCall
+---
+
+= Agenda =
+
+'''Venue:''' to be held by conference call on Dec 12, 2013, 12pm EDT (17:00 UTC) <br/>
+Dial-in Number:	1-605-475-5950  (US Midwest) <br/>
+Participant Access Code:	279610
+
+<ol>
+<li> Old business </li>
+ <ul>
+  <li> [[Minutes:2013_Apr_ConfCall| Apr 2013 BoD meeting minutes]]</li>
+ </ul>  
+<li>New business</li>
+<ol style="list-style-type:lower-roman">
+ <li> Board elections:
+ <ul><li>Hilmar Lapp, running for a 2nd term as President</li>
+   <li>Peter Cock, running for office of Secretary</li>
+  </ul></li>
+  <li> Nomi Harris stepping down from the Parliamentarian office (but intends to remain on the Board)</li>
+  <li> To the extent available, review of 2013 financials (Hilmar) </li>
+  <li> BOSC 2014: update from and vote of confidence for the 2014 chairs (Nomi, Peter)</li>
+  <li> Does OBF and/or BOSC want to be listed as an [http://www.iscb.org/iscb-affiliates-cosis ISCB "Community of Special Interest"] (COSI) along side other SIGs and communities? See [http://www.iscb.org/iscb-netbio-cosi NetBio] and [http://www.iscb.org/iscb-regsys-cosi RegSys examples]. (Peter) </li>
+</ol>
+</ol>
+
+= Minutes =
+
+'''Attending:'''
+* Directors: 
+* Guests: 
+
+'''Minutes:'''
