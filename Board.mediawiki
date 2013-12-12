@@ -15,13 +15,13 @@ The board can be contacted via email at [mailto:board@open-bio.org board@open-bi
 : Currently unfilled. Duties carried out by President in the interim.
 
 '''Parliamentarian'''
-:; <span class="plainlinks">[http://www.linkedin.com/in/nomiharris Nomi Harris]</span> : Employed by the Lawrence Berkeley National Laboratory. [[BOSC 2013]] chair.
+:; <span class="plainlinks">[http://www.linkedin.com/in/nomiharris Nomi Harris]</span> : Employed by the Lawrence Berkeley National Laboratory. [[BOSC 2014]] co-chair.
 
 '''At-large members'''
 
 :; [[bp:Jason Stajich|Jason Stajich]] : [[bp:BioPerl|BioPerl]] core developer. [http://stajichlab.fungalgenomes.org Assistant Professor] at [http://www.ucr.edu/ University of California, Riverside]. Former OBF President.
 
-:; <span class="plainlinks">[http://www.hutton.ac.uk/staff/peter-cock Peter Cock]</span> : [[bp:Biopython|Biopython]] core developer, bioinformatician at the [http://www.hutton.ac.uk/ James Hutton Institute].
+:; <span class="plainlinks">[http://www.hutton.ac.uk/staff/peter-cock Peter Cock]</span> : [[bp:Biopython|Biopython]] core developer, bioinformatician at the [http://www.hutton.ac.uk/ James Hutton Institute]. [[BOSC 2014]] co-chair
 
 :; [[bp:Christopher_Fields|Chris Fields]] : [[bp:BioPerl|BioPerl]] core developer, researcher fellow at the [http://www.igb.uiuc.edu/ Institute for Genomic Biology] at the [http://www.uiuc.edu/ University of Illinois at Urbana-Champaign].
 
