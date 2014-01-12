@@ -27,6 +27,14 @@ Open Source software has flourished in the bioinformatics community for well ove
 
 Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter.com/OBF_BOSC follow @OBF_BOSC] and use [https://twitter.com/search?q=%23BOSC2014 hash tag #bosc2014].
 
+== Session Topics == 
+* Software Interoperability 
+* Genome-scale Data and Beyond 
+* Visualization 
+* Translational Bioinformatics 
+* Bioinformatics Open Source Libraries and Projects 
+* Reproducibility: Rewards and Challenges (Panel discussion) 
+
 == Keynote Speakers ==
 This year's keynote speakers will be C. Titus Brown (Michigan State University) and Philip Bourne (NIH).
 
