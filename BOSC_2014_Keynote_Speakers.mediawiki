@@ -6,7 +6,7 @@ BOSC 2014 is pleased to announce the following keynote speakers:
 
 === Philip Bourne ===
 
-[[Image:PhilipBourne.jpg|140px|left|Philip Bourne]]
+[[Image:PhilipBourne.jpg|130px|left|Philip Bourne]]
 Philip E. Bourne PhD is the Associate Director for Data Science at the NIH and formerly Associate Vice Chancellor for Innovation and Industry Alliances, and Professor of Pharmacology at the University of California San Diego. Bourne's work at the NIH focuses on accelerating  the rate of knowledge discovery from the ever increasing amounts of biomedical data at all scales – from genomes to populations. 
 
 Bourne's laboratory focuses on relevant biological and educational outcomes derived from computation and scholarly communication. This implies algorithms, text mining, machine learning, metalanguages, biological databases, and visualization applied to problems in systems pharmacology, evolution, cell signaling, apoptosis, immunology and scientific dissemination. He has published over 300 papers and 5 books, one of which sold over 150,000 copies. Previously he co-founded 4 companies: ViSoft Inc., Protein Vision Inc., a company distributing independent films for free and most recently SciVee. Bourne is the co-founder and founding Editor-in-Chief of the open access journal PLOS Computational Biology.
