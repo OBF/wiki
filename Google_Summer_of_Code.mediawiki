@@ -135,13 +135,6 @@ Some mentors and developers can regularly be found on IRC, see the list of OBF p
 :* [http://code.open-bio.org/svnweb/index.cgi/biosql/browse/biosql-schema/trunk source code]
 :* No IRC channel at present
 
-[[Image:BioLib_logo_tiny.png|right|link=http://biolib.open-bio.org]]
-; [http://biolib.open-bio.org BioLib] :
-:* [http://biolib.open-bio.org Project website]
-:* [http://lists.open-bio.org/mailman/listinfo/biolib-dev developers mailing list]
-:* [http://github.com/pjotrp/biolib/tree/master source code]
-:* No IRC channel at present
-
 == Guide for prospective GSoC students ==
 
 === Before you apply ===
