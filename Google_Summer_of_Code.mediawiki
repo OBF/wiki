@@ -4,6 +4,14 @@ title: Google Summer of Code
 
 [[Image:Soc-2013-300x200.png|right|frame|link=http://code.google.com/soc]] 
 
+== About Google Summer of Code ==
+
+Google Summer of Code (GSoC) is a student internship program for open-source projects. The program offers eligible student developers stipends to write code for open source projects over a period of 3 summer months ("flip bits, not burgers").  Aside from the stipend, one of the most important features of the program is that students are paired with mentors, who are typically experienced developers from the project to which the student is contributing.  The mentor guides the student to work productively within the community, and helps the student avoid obstacles and pitfalls.  The program is global - students and mentors may be located anywhere where they have an internet connection (except for countries affected by US trade restrictions), and no travel is required. Thus, aside from the stipend and mentorship aspects, the student's experience in the internship closely mirrors normal work on distributed development projects.  Effective work habits for distributed development are typically not taught as part of computer science curricula, yet are highly desired in the increasingly global and distributed software, IT, and biotechnology industries.
+
+From the viewpoint of each open-source project, the program not only offers to pay students for contributing, but more importantly offers an opportunity to recruit new developers who will hopefully go on to become regular, sustaining contributors.
+
+See the [http://code.google.com/soc Main GSoC Site] for general information about the Google Summer of Code program, how to apply, frequently asked general questions, and more.
+
 == GSoC 2014 ==
 
 The Google Summer of Code 2014 is ON! OBF is once again applying as a mentoring organization this year. Interested mentors and students should subscribe to the OBF/GSoC [http://lists.open-bio.org/mailman/listinfo/gsoc mailing list]. Please announce yourself, so we know who you are!
@@ -11,23 +19,16 @@ The Google Summer of Code 2014 is ON! OBF is once again applying as a mentoring 
 ;Organization administrator: [[User:EricTalevich|Eric Talevich]]
 ;Backup administrator: Raoul Bonnal
 
+<!--
 == GSoC 2013 ==
 
 OBF applied for mentoring in 2013 but, sadly, did '''not''' get accepted as a mentoring organisation by Google - despite our good track record.
-<!-- Interested mentors and students should subscribe to the OBF/GSoC [http://lists.open-bio.org/mailman/listinfo/gsoc mailing list]. Please announce yourself, so we know who you are! -->
 
 Other organisations relevant for bioinformatics students are: [http://informatics.nescent.org/wiki/Phyloinformatics_Summer_of_Code_2013 Nescent], [https://github.com/SciRuby/sciruby/wiki/Google-Summer-of-Code-2013-Ideas SciRuby], [http://gmod.org/wiki/GSoC GMOD], who took on some of our projects and mentors.
 
 ;Organization administrator: [[User:PjotrPrins|Pjotr Prins]] ([mailto:pjotr.gsoc2013@thebird.nl pjotr.gsoc2013@thebird.nl])
 ;Backup administrators: Chris Fields, [[User:Lapp|Hilmar Lapp]], Robert Buels
-
-== About Google Summer of Code ==
-
-For those not familiar with the program, Google Summer of Code (GSoC) is a student internship program for open-source projects. The program offers eligible student developers stipends to write code for open source projects over a period of 3 summer months ("flip bits, not burgers").  Aside from the stipend, one of the most important features of the program is that students are paired with mentors, who are typically experienced developers from the project to which the student is contributing.  The mentor guides the student to work productively within the community, and helps the student avoid obstacles and pitfalls.  The program is global - students and mentors may be located anywhere where they have an internet connection (except for countries affected by US trade restrictions), and no travel is required. Thus, aside from the stipend and mentorship aspects, the student's experience in the internship closely mirrors normal work on distributed development projects.  Effective work habits for distributed development are typically not taught as part of computer science curricula, yet are highly desired in the increasingly global and distributed software, IT, and biotechnology industries.
-
-From the viewpoint of each open-source project, the program not only offers to pay students for contributing, but more importantly offers an opportunity to recruit new developers who will hopefully go on to become regular, sustaining contributors.
-
-See the [http://code.google.com/soc Main GSoC Site] for general information about the Google Summer of Code program, how to apply, frequently asked general questions, and more.
+-->
 
 == Project ideas ==
 
