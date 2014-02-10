@@ -200,12 +200,12 @@ in GSoC in previous years.
 
 '''[http://code.google.com/soc Google Summer of Code Main Site]'''
 
-* [http://www.google-melange.com/gsoc/events/google/gsoc2013 GSoC 2013 time line]
-* Google expects to accept around 150 mentoring organizations.
+* [http://www.google-melange.com/gsoc/events/google/gsoc2014 GSoC 2013 time line]
+* Google expects to accept around 180 mentoring organizations.
 * Development is done entirely remotely and on-line, there is no requirement or expectation for either students or mentors to travel.
-* For questions of eligibility, see the [http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2013/help_page GSoC 2013 FAQ].
+* For questions of eligibility, see the [http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2014/help_page GSoC 2014 FAQ].
 * There is also a [http://groups.google.com/group/google-summer-of-code-discuss Google group for posting GSoC questions] (and receiving answers; note that you will need to sign up for the group) that relate to the program itself (and are not specific to our organization).
-* Students receive a stipend from Google if accepted. See the  [http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2013/help_page GSoC 2013 FAQ] for full documentation.
+* Students receive a stipend from Google if accepted. See the  [http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2014/help_page GSoC 2014 FAQ] for full documentation.
 
 
 [[Category:Google Summer of Code]]
