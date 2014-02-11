@@ -2,7 +2,7 @@
 title: Google Summer of Code
 ---
 
-[[Image:Soc-2013-300x200.png|right|frame|link=http://code.google.com/soc]] 
+[[Image:gsoc214-banner.png|right|frame|link=http://code.google.com/soc]] 
 
 Google Summer of Code (GSoC) is a student internship program for open-source projects. The program offers eligible student developers stipends to write code for open source projects over a period of 3 summer months ("flip bits, not burgers"). See the '''[http://code.google.com/soc Google Summer of Code Main Site]''' for general information about the Google Summer of Code program, how to apply, frequently asked general questions, and more.
 
