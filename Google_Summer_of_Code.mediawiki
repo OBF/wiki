@@ -144,7 +144,7 @@ Mentor names and project ideas are hosted on each member project's wiki on a ded
 
 ; [http://biohaskell.org/ BioHaskell] :
 :* [http://biohaskell.org/ Project website]]
-:* [http://hackage.haskell.org/packages/#cat:bioinformatics Bioinformatics section on HackageDB]
+:* [http://hackage.haskell.org/packages/#cat:Bioinformatics Bioinformatics section on HackageDB]
 
 == Guide for prospective GSoC students ==
 
