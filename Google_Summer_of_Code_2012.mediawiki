@@ -9,25 +9,92 @@ The Open Bioinformatics Foundation has been accepted as a mentoring organization
 
 == 2012 Student Projects ==
 
-;Wibowo Arindrarto
-:mentored by Peter Cock
+=== Wibowo Arindrarto ===
+
 :[http://bow.web.id/blog/tag/gsoc/ SearchIO Implementation in Biopython]
+:mentored by Peter Cock
 
-;Lenna Peterson
-:mentored by Brad Chapman
+Bow continues to develop and maintain the SearchIO module, the product of his GSoC work, and contributes to other areas of Biopython as well.
+
+=== Lenna Peterson ===
+
 :[http://arklenna.tumblr.com/tagged/gsoc2012 Diff My DNA: Development of a Genomic Variant Toolkit for BioPython]
+:mentored by Brad Chapman
 
-;Marjan Povolni
-:mentored by Pjotr Prins, Francesco Strozzi, Raoul Bonnal
+Lenna continues to actively contribute to several parts of Biopython.
+
+=== Marjan Povolni ===
+
 :[http://blog.mpthecoder.com/tagged/gsoc The world's fastest parallelized GFF3/GTF parser in D, and an interfacing biogem plugin for Ruby]
-
-;Artem Tarasov
 :mentored by Pjotr Prins, Francesco Strozzi, Raoul Bonnal
-:[http://lomereiter.wordpress.com/tag/gsoc Robust and fast parallel BAM parser in D for binding against dynamic languages]
 
-;Clayton Wheeler
-:mentored by Francesco Strozzi and Raoul Bonnal 
+Marjan is still actively developing in FOSS, and also contributes to [http://www.biogems.info/ biogems.info].
+
+''An interview with Marjan''
+
+'''You participated in OBF/GSoC, what did it bring you in your current pursuits?'''
+
+It connected me to experienced people who helped me to into science.
+
+'''What projects did you work on and are they still in use?'''
+
+My project was about parsing the GFF3 textual format used in bioinformatics, but at the same time increasing the speed and reducing the memory footprint of the parser manyfold. I don't believe the project is used by many people right now. However, I do think it has potential to be integrated into data processing pipelines. Since GSoC 2012 ended I didn't have the time to keep working on it, but I'm still positive it will change very soon and I'll continue working on it.
+
+'''Are you still involved with these projects or elsewhere in FOSS?'''
+
+My schedule currently doesn't allow it, but I'm positive that will change very soon, I would like to continue working on the project and related themes.
+
+'''Did you enjoy OBF/GSoC and do you have any special memories?'''
+
+I did, working from home is great and challenges suit me well. I also had the fortune to meet some of the people behind OBF at a codefest that was organized nearby. Releasing the first development version of the code was a feeling that cannot be described in words, and the feedback I received made me feel I had accomplished something, even though I had work experience before.
+
+'''Was the OBF/GSoC organisation good for you? What stood out?'''
+
+Yes, it was very good. What I liked most were the weekly hangouts with the other accepted students and mentors. I was working on the project myself, but never felt alone.
+
+'''Would you recommend OBF/GSoC to other students and do you have any hints for
+them?'''
+
+Definitely. Bioinformatics is a great place to be right now, there is already so much that has been discovered, but that's only the tip of the iceberg. And going forward the field of biology can advance only with the help from bioinformatics.
+
+
+=== Artem Tarasov ===
+
+:[http://lomereiter.wordpress.com/tag/gsoc Robust and fast parallel BAM parser in D for binding against dynamic languages]
+:mentored by Pjotr Prins, Francesco Strozzi, Raoul Bonnal
+
+''An interview with Artem''
+
+'''You participated in OBF/GSoC, what did it bring you in your pursuits?'''
+
+GSoC gave me experience of collaborative open-source development, and OBF introduced me to the bioinformatics field.
+
+'''What projects did you work on and are they still in use?'''
+
+I worked on a new library for working with SAM/BAM files; it is now used by a few people but we aim to attract more by publishing a paper soon.
+
+'''Are you still involved with these projects or elsewhere in FOSS?'''
+
+Yes, the development has been continuing after GSoC, and quite a lot of new
+functionality has been added.
+
+'''Did you enjoy OBF/GSoC and do you have any special memories?'''
+
+I enjoyed GSoC a lot. It was wonderful to realise how geographically diverse the OBF community is.
+
+'''Was the OBF/GSoC organisation good for you? What stood out?'''
+
+The community was very helpful and friendly. With respect to programming, they encouraged students to do thorough testing and write proper documentation. Plus, we had a few rounds of code reviews.
+
+'''Would you recommend OBF/GSoC to other students and do you have any hints for them?'''
+
+Yes, definitely! It is a good opportunity to learn a bit about bioinformatics and to practice some agile software development approaches.
+
+
+=== Clayton Wheeler ===
+
 :[http://csw.github.com/bioruby-maf/ Multiple Alignment Format parser for BioRuby]
+:mentored by Francesco Strozzi and Raoul Bonnal
 
 == 2012 Mentor Volunteers and Project Ideas ==
 
