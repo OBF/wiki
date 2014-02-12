@@ -58,12 +58,11 @@ If you are not quite sure which project you would like to contribute to, you can
 
 === IRC - Internet Relay Chat ===
 
-IRC is the preferred method of real-time communication between GSoC participants.  OBF IRC channels are maintained on [http://freenode.net freenode], connect your IRC client to <code>chat.freenode.net</code>.
+OBF IRC channels are maintained on [http://freenode.net freenode], connect your IRC client to <code>chat.freenode.net</code>.
 
 ;Main OBF GSoC Channel: <code>#obf-soc</code>
 ;BioPerl: <code>#bioperl</code>
 ;BioRuby: <code>#bioruby</code>
-
 
 Some mentors and developers can regularly be found on IRC, see the list of OBF projects below for information on which projects have a channel and the name of the channel. And/or join <code>#obf-soc</code> on [http://freenode.net Freenode.] ''(If you do not have an IRC client installed, you might find the [http://en.wikipedia.org/wiki/List_of_IRC_clients comparison on Wikipedia], the [http://directory.google.com/Top/Computers/Software/Internet/Clients/Chat/IRC/ Google directory], or the [http://www.ircreviews.org/clients/ IRC Reviews] helpful. For Macs, [http://en.wikipedia.org/wiki/X-Chat X-Chat Aqua] works pretty well. If you have never used IRC, try the [http://irchelp.org/irchelp/ircprimer.html IRC Primer] at [http://irchelp.org/ IRC Help], which also has links to lots of other material.)''
 
