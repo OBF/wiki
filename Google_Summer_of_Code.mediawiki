@@ -142,6 +142,10 @@ Mentor names and project ideas are hosted on each member project's wiki on a ded
 :* [http://code.open-bio.org/svnweb/index.cgi/biosql/browse/biosql-schema/trunk source code]
 :* No IRC channel at present
 
+; [http://biohaskell.org/ BioHaskell] :
+:* [http://biohaskell.org/ Project website]]
+:* [http://hackage.haskell.org/packages/#cat:bioinformatics Bioinformatics section on HackageDB]
+
 == Guide for prospective GSoC students ==
 
 === Before you apply ===
