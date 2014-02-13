@@ -29,6 +29,8 @@ The Foundation does not participate directly in the development or structure of 
 
 O|B|F is governed by a [[Board|Board of Directors]]. [[:File:OBF-Bylaws.pdf| Our bylaws]] lay out how the Board is elected, holds public meetings, and conducts its business, as well as the scope and role of our [[Open_Bioinformatics_Foundation:Membership_application| membership]]. O|B|F is an associated project with [http://spi-inc.org/ Software In The Public Interest, Inc.], a fiscal sponsorship organization, and through SPI we can accept tax-exempt charitable donations.
 
+See also our [https://plus.google.com/115564754756543103019 OBF Google+] page.
+
 == History ==
 
 O|B|F grew out of the volunteer projects [[BioPerl]], [[BioJava]] and [[Biopython]] and was formally incorporated in 2001 in order to handle modest requirements of hardware ownership, domain name management and funding for conferences and workshops. In 2005, we enacted [[:File:OBF-Bylaws.pdf| bylaws]] for the first time, and along with it created a formal membership. 
