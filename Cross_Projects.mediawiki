@@ -1,0 +1,22 @@
+---
+title: Cross Projects
+---
+
+==== An ultra-fast scalable RESTful API to query large numbers of genomic variations ====
+;  Rationale
+
+:VCF files are the typical output of whole genome resequencing projects (http://www.1000genomes.org/node/101). They hold the information on all the mutations and variations ([http://en.wikipedia.org/wiki/Single-nucleotide_polymorphism SNPs] and [http://en.wikipedia.org/wiki/Indel InDels]) that are found by comparing the outputs of a [http://en.wikipedia.org/wiki/DNA_sequencing#Next-generation_methods NGS] platform with a reference genome. These files are not incredibly large (a typical uncompressed VCF file is few gigabytes) but they are full with information on millions of positions in the genome where mutations are found. Large resequencing projects can produce hundreds or thousands of these files, one for each sample sequenced.
+:Existing tools (such as [http://vcftools.sourceforge.net VCFTools] or [http://samtools.sourceforge.net/samtools.shtml#4 BCFTools]) let you manipulate, convert and access the information stored into VCF files but are limited in functionalities and speed when there is the need to work with many files together and compare the variations found for example in 100 samples to identify common mutations sites among sub-groups of samples, or to extract for instance all the mutations that are present in 50 samples but are not present in the other 50 and so on.
+
+;  Approach
+:The project will develop a RESTful API to address the issues described in the rationale and to allow users to manipulate and compare hundreds of VCF files. Given the high number of information that will need to be processed, scalable and fast languages such as JVM-based languages like Scala or JRuby will be a good choice. A database engine would be required to support the information processing and data mining, traditional RDBMS, noSQL databases or key-values stores can all be valid alternatives. The decision on the best database engine to be used will be discussed between the student and the mentors and within the Bio projects community.
+ 
+;  Difficulty and needed skills
+:The project is mid / high difficulty, aimed at talented students. Previous knowledge of Scala or Ruby is not necessary but a background in advanced programming languages (like C++, Java) is essential to develop the project. 
+;  The project requires
+:Knowledge of advanced programming languages. Some experience and knowledge of databases and data mining will help managing the information of VCF files. 
+
+;  Mentors
+:  Francesco Strozzi, Raoul J.P. Bonnal
+
+----
