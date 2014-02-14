@@ -2,8 +2,8 @@
 title: Cross Projects
 ---
 
-== Project Ideas ==
-==== Cross BioInterchance ====
+= Project Ideas =
+=== Cross BioInterchance ===
 ;  Rationale
 : [http://www.biointerchange.org/index.html BioInterchange] Interchange data using the Resource Description Framework (RDF) and let BioInterchange automagically create RDF triples from your TSV, XML, GFF3, GVF, Newick and other files common in Bioinformatics. BioInterchange helps you transform your data sets into linked data for sharing and data integration via command line, web-service, or API. BioInterchange was conceived and designed during NBDC/DBCLS's [http://2012.biohackathon.org/ BioHackathon 2012]. Architecture and RDF serialization implementations were provided by Joachim Baran, Geraint Duck provided JSON and XML deserialization implementations and contributed to architecture decisions, guidance on ontology use and applications were given by Kevin B. Cohen and Michel Dumontier, where Michel brought forward and extended the Semanticscience Integrated Ontology (SIO). Jin-Dong Kim helped to define ontology relationships for RDFizing DBCLS' PubAnnotation category annotations. The main idea is to have a central service with can be used as a validator and as interchange service for different languages. 
 
