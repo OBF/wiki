@@ -129,7 +129,7 @@ See [http://bioperl.org/wiki/HOWTO:Wrappers HOWTO:Wrappers] and the above module
 
 ; Prior art : Jason Stajich has started a SQLite-based lightweight <tt>Bio::Tree::Tree</tt> implementation on [http://github.com/bioperl/bioperl-live/tree/topic/tree_dbsqlite_memoryfix a GitHub branch] at the recent GMOD Evolutionary Biology Hackathon at NESCent in Fall 2010.
 
-; Mentors : Chris Fields, Jason Stajich
+; Mentors : Chris Fields
 
 === [http://bioperl.org/wiki/Google_Summer_of_Code#BioPerl_2.0_.28and_beyond.29 BioPerl 2.0 and beyond] ===
 
