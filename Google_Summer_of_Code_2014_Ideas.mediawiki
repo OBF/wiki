@@ -25,8 +25,6 @@ See the main OBF [[Google Summer of Code]] page for more information about the G
 ;  Mentors
 :  Raoul J.P. Bonnal, Francesco Strozzi, Toshiaki Katayama, Joachim Baran
 
-=== [http://sbml.org/GSoC2014 Native and JVM-based support for the Systems Biology Markup Language (SMBL)] ===
-
 
 ==[http://bioperl.org/wiki/Google_Summer_of_Code BioPerl]==
 
@@ -68,6 +66,9 @@ See the main OBF [[Google Summer of Code]] page for more information about the G
 
 === JVM support and improvements for the Systems Biology Markup Language ===
 
+See [http://sbml.org/GSoC2014 Native and JVM-based support for the Systems Biology Markup Language (SMBL)]
+
+
 ==[[biopython:Google Summer of Code |BioPython]]==
 
 [[Image:Biopython_logo_tiny.png|right|link=biopython:Google Summer of Code]]
@@ -95,7 +96,7 @@ See the main OBF [[Google Summer of Code]] page for more information about the G
 
 ==[http://biohaskell.org/Google_Summer_of_Code BioHaskell]==
 
-:* [http://biohaskell.org/ Project website]]
+:* [http://biohaskell.org/ Project website]
 :* [http://hackage.haskell.org/packages/#cat:Bioinformatics Bioinformatics section on HackageDB]
 
 === [http://biohaskell.org/Google_Summer_of_Code#Optimizing_transalign Optimizing a novel, very sensitive alignment method] ===
