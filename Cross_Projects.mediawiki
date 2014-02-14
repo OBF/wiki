@@ -3,7 +3,7 @@ title: Cross Projects
 ---
 
 == Project Ideas ==
-==== CrossBioInterchance ====
+==== Cross BioInterchance ====
 ;  Rationale
 
 :VCF files are the typical output of whole genome resequencing projects (http://www.1000genomes.org/node/101). They hold the information on all the mutations and variations ([http://en.wikipedia.org/wiki/Single-nucleotide_polymorphism SNPs] and [http://en.wikipedia.org/wiki/Indel InDels]) that are found by comparing the outputs of a [http://en.wikipedia.org/wiki/DNA_sequencing#Next-generation_methods NGS] platform with a reference genome. These files are not incredibly large (a typical uncompressed VCF file is few gigabytes) but they are full with information on millions of positions in the genome where mutations are found. Large resequencing projects can produce hundreds or thousands of these files, one for each sample sequenced.
