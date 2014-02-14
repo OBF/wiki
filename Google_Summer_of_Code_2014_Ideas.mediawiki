@@ -189,10 +189,65 @@ This is an area ripe for new student project ideas.  The more focused the better
 * [http://biojava.org/wiki/BioJava:MailingLists Mailing lists]
 * No IRC channel at present
 
-=== JVM support and improvements for the Systems Biology Markup Language ===
+=== Java support and improvements for the Systems Biology Markup Language (SMBL) ===
 
-See [http://sbml.org/GSoC2014 Native and JVM-based support for the Systems Biology Markup Language (SMBL)]
+See [http://sbml.org/GSoC2014 Native and JVM-based support for the Systems Biology Markup Language (SMBL)] for more ideas from the SBML team.
 
+==== Implement support for the SBML Multistate/Multicomponent Species package ====
+
+; Rationale
+: One of the many packages for SBML Level 3 is Multistate and multicomponent species. This packages define constructs for models and modelers to represent biochemical species that have internal structure or state properties. These may involve molecules that have multiple potential states, such as a protein that may be covalently modified, and molecules that combine to form heterogeneous complexes located among multiple compartments.
+
+; Approach
+: The JSBML team has already started implementation of the <tt>multi</tt> package, but more needs to be done.
+
+; Languages and skills
+: Java, some exposure to biochemistry
+
+; Mentors
+: Nicolas Rodriguez, Nicolas Le Novère 
+
+==== Add support for Schema-based validation of SBML ====
+
+; Rationale
+: SBML files need to be validated carefully to ensure that they conform to the specification. Currently, the most complete implementation of SBML validation is embodied in libSBML, although the rules of SBML validity are defined in the SBML specification documents. It is possible to validate SBML from JSBML using either the Online SBML Validator or a Java package we provide for calling libSBML locally (i.e., without a network connection) but we want to move toward capturing all of the SBML's validity rules in schema languages.
+
+; Approach
+: Capture all of the SBML's validity rules in schema languages such as RELAX NG and Schematron, then have both libSBML and JSBML (and any other SBML-using system) use schema validation engines instead of hardcoded validation. This will be especially important as more SBML Level 3 packages become implemented. We have already made great strides in defining RELAX NG schemas for SBML Level 3, but we need to work on providing the hooks in JSBML to using those schemas for validating SBML files.
+
+; Languages and skills
+: Java, XML, RELAX NG, Schematron, SBML
+
+; Mentors
+: Sarah Keating, Andreas Dräger 
+
+==== Redesign the implementation of mathematical formulas in JSBML ====
+
+; Rationale
+: JSBML uses the concept of abstract syntax trees to work with mathematical expressions. At the moment, all different kinds of formulas are implemented in one complex class.
+
+; Approach
+: This project should implement a math package for JSBML, in which all different kinds of tree nodes that can occur in formulas (e.g., real numbers or algebraic symbols such as 'plus' or 'minus') would be represented with an own, specialized class. In this way, the handling of formulas would be much more straightforward and even more efficient.
+
+; Difficulty and skills
+: Medium; proficient in Java
+
+; Mentors
+: Andreas Dräger, Alex Thomas, Sarah Keating 
+
+==== Improving the plugin interface for CellDesigner ====
+
+; Rationale
+: One of the most frequently used programs in computational systems biology is CellDesigner. JSBML provides an interface that facilitates the development of plugins for this program. This interface has recently been revised and improved.
+
+; Approach
+: Test cases and plugins for CellDesigner are to be implemented in order to make use of it and ensure its correct behavior. It is, for instance, possible to use CellDesigner's complex canvas user interface to create or manipulate biochemical networks and to conduct numerical computation.
+
+; Languages and skills
+: Java, some basic understanding of visualization algorithms
+
+; Potential Mentor
+: Andreas Dräger
 
 ==[[biopython:Google Summer of Code |BioPython]]==
 
