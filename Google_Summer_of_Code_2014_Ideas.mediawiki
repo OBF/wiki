@@ -153,16 +153,16 @@ This is an area ripe for new student project ideas.  The more focused the better
 === [http://bioperl.org/wiki/Google_Summer_of_Code#Bio::Assembly Bio::Assembly] ===
 
 ; Rationale
-: A followup to the 2010 project "Alignment Subsystem Refactoring": Continued refinement of AssemblyIO.
+: Although progress was made in the 2010 project "Alignment Subsystem Refactoring", continued refinement of AssemblyIO is still needed.
 
 ; Approach
 : SAM or ACE files once imported should have similar handles and/or methods.
 
 ; Difficulty and needed skills 
-: Medium to hard. Excellent command of Perl, familiarity with sequence alignment and alignment tools. 
+: Medium. Proficiency in Perl, familiarity with assembly tools. 
 
 ; Mentors 
-: To be determined. 
+: To be determined.
 
 === [http://bioperl.org/wiki/Google_Summer_of_Code#Semantic_Web_Support Semantic Web Support] ===
 
