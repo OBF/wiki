@@ -231,6 +231,21 @@ See [http://sbml.org/GSoC2014 Native and JVM-based support for the Systems Biolo
 
 === [http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#An_ultra-fast_scalable_RESTful_API_to_query_large_numbers_of_genomic_variations An ultra-fast scalable RESTful API to query large numbers of genomic variations] ===
 
+;  Rationale
+:VCF files are the typical output of genome resequencing projects (http://www.1000genomes.org/node/101). They store the information on all the mutations and variations ([http://en.wikipedia.org/wiki/Single-nucleotide_polymorphism SNPs] and [http://en.wikipedia.org/wiki/Indel InDels]) that are found by comparing the outputs of a [http://en.wikipedia.org/wiki/DNA_sequencing#Next-generation_methods NGS] platform with a reference genome. These files are not incredibly large (a typical uncompressed VCF file is few gigabytes) but they are full with information on millions of positions in the genome where mutations are found. Large resequencing projects can produce hundreds or thousands of these files, one for each sample sequenced.
+:Existing tools (such as [http://vcftools.sourceforge.net VCFTools] or [http://samtools.sourceforge.net/samtools.shtml#4 BCFTools]) offer a convenient way to access these files and extract or convert the information present, but are limited in functionalities and speed when more complex queries need to be performed on these data. With existing tools it is very complicated, if not impossibile, to retrive information when working on many VCF files and samples together to compare, for instance, the variations found in 100 samples and extract all the mutations that are present in 50 samples but are not present in the other 50 and so on.
+
+;  Approach
+:The project should develop a RESTful API to address the issues described in the rationale and to allow users to manipulate and compare genomics variation information for hundreds of samples. A database engine will be required to store the information and to support the data mining. Unstructured database engines such as noSQL databases or key-values stores can all be valid alternatives to combine high-speed with data flexibility. The decision on the best database engine to be used will be discussed between the student and the mentors and within the OpenBio community. Given the high amount of information that will need to be processed by such an application, scalable and fast languages such as JVM-based languages like Scala or JRuby will be a good choice. The project should also take care of the deploy of such an API, by creating a Ruby gem or a JAR that users can install and use right away with their datasets.
+ 
+;  Difficulty and needed skills
+:The project has an average difficulty and it is aimed at talented students who wants to develop a fast API to address these problems.
+;  The project requires
+:Knowledge of advanced programming languages. Some experience and knowledge of databases and data mining will help managing the information of VCF files. 
+
+;  Mentors
+:  Francesco Strozzi, Raoul J.P. Bonnal
+
 ==[http://biohaskell.org/Google_Summer_of_Code BioHaskell]==
 
 :* [http://biohaskell.org/ Project website]
