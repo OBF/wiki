@@ -43,13 +43,11 @@ See the main OBF [[Google Summer of Code]] page for more information about the G
 
 [[Image:BioPerl_logo_tiny.jpg|right|link=bp:Google Summer of Code]]
 
-* '''[[bp:Google Summer of Code | BioPerl GSoC Page]]''' - project ideas and mentors
-* [[bp:Main Page|Project website]]
-* [[bp:Becoming_a_developer|Information for new developers]]
-* source code browser for [http://code.open-bio.org/svnweb/index.cgi/bioperl/browse/bioperl-live/trunk bioperl-live] (the main BioPerl code base), and [http://code.open-bio.org/svnweb/index.cgi/bioperl/ all BioPerl sub-projects]
-* [[bp:Project_priority_list|Priority list]] of things that need work, as another source for student-conceived project ideas 
 * [[bp:Mailing_lists|Mailing lists]]
 * IRC: <code>#bioperl</code> on [http://freenode.net Freenode]
+* [[bp:Becoming_a_developer|Information for new developers]]
+* Source code browser for [http://code.open-bio.org/svnweb/index.cgi/bioperl/browse/bioperl-live/trunk bioperl-live] (the main BioPerl code base), and [http://code.open-bio.org/svnweb/index.cgi/bioperl/ all BioPerl sub-projects]
+* [[bp:Project_priority_list|Priority list]] of things that need work, as another source for student-conceived project ideas 
 
 === [http://bioperl.org/wiki/Google_Summer_of_Code#NGS-friendly_BioPerl_code NGS-friendly BioPerl code] ===
 
