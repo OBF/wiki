@@ -295,7 +295,45 @@ For GSoC 2014, BioJava is partnering with the Systems Biology Markup Language (S
 :* [http://biohaskell.org/ Project website]
 :* [http://hackage.haskell.org/packages/#cat:Bioinformatics Bioinformatics section on HackageDB]
 
-=== [http://biohaskell.org/Google_Summer_of_Code#Optimizing_transalign Optimizing a novel, very sensitive alignment method] ===
+=== [http://biohaskell.org/Google_Summer_of_Code#Optimizing_transalign Optimizing transalign, a novel, very sensitive alignment method] ===
+
+; Rationale
+: A method and implementation for more sensitive pairwise alignments was recently developed and published (paper is [http://dx.plos.org/10.1371/journal.pone.0054422 here], and a copy [http://malde.org/~ketil/publications/Malde2013a.pdf here]).  The method appears to be the best of its type -- if nothing else, check the SCOP benchmark -- although it’s difficult to construct a good test case using more complex methods (training sets for HMMs and whatnot). The current implementation is in Haskell, and although it works correctly, it is a bit slow, and more problematic, it consumes too much memory (so going multi-threaded, although pretty easy, won’t be of any help).
+
+; Approach
+
+:The goal is to make this into a more practical tool by reducing resource requirements. A prospective student would either:
+
+# Optimize the Haskell program, primarily to reduce memory footprint, and secondarily to make use of multi-CPU systems.
+# Reimplement the algorithm (or parts of it) in a different language, and achieving the same as above.
+
+:Advantages of 1:
+
+:* Already have a working program, and the type system makes it easy to refactor without introducing errors.
+:* Haskell supports lots of good multi-threading programming models (like STM)
+:* The author of the method, Ketil, knows Haskell pretty well and will mentor.
+
+:Disadvantages:
+
+:* Haskell has some good debugging tools, but they tend to work really poorly for large memory (i.e. it takes a long time to generate profiles)
+:* Needs somebody with a bit (or a lot) of experience optimizing Haskell, and good knowledge of high-perf libraries (like vector)
+
+:Advantages of 2:
+
+:* Easier to get a student with adequate skills.
+:* More predictable performance models in other languages.
+:* Easier to compile and install for many users.
+
+:Disadvantages:
+
+:* Ideally, should know enough Haskell to read and understand the code.
+:* Likely needs a co-mentor with knowledge of the language in question.
+
+; Difficulty and skills needed
+: Medium to hard; Haskell proficiency and some knowledge of algorithm development 
+
+; Mentor:
+: Ketil Malde (ketil@malde.org)
 
 <!--
 ==BioSQL==
