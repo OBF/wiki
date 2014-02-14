@@ -240,7 +240,7 @@ For GSoC 2014, BioJava is partnering with the Systems Biology Markup Language (S
 ; Languages and skills
 : Java, some basic understanding of visualization algorithms
 
-; Potential Mentor
+; Mentors
 : Andreas Dräger
 
 ==[[biopython:Google Summer of Code |BioPython]]==
