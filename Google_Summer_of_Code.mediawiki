@@ -33,38 +33,10 @@ Other organisations relevant for bioinformatics students are: [http://informatic
 ;Backup administrators: Chris Fields, [[User:Lapp|Hilmar Lapp]], Robert Buels
 -->
 
-== Project ideas ==
+== Project Ideas ==
 
-'''[[Google Summer of Code 2014 Ideas |See the OBF Project Ideas page for GSoC 2014]]'''
+Our GSoC ideas from each project are collected here: '''[[Google Summer of Code 2014 Ideas |OBF Project Ideas for GSoC 2014]]'''
 
-Interested mentors and students should subscribe to the OBF/GSoC [http://lists.open-bio.org/mailman/listinfo/gsoc mailing list] and announce their interest - that is the way we can track what is happening.
-
-Mentor names and project ideas are hosted on each member project's wiki on a dedicated Google Summer of Code page.  See each of the member projects, linked below, for more details about any project:
-===Cross-project ideas===
-:* [http://sbml.org/GSoC2014 Native and JVM-based support for the Systems Biology Markup Language (SMBL)]
-:* [http://www.open-bio.org/wiki/Cross_Projects#Cross_BioInterchange BioInterchange: Convert and Exchange Biological File Formants using RESTful web service]
-===[http://bioperl.org/wiki/Google_Summer_of_Code BioPerl]===
-:* [http://bioperl.org/wiki/Google_Summer_of_Code#NGS-friendly_BioPerl_code NGS-friendly BioPerl code]
-:* [http://bioperl.org/wiki/Google_Summer_of_Code#Convert_BioPerl-DB_to_DBIx::Class Convert BioPerl-DB to use DBIx::Class]
-:* [http://bioperl.org/wiki/Google_Summer_of_Code#Major_BioPerl_Reorganization.2C_part_2 Major BioPerl Reorganization (Part II)]
-:* [http://bioperl.org/wiki/Google_Summer_of_Code#Perl_Run_Wrappers_for_External_Programs_in_a_Flash Perl Run Wrappers for External Programs in a Flash]
-:* [http://bioperl.org/wiki/Google_Summer_of_Code#Lightweight.2FLazy_BioPerl_Classes Lightweight BioPerl modules]
-:* [http://bioperl.org/wiki/Google_Summer_of_Code#BioPerl_2.0_.28and_beyond.29 Modern BioPerl: BioPerl 2.0 and beyond]
-:* [http://bioperl.org/wiki/Google_Summer_of_Code#Bio::Assembly Bio::Assembly]
-:* [http://bioperl.org/wiki/Google_Summer_of_Code#Semantic_Web_Support Semantic Web Support]
-===[http://biopython.org/wiki/Google_Summer_of_Code Biopython]===
-:* [http://biopython.org/wiki/Google_Summer_of_Code#Indexing_.26_Lazy-loading_Sequence_Parsers Indexing & Lazy-loading Sequence Parsers]
-===[http://bioruby.open-bio.org/wiki/Google_Summer_of_Code BioRuby]===
-:* [http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#An_ultra-fast_scalable_RESTful_API_to_query_large_numbers_of_genomic_variations An ultra-fast scalable RESTful API to query large numbers of genomic variations]
-<!--
-===[http://biojava.org/wiki/Google_Summer_of_Code BioJava]===
-:* [http://biojava.org/wiki/Google_Summer_of_Code#Port_the_BioJava_1_or_2_functionality_to_BioJava_3 Port the BioJava 1 or 2 functionality to BioJava 3]
-:* [http://biojava.org/wiki/Google_Summer_of_Code#Improve_structural_alignment_datastructures_to_support_topology-independent_alignments Improve structural alignment datastructures to support topology-independent alignments]
-:* [http://biojava.org/wiki/Google_Summer_of_Code#Topology_Diagrams_of_Protein_Structures Topology Diagrams of Protein Structures]
-:* [http://biojava.org/wiki/Google_Summer_of_Code#Sequence_Variation Sequence Variation]
--->
-===[http://biohaskell.org/Google_Summer_of_Code BioHaskell]===
-:* [http://biohaskell.org/Google_Summer_of_Code#Optimizing_transalign Optimizing a novel, very sensitive alignment method]
 
 == OBF Projects Accepting Applicants ==
 
