@@ -247,12 +247,9 @@ For GSoC 2014, BioJava is partnering with the Systems Biology Markup Language (S
 
 [[Image:Biopython_logo_tiny.png|right|link=biopython:Google Summer of Code]]
 
-* '''[[biopython:Google Summer of Code | BioPython GSoC Page]]''' - project ideas and mentors
-* [[biopython:Main Page|Project website]]
-* [[biopython:Contributing|Information for contributors]]
 * [[biopython:Mailing lists|Mailing lists]]
+* [[biopython:Contributing|Information for contributors]]
 * [[biopython:SourceCode| Source Code]]
-* No IRC channel at present
 
 === [http://biopython.org/wiki/Google_Summer_of_Code#Indexing_.26_Lazy-loading_Sequence_Parsers Indexing & Lazy-loading Sequence Parsers] ===
 
