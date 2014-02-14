@@ -35,6 +35,8 @@ Other organisations relevant for bioinformatics students are: [http://informatic
 
 == Project ideas ==
 
+'''[[Google Summer of Code 2014 Ideas |See the OBF Project Ideas page for GSoC 2014]]'''
+
 Interested mentors and students should subscribe to the OBF/GSoC [http://lists.open-bio.org/mailman/listinfo/gsoc mailing list] and announce their interest - that is the way we can track what is happening.
 
 Mentor names and project ideas are hosted on each member project's wiki on a dedicated Google Summer of Code page.  See each of the member projects, linked below, for more details about any project:
