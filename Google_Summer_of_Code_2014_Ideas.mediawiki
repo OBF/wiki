@@ -117,7 +117,7 @@ See [http://bioperl.org/wiki/HOWTO:Wrappers HOWTO:Wrappers] and the above module
 
 ; Difficulty and needed skills : Medium. The student should understand or be willing to work hard at understanding BioPerl object-oriented style. Some familiarity with [[wp:XML|XML]] and [[wp:XML Schema|XML Schema]] will help in getting up to speed. An interest in playing with new open-source bioinformatics tools, especially those for managing next-generation sequence assembly, would also be valuable.
 
-; Mentors : Mark Jensen, [[User:Cjfields | Chris Fields]]
+; Mentors : [[User:Cjfields | Chris Fields]]
 
 === [http://bioperl.org/wiki/Google_Summer_of_Code#Lightweight.2FLazy_BioPerl_Classes Lightweight BioPerl modules] ===
 
