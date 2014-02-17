@@ -24,15 +24,6 @@ From the viewpoint of each open-source project, the program not only offers to p
 
 The Google Summer of Code 2014 is ON! OBF is once again applying as a mentoring organization this year. Interested mentors and students should subscribe to the OBF/GSoC [http://lists.open-bio.org/mailman/listinfo/gsoc mailing list]. Please announce yourself, so we know who you are!
 
-;Organization administrator: Eric Talevich ([mailto:eric&#46;talevich&#64;gmail&#46;com eric&#46;talevich&#64;gmail&#46;com])
-;Backup administrator: Raoul Bonnal ([mailto:ilpuccio&#46;febo&#64;gmail&#46;com email]) (IRC: helius | channels: #obf-soc, #bioruby, #gsoc ) (Skype: ilpuccio)
-<!--
-Other organisations relevant for bioinformatics students are: [http://informatics.nescent.org/wiki/Phyloinformatics_Summer_of_Code_2013 Nescent], [https://github.com/SciRuby/sciruby/wiki/Google-Summer-of-Code-2013-Ideas SciRuby], [http://gmod.org/wiki/GSoC GMOD], who took on some of our projects and mentors.
-
-;2013 Organization administrator: [[User:PjotrPrins|Pjotr Prins]] ([mailto:pjotr.gsoc2013@thebird.nl pjotr.gsoc2013@thebird.nl])
-;Backup administrators: Chris Fields, [[User:Lapp|Hilmar Lapp]], Robert Buels
--->
-
 == Project Ideas ==
 
 Our GSoC ideas from each project are collected here: '''[[Google Summer of Code 2014 Ideas |OBF Project Ideas for GSoC 2014]]'''
@@ -129,6 +120,16 @@ You will be writing under your own name, but with a clear association with your 
 == Contact ==
 
 Before applying, please read our [[#What_should_prospective_students_know.3F|documentation on information that students should know and guidelines we expect you to follow]]. We also require that you include certain information, listed below, under "[[#When you apply|When you apply]]."
+
+=== Staff and org Admins ===
+;Organization administrator: Eric Talevich ([mailto:eric&#46;talevich&#64;gmail&#46;com eric&#46;talevich&#64;gmail&#46;com])
+;Backup administrator: Raoul Bonnal ([mailto:ilpuccio&#46;febo&#64;gmail&#46;com email]) (IRC: helius | channels: #obf-soc, #bioruby, #gsoc ) (Skype: ilpuccio)
+<!--
+Other organisations relevant for bioinformatics students are: [http://informatics.nescent.org/wiki/Phyloinformatics_Summer_of_Code_2013 Nescent], [https://github.com/SciRuby/sciruby/wiki/Google-Summer-of-Code-2013-Ideas SciRuby], [http://gmod.org/wiki/GSoC GMOD], who took on some of our projects and mentors.
+
+;2013 Organization administrator: [[User:PjotrPrins|Pjotr Prins]] ([mailto:pjotr.gsoc2013@thebird.nl pjotr.gsoc2013@thebird.nl])
+;Backup administrators: Chris Fields, [[User:Lapp|Hilmar Lapp]], Robert Buels
+-->
 
 === Google Plus ===
 
