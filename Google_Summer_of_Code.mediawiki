@@ -21,7 +21,7 @@ The details of each of our project ideas are listed below, including potential m
 
 === Facts & Links ===
 
-==== Time Line ===
+==== Time Line ====
 * [http://www.google-melange.com/gsoc/events/google/gsoc2014 GSoC 2014 time line]
 
 ==== GSoC 2014 FAQ ====
