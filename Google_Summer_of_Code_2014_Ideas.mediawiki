@@ -9,6 +9,8 @@ See the main OBF [[Google Summer of Code]] page for more information about the G
 
 ==Cross-project ideas==
 
+OBF is an umbrella organization which represents many different programming languages used in [http://en.wikipedia.org/wiki/Bioinformatics bioinformatics]. These cross-language project ideas involve making two or more languages work together, taking advantage of the strengths of each to support solving real scientific problems. We encourage students and mentors to propose collaborative projects where more than one language is used and exploited.
+
 === BioInterchange: Convert and Exchange Biological File Formants using RESTful web service ===
 
 ;  Rationale
@@ -18,7 +20,7 @@ See the main OBF [[Google Summer of Code]] page for more information about the G
 :The project will identify the most common and used file formants for all the currently used language under OBF and will design a RESTful API and will project an implementation for all the supported languages. BioInterchange was developed with Ruby but the scope of the project is to have an agnostic system which let use implement a converter using the best language for that functionality. It expected to have a high traffic for the service so an appropriate refactoring or reimplementation using parallel techniques or languages devoted to parallel programming would be possible.
  
 ;  Difficulty and needed skills
-:The project is mid / high difficulty, aimed at talented students. Previous knowledge of Ruby or other scripting language is preferred and flexibility in learning other languages is requireed.
+:The project is mid / high difficulty, aimed at talented students. Previous knowledge of Ruby or other scripting language is preferred and flexibility in learning other languages is required.
 ;  The project requires
 :Knowledge of advanced programming languages and meta-programming and some concept in parallelizing and web services design. 
 
