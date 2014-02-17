@@ -21,8 +21,13 @@ The details of each of our project ideas are listed below, including potential m
 
 === Facts & Links ===
 
+==== Time Line ===
 * [http://www.google-melange.com/gsoc/events/google/gsoc2014 GSoC 2014 time line]
+
+==== GSoC 2014 FAQ ====
 * For questions of eligibility, see the [http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2014/help_page GSoC 2014 FAQ].
+
+==== Info from Google ====
 * There is also a [http://groups.google.com/group/google-summer-of-code-discuss Google group for posting GSoC questions] (and receiving answers; note that you will need to sign up for the group) that relate to the program itself (and are not specific to our organization).
 * Students receive a stipend from Google if accepted. See the  [http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2014/help_page GSoC 2014 FAQ] for full documentation.
 * Development is done entirely remotely and on-line; there is no requirement or expectation for either students or mentors to travel.
