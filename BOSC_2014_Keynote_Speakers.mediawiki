@@ -22,9 +22,10 @@ Dr. Bourne will speak about "Biomedical Research as an Open Digital Enterprise":
 
 ----
 
+[[Image:TitusBrown.jpg|180px|right|C. Titus Brown]]
+
 === C. Titus Brown ===
 
-[[Image:TitusBrown.jpg|180px|right|C. Titus Brown]]
 C. Titus Brown is an assistant professor in the Department of Computer Science and Engineering and the Department of Microbiology and Molecular Genetics. He earned his PhD ('06) in developmental molecular biology from the California Institute of Technology. Brown is director of the laboratory for Genomics, Evolution, and Development (GED) at Michigan State University. He is a member of the Python Software Foundation and an active contributor to the open source software community. His research interests include computational biology, bioinformatics, open source software development, and software engineering.
 
 Dr. Brown's topic is  "A History of Bioinformatics (in the year 2039)".
