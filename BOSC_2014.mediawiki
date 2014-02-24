@@ -15,7 +15,7 @@ __NOTOC__
 
 * March 1, 2014: Call for abstracts open
 * April 4, 2014: Deadline for submitting abstracts
-* July 9-10, 2014: Codefest 2014, Boston, MA
+* July 9-10, 2014: [[Codefest 2014]], Boston, MA
 * July 11-12, 2014: BOSC 2014, Boston, MA
 * July 12-16, 2014: ISMB 2014, Boston, MA
 |}
