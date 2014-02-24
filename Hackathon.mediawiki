@@ -8,6 +8,8 @@ Hacking marathons (Hackathons) or coding festivals ([[Codefest|Codefests]]) are 
 
 Since 2010, people from the O|B|F project communities have regularly organized or co-organized short 2-3 day events preceding the [[BOSC|BOSC conference]].
 
+* [[Codefest 2014]]
+** July 9-10, 2014, in Boston, MA, USA.
 * [[Codefest 2013]]
 ** July 17-18, 2013, in Berlin, Germany.
 * [[EU Codefest 2012]]
