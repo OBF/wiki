@@ -2,7 +2,7 @@
 title: Hackathon
 ---
 
-Hacking marathons (Hackathons) or coding festivals (CofeFests) are informal meetings focused on hands on programming and coding, with in person collaboration potentially allowing much more rapid discussion than remote discussion by email or IRC. OBF Hackathons have focused on collaborative coding, documentation, and better interoperation between OBF and other bioinformatics open-source projects.
+Hacking marathons (Hackathons) or coding festivals ([[Codefest|Codefests]]) are informal meetings focused on hands on programming and coding, with in person collaboration potentially allowing much more rapid discussion than remote discussion by email or IRC. OBF Hackathons have focused on collaborative coding, documentation, and better interoperation between OBF and other bioinformatics open-source projects.
 
 == OBF Codefests and Hackathons ==
 
