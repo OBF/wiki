@@ -3,7 +3,7 @@ title: Codefest 2014
 ---
 
 OpenBio Codefest 2014 will take place July 9th and 10th, 2014 (the Wednesday and
-Thurday before [[BOSC 2014]]) in Cambridge, Massachusetts at
+Thursday before [[BOSC 2014]]) in Cambridge, Massachusetts at
 [http://www.hackreduce.org/ hack/reduce]. This is a great opportunity for open
 source bioinformatics developers to meet and work collaboratively. We hope to
 have developers from projects such as [http://bioperl.org BioPerl],
