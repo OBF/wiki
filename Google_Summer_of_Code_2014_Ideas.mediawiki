@@ -30,7 +30,7 @@ OBF is an umbrella organization which represents many different programming lang
 === Language APIs for the Systems Biology Markup Language (SBML) through the JVM ===
 
 ; Rationale
-: The standard Java implementation of SBML, JSBML, is used as a parser for various Java-based systems biology applications. This fulfills one niche, but the versatility of the JVM can be utilized to employ JSBML as a parser for systems biology applications that are written in other languages. Also, JSBML undergoes an active community effort to be up-to-date with current SBML standards.
+: The standard Java implementation of SBML, [http://sbml.org/GSoC2014 JSBML], is used as a parser for various Java-based systems biology applications. This fulfills one niche, but the versatility of the JVM can be utilized to employ JSBML as a parser for systems biology applications that are written in other languages. Also, JSBML undergoes an active community effort to be up-to-date with current SBML standards.
 
 ; Approach
 : This project will aim to present language APIs for languages that may want to employ the SBML structure without building a parser from scratch. Matlab, Mathematica, and Python APIs will be the focus for this project.
