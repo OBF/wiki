@@ -15,7 +15,7 @@ OBF is an umbrella organization which represents many different programming lang
 
 ;Rationale
 :R is a free software programming language and software environment for statistical computing and graphics. The R language is widely used among statisticians and data miners for developing statistical software and data analysis. Despite this, R is hard to mantain and evolve, lacks portability features and is characterized by low performance. The FastR project (http://www.oracle.com/technetwork/java/jvmls2013vitek-2013524.pdf) aims to rethink how to implement R, by leveraging well tested technologies to build a high performance VM. FastR is an implementation of the R programming language in Java using AST interpretation and specialisation for improved performance. The implementation has been extended to support JIT compilation, leading to performance improvements.
-The fastR project has been presented to the useR! conference 2013, and it is now actively developed at https://bitbucket.org/allr/fastr.
+The fastR project has been presented to the useR! conference 2013, and it is now being actively developed at https://bitbucket.org/allr/fastr.
 
 ;Approach
 :The goal of this project would be to carry on the FastR development by expanding the set of supported R data types, possibly integrating some basic functionalities from Bioconductor which will be extended in the future. The strength of this approach lies in the possibility for Java users to access the vast R ecosystem, and to expand further the inter-operability of R packages and workflows by using other languages built on Java, like JRuby and Jython.
