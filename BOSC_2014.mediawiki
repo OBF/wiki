@@ -3,30 +3,38 @@ title: BOSC 2014
 ---
 
 __NOTOC__
-<div style="float: right; margin-left:20px; margin-right:10px; maxwidth: 150px">__TOC__</div>
 
-{|
-|[[Image:Pear.png|left|The Bosc Pear]]
-|
-|The 15th Annual Bioinformatics Open Source Conference (BOSC 2014) will be held in Boston on July 11-12, right before ISMB 2014.
+<div style="float:left; maxwidth: 180px; margin-left:25px; margin-right:15px; background-color: #FFFFFF">[[Image:Pear.png|left|The Bosc Pear]]</div>
 
+The 15th Annual Bioinformatics Open Source Conference (BOSC 2014) will be held in Boston on July 11-12, right before ISMB 2014.
+
+'''[[BOSC_Abstract_Submission|Submit your abstract now!]]'''
 
 == Important Dates ==
 
-* March 1, 2014: Call for abstracts open
-* April 4, 2014: Deadline for submitting abstracts
+
+* April 4, 2014: Deadline for [[BOSC_Abstract_Submission|submitting abstracts]]
 * July 9-10, 2014: [[Codefest 2014]], Boston, MA
 * July 11-12, 2014: BOSC 2014, Boston, MA
 * July 12-16, 2014: ISMB 2014, Boston, MA
-|}
 
 == Overview ==
 
 The Bioinformatics Open Source Conference (BOSC) is a two-day Special Interest Group of ISMB. It is sponsored by the Open Bioinformatics Foundation (O|B|F), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development within the biological research community. 
 
-Open Source software has flourished in the bioinformatics community for well over a decade. When the first BOSC (Bioinformatics Open Source Conference) was held in 2000, there were already a number of popular open source bioinformatics packages, and the number and range of these projects has increased dramatically since then. BOSC covers the wide range of open source bioinformatics software packages that have been successfully developed and adopted by the community, and encompasses the growing movement of Open Science, with its focus on transparency, reproducibility, and data provenance. We welcome submissions relating to all aspects of open source bioinformatics software and open science, including new computational methods, reusable software components, visualization, interoperability, and other approaches that help to advance research in the biological sciences. Two full days of talks, posters, panel discussions, and informal discussion groups will enable BOSC attendees to interact with other developers and share ideas and code, as well as learning about some of the latest developments in the field of open source bioinformatics.
+Open Source software has flourished in the bioinformatics community for well over a decade. When the first BOSC (Bioinformatics Open Source Conference) was held in 2000, there were already a number of popular open source bioinformatics packages, and the number and range of these projects has increased dramatically since then.  covers the wide range of open source bioinformatics software being developed, and encompasses the growing movement of Open Science, with its focus on transparency, reproducibility, and data provenance.  We welcome submissions relating to all aspects of bioinformatics and open science software, including new computational methods, reusable software components, visualization, interoperability, and other approaches that help to advance research in the biomolecular sciences. Two full days of talks, posters, panel discussions, and informal discussion groups will enable BOSC attendees to interact with other developers and share ideas and code, as well as learning about some of the latest developments in the field of open source bioinformatics.
 
 Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter.com/OBF_BOSC follow @OBF_BOSC] and use [https://twitter.com/search?q=%23BOSC2014 hash tag #bosc2014].
+
+<div style="float:left; margin-right:20px; maxwidth: 180px; background-color: #FFFFFF">[[File:Eagle_logo_2013.jpg‎|120px|right|Eagle Genomics logo|link=http://www.eaglegenomics.com/]]</div>
+
+== Sponsors ==
+
+<div style="float:right; maxwidth: 180px; background-color: #FFFFFF">[[File:gigascience-07.png‎|200px|right|GigaScieece|link=http://www.gigasciencejournal.com/]]</div>
+
+BOSC is sponsored by the [[Main_Page|Open Bioinformatics Foundation]], a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community.
+
+We thank [http://www.eaglegenomics.com/ Eagle Genomics] for sponsoring the BOSC Student Travel Awards again this year, and welcome the open access journal [http://www.gigasciencejournal.com/ GigaScience] GigaScience as a new sponsor for BOSC 2014.
 
 == Session Topics == 
 * '''Open Science and Reproducible Research''' -- covers the theory and practice of open science, including open notebook science, open data, transparent and reproducible workflows, and shared standards for reviewing and publishing research papers.
@@ -44,7 +52,7 @@ This year's keynote speakers will be C. Titus Brown (Michigan State University) 
 
 == Submitting Abstracts ==
 
-The deadline for abstract submissions is '''Friday, April 4, 2014''. [[BOSC_Abstract_Submission|Click here for information on submitting your abstract for a talk or poster]]
+The deadline for abstract submissions is '''Friday, April 4, 2014'''.  [[BOSC_Abstract_Submission|Click here for information on submitting your abstract for a talk or poster]]
 
 == Organizing Committee ==
 
