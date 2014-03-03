@@ -42,6 +42,10 @@ This year's keynote speakers will be C. Titus Brown (Michigan State University) 
 
 [[BOSC_2014_Keynote_Speakers|More information about BOSC 2014 Keynote Speakers]]
 
+== Submitting Abstracts ==
+
+The deadline for abstract submissions is '''Friday, April 4, 2014''. [[BOSC_Abstract_Submission|Click here for information on submitting your abstract for a talk or poster]]
+
 == Organizing Committee ==
 
 '''Co-Chairs'''
