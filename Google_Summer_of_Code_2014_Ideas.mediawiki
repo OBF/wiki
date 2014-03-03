@@ -23,10 +23,9 @@ The fastR project has been presented to the useR! conference 2013, and it is now
 ;Required skills
 :Moderate technical difficulty, an interest in statistical problem solving is a plus but not essential. This project requires mid/advanced Java programming skills
 
-;Reference to other projects: R, BioJava, Jruby
+;Reference to other projects: BioJava, R, BioRuby, Jruby, Jython
 
-;(Possible) mentors: Jan Vitek, Alberto Arrigoni
-
+;Mentors: Jan Vitek, Alberto Arrigoni
 
 === BioInterchange: Convert and Exchange Biological File Formants using RESTful web service ===
 
