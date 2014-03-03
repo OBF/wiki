@@ -377,6 +377,23 @@ For GSoC 2014, BioJava is partnering with the Systems Biology Markup Language (S
 ; Mentor:
 : Ketil Malde (ketil@malde.org)
 
+==[http://biocaml.org Biocaml]==
+:* [https://groups.google.com/d/forum/biocaml Mailing List]
+
+=== Bioinformatics Js_of_ocaml Visualization Toolkit ===
+; Rationale
+: [http://ocaml.org OCaml] is a strong statically typed functional programming language. Usually one does not consider such languages for front-end development, but the Js_of_ocaml compiler is causing OCaml to be more widely used for building websites. [http://ocsigen.org/js_of_ocaml/ Js_of_ocaml] compiles OCaml code to pure Javascript and the generated Javascript has [http://ocsigen.org/js_of_ocaml/manual/performances very good performance]. On the other hand, bioinformatics data analysis needs to be conducted by a broader range of users, which requires more elegant user interfaces with high quality data visualization.
+
+; Approach
+: Write an OCaml library that can be used to visualize large data sets efficiently and interactively in the browser. The library should be smart enough to work on the client side when possible, but make server side calls when necessary. You may want to use [http://ocsigen.org/eliom/ Eliom] for this purpose. You can connect to parsers and data structures available in [http://biocaml.org Biocaml] as needed. As demonstration of success, it should be possible to create genome visualizations like that of the [http://genome.ucsc.edu/cgi-bin/hgGateway UCSC genome browser] and protein interaction networks like that of [http://www.cytoscape.org/ Cytoscape].
+
+; Difficulty and needed skills
+This project is for intermediate to advanced programmers. You will need to be already familiar with OCaml (or closely related languages like F# and Haskell) and have a basic understanding of Javascript and client/server programming.
+
+; Mentor
+: [http://ashishagarwal.org Ashish Agarwal] <agarwal1975@gmail.com>
+
+
 <!--
 ==BioSQL==
 
