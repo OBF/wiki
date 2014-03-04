@@ -34,7 +34,7 @@ Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter
 
 BOSC is sponsored by the [[Main_Page|Open Bioinformatics Foundation]], a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community.
 
-We thank [http://www.eaglegenomics.com/ Eagle Genomics] for sponsoring the BOSC Student Travel Awards again this year, and welcome the open access journal [http://www.gigasciencejournal.com/ GigaScience] GigaScience as a new sponsor for BOSC 2014.
+We thank [http://www.eaglegenomics.com/ Eagle Genomics] for sponsoring the BOSC Student Travel Awards again this year, and welcome the open access journal [http://www.gigasciencejournal.com/ GigaScience] as a new sponsor for BOSC 2014.
 
 == Session Topics == 
 * '''Open Science and Reproducible Research''' -- covers the theory and practice of open science, including open notebook science, open data, transparent and reproducible workflows, and shared standards for reviewing and publishing research papers.
