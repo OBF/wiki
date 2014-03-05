@@ -87,6 +87,11 @@ Our GSoC ideas from each project are collected here: '''[[Google Summer of Code 
 :* [http://biohaskell.org/ Project website]]
 :* [http://hackage.haskell.org/packages/#cat:Bioinformatics Bioinformatics section on HackageDB]
 
+; [http://biocaml.org Biocaml] :
+:* [http://biocaml.org Project website]
+:* [https://groups.google.com/d/forum/biocaml Mailing list]
+:* [http://www.open-bio.org/wiki/Google_Summer_of_Code_2014_Ideas#Biocaml Project ideas]
+
 == Guide for prospective GSoC students ==
 
 === Before you apply ===
