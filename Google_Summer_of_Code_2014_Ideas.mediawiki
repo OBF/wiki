@@ -35,7 +35,7 @@ and then check 00_INSTALL.sh for installation instructions, and email me if anyt
 
 ;Mentors: Toby Dylan Hocking tdhock5@gmail.com plus anyone else with experience with D3/Pyramid is welcome to help!
 
-=== Integrate basic Bioconductor functionalities in fastr (Java/R) ===
+=== Integrate basic biological data analysis capabilities in fastR (Java/R) ===
 
 ;Rationale
 :R is a free software programming language and software environment for statistical computing and graphics. The R language is widely used among statisticians and data miners for developing statistical software and data analysis. Despite this, R is hard to mantain and evolve, lacks portability features and is characterized by low performance. The FastR project (http://www.oracle.com/technetwork/java/jvmls2013vitek-2013524.pdf) aims to rethink how to implement R, by leveraging well tested technologies to build a high performance VM. FastR is an implementation of the R programming language in Java using AST interpretation and specialisation for improved performance. The implementation has been extended to support JIT compilation, leading to performance improvements.
@@ -49,7 +49,7 @@ The fastR project has been presented to the useR! conference 2013, and it is now
 
 ;Reference to other projects: BioJava, R, BioRuby, Jruby, Jython
 
-;Mentors: Jan Vitek, Alberto Arrigoni
+;Mentors: Jan Vitek, Alberto Arrigoni [arrigonialberto86@gmail.com]
 
 === BioInterchange: Convert and Exchange Biological File Formants using RESTful web service ===
 
