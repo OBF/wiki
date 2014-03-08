@@ -9,7 +9,9 @@ See the main OBF [[Google Summer of Code]] page for more information about the G
 
 ==Cross-project ideas==
 
-OBF is an umbrella organization which represents many different programming languages used in [http://en.wikipedia.org/wiki/Bioinformatics bioinformatics]. These cross-language project ideas involve making two or more languages work together, taking advantage of the strengths of each to support solving real scientific problems. We encourage students and mentors to propose collaborative projects where more than one language is used and exploited.
+OBF is an umbrella organization which represents many different programming languages used in [http://en.wikipedia.org/wiki/Bioinformatics bioinformatics]. In addition to working with each of the "Bio*" projects (listed below), this year we are also accepting a category of "cross-project" ideas that cover multiple programming languages or projects. These collaborative ideas are broadly defined and can be thought of as "unfinished" &mdash; interested students should adapt the ideas to their own strengths and goals, and are responsible for the quality of the final proposed idea in their application.
+
+'''Feel free to propose your own entirely new idea'''. You can also draw ideas from [http://gmod.org/wiki/GSoC#2014_Project_Ideas Genome Informatics (GMOD)] and the [http://informatics.nescent.org/wiki/Phyloinformatics_Summer_of_Code_2014 National Evolutionary Synthesis Center (NESCent)].
 
 === Improve SegAnnDB interactive genomic segmentation web app ===
 
