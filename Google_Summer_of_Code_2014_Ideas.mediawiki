@@ -36,7 +36,7 @@ OBF is an umbrella organization which represents many different programming lang
 : Here are a couple requests we've received from the community, but we are open to other ideas:
 :* Create a chromosome map tool - allow users to input and visualize the position of genetic loci. (See [https://github.com/WormBase/website/issues/1103 community request #1103])
 :* Create a central dogma view to tie together our gene/protein/sequence pages. (See [https://bitbucket.org/tharris/wormbase/issue/557/add-central-dogma-nav-to-overview community request #557])
-: The website's back-end is written in Perl, using some BioPerl as well as custom code. Significant work on the back-end could lead to or involve BioPerl improvements, as well.
+: The website's back-end is written in Perl, using some BioPerl as well as custom code. Significant work on the back-end could lead to or involve BioPerl improvements.
 
 ;Languages and skills
 : Front-end: Javascript, HTML5, JS graphical library of your choice (e.g. D3). Back-end: some Perl, including BioPerl. 
