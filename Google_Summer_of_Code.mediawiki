@@ -124,13 +124,16 @@ When applying, (aside from the information requested by Google) please provide t
 
 == Student Progress Reports ==
 
-To encourage community bonding and awareness of what the GSoC students are doing, from 2012 the OBF is being much clearer about our progress report expectations.
+In addition to writing code, accepted students send weekly updates to the OBF community on their project's progress. These updates allow us to keep aware of how GSoC students are doing, give students a forum to ask any questions, and promote overall community bonding.
 
-We would like every student to setup a blog for the GSoC project (or a category/tag on your existing blog) which you will use to summarize your progress every week, as well as longer posts at the half way evaluation, and at the end of the summer.
+At the beginning of the summer, we ask that you set up a blog for the GSoC project (or a category/tag on your existing blog) which you will use to summarize your progress every week, as well as longer posts about your work if you'd like. 
 
-In addition, after publishing each blog post, we expect you to email the URL and the text of the blog (or if important images or formatting would be lost, at least a short summary) to the host project's mailing list(s) (check with your mentors if the project has more than one) AND the gsoc@open-bio.org mailing list.
+Then, at the start of each week:
 
-You will be writing under your own name, but with a clear association with your mentors, the OBF and its projects, so please take this seriously and be professional. Remember this will become part of your online presence, and potentially looked at by future employers and colleagues.
+# Post an update on your blog: What did you do last week? What do you plan to do this week? Do you have any unanswered questions, any unsolved problems from the last week, interesting observations or anything else you'd like to mention?
+# Email the URL and text of the post (or a short summary) to the host project's mailing list (your mentors will confirm which one to use) ''and'' the main OBF GSoC mailing list (gsoc@lists.open-bio.org).
+
+You will be writing under your own name, but with a clear association with your mentors, the OBF and its projects, so please take this seriously and be professional. Remember that your blog will be one of the first things found by anyone interested in the project you're working on, and can be a valuable resource to them &mdash; as well as a significant part of your online presence.
 
 == Contact ==
 
