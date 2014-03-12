@@ -320,7 +320,7 @@ Students working on these projects will interact with both the BioJava and JSBML
 === Improve the plugin interface for CellDesigner ===
 
 ; Rationale
-: One of the most frequently used programs in computational systems biology is CellDesigner. JSBML provides an interface that facilitates the development of plugins for this program. This interface has recently been revised and improved.
+: One of the most frequently used programs in computational systems biology is [http://www.celldesigner.org/ CellDesigner]. JSBML provides an interface that facilitates the development of plugins for this program. This interface has recently been revised and improved.
 
 ; Approach
 : Test cases and plugins for CellDesigner are to be implemented in order to make use of it and ensure its correct behavior. It is, for instance, possible to use CellDesigner's complex canvas user interface to create or manipulate biochemical networks and to conduct numerical computation.
