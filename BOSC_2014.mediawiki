@@ -28,13 +28,14 @@ Open Source software has flourished in the bioinformatics community for well ove
 
 Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter.com/OBF_BOSC follow @OBF_BOSC] and use [https://twitter.com/search?q=%23BOSC2014 hash tag #bosc2014].
 
-<div style="float:left; margin-right:20px; maxwidth: 180px; background-color: #FFFFFF">[[File:Eagle_logo_2013.jpg‎|120px|right|Eagle Genomics logo|link=http://www.eaglegenomics.com/]]</div>
-
 == Sponsors ==
 
-<div style="float:right; maxwidth: 180px; background-color: #FFFFFF">[[File:gigascience-07.png‎|200px|right|GigaScieece|link=http://www.gigasciencejournal.com/]]</div>
-
 BOSC is sponsored by the [[Main_Page|Open Bioinformatics Foundation]], a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community.
+
+{|
+| [[File:Eagle_logo_2013.jpg‎|120px|right|Eagle Genomics logo|link=http://www.eaglegenomics.com/]]
+| [[File:gigascience-07.png‎|200px|right|GigaScieece|link=http://www.gigasciencejournal.com/]]
+|}
 
 We thank [http://www.eaglegenomics.com/ Eagle Genomics] for sponsoring the BOSC Student Travel Awards again this year, and welcome the open access journal [http://www.gigasciencejournal.com/ GigaScience] as a new sponsor for BOSC 2014.
 
