@@ -53,6 +53,15 @@ Kendall Square Red Line [http://mbta.com/ T stop]:
 
 [http://goo.gl/maps/c8qkV Google maps]
 
+== Sponsors ==
+
+{|
+| [[File:harbinger_partners.jpg‎|309px|right|Harbinger Partners logo|link=http://harbinger-partners.com/]]
+|}
+
+We thank [http://harbinger-partners.com/ Harbinger Partners, Inc.] for sponsoring the BOSC CodeFest 2014.
+
+
 == Organizers ==
 
 * [http://bcbio.wordpress.com/ Brad Chapman]
