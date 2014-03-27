@@ -60,11 +60,10 @@ Thanks to the generosity of our sponsors we will have coffee, lunch and dinner f
 == Sponsors ==
 
 {|
-| [[File:harbinger_partners.jpg‎|309px|right|Harbinger Partners logo|link=http://harbinger-partners.com/]]
+| [[File:HP-logo-no-tagline.png‎|131px|right|Harbinger Partners logo|link=http://harbinger-partners.com/]]
 |}
 
 We thank [http://harbinger-partners.com/ Harbinger Partners, Inc.] for sponsoring the BOSC CodeFest 2014.
-
 
 == Organizers ==
 
