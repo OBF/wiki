@@ -60,9 +60,11 @@ Thanks to the generosity of our sponsors we will have coffee, lunch and dinner f
 == Sponsors ==
 
 {|
-| [[File:Curoverse.png|200px|right|Curoverse logo|link=http://curoverse.com]]
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-| [[File:HP-logo-no-tagline.png‎|131px|right|Harbinger Partners logo|link=http://harbinger-partners.com/]]
+| [[File:Curoverse.png|175px|center|Curoverse logo|link=http://curoverse.com]]
+|rowspan="2"| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+|rowspan="2"| [[File:HP-logo-no-tagline.png‎|131px|center|Harbinger Partners logo|link=http://harbinger-partners.com/]]
+|-
+| [[File: Arvados.png|150px|center|Arvados logo|link=http://arvados.org]]
 |}
 
 We thank [http://curoverse.com Curoverse] and [http://harbinger-partners.com/ Harbinger Partners, Inc.] for sponsoring the BOSC CodeFest 2014.
