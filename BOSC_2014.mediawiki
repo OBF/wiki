@@ -36,7 +36,7 @@ BOSC is sponsored by the [[Main_Page|Open Bioinformatics Foundation]], a non-pro
 {|
 |rowspan="2"| [[File:Eagle_logo_2013.jpg‎|120px|left|Eagle Genomics logo|link=http://www.eaglegenomics.com/]]
 |rowspan="2"| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-|rowspan="2"| [[File:gigascience-07.png‎|200px|center|GigaScieece|link=http://www.gigasciencejournal.com/]]
+|rowspan="2"| [[File:gigascience-07.png‎|175px|center|GigaScieece|link=http://www.gigasciencejournal.com/]]
 |rowspan="2"| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 | [[File:Curoverse.png|200px|center|Curoverse logo|link=http://curoverse.com]]
 |-
