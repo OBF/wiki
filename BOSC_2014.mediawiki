@@ -34,12 +34,13 @@ Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter
 BOSC is sponsored by the [[Main_Page|Open Bioinformatics Foundation]], a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community.
 
 {|
-| [[File:Eagle_logo_2013.jpg‎|120px|right|Eagle Genomics logo|link=http://www.eaglegenomics.com/]]
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-| [[File:gigascience-07.png‎|200px|right|GigaScieece|link=http://www.gigasciencejournal.com/]]
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-| [[File:Curoverse.png|200px|right|Curoverse logo|link=http://curoverse.com]]
-| [[File: Arvados.png|150px|right|Curoverse logo|link=http://arvados.org]]
+|rowspan="2"| [[File:Eagle_logo_2013.jpg‎|120px|left|Eagle Genomics logo|link=http://www.eaglegenomics.com/]]
+|rowspan="2"| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+|rowspan="2"| [[File:gigascience-07.png‎|200px|center|GigaScieece|link=http://www.gigasciencejournal.com/]]
+|rowspan="2"| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| [[File:Curoverse.png|200px|center|Curoverse logo|link=http://curoverse.com]]
+|-
+| [[File: Arvados.png|150px|center|Curoverse logo|link=http://arvados.org]]
 |}
 
 We thank [http://www.eaglegenomics.com/ Eagle Genomics] for sponsoring the BOSC Student Travel Awards again this year, and welcome the open access journal [http://www.gigasciencejournal.com/ GigaScience], and [http://curoverse.com Curoverse] (the team behind the open source platform [http://arvados.org Arvados]) as new sponsors for BOSC 2014.
