@@ -45,7 +45,7 @@ We'll coordinate through the
 [https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2014 Codefest 2014 mailing list],
 so please sign up to receive updates.
 
-== Location ==
+== Logistics ==
 
 {|
 | [[File:hack-reduce-logo.png‎|153px|right|hack/reduce logo|link=http://www.hackreduce.org/]]
@@ -53,7 +53,9 @@ so please sign up to receive updates.
 
 [http://www.hackreduce.org/ hack/reduce], a wonderful hacker space in Cambridge,
 has agreed to host us for the two days. It's located a short walk from the
-Kendall Square Red Line [http://mbta.com/ T stop]: [http://goo.gl/maps/c8qkV Google maps]
+Kendall Square Red Line [http://mbta.com/ T stop]: [http://goo.gl/maps/c8qkV Google map]
+
+Thanks to the generosity of our sponsors we will have coffee, lunch and dinner for both days. We plan to meet at 9am and work throughout the day and evening. Timing is flexible so come when you are able and contribute as much as you'd like. On July 10th we'll have a BBQ dinner at Brad's house in Somerville to thank everyone for all the hard work.
 
 == Sponsors ==
 
