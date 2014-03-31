@@ -31,7 +31,7 @@ Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter
 
 == Sponsors ==
 
-BOSC is sponsored by the [[Main_Page|Open Bioinformatics Foundation]], a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community.
+BOSC is organised by the [[Main_Page|Open Bioinformatics Foundation]], a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community.
 
 {|
 |rowspan="2"| [[File:Eagle_logo_2013.jpg‎|120px|left|Eagle Genomics logo|link=http://www.eaglegenomics.com/]]
