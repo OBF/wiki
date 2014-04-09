@@ -8,14 +8,13 @@ __NOTOC__
 
 The 15th Annual Bioinformatics Open Source Conference (BOSC 2014) will be held in Boston on July 11-12, right before ISMB 2014.
 
-=== [[BOSC_Abstract_Submission|Submit your abstract now!]] ===
-
-'''New this year''': students who are the first authors of abstracts that are accepted for talks receive FREE admission to BOSC!
+Abstract submission for talks is now closed. However, we will begin accepting poster abstracts in May.
 
 == Important Dates ==
 
 
-* April 4, 2014: Deadline for [[BOSC_Abstract_Submission|submitting abstracts]]
+* April 4, 2014: Deadline for submitting talk abstracts
+* May 1, 2014: Call for poster abstracts opens
 * June 6, 2014: Deadline for early registration discount
 * July 9-10, 2014: [[Codefest 2014]], Boston, MA
 * July 11-12, 2014: BOSC 2014, Boston, MA
@@ -61,7 +60,7 @@ This year's keynote speakers will be C. Titus Brown (Michigan State University) 
 
 == Submitting Abstracts ==
 
-The deadline for abstract submissions is '''Friday, April 4, 2014'''.  [[BOSC_Abstract_Submission|Click here for information on submitting your abstract for a talk or poster]]
+The deadline for submitting abstracts to be considered for talks was '''Friday, April 4, 2014'''.  We will reopen submission for poster abstracts on May 1.
 
 == Organizing Committee ==
 
