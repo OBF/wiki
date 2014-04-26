@@ -30,9 +30,6 @@ C. Titus Brown is an assistant professor in the Department of Computer Science a
 
 Dr. Brown's topic is  "A History of Bioinformatics (in the year 2039)".
 
-''In 2039, I expect to look back at the last 25 years of biology and see
-both wonderful surprises and missed opportunities.  In this talk, I will
-attempt to predict both some surprises and some of the opportunities I worry
-that we will have missed over the next 25 years.''
+''In 2039, I expect to look back at the last 25 years of biology and see both wonderful surprises and missed opportunities.  In this talk, I will attempt to predict both some surprises and some of the opportunities I worry that we will have missed over the next 25 years.''
 ----
 [[BOSC_2014|Back to BOSC 2014 home page]]
