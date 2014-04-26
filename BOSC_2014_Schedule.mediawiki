@@ -37,7 +37,7 @@ See [[Codefest_2014]] for details.
 | Peter Cock and/or Nomi Harris (Chairs, BOSC 2014)
 |-
 | 9:15-10:15
-| [Keynote]
+| [[BOSC_2014_Keynote_Speakers|Keynote]]
 | Speaker
 |-
 | '''10:15-10:45'''
