@@ -109,7 +109,7 @@ See [[Codefest_2014]] for details.
 | Hilmar Lapp (President, Open Bioinformatics Foundation)
 |-
 | 9:15
-| [Keynote]
+| | [[BOSC_2014_Keynote_Speakers|Keynote]]
 | Speaker
 |-
 | '''10:15-10:45'''
