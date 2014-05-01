@@ -13,11 +13,11 @@ This is a working draft. Once finalised, you will also be able to:
 
 === Codefest Day 1: Wednesday 9 July 2014 ===
 
-See [[Codefest_2014]] for details.
+See [[Codefest_2014 | Codefest 2014]] for details.
 
 === Codefest Day 2: Thursday 10 July 2014 ===
 
-See [[Codefest_2014]] for details.
+See [[Codefest_2014 | Codefest 2014]] for details.
 
 == BOSC ==
 
