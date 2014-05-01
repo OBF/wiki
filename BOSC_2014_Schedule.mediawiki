@@ -21,7 +21,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 
 == BOSC ==
 
-=== Day 1: Friday 11 July 2014 ===
+=== BOSC Day 1: Friday 11 July 2014 ===
 
 {| border="1" cellspacing="0" cellpadding="7"
 ! Time
@@ -81,7 +81,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 <br>
 [[File:Pear.png|100px|right|BOSC logo|link=BOSC_2014]]
 
-=== Day 2: Saturday 12 July 2014 ===
+=== BOSC Day 2: Saturday 12 July 2014 ===
 
 {| border="1" cellspacing="0" cellpadding="7"
 ! Time
