@@ -93,7 +93,7 @@ See [[Codefest_2014]] for details.
 | Peter Cock and/or Nomi Harris (Chairs, BOSC 2014)
 |-
 | 8:50 - 9:00
-| Codefest 2014 Report
+| [[Codefest_2014 | Codefest 2014 Report]]
 | Brad Chapman
 |-
 | 9:00 - 9:15
