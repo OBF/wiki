@@ -64,11 +64,11 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | '''Coffee Break'''
 |
 |-
-| 16:00-17:15
+| 16:00-17:00
 | ''Session: Bioinformatics Open Source Project Updates''
 | Chair: TBA
 |-
-| 17:15-18:00
+| 17:00-18:00
 | Lightning Talks then [[BOSC_2014/BOFs|BOFs]]
 | Suggest a BOF topic [[BOSC_2014/BOFs|here!]]
 |-
