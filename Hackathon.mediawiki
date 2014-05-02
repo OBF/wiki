@@ -12,6 +12,8 @@ Since 2010, people from the O|B|F project communities have regularly organized o
 ** July 9-10, 2014, in Boston, MA, USA.
 * [[Codefest 2013]]
 ** July 17-18, 2013, in Berlin, Germany.
+* [http://www.broadinstitute.org/events/interoperability-hackathon-2013/home BOSC/Broad Interoperability Hackathon 2013]
+** April 7-8, 2013 at Broad Institute in Cambridge, Massachusetts.
 * [[EU Codefest 2012]]
 ** July 19-20, 2012, in Lodi, Italy.
 * [[Codefest 2012]]
