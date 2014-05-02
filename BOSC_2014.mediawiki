@@ -62,7 +62,7 @@ We thank [http://www.eaglegenomics.com/ Eagle Genomics] for sponsoring the BOSC 
 * '''Panel''': Reproducibility: Rewards and Challenges
 
 == Keynote Speakers ==
-This year's keynote speakers will be C. Titus Brown (Michigan State University) and Philip Bourne (NIH).
+This year's keynote speakers will be Philip Bourne (NIH) and C. Titus Brown (Michigan State University).
 
 [[BOSC_2014_Keynote_Speakers|More information about BOSC 2014 Keynote Speakers]]
 
