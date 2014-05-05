@@ -24,7 +24,7 @@ If you plan to attend to the EU Codefest 2014, please fill in this [https://docs
 
 == Logistics ==
 
-The Codefest will be hosted at the EBI Hinxton [http://www.ebi.ac.uk/about/travel Campus], close to Cambridge, UK. 
+The Codefest will be hosted at the EBI [http://www.ebi.ac.uk/about/travel Campus] in Hinxton, close to Cambridge, UK. 
 
 More details on the logistics will be added in the near future, if you want you can register to the [https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2014 Codefest Mailing list] to receive news about this event.
 
