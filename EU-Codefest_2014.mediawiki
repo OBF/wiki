@@ -17,7 +17,19 @@ The EU Codefest share the same [http://www.open-bio.org/wiki/Codefest_2014#Goals
 Since BOSC take place alternatively in the EU and USA, the EU Codefest was born two years ago to give the chance to EU based bioinformatics developers to attend, at least once per year, to an OBF Hackathon even when the BOSC is in the USA. Bioinformatics keeps growing and expanding rapidly and we believe that meeting once every two years for EU based developers is too much time. Having the chance to meet more regularly will in turn be extremely beneficial to strengthen our community, share ideas and start collaborating on new projects.
 
 This event will be linked to the [http://www.open-bio.org/wiki/Codefest_2014 OBF Codefest], in fact we will coordinate with the group that will meet in the USA and hopefully the EU Codefest will be a continuation of the OBF Codefest work, with people having the chance to expand on existing projects and start new ones.
- 
+
+== Programme ==
+
+During the codefest people are encouraged to work on FOSS projects. There will be a number of topics of focus:
+
+# The Bio* projects
+# Semantic web
+# Software deployment and pipelines, including CloudBiolinux, and GNU GUIX
+# NoSQL and VCF
+# Visualisation with D3/JS
+
+If you have another topic of interest, please contact the organizers.
+
 == Attendees ==
 
 If you plan to attend to the EU Codefest 2014, please fill in this [https://docs.google.com/spreadsheets/d/1vSLuVSHg139b7TdZnHAQXy0ZetikN7PZOILX0cBUKR8/edit?usp=sharing spreadsheet] so we can keep track of the number of people.
