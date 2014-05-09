@@ -9,7 +9,7 @@ This is a working draft. Once finalised, you will also be able to:
 
 - Download the complete program.
 
-== Codefest ==
+== Pre-BOSC Codefest ==
 
 === Codefest Day 1: Wednesday 9 July 2014 ===
 
@@ -53,12 +53,12 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | (And posters)
 |-
 | 1:00-2:00
-| '''Poster Session I'''
+| '''Poster Session and Birds of a Feather'''
 | (Overlapping with Lunch)
 |-
 | 14:00-15:30
 | ''Session: Visualization''
-| Chair: TBA
+| Chair: Chris Fields
 |-
 | '''15:30-16:00'''
 | '''Coffee Break'''
@@ -66,10 +66,10 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |-
 | 16:00-17:00
 | ''Session: Bioinformatics Open Source Project Updates''
-| Chair: TBA
+| Chair: Peter Cock
 |-
 | 17:00-18:00
-| Lightning Talks then [[BOSC_2014/BOFs|BOFs]]
+| Lightning Talks followed by [[BOSC_2014/BOFs|BOFs]]
 | Suggest a BOF topic [[BOSC_2014/BOFs|here!]]
 |-
 | 19:00
@@ -110,14 +110,14 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |-
 | 10:45-12:30
 | ''Session: Open Science and Reproducible Research''
-| Chair: TBA
+| Chair: Hilmar Lapp
 |-
 | '''12:30-13:30'''
 | '''Lunch'''
 | (And posters)
 |-
 | '''12:30-13:30'''
-| '''Poster Session III'''
+| '''Poster Session''
 | (Overlapping with Lunch)
 |-
 | 13:30-15:30
@@ -134,7 +134,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |-
 | 16:15-17:05
 | '''Panel''': Reproducibility: Rewards and Challenges
-| Moderator: TBA, Panelists: TBA
+| Moderator: Brad Chapman; Panelists: Phil Bourne, Titus Brown, Varsha Khodiyar, Kay Thaney
 |-
 | 17:05-17:15
 | Presentation of Student Travel Awards
@@ -146,13 +146,13 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |-
 |}
 
-Note the ISMB reception starts from 17:30...
+Note the ISMB reception starts at 17:30...
 
 ----
 
 === Posters ===
 
-Links for any shared links to presented posters will be posted here:
+Shared links to presented posters will be posted here:
 
 {| border="1" cellspacing="0" cellpadding="7"
 ! Title
