@@ -2,6 +2,7 @@
 title: BOSC 2014 Schedule
 ---
 
+__NOTOC__
 [[File:Pear.png|100px|right|BOSC logo|link=BOSC_2014]]
 This is a working draft. Once finalised, you will also be able to:
 
