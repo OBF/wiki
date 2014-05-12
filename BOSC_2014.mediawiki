@@ -35,6 +35,8 @@ Because BOSC is run as a two-day Special Interest Group (SIG) meeting at the ann
 
 Note that this year we are [http://news.open-bio.org/news/2014/03/free-student-presenters-bosc-2014/ waiving the BOSC registration fee for student presenters].
 
+Note that if you need a formal invitation letter for your USA VISA application, please contact the ISMB: https://www.iscb.org/ismb2014-registration#visainvitation
+
 == Sponsors ==
 
 BOSC is organised by the [[Main_Page|Open Bioinformatics Foundation]], a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community.
