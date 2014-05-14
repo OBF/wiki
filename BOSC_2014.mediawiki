@@ -8,7 +8,7 @@ __NOTOC__
 
 The 15th Annual Bioinformatics Open Source Conference (BOSC 2014) will be held in Boston on July 11-12, right before [https://www.iscb.org/ismb2014 ISMB 2014] as one of the SIG meetings.
 
-Abstract submission for talks is now closed. However, we will begin accepting poster abstracts in May.
+Abstract submission for talks is now closed. However, we are accepting poster abstracts in May.
 
 == Important Dates ==
 
