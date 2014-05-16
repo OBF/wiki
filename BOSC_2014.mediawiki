@@ -49,9 +49,13 @@ BOSC is organised by the [[Main_Page|Open Bioinformatics Foundation]], a non-pro
 | [[File:Curoverse.png|175px|center|Curoverse logo|link=http://curoverse.com]]
 |-
 | [[File: Arvados.png|150px|center|Arvados logo|link=http://arvados.org]]
+|rowspan="2"| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+|rowspan="2"| [[File:google-logo11w.png‎|205px|center|Google|link=http://www.google.com/]]
 |}
 
 We thank [http://www.eaglegenomics.com/ Eagle Genomics] for sponsoring the BOSC Student Travel Awards again this year, and welcome the open access journal [http://www.gigasciencejournal.com/ GigaScience], and [http://curoverse.com Curoverse] (the team behind the open source platform [http://arvados.org Arvados]) as new sponsors for BOSC 2014.
+
+We are grateful to [http://www.google.com/ Google] for their generous support for videorecording BOSC 2014.
 
 == Session Topics == 
 * '''Open Science and Reproducible Research''' -- covers the theory and practice of open science, including open notebook science, open data, transparent and reproducible workflows, and shared standards for reviewing and publishing research papers.
