@@ -164,7 +164,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |
 |-
 | 10:45-12:30
-| Session: Software Interoperability''
+| ''Session: Software Interoperability''
 | Chair: Raoul Bonnal
 |-
 | 10:45
