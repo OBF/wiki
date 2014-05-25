@@ -68,8 +68,8 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | (and poster session)
 |-
 | 1:00-2:00
-| '''Poster Session and Birds of a Feather'''
-| (overlapping with lunch)
+| '''Poster Session and Birds of a Feather''' (overlapping with lunch)
+| Suggest a BOF topic [[BOSC_2014/BOFs|here!]]
 |-
 | 14:00-15:30
 | ''Session: Visualization''
