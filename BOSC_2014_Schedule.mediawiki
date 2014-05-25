@@ -42,14 +42,34 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | 10:45-12:30
 | ''Session: Genome-scale Data and Beyond''
 | Chair: Chris Fields
+|--
+| 10:45
+| [Genome-Scale] ADAM: Fast, Scalable Genomic Analysis
+| Frank Austin Nothaft
+|-
+| 11:05
+| [Genome-Scale] A framework for benchmarking RNA-seq pipelines
+| Rory Kirchner
+|-
+| 11:25
+| [Genome-Scale] New Frontiers of Genome Assembly with SPAdes 3.1
+| Andrey Prjibelski
+|-
+| 11:45
+| [Genome-Scale] SigSeeker: An Ensemble for Analysis of Epigenetic Data
+| Jens Lichtenberg
+|-
+| 12:05
+| [Genome-Scale] Pathview: an R/Bioconductor package for pathway-based data integration and visualization
+| Weijun Luo
 |-
 | '''12:30-1:30'''
 | '''Lunch'''
-| (And posters)
+| (And Posters)
 |-
 | 1:00-2:00
 | '''Poster Session and Birds of a Feather'''
-| (Overlapping with Lunch)
+| (Overlapping with lunch)
 |-
 | 14:00-15:30
 | ''Session: Visualization''
