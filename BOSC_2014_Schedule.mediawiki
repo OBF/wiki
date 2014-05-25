@@ -29,7 +29,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |- 
 | 9:00-9:15
 | Introduction and welcome
-| Peter Cock and/or Nomi Harris (Chairs, BOSC 2014)
+|Nomi Harris and/or Peter Cock (Chairs, BOSC 2014)
 |-
 | 9:15-10:15
 | [[BOSC_2014_Keynote_Speakers|Keynote: A History of Bioinformatics (in the year 2039)]]
