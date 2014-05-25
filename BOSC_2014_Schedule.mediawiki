@@ -164,7 +164,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |
 |-
 | 10:45-12:30
-| 'Session: Software Interoperability''
+| Session: Software Interoperability''
 | Chair: Raoul Bonnal
 |-
 | 10:45
@@ -199,13 +199,38 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | ''Session: Open Science and Reproducible Research''
 | Chair: Hilmar Lapp
 |-
+
+| 13:30
+| [Open Science] SEEK for Science: A Data Management Platform which Supports Open and Reproducible Science
+| Stuart Owen
+|-
+| 13:55
+| [Open Science]  Arvados: Achieving Computational Reproducibility and Data Provenance in Large-Scale Genomic Analyses
+| Brett Smith
+|-
+| 14:20
+| [Open Science]  Integrating Taverna Player into Scratchpads
+| Robert Haines
+|-
+| 14;45
+| [Open Science]  Enhancing the Galaxy Experience through Community Involvement
+| Daniel Blankenberg
+|-
+| 15:05
+| [Open Science]  Supporting dynamic community developed biological pipelines
+| Brad Chapman
+|-
 | '''15:30-16:00'''
 | '''Coffee Break'''
 |
 |-
 | 16:00-16:15
-| 
-| 
+| ''Session: Open Science and Reproducible Research (cont.)''
+| Chair: Hilmar Lapp
+|-
+| 16:00
+| [Open Science]  Open as a strategy for durability, reproducibility and scalability
+| Jonathan Rees
 |-
 | 16:15-17:05
 | '''Panel''': Reproducibility: Rewards and Challenges
