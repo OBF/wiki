@@ -113,7 +113,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |-
 | 16:24
 | [Updates]  BioRuby and distributed development
-| Raoul Bonnal (?)
+| Pjotr Prins
 |-
 | 16:36
 | [Updates]  Biopython Project Update
