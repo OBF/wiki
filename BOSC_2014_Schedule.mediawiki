@@ -65,11 +65,11 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |-
 | '''12:30-1:30'''
 | '''Lunch'''
-| (And Posters)
+| (and poster session)
 |-
 | 1:00-2:00
 | '''Poster Session and Birds of a Feather'''
-| (Overlapping with lunch)
+| (overlapping with lunch)
 |-
 | 14:00-15:30
 | ''Session: Visualization''
@@ -102,6 +102,26 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | 16:00-17:00
 | ''Session: Bioinformatics Open Source Project Updates''
 | Chair: Peter Cock
+|-
+| 16:00
+| [Updates] BioMart 0.9 – introducing tools for data analysis and visualisation
+| Arek Kasprzyk
+|-
+| 16:12
+| [Updates]  Biocaml: The OCaml Bioinformatics Library
+| Ashish Agarwal
+|-
+| 16:24
+| [Updates]  BioRuby and distributed development
+| Raoul Bonnal (?)
+|-
+| 16:36
+| [Updates]  Biopython Project Update
+| Wibowo Arindrarto
+|-
+| 16:48
+| [Updates]  Shared bioinformatics database within Unipro UGENE
+| Ivan Protsyuk
 |-
 | 17:00-18:00
 | Lightning Talks followed by [[BOSC_2014/BOFs|BOFs]]
