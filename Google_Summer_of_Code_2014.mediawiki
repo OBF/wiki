@@ -8,37 +8,45 @@ The Open Bioinformatics Foundation has been accepted as a mentoring organization
 
 == 2014 Student Projects ==
 
-=== Evan Parker ===
-
-Mentored by Wibowo Arindrarto and Peter Cock (BioPython)
-
-* Blog: [http://evanaparker.com/ Biopython Addition of a Lazy Loading Sequence Parser to Biopython’s SeqIO Package]
-* Source code: https://github.com/eparker05/biopython/tree/lazy-load
-
 === Sarah Berkemer ===
 
 Mentored by Christian Höner zu Siederdissen and Ketil Malde (BioHaskell)
 
-* Blog: [http://biohaskell.org/GSoC_blog High-performance Transalign algorithm in Haskell]
-
-=== Leandro Watanabe ===
-
-:[http://lhwatanabe.blogspot.com Dynamic Modeling of Cellular Populations via arrays in JSBML]
-:mentored by Nicolas Rodriguez and Chris Myers (JSBML)
+* Project: "High-performance Transalign algorithm in Haskell"
+* Blog: http://biohaskell.org/GSoC_blog
 
 === Loris Cro ===
 
 Mentored by Francesco Strozzi and Raoul Bonnal (BioRuby)
 
-* Blog: [http://kappaloris.github.io/GSoC-2014-OBF/ An ultra-fast scalable RESTful API to query large numbers of VCF datapoints]
+* Project: "An ultra-fast scalable RESTful API to query large numbers of VCF datapoints"
+* Blog: http://kappaloris.github.io/GSoC-2014-OBF/
 * Source code: https://github.com/kappaloris/GSoC-2014-OBF
 
 === Victor Kofia ===
 
-:Redesign the implementation of mathematical formulas in JSBML
-:mentored by Alex Thomas and Sarah Keating (JSBML)
+Mentored by Alex Thomas and Sarah Keating (JSBML)
+
+* Project: "Redesign the implementation of mathematical formulas in JSBML"
+* Blog: http://kofiav.blogspot.ca/
+
+=== Evan Parker ===
+
+Mentored by Wibowo Arindrarto and Peter Cock (BioPython)
+
+* Project: "Addition of a lazy-loading sequence parser to Biopython’s SeqIO package"
+* Blog: http://evanaparker.com/
+* Source code: https://github.com/eparker05/biopython/tree/lazy-load
 
 === Ibrahim Vazirabad ===
 
-:Improving the Plug-in interface for CellDesigner 
-:mentored by Andreas Dräger (JSBML)
+Mentored by Andreas Dräger (JSBML)
+
+* Project: "Improving the Plug-in interface for CellDesigner"
+
+=== Leandro Watanabe ===
+
+Mentored by Nicolas Rodriguez and Chris Myers (JSBML)
+
+* Project: "Dynamic Modeling of Cellular Populations via arrays in JSBML"
+* Blog: http://lhwatanabe.blogspot.com
