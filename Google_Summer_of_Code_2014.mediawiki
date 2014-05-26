@@ -28,8 +28,10 @@ Mentored by Christian Höner zu Siederdissen and Ketil Malde (BioHaskell)
 
 === Loris Cro ===
 
-:[http://kappaloris.github.io/GSoC-2014-OBF/ An ultra-fast scalable RESTful API to query large numbers of VCF datapoints]
-:mentored by Francesco Strozzi and Raoul Bonnal (BioRuby)
+Mentored by Francesco Strozzi and Raoul Bonnal (BioRuby)
+
+* Blog: [http://kappaloris.github.io/GSoC-2014-OBF/ An ultra-fast scalable RESTful API to query large numbers of VCF datapoints]
+* Source code: https://github.com/kappaloris/GSoC-2014-OBF
 
 === Victor Kofia ===
 
