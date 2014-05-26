@@ -17,8 +17,9 @@ Mentored by Wibowo Arindrarto and Peter Cock (BioPython)
 
 === Sarah Berkemer ===
 
-:[http://biohaskell.org/GSoC_blog/First_Week High-performance Transalign algorithm in Haskell]
-:mentored by Christian Höner zu Siederdissen and Ketil Malde (BioHaskell)
+Mentored by Christian Höner zu Siederdissen and Ketil Malde (BioHaskell)
+
+* Blog: [http://biohaskell.org/GSoC_blog High-performance Transalign algorithm in Haskell]
 
 === Leandro Watanabe ===
 
