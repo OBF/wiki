@@ -1,0 +1,39 @@
+---
+title: Google Summer of Code 2014
+---
+
+== GSoC 2014 ==
+
+The Open Bioinformatics Foundation has been accepted as a mentoring organization for Google Summer of Code 2014, with 6 student projects funded!
+
+== 2014 Student Projects ==
+
+=== Evan Parker ===
+
+:[http://evanaparker.com/ Biopython Addition of a Lazy Loading Sequence Parser to Biopython’s SeqIO Package]
+:mentored by Wibowo Arindrarto and Peter Cock (BioPython)
+
+=== Sarah Berkemer ===
+
+:[http://biohaskell.org/GSoC_blog/First_Week High-performance Transalign algorithm in Haskell]
+:mentored by Christian Höner zu Siederdissen and Ketil Malde (BioHaskell)
+
+=== Leandro Watanabe ===
+
+:[http://lhwatanabe.blogspot.com Dynamic Modeling of Cellular Populations within JSBML]
+:mentored by Nicolas Rodriguez and Chris Myers (JSBML)
+
+=== Loris Cro ===
+
+:[http://kappaloris.github.io/GSoC-2014-OBF/ An ultra-fast scalable RESTful API to query large numbers of VCF datapoints]
+:mentored by Francesco Strozzi and Raoul Bonnal (BioRuby)
+
+=== Victor Kofia ===
+
+:Redesign the implementation of mathematical formulas in JSBML
+:mentored by Alex Thomas and Sarah Keating (JSBML)
+
+=== Ibrahim Vazirabad ===
+
+:Improving the Plug-in interface for CellDesigner 
+:mentored by Andreas Dräger (JSBML)
