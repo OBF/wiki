@@ -10,8 +10,10 @@ The Open Bioinformatics Foundation has been accepted as a mentoring organization
 
 === Evan Parker ===
 
-:[http://evanaparker.com/ Biopython Addition of a Lazy Loading Sequence Parser to Biopython’s SeqIO Package]
-:mentored by Wibowo Arindrarto and Peter Cock (BioPython)
+Mentored by Wibowo Arindrarto and Peter Cock (BioPython)
+
+* Blog: [http://evanaparker.com/ Biopython Addition of a Lazy Loading Sequence Parser to Biopython’s SeqIO Package]
+* Source code: https://github.com/eparker05/biopython/tree/lazy-load
 
 === Sarah Berkemer ===
 
