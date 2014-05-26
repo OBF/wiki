@@ -20,7 +20,7 @@ The Open Bioinformatics Foundation has been accepted as a mentoring organization
 
 === Leandro Watanabe ===
 
-:[http://lhwatanabe.blogspot.com Dynamic Modeling of Cellular Populations within JSBML]
+:[http://lhwatanabe.blogspot.com Dynamic Modeling of Cellular Populations via arrays in JSBML]
 :mentored by Nicolas Rodriguez and Chris Myers (JSBML)
 
 === Loris Cro ===
