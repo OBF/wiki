@@ -40,7 +40,7 @@ Mentored by Wibowo Arindrarto and Peter Cock (BioPython)
 
 === Ibrahim Vazirabad ===
 
-Mentored by Andreas Dräger (JSBML)
+Mentored by Andreas Dräger and Alex Thomas (JSBML)
 
 * Project: "Improving the Plug-in interface for CellDesigner"
 * Blog: http://jsbmlcelldesigner2014.blogspot.com/
