@@ -43,6 +43,7 @@ Mentored by Wibowo Arindrarto and Peter Cock (BioPython)
 Mentored by Andreas Dräger (JSBML)
 
 * Project: "Improving the Plug-in interface for CellDesigner"
+* Blog: http://jsbmlcelldesigner2014.blogspot.com/
 
 === Leandro Watanabe ===
 
