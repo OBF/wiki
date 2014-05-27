@@ -12,9 +12,8 @@ Abstract submission for talks is now closed. However, we are accepting poster ab
 
 == Important Dates ==
 
-
 * April 4, 2014: Deadline for submitting talk abstracts
-* June 5, 2014: Deadline for [http://events.open-bio.org/BOSC2014/openconf.php submitting poster and lightning talk abstracts] (though there will also be some last-minute poster spots)
+* June 5, 2014: Deadline for [http://events.open-bio.org/BOSC2014/openconf.php submitting poster and lightning talk abstracts] (though there will also be some walk-in poster spots)
 * June 6, 2014: Deadline for early [https://www.iscb.org/ismb2014-registration registration]
 * July 9-10, 2014: [[Codefest 2014]], Boston, MA
 * July 11-12, 2014: BOSC 2014, Boston, MA
