@@ -29,6 +29,7 @@ Mentored by Alex Thomas and Sarah Keating (JSBML)
 
 * Project: "Redesign the implementation of mathematical formulas in JSBML"
 * Blog: http://kofiav.blogspot.ca/
+* Source code: http://svn.code.sf.net/p/jsbml/code/trunk/core/src/org/sbml/jsbml/math/
 
 === Evan Parker ===
 
