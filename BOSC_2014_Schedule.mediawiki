@@ -182,34 +182,34 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |-
 | '''12:30-13:30'''
 | '''Lunch'''
-| (and posters)
+| (and poster session)
 |-
-| '''12:30-13:30'''
-| ''Poster Session''
-| (Overlapping with Lunch)
+| '''13:00-14:00'''
+| '''Poster Session and Birds of a Feather''' (overlapping with lunch)
+| Suggest a BOF topic [[BOSC_2014/BOFs|here!]]
 |-
-| ''13:30-15:30''
+| ''14:00-15:30''
 | ''Session: Open Science and Reproducible Research''
 | Chair: Hilmar Lapp
 |-
 
-| 13:30
+| 14:00
 | [Open Science] SEEK for Science: A Data Management Platform which Supports Open and Reproducible Science
 | Stuart Owen
 |-
-| 13:55
+| 14:18
 | [Open Science]  Arvados: Achieving Computational Reproducibility and Data Provenance in Large-Scale Genomic Analyses
 | Brett Smith
 |-
-| 14:20
+| 14:36
 | [Open Science]  Integrating Taverna Player into Scratchpads
 | Robert Haines
 |-
-| 14;45
+| 14:54
 | [Open Science]  Enhancing the Galaxy Experience through Community Involvement
 | Daniel Blankenberg
 |-
-| 15:05
+| 15:12
 | [Open Science]  Supporting dynamic community developed biological pipelines
 | Brad Chapman
 |-
