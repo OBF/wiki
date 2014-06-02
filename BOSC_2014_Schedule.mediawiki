@@ -16,7 +16,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 ! Topic
 ! Speaker, Moderator, or notes
 |- 
-| 7:30-9:00
+| '''7:30-9:00'''
 | '''Registration'''
 | Early arrival is recommended as there are usually long lines
 |- 
@@ -32,7 +32,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | '''Coffee Break'''
 |
 |-
-| 10:45-12:30
+| ''10:45-12:30''
 | ''Session: Genome-scale Data and Beyond''
 | Chair: Chris Fields
 |--
@@ -60,11 +60,11 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | '''Lunch'''
 | (and poster session)
 |-
-| 13:00-14:00
+| '''13:00-14:00'''
 | '''Poster Session and Birds of a Feather''' (overlapping with lunch)
 | Suggest a BOF topic [[BOSC_2014/BOFs|here!]]
 |-
-| 14:00-15:30
+| ''14:00-15:30''
 | ''Session: Visualization''
 | Chair: Rob Davey
 |-
@@ -92,7 +92,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | '''Coffee Break'''
 |
 |-
-| 16:00-17:00
+| ''16:00-17:00''
 | ''Session: Bioinformatics Open Source Project Updates''
 | Chair: Peter Cock
 |-
@@ -116,12 +116,12 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | [Updates]  Shared bioinformatics database within Unipro UGENE
 | Ivan Protsyuk
 |-
-| 17:00-18:00
-| Lightning Talks followed by [[BOSC_2014/BOFs|BOFs]]
+| ''17:00-18:00''
+| ''Lightning Talks followed by [[BOSC_2014/BOFs|BOFs]]''
 | Suggest a BOF topic [[BOSC_2014/BOFs|here!]]
 |-
-| 19:00
-| Pay-your-own-way BOSC dinner
+| ''19:00''
+| ''Pay-your-own-way BOSC dinner''
 |
 |- 
 |}
@@ -156,7 +156,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | '''Coffee Break'''
 |
 |-
-| 10:45-12:30
+| ''10:45-12:30''
 | ''Session: Software Interoperability''
 | Chair: Raoul Bonnal
 |-
@@ -188,7 +188,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | ''Poster Session''
 | (Overlapping with Lunch)
 |-
-| 13:30-15:30
+| ''13:30-15:30''
 | ''Session: Open Science and Reproducible Research''
 | Chair: Hilmar Lapp
 |-
@@ -217,7 +217,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | '''Coffee Break'''
 |
 |-
-| 16:00-16:15
+| ''16:00-16:15''
 | ''Session: Open Science and Reproducible Research (cont.)''
 | Chair: Hilmar Lapp
 |-
@@ -233,8 +233,8 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Presentation of Student Travel Awards
 | Nomi Harris (Co-Chair, BOSC 2014)
 |-
-| 17:10-18:00
-| [[BOSC_2014/BOFs|BOFs]]
+| ''17:10-18:00''
+| ''[[BOSC_2014/BOFs|BOFs]]''
 | Suggest a BOF topic [[BOSC_2014/BOFs|here!]]
 |-
 |}
