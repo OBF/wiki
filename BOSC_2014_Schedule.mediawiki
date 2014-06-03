@@ -233,8 +233,8 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Presentation of Student Travel Awards
 | Nomi Harris (Co-Chair, BOSC 2014)
 |-
-| ''17:10-18:00''
-| ''[[BOSC_2014/BOFs|BOFs]]''
+| 17:10-18:00
+| [[BOSC_2014/BOFs|BOFs]]
 | Suggest a BOF topic [[BOSC_2014/BOFs|here!]]
 |-
 |}
