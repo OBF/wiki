@@ -33,7 +33,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |
 |-
 | ''10:45-12:30''
-| ''Session: Genome-scale Data and Beyond''
+| '''''Session: Genome-scale Data and Beyond'''''
 | Chair: Chris Fields
 |--
 | 10:45
@@ -65,7 +65,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Suggest a BOF topic [[BOSC_2014/BOFs|here!]]
 |-
 | ''14:00-15:30''
-| ''Session: Visualization''
+| '''''Session: Visualization'''''
 | Chair: Rob Davey
 |-
 | 14:00
@@ -93,7 +93,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |
 |-
 | ''16:00-17:00''
-| ''Session: Bioinformatics Open Source Project Updates''
+| '''''Session: Bioinformatics Open Source Project Updates'''''
 | Chair: Peter Cock
 |-
 | 16:00
@@ -117,7 +117,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Ivan Protsyuk
 |-
 | ''17:00-18:00''
-| ''Lightning Talks followed by [[BOSC_2014/BOFs|BOFs]]''
+| '''''Lightning Talks followed by [[BOSC_2014/BOFs|BOFs]]'''''
 | Suggest a BOF topic [[BOSC_2014/BOFs|here!]]
 |-
 | ''19:00''
