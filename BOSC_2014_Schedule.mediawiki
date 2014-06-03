@@ -129,7 +129,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 <br>
 [[File:Pear.png|100px|right|BOSC logo|link=BOSC_2014]]
 
-== BOSC Day 2: Saturday 12 July 2014 ==
+== BOSC Day 2: Saturday, 12 July 2014 ==
 
 {| border="1" cellspacing="0" cellpadding="7"
 ! Time
@@ -157,7 +157,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |
 |-
 | ''10:45-12:30''
-| ''Session: Software Interoperability''
+| '''''Session: Software Interoperability'''''
 | Chair: Raoul Bonnal
 |-
 | 10:45
@@ -189,7 +189,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Suggest a BOF topic [[BOSC_2014/BOFs|here!]]
 |-
 | ''14:00-15:30''
-| ''Session: Open Science and Reproducible Research''
+| '''''Session: Open Science and Reproducible Research'''''
 | Chair: Hilmar Lapp
 |-
 
