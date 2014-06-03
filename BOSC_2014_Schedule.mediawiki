@@ -9,7 +9,7 @@ __NOTOC__
 
 See [[Codefest_2014 | Codefest 2014]] for details.
 
-== BOSC Day 1: Friday 11 July 2014 ==
+== BOSC Day 1: Friday, 11 July 2014 ==
 
 {| border="1" cellspacing="0" cellpadding="7"
 ! Time
