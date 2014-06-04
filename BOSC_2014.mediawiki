@@ -10,7 +10,7 @@ The 15th Annual Bioinformatics Open Source Conference (BOSC 2014) will be held i
 
 You can still [http://www.open-bio.org/wiki/BOSC_Abstract_Submission submit abstracts for posters and lightning talks]
 
-'''[[BOSC_2014_Schedule BOSC 2014 preliminary schedule]]'''
+'''[[BOSC_2014_Schedule]]'''
 
 == Important Dates ==
 
