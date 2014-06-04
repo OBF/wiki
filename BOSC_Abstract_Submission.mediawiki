@@ -3,15 +3,9 @@ title: BOSC Abstract Submission
 ---
 
 [[Image:Pear.png|left|The Bosc Pear]]
-'''[http://events.open-bio.org/BOSC2014/openconf.php Submit your abstract here!]'''
+'''[http://events.open-bio.org/BOSC2014/openconf.php Submit your lightning talk or poster abstract here!]'''
 
-'''New this year''': students who are the first authors of abstracts that are accepted for talks receive FREE admission to BOSC!
-
-The deadline for abstract submissions is '''Friday,  April 4, 2014'''. 
-
-Accepted talks will be 5-20 minutes. You will be notified of the length of your talk upon abstract acceptance.
-
-BOSC also includes poster sessions. If you want to present a poster and would like your poster abstract to be included in the BOSC program, please [http://events.open-bio.org/BOSC2014/openconf.php submit it] by June 4. There may be also an opportunity to submit last-minute abstracts for lightning talks, time permitting.
+The deadline for abstract submissions for lightning talks and posters is '''Wednesday, June 4, 2014'''. 
 
 === Abstract Formatting Requirements ===
 Abstracts must be '''one page''' (8.5 inches by 11 inches) in length and submitted '''as a PDF (preferred) or Microsoft Word file only'''.
@@ -38,10 +32,6 @@ The [[OBF|Open Bioinformatics Foundation]], which sponsors BOSC, is dedicated to
 See the following websites for further information:
 * [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
 * [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
-
-== Free Registration for Student Presenters of Accepted Talks! ==
-
-This year, for the first time, students who are the first authors of abstracts that are accepted for talks and who will present the talks at BOSC will receive FREE admission to BOSC. If you are a student who is submitting an abstract, please hold off on registering until you hear from us on May 1 about whether your abstract was accepted for a talk. We will send you special registration instructions at that time. (Note: the [http://www.iscb.org/ismb2014-registration early registration discount for BOSC/ISMB] doesn’t end until Friday, June 6.)
 
 ----
 [[BOSC_2014|Back to BOSC 2014 home page]]
