@@ -14,7 +14,7 @@ Mentored by Christian Höner zu Siederdissen and Ketil Malde (BioHaskell)
 
 * Project: "High-performance Transalign algorithm in Haskell"
 * Blog: http://biohaskell.org/GSoC_blog
-* Source code: http://malde.org/~ketil/biohaskell/transalign/
+* Source code:  https://github.com/bsarah/transalign
 
 === Loris Cro ===
 
