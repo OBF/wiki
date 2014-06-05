@@ -54,4 +54,4 @@ Mentored by Nicolas Rodriguez and Chris Myers (JSBML)
 
 * Project: "Dynamic Modeling of Cellular Populations via arrays in JSBML"
 * Blog: http://lhwatanabe.blogspot.com
-* Source code: http://sourceforge.net/projects/jsbml/
+* Source code: http://sourceforge.net/projects/jsbml/ or http://svn.code.sf.net/p/jsbml/code/trunk/extensions/arrays/
