@@ -36,25 +36,29 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | '''''Session: Genome-scale Data and Beyond'''''
 | Chair: Chris Fields
 |--
-| 10:45
+| 10:45-11:03
 | [Genome-Scale] ADAM: Fast, Scalable Genomic Analysis
 | Frank Austin Nothaft
 |-
-| 11:05
+| 11:03-11:21
 | [Genome-Scale] A framework for benchmarking RNA-seq pipelines
 | Rory Kirchner
 |-
-| 11:25
+| 11:21-11:39
 | [Genome-Scale] New Frontiers of Genome Assembly with SPAdes 3.1
 | Andrey Prjibelski
 |-
-| 11:45
+| 11:39-11:57
 | [Genome-Scale] SigSeeker: An Ensemble for Analysis of Epigenetic Data
 | Jens Lichtenberg
 |-
-| 12:05
+| 11:57-12:15
 | [Genome-Scale]  Galaxy as an Extensible Job Execution Platform
 | John Chilton
+|-
+| 12:15-12:30
+| Open Bioinformatics Foundation (OBF) Update
+| Hilmar Lapp (OBF President)
 |-
 | '''12:30-13:30'''
 | '''Lunch'''
@@ -68,23 +72,23 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | '''''Session: Visualization'''''
 | Chair: Rob Davey
 |-
-| 14:00
+| 14:00-14:18
 | [Visualization] WormGUIDES: an Interactive Informatic Developmental Atlas at Subcellular Resolution
 | Anthony Santella
 |-
-| 14:18
+| 14:18-14:36
 | [Visualization]  BioJS: an open source standard for biological visualisation
 | Manuel Corpas
 |-
-| 14:36
+| 14:36-14:54
 | [Visualization]  Biodalliance: a fast, extensible genome browser
 | Thomas Down
 |-
-| 14:54
+| 14:54-15:12
 | [Visualization]  TGAC Browser: visualisation solutions for big data in the genomic era
 | Anil S. Thanki
 |-
-| 15:12
+| 15:12-15:30
 | [Visualization]  Explore, analyze, and share genomic data using Integrated Genome Browser
 | Ann Loraine
 |-
@@ -96,23 +100,23 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | '''''Session: Bioinformatics Open Source Project Updates'''''
 | Chair: Peter Cock
 |-
-| 16:00
+| 16:00-16:12
 | [Updates] BioMart 0.9 – introducing tools for data analysis and visualisation
 | Luca Pandini
 |-
-| 16:12
+| 16:12-16:24
 | [Updates]  Biocaml: The OCaml Bioinformatics Library
 | Ashish Agarwal
 |-
-| 16:24
+| 16:24-16:36
 | [Updates]  BioRuby and distributed development
 | Pjotr Prins
 |-
-| 16:36
+| 16:36-16:48
 | [Updates]  Biopython Project Update
 | Wibowo Arindrarto
 |-
-| 16:48
+| 16:48-17:00
 | [Updates]  Shared bioinformatics database within Unipro UGENE
 | Ivan Protsyuk
 |-
