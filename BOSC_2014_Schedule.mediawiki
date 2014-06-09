@@ -180,11 +180,11 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | [Interoperability]  The coming of the age of the platform for bioinformatics? (And how to keep it open-source)
 | Konstantinos Krampis
 |-
-| 12:57-12:15
+| 11:57-12:15
 | [Interoperability] Integrating Taverna Player into Scratchpads
 | Robert Haines
 |-
-| 12:15-12:30
+| 12:15-12:33
 | [Interoperability]  Small tools for Bioinformatics
 | Pjotr Prins
 |-
@@ -227,7 +227,8 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |-
 | 16:00-17:00
 | '''Panel''': Reproducibility: Rewards and Challenges
-| Moderator: Brad Chapman; Panelists: Phil Bourne, Titus Brown, Varsha Khodiyar, Kay Thaney
+| Moderator: Brad Chapman;
+Panelists: Phil Bourne, Titus Brown, Varsha Khodiyar, Kay Thaney
 |-
 | 17:00-17:10
 | Presentation of Student Travel Awards & Concluding Remarks
@@ -252,7 +253,7 @@ Shared links to presented posters will be posted here:
 ! Presenter
 |- 
 | ...
-| A.N. Other et al.
+| 
 |-
 |}
 
