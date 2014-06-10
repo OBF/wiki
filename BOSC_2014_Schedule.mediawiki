@@ -200,14 +200,10 @@ The Asgard Irish Pub and Restaurant, 350 Massachusetts Avenue, Cambridge, MA (ab
 | Hilmar Lapp
 |-
 | 11:39-11:57
-| [Interoperability]  The coming of the age of the platform for bioinformatics? (And how to keep it open-source)
-| Konstantinos Krampis
-|-
-| 11:57-12:15
 | [Interoperability] Integrating Taverna Player into Scratchpads
 | Robert Haines
 |-
-| 12:15-12:33
+| 11:57-12:15
 | [Interoperability]  Small tools for Bioinformatics
 | Pjotr Prins
 |-
