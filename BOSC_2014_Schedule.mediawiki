@@ -99,7 +99,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |
 |-
 | ''16:00-17:00''
-| '''''Session: Bioinformatics Open Source Project Updates'''''
+| '''''Session: Bioinformatics Open Source Project Updates and Lightning Talks'''''
 | Chair: Peter Cock
 |-
 | 16:00-16:12
@@ -122,13 +122,33 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | [Updates]  Shared bioinformatics database within Unipro UGENE
 | Ivan Protsyuk
 |-
-| ''17:00-18:00''
-| '''''Lightning Talks followed by [[BOSC_2014/BOFs|BOFs]]'''''
+| 17:00-17:05
+| [Lightning] Fostering the next generation of data-driven open science with R
+| Karthik Ram
+|-
+| 17:07-17:12
+| [Lightning] Tripal: an open source toolkit for building genomic and genetic data websites and databases
+| Margaret Staton
+|-
+| 17:14-17:19
+| [Lightning] PLUTo: Phyloinformatic Literature Unlocking Tools
+| Ross Mounce
+|-
+| 17:21-17:26
+| [Lightning] A publication model that aligns with the key Open Source Software principles
+| Michael L. Markle
+|-
+| 17:27-17:30
+| Announcements
+| Nomi Harris and/or Peter Cock
+|-
+| ''17:30-18:30''
+| ''''[[BOSC_2014/BOFs|BOFs]]'''''
 | Suggest a BOF topic [[BOSC_2014/BOFs|here!]]
 |-
 | ''19:00''
-| ''Pay-your-own-way BOSC dinner''
-|
+| ''Pay-your-own-way BOSC dinner'', The Asgard Irish Pub and Restaurant,  350 Massachusetts Avenue, Cambridge, MA (about 1.2 miles north of the Hynes convention center). The #1 bus (towards Harvard Square) goes right there. 
+| RSVP  before Friday at 3pm. Only those who RSVP will be admitted.
 |- 
 |}
 
