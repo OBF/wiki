@@ -147,7 +147,8 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Suggest a BOF topic [[BOSC_2014/BOFs|here!]]
 |-
 | ''19:00''
-| ''Pay-your-own-way BOSC dinner'', The Asgard Irish Pub and Restaurant,  350 Massachusetts Avenue, Cambridge, MA (about 1.2 miles north of the Hynes convention center). The #1 bus (towards Harvard Square) goes right there. 
+| ''Pay-your-own-way BOSC dinner'',
+The Asgard Irish Pub and Restaurant, 350 Massachusetts Avenue, Cambridge, MA (about 1.2 miles north of the Hynes convention center).
 | Only those who RSVP will be admitted.
 |- 
 |}
