@@ -148,7 +148,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |-
 | 19:00
 | ''Pay-your-own-way BOSC dinner'':
-The Asgard Irish Pub and Restaurant, [https://maps.google.com/maps?ll=42.352697,-71.0733475&z=15&geocode=FXAthgId4UjD-ylJGc0sBXrjiTEgso4wQw9wIA;FT1nhgId6RvD-yn13UfwVHfjiTESJTW6VTsm6Q&saddr=Hynes+Convention+Center+Station&daddr=The+Asgard+Irish+Pub+and+Restaurant,+350+Massachusetts+Ave,+Cambridge,+MA+02139&dirflg=r&output=classic&dg=ntvb 350 Massachusetts Avenue, Cambridge, MA] (about 1.2 miles north of the Hynes convention center).
+[http://www.classicirish.com/asgard-home.php The Asgard Irish Pub and Restaurant], [https://maps.google.com/maps?ll=42.352697,-71.0733475&z=15&geocode=FXAthgId4UjD-ylJGc0sBXrjiTEgso4wQw9wIA;FT1nhgId6RvD-yn13UfwVHfjiTESJTW6VTsm6Q&saddr=Hynes+Convention+Center+Station&daddr=The+Asgard+Irish+Pub+and+Restaurant,+350+Massachusetts+Ave,+Cambridge,+MA+02139&dirflg=r&output=classic&dg=ntvb 350 Massachusetts Avenue, Cambridge, MA] (1.2 miles north of the convention center).
 | Only those who RSVP will be admitted.
 |- 
 |}
