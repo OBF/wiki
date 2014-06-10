@@ -32,9 +32,9 @@ Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter
 
 == Registration ==
 
-Because BOSC is run as a two-day Special Interest Group (SIG) meeting at the annual ISMB conference, [https://www.iscb.org/ismb2014-registration registration is via the ISMB 2014]. You can attend just BOSC, or combine this will attending the full ISMB conference as well.
+Because BOSC is run as a two-day Special Interest Group (SIG) meeting at the annual ISMB conference, [https://www.iscb.org/ismb2014-registration registration is via ISMB 2014]. You can attend just BOSC, or combine this with attending the full ISMB conference as well.
 
-Note that this year we are [http://news.open-bio.org/news/2014/03/free-student-presenters-bosc-2014/ waiving the BOSC registration fee for student presenters of full-length talks].
+Note that this year we have [http://news.open-bio.org/news/2014/03/free-student-presenters-bosc-2014/ waived the BOSC registration fee for student presenters of full-length talks].
 
 If you need a formal invitation letter for your USA VISA application, please contact the ISMB: https://www.iscb.org/ismb2014-registration#visainvitation
 
