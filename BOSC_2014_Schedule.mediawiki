@@ -99,7 +99,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |
 |-
 | ''16:00-17:00''
-| '''''Session: Bioinformatics Open Source Project Updates and Lightning Talks'''''
+| '''''Session: Bioinformatics Open Source Project Updates'''''
 | Chair: Peter Cock
 |-
 | 16:00-16:12
@@ -121,6 +121,10 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | 16:48-17:00
 | [Updates]  Shared bioinformatics database within Unipro UGENE
 | Ivan Protsyuk
+|-
+| ''17:00-17:30''
+| '''''Session: Lightning Talks'''''
+| Chair: Peter Cock
 |-
 | 17:00-17:05
 | [Lightning] Fostering the next generation of data-driven open science with R
