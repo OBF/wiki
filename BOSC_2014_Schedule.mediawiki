@@ -275,8 +275,11 @@ Shared links to presented posters will be posted here:
 ! Title
 ! Presenter
 |- 
+| Bio2RDF mobile: an app for biological semantic web databases
+| Maxime Déraspe
+|-
 | ...
-| 
+| ...
 |-
 |}
 
