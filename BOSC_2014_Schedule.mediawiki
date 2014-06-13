@@ -269,11 +269,14 @@ Note the ISMB reception starts at 17:30...
 
 === Posters ===
 
-Shared links to presented posters will be posted here:
+If the speaker also gave a talk, any poster link with be above. This table lists poster-only presentations.
 
 {| border="1" cellspacing="0" cellpadding="7"
 ! Title
 ! Presenter
+|-
+| Using open source technology to extract biochemical data from big data repositories: the NCBI PubChem experience.
+| Lewis Y. Geer
 |-
 | Connecting computational steps for NGS, and beyond.
 | Laurent Gautier
@@ -281,11 +284,20 @@ Shared links to presented posters will be posted here:
 | Updates to MISO, the open-source NGS LIMS project
 | Xingdong Bian
 |-
+| Running Taverna Workflows within IPython Notebook
+| Alan Williams / Aleksandra Pawlik (TBC)
+|-
 | Reconstruction of ancestral genomes in presence of gene gain and loss
 | Shuai Jiang
 |-
+| Firehose in The Cancer Genome Atlas: Rigorous Open Science, At Scale
+| Michael Noble
+|-
 | MyGene.info updates: scalable gene-centric web services with user contributions
 | Chunlei Wu
+|-
+| Aiding the journey from data to publication in the plant sciences
+| Robert Davey
 |- 
 | Bio2RDF mobile: an app for biological semantic web databases
 | Maxime Déraspe
