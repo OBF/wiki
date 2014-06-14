@@ -287,6 +287,9 @@ If the speaker also gave a talk, any poster link with be above. This table lists
 | Running Taverna Workflows within IPython Notebook
 | Alan Williams / Aleksandra Pawlik (TBC)
 |-
+| Driver Mutation Pipeline and Visualization in Galaxy
+| Saket Choudhary
+|-
 | Reconstruction of ancestral genomes in presence of gene gain and loss
 | Shuai Jiang
 |-
