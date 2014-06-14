@@ -16,7 +16,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 {| border="1" cellspacing="0" cellpadding="7"
 ! Time
 ! Topic
-! Speaker, Moderator, or notes
+! Speaker [Poster], Moderator, or notes
 |- 
 | '''7:30-9:00'''
 | '''Registration'''
@@ -40,7 +40,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |--
 | 10:45-11:03
 | [Genome-Scale] ADAM: Fast, Scalable Genomic Analysis
-| Frank Austin Nothaft
+| Frank Austin Nothaft [P1]
 |-
 | 11:03-11:21
 | [Genome-Scale] A framework for benchmarking RNA-seq pipelines
@@ -48,11 +48,11 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |-
 | 11:21-11:39
 | [Genome-Scale] New Frontiers of Genome Assembly with SPAdes 3.1
-| Andrey Prjibelski
+| Andrey Prjibelski [P2]
 |-
 | 11:39-11:57
 | [Genome-Scale] SigSeeker: An Ensemble for Analysis of Epigenetic Data
-| Jens Lichtenberg
+| Jens Lichtenberg [P3]
 |-
 | 11:57-12:15
 | [Genome-Scale]  Galaxy as an Extensible Job Execution Platform
@@ -76,22 +76,22 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |-
 | 14:00-14:18
 | [Visualization] WormGUIDES: an Interactive Informatic Developmental Atlas at Subcellular Resolution
-| Anthony Santella
+| Anthony Santella [P4]
 |-
 | 14:18-14:36
-| [Visualization]  BioJS: an open source standard for biological visualisation
-| Manuel Corpas
+| [Visualization] BioJS: an open source standard for biological visualisation
+| Manuel Corpas [P5]
 |-
 | 14:36-14:54
-| [Visualization]  Biodalliance: a fast, extensible genome browser
+| [Visualization] Biodalliance: a fast, extensible genome browser
 | Thomas Down
 |-
 | 14:54-15:12
-| [Visualization]  TGAC Browser: visualisation solutions for big data in the genomic era
-| Anil S. Thanki
+| [Visualization] TGAC Browser: visualisation solutions for big data in the genomic era
+| Anil S. Thanki [P6]
 |-
 | 15:12-15:30
-| [Visualization]  Explore, analyze, and share genomic data using Integrated Genome Browser
+| [Visualization] Explore, analyze, and share genomic data using Integrated Genome Browser
 | Ann Loraine
 |-
 | '''15:30-16:00'''
@@ -120,7 +120,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |-
 | 16:48-17:00
 | [Updates]  Shared bioinformatics database within Unipro UGENE
-| Ivan Protsyuk
+| Ivan Protsyuk [P7]
 |-
 | ''17:00-17:30''
 | '''''Session: Lightning Talks'''''
@@ -140,7 +140,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |-
 | 17:21-17:26
 | [Lightning] A publication model that aligns with the key Open Source Software principles
-| Michael L. Markle
+| Michael L. Markle [P8]
 |-
 | 17:27-17:30
 | Announcements
