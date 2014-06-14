@@ -299,6 +299,12 @@ If the speaker also gave a talk, any poster link with be above. This table lists
 | MyGene.info updates: scalable gene-centric web services with user contributions
 | Chunlei Wu
 |-
+| GEPETTO Update: An Open Source Framework for Gene Prioritization
+| Hoan Nguyen
+|-
+| NeoPipe: An Open Source Framework for Protein sequence analysis
+| Hoan Nguyen
+|-
 | Aiding the journey from data to publication in the plant sciences
 | Robert Davey
 |- 
