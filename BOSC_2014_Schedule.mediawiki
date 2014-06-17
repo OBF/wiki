@@ -5,6 +5,8 @@ title: BOSC 2014 Schedule
 __NOTOC__
 [[File:Pear.png|100px|right|BOSC logo|link=BOSC_2014]]
 
+You can download the [http://www.open-bio.org/bosc2014/BOSC2014_program.pdf full program with abstracts (PDF)], however this wiki page is considered the definitive schedule and will be updated with any last minute changes.
+
 This year we have allocated all the talks an equal slot, 15 minutes plus 3 minutes for questions (making 18 minutes), except for the project update session where this is reduced to 10 minutes plus 2 minutes for questions (making 12 minutes in all). Lightning talks are 5 minutes only (no questions), and are intended for a brief introduction with the expectation that interested people will talk in the evening or next day.
 
 == Pre-BOSC Codefest: July 9-10, 2014 ==
