@@ -76,7 +76,7 @@ The deadline for submitting abstracts to be considered for full talks was Friday
 
 '''Co-Chairs'''
 
-* [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; James Hutton Institute)
+* [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; [http://www.hutton.ac.uk James Hutton Institute])
 * Nomi L. Harris (Lawrence Berkeley National Laboratory)
 
 '''Members'''
