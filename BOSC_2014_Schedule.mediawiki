@@ -275,8 +275,8 @@ If the speaker also gave a talk, any poster link will be above (posters 1 to 11)
 ! Presenter
 |-
 | P12
-| Using open source technology to extract biochemical data from big data repositories: the NCBI PubChem experience.
-| Lewis Y. Geer
+| ''Withdrawn''
+| ''Withdrawn''
 |-
 | P13
 | Connecting computational steps for NGS, and beyond.
