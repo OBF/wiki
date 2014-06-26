@@ -26,11 +26,11 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Early arrival is recommended as there are usually long lines
 |- 
 | 9:00-9:15
-| Introduction and welcome
+| Introduction and Welcome
 |Nomi Harris and/or Peter Cock (Chairs, BOSC 2014)
 |-
 | 9:15-10:15
-| [[BOSC_2014_Keynote_Speakers|Keynote: A History of Bioinformatics (in the year 2039)]]
+| [[BOSC_2014_Keynote_Speakers|Keynote: A History of Bioinformatics (in the Year 2039)]]
 | C. Titus Brown
 |-
 | '''10:15-10:45'''
@@ -46,7 +46,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Frank Austin Nothaft [P1]
 |-
 | 11:03-11:21
-| [Genome-Scale] A framework for benchmarking RNA-seq pipelines
+| [Genome-Scale] A Framework for Benchmarking RNA-seq Pipelines
 | Rory Kirchner
 |-
 | 11:21-11:39
@@ -82,19 +82,19 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Anthony Santella [P4]
 |-
 | 14:18-14:36
-| [Visualization] BioJS: an open source standard for biological visualisation
+| [Visualization] BioJS: an Open Source Standard for Biological Visualisation
 | Manuel Corpas [P5]
 |-
 | 14:36-14:54
-| [Visualization] Biodalliance: a fast, extensible genome browser
+| [Visualization] Biodalliance: a Fast, Extensible Genome Browser
 | Thomas Down
 |-
 | 14:54-15:12
-| [Visualization] TGAC Browser: visualisation solutions for big data in the genomic era
+| [Visualization] TGAC Browser: Visualisation Solutions for Big Data in the Genomic Era
 | Anil S. Thanki [P6]
 |-
 | 15:12-15:30
-| [Visualization] Explore, analyze, and share genomic data using Integrated Genome Browser
+| [Visualization] Explore, Analyze, and Share Genomic Data Using Integrated Genome Browser
 | Ann Loraine
 |-
 | '''15:30-16:00'''
@@ -106,7 +106,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Chair: Peter Cock
 |-
 | 16:00-16:12
-| [Updates] BioMart 0.9 – introducing tools for data analysis and visualisation
+| [Updates] BioMart 0.9 – ntroducing Tools for Data Analysis and Visualisation
 | Luca Pandini
 |-
 | 16:12-16:24
@@ -114,7 +114,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Ashish Agarwal
 |-
 | 16:24-16:36
-| [Updates]  BioRuby and distributed development
+| [Updates]  BioRuby and Distributed Development
 | Pjotr Prins
 |-
 | 16:36-16:48
@@ -122,7 +122,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Wibowo Arindrarto
 |-
 | 16:48-17:00
-| [Updates]  Shared bioinformatics database within Unipro UGENE
+| [Updates]  Shared Bioinformatics Database Within Unipro UGENE
 | Ivan Protsyuk [P7]
 |-
 | ''17:00-17:30''
@@ -130,11 +130,11 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Chair: Peter Cock
 |-
 | 17:00-17:05
-| [Lightning] Fostering the next generation of data-driven open science with R
+| [Lightning] Fostering the Next Generation of Data-driven Open Science with R
 | Karthik Ram
 |-
 | 17:07-17:12
-| [Lightning] Tripal: an open source toolkit for building genomic and genetic data websites and databases
+| [Lightning] Tripal: an Open Source Toolkit for Building Genomic and Genetic Data Websites and Databases
 | Margaret Staton
 |-
 | 17:14-17:19
@@ -142,7 +142,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Ross Mounce
 |-
 | 17:21-17:26
-| [Lightning] A publication model that aligns with the key Open Source Software principles
+| [Lightning] A Publication Model that Aligns with the Key Open Source Software Principles
 | Michael L. Markie [P8]
 |-
 | 17:27-17:30
