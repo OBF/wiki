@@ -191,15 +191,15 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Chair: Raoul Bonnal
 |-
 | 10:45-11:03
-| [Interoperability] Pathview: an R/Bioconductor package for pathway-based data integration and visualization
+| [Interoperability] Pathview: an R/Bioconductor Package for Pathway-based Data Integration and Visualization
 | Weijun Luo [P9]
 |-
 | 11:03-11:21
-| [Interoperability] Use of semantically annotated resources in the Mobyle2 Web Framework
+| [Interoperability] Use of Semantically Annotated Resources in the Mobyle2 Web Framework
 | Hervé Ménager
 |-
 | 11:21-11:39
-| [Interoperability]  Towards ubiquitous OWL computing: Simplifying programmatic authoring of and querying with OWL axioms
+| [Interoperability] Towards Ubiquitous OWL Computing: Simplifying Programmatic Authoring of and Querying with OWL Axioms
 | Hilmar Lapp
 |-
 | 11:39-11:57
@@ -207,7 +207,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Robert Haines [P10]
 |-
 | 11:57-12:15
-| [Interoperability]  Small tools for Bioinformatics
+| [Interoperability] Small Tools for Bioinformatics
 | Pjotr Prins
 |-
 | '''12:30-13:30'''
@@ -228,19 +228,19 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Carole Goble [P11]
 |-
 | 14:18-14:36
-| [Open Science]  Arvados: Achieving Computational Reproducibility and Data Provenance in Large-Scale Genomic Analyses
+| [Open Science] Arvados: Achieving Computational Reproducibility and Data Provenance in Large-Scale Genomic Analyses
 | Brett Smith
 |-
 | 14:36-14:54
-| [Open Science]  Enhancing the Galaxy Experience through Community Involvement
+| [Open Science] Enhancing the Galaxy Experience through Community Involvement
 | Daniel Blankenberg
 |-
 | 14:54-15:12
-| [Open Science]  Supporting dynamic community developed biological pipelines
+| [Open Science] Supporting Dynamic Community Developed Biological Pipelines
 | Brad Chapman
 |-
 | 15:12-15:30
-| [Open Science]  Open as a strategy for durability, reproducibility and scalability
+| [Open Science] Open as a Strategy for Durability, Reproducibility and Scalability
 | Jonathan Rees
 |-
 | '''15:30-16:00'''
