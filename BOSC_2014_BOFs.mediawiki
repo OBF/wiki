@@ -9,11 +9,14 @@ The BOFs can either be over lunch (which can be very busy with other events), or
 
 == Friday BOFs (Day 1) ==
 
-* (Enter your BOF description here)
-
+* '''Lunchtime (12:30-14:00)'''
+** (Enter your BOF description here)
+* '''17:30-18:30'''
+** (Enter your BOF description here)
 == Saturday BOFs (Day 2) ==
-
-* (Enter your BOF description here)
+* '''Lunchtime (12:30-14:00)'''
+** (Enter your BOF description here)
+* '''17:30-18:30'''
 
 ----
 
