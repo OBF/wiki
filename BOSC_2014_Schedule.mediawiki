@@ -207,7 +207,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Robert Haines [P10]
 |-
 | 11:57-12:15
-| [Interoperability] Small Tools for Bioinformatics
+| [Interoperability] [https://github.com/pjotrp/bioinformatics Small Tools for Bioinformatics]
 | Pjotr Prins
 |-
 | '''12:30-13:30'''
