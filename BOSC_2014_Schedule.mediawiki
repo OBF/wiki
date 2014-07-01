@@ -106,7 +106,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Chair: Peter Cock
 |-
 | 16:00-16:12
-| [Updates] BioMart 0.9 – ntroducing Tools for Data Analysis and Visualisation
+| [Updates] BioMart 0.9 – Introducing Tools for Data Analysis and Visualisation
 | Luca Pandini
 |-
 | 16:12-16:24
