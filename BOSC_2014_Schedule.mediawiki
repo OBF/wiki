@@ -114,7 +114,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Ashish Agarwal
 |-
 | 16:24-16:36
-| [Updates]  BioRuby and Distributed Development
+| [Updates]  [https://github.com/pjotrp/biogems.info/blob/master/doc/abstracts/BOSC2014_BioRuby_dev.md BioRuby and Distributed Development]
 | Pjotr Prins
 |-
 | 16:36-16:48
