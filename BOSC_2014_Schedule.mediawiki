@@ -300,8 +300,8 @@ If the speaker also gave a talk, any poster link will be above (posters 1 to 11)
 | Shuai Jiang
 |-
 | P17
-| Firehose in The Cancer Genome Atlas: Rigorous Open Science, At Scale
-| Michael Noble
+| ''Withdrawn''
+| ''Withdrawn''
 |-
 | P18
 | GEPETTO Update: An Open Source Framework for Gene Prioritization
