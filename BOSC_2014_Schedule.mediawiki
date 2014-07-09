@@ -331,6 +331,10 @@ If the speaker also gave a talk, any poster link will be above (posters 1 to 11)
 | BioBuilds: A Model for Long Term Sustainability of Open Source Bioinformatics
 | Chris Mueller
 |-
+| P25
+| GigaGalaxy: A GigaSolution for reproducible and sustainable genomic data publication and analysis
+| Scott Edmunds
+|-
 | ...
 | ...
 | ...
