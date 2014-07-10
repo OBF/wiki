@@ -18,7 +18,7 @@ There can be multiple BOFs in parallel.
 
 == Saturday BOFs (Day 2) ==
 * '''Lunchtime (12:30-14:00)'''
-** '''Dependent Types and Safety in Biomedecine Software:''' How to make sure that the software that will pick my treatment is doing what it it supposed to do? [http://coq.inria.fr/ Coq], [http://en.wikipedia.org/wiki/Dependent_types Dependent types], [http://en.wikipedia.org/wiki/Therac-25 Therac-25], …
+** '''Dependent Types and Safety in Biomedecine Software:''' How to make sure that the software that will pick my treatment is doing what it it supposed to do? [http://coq.inria.fr/ Coq], [http://en.wikipedia.org/wiki/Dependent_types Dependent types], [http://en.wikipedia.org/wiki/Therac-25 Therac-25], … (proposed by [http://seb.mondet.org/ Seb])
 * '''17:30-18:30'''
 ** (Enter your BOF description here)
 
