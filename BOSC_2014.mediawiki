@@ -12,11 +12,10 @@ The 15th Annual Bioinformatics Open Source Conference (BOSC 2014) will be held a
 
 == Important Dates ==
 
-* April 4, 2014: Deadline for submitting talk abstracts
-* June 4, 2014: Deadline for [http://events.open-bio.org/BOSC2014/openconf.php submitting poster and lightning talk abstracts] (there will also be some walk-in poster spots)
 * July 9-10, 2014: [[Codefest 2014]], Boston, MA
 * July 11-12, 2014: BOSC 2014, Boston, MA
 * July 12-16, 2014: [http://www.iscb.org/ismb2014 ISMB 2014], Boston, MA
+* September 18-19, 2014: [http://www.open-bio.org/wiki/EU-Codefest_2014 EU-Codefest 2014], Cambridge, UK
 
 == Overview ==
 
