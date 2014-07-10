@@ -12,9 +12,11 @@ have developers from projects such as [http://bioperl.org BioPerl],
 [http://www.genomespace.org GenomeSpace] in attendance. Everyone is welcome to
 attend.
 
-This is the fifth annual [[Codefest]], continuing work from [[Codefest 2010]] in
+This is the fifth annual pre-[[BOSC]] [[Codefest]], continuing work from [[Codefest 2010]] in
 Boston, [[Codefest 2011]] in Vienna, [[Codefest 2012]] in Los Angeles, and
 [[Codefest 2013]] in Berlin.
+
+It will be followed by the [[EU-Codefest 2014]] in England in September 2014.
 
 == Goals ==
 
