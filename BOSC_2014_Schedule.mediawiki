@@ -280,8 +280,8 @@ If the speaker also gave a talk, any poster link will be above (posters 1 to 11)
 ! Presenter
 |-
 | P12
-| ''Withdrawn''
-| ''Withdrawn''
+| Advantages and challenges of using the Galaxy API within an integrated data analysis and visualization platform
+| Ilya Sytchev
 |-
 | P13
 | Connecting computational steps for NGS, and beyond.
