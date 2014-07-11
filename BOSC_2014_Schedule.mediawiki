@@ -107,7 +107,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |-
 | 16:00-16:12
 | [Updates] BioMart 0.9 – Introducing Tools for Data Analysis and Visualisation
-| Luca Pandini
+| Arek Kasprzyk
 |-
 | 16:12-16:24
 | [Updates]  Biocaml: The OCaml Bioinformatics Library
