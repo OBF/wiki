@@ -6,7 +6,7 @@ __NOTOC__
 
 <div style="float:left; maxwidth: 180px; margin-left:25px; margin-right:15px; background-color: #FFFFFF">[[Image:Pear.png|left|The Bosc Pear]]</div>
 
-The 15th Annual Bioinformatics Open Source Conference (BOSC 2014) will be held at the John B. Hynes Memorial Convention Center in Boston on July 11-12, right before [https://www.iscb.org/ismb2014 ISMB 2014] as one of the official ISMB SIG satellite meetings.
+The 15th Annual Bioinformatics Open Source Conference (BOSC 2014) will be held at the John B. Hynes Memorial Convention Center in Boston on July 11-12, right before [https://www.iscb.org/ismb2014 ISMB 2014] as one of the official ISMB SIG satellite meetings. Test Edit. 
 
 '''[http://www.open-bio.org/wiki/BOSC_2014_Schedule Complete Schedule]'''
 
