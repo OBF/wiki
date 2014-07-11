@@ -30,7 +30,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |Nomi Harris and/or Peter Cock (Chairs, BOSC 2014)
 |-
 | 9:15-10:15
-| [[BOSC_2014_Keynote_Speakers|Keynote: A History of Bioinformatics (in the Year 2039)]]
+| [[BOSC_2014_Keynote_Speakers|Keynote: A History of Bioinformatics (in the Year 2039)]] ([http://video.open-bio.org/video/1/x video])
 | C. Titus Brown
 |-
 | '''10:15-10:45'''
