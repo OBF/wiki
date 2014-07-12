@@ -12,16 +12,16 @@ There can be multiple BOFs in parallel.
 == Friday BOFs (Day 1) ==
 
 * '''Lunchtime (12:30-14:00)'''
-** Twitter meetup (over lunch), proposed by Michael Crusoe (@biocruose)
+** Twitter meetup (over lunch), proposed by Michael Crusoe (@biocruose) [in Hall C where lunch and posters are]
 * '''17:30-18:30'''
-** '''De-coupling BOSC from the ISMB?''' Contact Peter Cock. Try to get a feel from the attendees about who likes having BOSC as an SIG at the ISMB, versus going independent and perhaps co-locating near other broad interest meetings?
+** '''De-coupling BOSC from the ISMB?''' Contact Peter Cock. Try to get a feel from the attendees about who likes having BOSC as an SIG at the ISMB, versus going independent and perhaps co-locating near other broad interest meetings? [in Room 203]
 
 == Saturday BOFs (Day 2) ==
 * '''Lunchtime (12:30-14:00)'''
 ** '''Dependent Types and Safety in Biomedical Software:''' How to make sure that the software that will pick my treatment is doing what it is supposed to do? [http://coq.inria.fr/ Coq], [http://en.wikipedia.org/wiki/Dependent_types Dependent types], [http://en.wikipedia.org/wiki/Therac-25 Therac-25], … (proposed by [http://seb.mondet.org/ Seb])
-** Improving diversity at BOSC and the CodeFests (lead by Nomi Harris and Brad Chapman)
+** Improving diversity at BOSC and the CodeFests (lead by Nomi Harris and Brad Chapman)  [in Room 203]
 * '''17:30-18:30'''
-** '''Genome Visualization''':  potential for cooperation?  (Proposed by Thomas Down)
+** '''Genome Visualization''':  potential for cooperation?  (Proposed by Thomas Down)  [in Room 203]
 ** (Enter your BOF description here)
 
 
