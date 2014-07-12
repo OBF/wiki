@@ -90,7 +90,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Manuel Corpas [P5]
 |-
 | 14:36-14:54
-| [Visualization] Biodalliance: a Fast, Extensible Genome Browser
+| [Visualization] Biodalliance: a Fast, Extensible Genome Browser ([http://video.open-bio.org/video/10/biodalliance-a-fast-extensible-genome-browser video])
 | Thomas Down
 |-
 | 14:54-15:12
