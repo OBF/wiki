@@ -48,7 +48,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Frank Austin Nothaft [P1]
 |-
 | 11:03-11:21
-| [Genome-Scale] A Framework for Benchmarking RNA-seq Pipelines
+| [Genome-Scale] A Framework for Benchmarking RNA-seq Pipelines ([http://video.open-bio.org/video/3/a-framework-for-benchmarking-rna-seq-pipelines video])
 | Rory Kirchner
 |-
 | 11:21-11:39
