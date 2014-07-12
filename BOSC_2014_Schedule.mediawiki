@@ -250,7 +250,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | 16:00-17:00
 | '''Panel''': Reproducibility: Rewards and Challenges
 | Moderator: Brad Chapman;
-Panelists: Phil Bourne, Titus Brown, Varsha Khodiyar, Kay Thaney
+Panelists: Phil Bourne, Titus Brown, Varsha Khodiyar, Kaitlin Thaney
 |-
 | 17:00-17:10
 | Presentation of Student Travel Awards & Concluding Remarks
