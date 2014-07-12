@@ -20,7 +20,7 @@ There can be multiple BOFs in parallel.
 * '''Lunchtime (12:30-14:00)'''
 ** '''Dependent Types and Safety in Biomedical Software:''' How to make sure that the software that will pick my treatment is doing what it is supposed to do? [http://coq.inria.fr/ Coq], [http://en.wikipedia.org/wiki/Dependent_types Dependent types], [http://en.wikipedia.org/wiki/Therac-25 Therac-25], … (proposed by [http://seb.mondet.org/ Seb])
 ** Improving diversity at BOSC and the CodeFests (lead by Nomi Harris and Brad Chapman)  [in Room 203]
-* '''17:30-18:30'''
+* '''17:15-18:30'''
 ** '''Genome Visualization''':  potential for cooperation?  (Proposed by Thomas Down)  [in Room 203]
 ** (Enter your BOF description here)
 
