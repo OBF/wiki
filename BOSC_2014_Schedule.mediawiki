@@ -54,7 +54,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Andrey Prjibelski [P2]
 |-
 | 11:39-11:57
-| [Genome-Scale] SigSeeker: An Ensemble for Analysis of Epigenetic Data
+| [Genome-Scale] SigSeeker: An Ensemble for Analysis of Epigenetic Data ([http://video.open-bio.org/video/5/sigseeker-an-ensemble-for-analysis-of-epigenetic video])
 | Jens Lichtenberg [P3]
 |-
 | 11:57-12:15
