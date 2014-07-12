@@ -42,7 +42,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Chair: Chris Fields
 |--
 | 10:45-11:03
-| [Genome-Scale] ADAM: Fast, Scalable Genomic Analysis
+| [Genome-Scale] ADAM: Fast, Scalable Genomic Analysis ([http://video.open-bio.org/video/2/adam-fast-scalable-genomic-analysis video])
 | Frank Austin Nothaft [P1]
 |-
 | 11:03-11:21
