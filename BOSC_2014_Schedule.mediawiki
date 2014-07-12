@@ -177,7 +177,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Peter Cock and/or Nomi Harris (Chairs, BOSC 2014)
 |-
 | 9:00-9:15
-| [[Codefest_2014 | Codefest 2014 Report]]
+| [[Codefest_2014 | Codefest 2014 Report]] ([http://video.open-bio.org/video/22/codefest-2014-report video])
 | Brad Chapman
 |-
 | 9:15-10:15
