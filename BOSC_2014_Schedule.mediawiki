@@ -183,7 +183,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Brad Chapman
 |-
 | 9:15-10:15
-| | [[BOSC_2014_Keynote_Speakers|Keynote: Biomedical Research as an Open Digital Enterprise]] ([http://www.slideshare.net/pebourne/bosc2014 slidesshare])
+| | [[BOSC_2014_Keynote_Speakers|Keynote: Biomedical Research as an Open Digital Enterprise]] ([http://video.open-bio.org/video/23/biomedical-research-as-an-open-digital-enterprise video], [http://www.slideshare.net/pebourne/bosc2014 slidesshare])
 | Philip Bourne 
 |-
 | '''10:15-10:45'''
