@@ -140,7 +140,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Margaret Staton
 |-
 | 17:14-17:19
-| [Lightning] PLUTo: Phyloinformatic Literature Unlocking Tools
+| [Lightning] PLUTo: Phyloinformatic Literature Unlocking Tools ([http://video.open-bio.org/video/20/pluto-phyloinformatic-literature-unlocking-tools video])
 | Ross Mounce
 |-
 | 17:21-17:26
