@@ -10,6 +10,8 @@ You can download the [http://www.open-bio.org/bosc2014/BOSC2014_program.pdf full
 This year we have allocated all the talks an equal slot, 15 minutes plus 3 minutes for questions (making 18 minutes), except for the project update session where this is reduced to 10 minutes plus 2 minutes for questions (making 12 minutes in all). Lightning talks are 5 minutes only (no questions), and are intended for a brief introduction with the expectation that people who are interested in the topic will find the
 speaker during a break or poster session to talk with them.
 
+We aim to record all the talks and the video links will be posted here, along with links to slides where available.
+
 == Pre-BOSC Codefest: July 9-10, 2014 ==
 
 See [[Codefest_2014 | Codefest 2014]] for details.
