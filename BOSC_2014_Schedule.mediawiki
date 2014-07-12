@@ -90,7 +90,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Thomas Down
 |-
 | 14:54-15:12
-| [Visualization] TGAC Browser: Visualisation Solutions for Big Data in the Genomic Era
+| [Visualization] TGAC Browser: Visualisation Solutions for Big Data in the Genomic Era ([http://video.open-bio.org/video/11/tgac-browser-visualisation-solutions-for-big-dat video])
 | Anil S. Thanki [P6]
 |-
 | 15:12-15:30
@@ -106,7 +106,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Chair: Peter Cock
 |-
 | 16:00-16:12
-| [Updates] BioMart 0.9 – Introducing Tools for Data Analysis and Visualisation
+| [Updates] BioMart 0.9 – Introducing Tools for Data Analysis and Visualisation ([http://video.open-bio.org/video/13/biomart-09-introducing-tools-for-data-analysis video])
 | Arek Kasprzyk
 |-
 | 16:12-16:24
