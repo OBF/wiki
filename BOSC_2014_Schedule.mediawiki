@@ -132,7 +132,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Chair: Peter Cock
 |-
 | 17:00-17:05
-| [Lightning] Fostering the Next Generation of Data-driven Open Science with R
+| [Lightning] Fostering the Next Generation of Data-driven Open Science with R ([http://video.open-bio.org/video/18/fostering-the-next-generation-of-data-driven-open video])
 | Karthik Ram
 |-
 | 17:07-17:12
