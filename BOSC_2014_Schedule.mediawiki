@@ -238,7 +238,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Daniel Blankenberg
 |-
 | 14:54-15:12
-| [Open Science] Supporting Dynamic Community Developed Biological Pipelines
+| [Open Science] Supporting Dynamic Community Developed Biological Pipelines ([https://github.com/chapmanb/bcbb/blob/master/talks/bosc2014_bcbio/chapman_bcbio.pdf?raw=true slides])
 | Brad Chapman
 |-
 | 15:12-15:30
