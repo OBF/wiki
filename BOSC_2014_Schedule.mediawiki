@@ -252,7 +252,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |
 |-
 | 16:00-17:00
-| '''Panel''': Reproducibility: Rewards and Challenges
+| '''Panel''': Reproducibility: Rewards and Challenges ([http://video.open-bio.org/video/34/panel-reproducibility-rewards-and-challenges video])
 | Moderator: Brad Chapman;
 Panelists: Phil Bourne, Titus Brown, Varsha Khodiyar, Kaitlin Thaney
 |-
