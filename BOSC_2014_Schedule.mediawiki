@@ -207,7 +207,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Hilmar Lapp
 |-
 | 11:39-11:57
-| [Interoperability] Integrating Taverna Player into Scratchpads
+| [Interoperability] Integrating Taverna Player into Scratchpads ([http://video.open-bio.org/video/27/integrating-taverna-player-into-scratchpads video])
 | Robert Haines [P10]
 |-
 | 11:57-12:15
