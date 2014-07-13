@@ -195,7 +195,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Chair: Raoul Bonnal
 |-
 | 10:45-11:03
-| [Interoperability] Pathview: an R/Bioconductor Package for Pathway-based Data Integration and Visualization
+| [Interoperability] Pathview: an R/Bioconductor Package for Pathway-based Data Integration and Visualization ([http://video.open-bio.org/video/24/pathview-an-rbioconductor-package-for-pathway-b video])
 | Weijun Luo [P9]
 |-
 | 11:03-11:21
