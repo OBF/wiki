@@ -98,7 +98,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Anil S. Thanki [P6]
 |-
 | 15:12-15:30
-| [Visualization] Explore, Analyze, and Share Genomic Data Using Integrated Genome Browser
+| [Visualization] Explore, Analyze, and Share Genomic Data Using Integrated Genome Browser ([http://video.open-bio.org/video/12/explore-analyze-and-share-genomic-data-using-in video])
 | Ann Loraine
 |-
 | '''15:30-16:00'''
