@@ -199,7 +199,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Weijun Luo [P9]
 |-
 | 11:03-11:21
-| [Interoperability] Use of Semantically Annotated Resources in the Mobyle2 Web Framework
+| [Interoperability] Use of Semantically Annotated Resources in the Mobyle2 Web Framework ([http://video.open-bio.org/video/25/use-of-semantically-annotated-resources-in-the-mo video])
 | Hervé Ménager
 |-
 | 11:21-11:39
