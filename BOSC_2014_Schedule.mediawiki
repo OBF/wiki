@@ -232,7 +232,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Carole Goble [P11]
 |-
 | 14:18-14:36
-| [Open Science] Arvados: Achieving Computational Reproducibility and Data Provenance in Large-Scale Genomic Analyses
+| [Open Science] Arvados: Achieving Computational Reproducibility and Data Provenance in Large-Scale Genomic Analyses ([http://video.open-bio.org/video/30/arvados-achieving-computational-reproducibility video])
 | Brett Smith
 |-
 | 14:36-14:54
