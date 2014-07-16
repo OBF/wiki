@@ -244,7 +244,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Brad Chapman
 |-
 | 15:12-15:30
-| [Open Science] Open as a Strategy for Durability, Reproducibility and Scalability
+| [Open Science] 'Open' as a Strategy for Durability, Reproducibility and Scalability ([http://video.open-bio.org/video/33/open-as-a-strategy-for-durability-reproducibilit video])
 | Jonathan Rees
 |-
 | '''15:30-16:00'''
