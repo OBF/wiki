@@ -126,7 +126,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Wibowo Arindrarto
 |-
 | 16:48-17:00
-| [Updates] Shared Bioinformatics Databases Within Unipro UGENE
+| [Updates] Shared Bioinformatics Databases Within Unipro UGENE ([http://video.open-bio.org/video/17/shared-bioinformatics-database-within-unipro-ugen video])
 | Ivan Protsyuk [P7]
 |-
 | ''17:00-17:30''
