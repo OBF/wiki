@@ -66,7 +66,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | John Chilton
 |-
 | 12:15-12:30
-| [http://www.open-bio.org/wiki/Main_Page Open Bioinformatics Foundation (OBF) update]
+| [http://www.open-bio.org/wiki/Main_Page Open Bioinformatics Foundation (OBF) update] ([http://video.open-bio.org/video/7/open-bioinformatics-foundation-obf-update video])
 | Hilmar Lapp (OBF President)
 |-
 | '''12:30-13:30'''
