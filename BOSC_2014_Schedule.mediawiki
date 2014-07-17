@@ -329,12 +329,8 @@ If the speaker also gave a talk, any poster link will be above (posters 1 to 11)
 | Chris Mueller
 |-
 | P25
-| GigaGalaxy: A GigaSolution for reproducible and sustainable genomic data publication and analysis
+| GigaGalaxy: A GigaSolution for reproducible and sustainable genomic data publication and analysis ([http://figshare.com/articles/GigaGalaxy_A_GigaSolution_for_reproducible_and_sustainable_genomic_data_publication_and_analysis/713512 poster])
 | Scott Edmunds
-|-
-| ...
-| ...
-| ...
 |-
 |}
 
