@@ -83,7 +83,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Anthony Santella [P4]
 |-
 | 14:18-14:36
-| [Visualization] BioJS: an Open Source Standard for Biological Visualisation
+| [Visualization] BioJS: an Open Source Standard for Biological Visualisation ([http://video.open-bio.org/video/9/biojs-an-open-source-standard-for-biological-vis video])
 | Manuel Corpas [P5]
 |-
 | 14:36-14:54
