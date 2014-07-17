@@ -9,7 +9,7 @@ You can download the [http://www.open-bio.org/bosc2014/BOSC2014_program.pdf full
 
 The talks were videoed (thanks to a grant from Google). The video links will be posted on this page (if speakers don't opt out), along with links to slides where available.
 
-There was lots of activity under Twitter - our hashtag was #BOSC2014 and there are Storify Tweet archives for [https://storify.com/pjacock/bosc-2014-day-one Day One], [https://storify.com/pjacock/bosc-2014-day-two/ Day Two] and beyond [https://storify.com/pjacock/bosc-during-ismb-2014/|during ISMB].
+There was lots of activity under Twitter - our hashtag was #BOSC2014 and there are Storify Tweet archives for [https://storify.com/pjacock/bosc-2014-day-one Day One], [https://storify.com/pjacock/bosc-2014-day-two/ Day Two] and [https://storify.com/pjacock/bosc-during-ismb-2014/ during ISMB].
 
 == Pre-BOSC Codefest: July 9-10, 2014 ==
 
