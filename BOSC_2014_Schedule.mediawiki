@@ -200,7 +200,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Hervé Ménager
 |-
 | 11:21-11:39
-| [Interoperability] Towards Ubiquitous OWL Computing: Simplifying Programmatic Authoring of and Querying with OWL Axioms
+| [Interoperability] Towards Ubiquitous OWL Computing: Simplifying Programmatic Authoring of and Querying with OWL Axioms ([http://video.open-bio.org/video/26/towards-ubiquitous-owl-computing-simplifying-pro video])
 | Hilmar Lapp
 |-
 | 11:39-11:57
