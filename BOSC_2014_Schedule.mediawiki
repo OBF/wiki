@@ -51,7 +51,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Rory Kirchner
 |-
 | 11:21-11:39
-| [Genome-Scale] New Frontiers of Genome Assembly with SPAdes 3.1
+| [Genome-Scale] New Frontiers of Genome Assembly with SPAdes 3.1 ([http://video.open-bio.org/video/4/new-frontiers-of-genome-assembly-with-spades-31 video])
 | Andrey Prjibelski [P2]
 |-
 | 11:39-11:57
