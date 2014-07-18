@@ -233,7 +233,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Brett Smith
 |-
 | 14:36-14:54
-| [Open Science] Enhancing the Galaxy Experience through Community Involvement
+| [Open Science] Enhancing the Galaxy Experience through Community Involvement ([http://video.open-bio.org/video/31/enhancing-the-galaxy-experience-through-community video])
 | Daniel Blankenberg
 |-
 | 14:54-15:12
