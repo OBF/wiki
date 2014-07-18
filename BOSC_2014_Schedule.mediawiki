@@ -79,7 +79,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Chair: Rob Davey
 |-
 | 14:00-14:18
-| [Visualization] WormGUIDES: an Interactive Informatic Developmental Atlas at Subcellular Resolution ([http://video.open-bio.org/video/8/wormguides-an-interactive-informatic-development video])
+| [Visualization] WormGUIDES: an Interactive Informatic Developmental Atlas at Subcellular Resolution ([http://video.open-bio.org/video/8/wormguides-an-interactive-informatic-development video], [http://www.open-bio.org/bosc2014/BOSC2014-Viz-01-WormGUIDES-Santella.pdf slides])
 | Anthony Santella [P4]
 |-
 | 14:18-14:36
@@ -91,11 +91,11 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Thomas Down
 |-
 | 14:54-15:12
-| [Visualization] TGAC Browser: Visualisation Solutions for Big Data in the Genomic Era ([http://video.open-bio.org/video/11/tgac-browser-visualisation-solutions-for-big-dat video])
+| [Visualization] TGAC Browser: Visualisation Solutions for Big Data in the Genomic Era ([http://video.open-bio.org/video/11/tgac-browser-visualisation-solutions-for-big-dat video], [http://www.open-bio.org/bosc2014/BOSC2014-Viz-04-TGAC_Browser-Anil.pdf slides])
 | Anil S. Thanki [P6]
 |-
 | 15:12-15:30
-| [Visualization] Explore, Analyze, and Share Genomic Data Using Integrated Genome Browser ([http://video.open-bio.org/video/12/explore-analyze-and-share-genomic-data-using-in video])
+| [Visualization] Explore, Analyze, and Share Genomic Data Using Integrated Genome Browser ([http://video.open-bio.org/video/12/explore-analyze-and-share-genomic-data-using-in video], [http://www.open-bio.org/bosc2014/BOSC2014-Viz-05-IGB-Ann_Loraine.pdf slides])
 | Ann Loraine
 |-
 | '''15:30-16:00'''
