@@ -229,11 +229,11 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Carole Goble [P11]
 |-
 | 14:18-14:36
-| [Open Science] Arvados: Achieving Computational Reproducibility and Data Provenance in Large-Scale Genomic Analyses ([http://video.open-bio.org/video/30/arvados-achieving-computational-reproducibility video])
+| [Open Science] Arvados: Achieving Computational Reproducibility and Data Provenance in Large-Scale Genomic Analyses ([http://video.open-bio.org/video/30/arvados-achieving-computational-reproducibility video], [http://www.open-bio.org/bosc2014/BOSC2014-OpenScience-02-Arvados-Brett_Smith.pdf slides])
 | Brett Smith
 |-
 | 14:36-14:54
-| [Open Science] Enhancing the Galaxy Experience through Community Involvement ([http://video.open-bio.org/video/31/enhancing-the-galaxy-experience-through-community video])
+| [Open Science] Enhancing the Galaxy Experience through Community Involvement ([http://video.open-bio.org/video/31/enhancing-the-galaxy-experience-through-community video], [http://www.open-bio.org/bosc2014/BOSC2014-OpenScience-03-Galaxy-Blankenberg.pdf slides])
 | Daniel Blankenberg
 |-
 | 14:54-15:12
@@ -241,7 +241,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Brad Chapman
 |-
 | 15:12-15:30
-| [Open Science] 'Open' as a Strategy for Durability, Reproducibility and Scalability ([http://video.open-bio.org/video/33/open-as-a-strategy-for-durability-reproducibilit video])
+| [Open Science] 'Open' as a Strategy for Durability, Reproducibility and Scalability ([http://video.open-bio.org/video/33/open-as-a-strategy-for-durability-reproducibilit video], [http://www.open-bio.org/bosc2014/BOSC2014-OpenScience-05-Open_as_a_strategy-Rees.pdf slides])
 | Jonathan Rees
 |-
 | '''15:30-16:00'''
