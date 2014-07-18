@@ -135,15 +135,15 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Karthik Ram
 |-
 | 17:07-17:12
-| [Lightning] Tripal: an Open Source Toolkit for Building Genomic and Genetic Data Websites and Databases ([http://video.open-bio.org/video/46/tripal-an-open-source-toolkit-for-building-genom-0 video])
+| [Lightning] Tripal: an Open Source Toolkit for Building Genomic and Genetic Data Websites and Databases ([http://video.open-bio.org/video/46/tripal-an-open-source-toolkit-for-building-genom-0 video], [http://www.open-bio.org/bosc2014/BOSC2014-Lightning-2-Tripal-Staton.pdf slides])
 | Margaret Staton
 |-
 | 17:14-17:19
-| [Lightning] PLUTo: Phyloinformatic Literature Unlocking Tools ([http://video.open-bio.org/video/20/pluto-phyloinformatic-literature-unlocking-tools video])
+| [Lightning] PLUTo: Phyloinformatic Literature Unlocking Tools ([http://video.open-bio.org/video/20/pluto-phyloinformatic-literature-unlocking-tools video], [http://www.open-bio.org/bosc2014/BOSC2014-Lightning-3-PLUTo-Mounce.pdf slides])
 | Ross Mounce
 |-
 | 17:21-17:26
-| [Lightning] A Publication Model that Aligns with the Key Open Source Software Principles ([http://video.open-bio.org/video/21/a-publication-model-that-aligns-with-the-key-open video])
+| [Lightning] A Publication Model that Aligns with the Key Open Source Software Principles ([http://video.open-bio.org/video/21/a-publication-model-that-aligns-with-the-key-open video], [http://www.open-bio.org/bosc2014/BOSC2014-Lightning-4-F1000-Markie.pdf slides])
 | Michael L. Markie [P8]
 |-
 | 17:27-17:30
