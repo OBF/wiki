@@ -5,12 +5,17 @@ title: BOSC 2014
 __NOTOC__
 
 <div style="float:left; maxwidth: 180px; margin-left:25px; margin-right:15px; background-color: #FFFFFF">[[Image:Pear.png|left|The Bosc Pear]]</div>
-
 The 15th Annual Bioinformatics Open Source Conference (BOSC 2014) was held at the Hynes Convention Center in Boston on July 11-12, right before [https://www.iscb.org/ismb2014 ISMB 2014] as one of the official ISMB SIG satellite meetings. Feedback welcome via email bosc@open-bio.org or [https://twitter.com/OBF_BOSC @OBF_BOSC on Twitter].
 
 '''[http://www.open-bio.org/wiki/BOSC_2014_Schedule Complete Schedule]''' (with links to slides and videos of the talks)
 
+== Press ==
+
 Storify Tweet archives for [https://storify.com/pjacock/bosc-2014-day-one Day One], [https://storify.com/pjacock/bosc-2014-day-two/ Day Two] and [https://storify.com/pjacock/bosc-during-ismb-2014/ during ISMB].
+
+Brad Chapman's [http://smallchangebio.wordpress.com/2014/07/11/notes-bioinformatics-open-source-conference-2014-day-1-afternoon-visualization-project-updates-and-lightning-talks/ blog posts]
+
+[http://www.open-bio.org/w/images/d/dd/Bosc2014-bioinform.pdf BioInform article about Philip Bourne's keynote talk] (posted with permission)
 
 == Important Dates ==
 
