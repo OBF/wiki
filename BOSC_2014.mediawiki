@@ -9,13 +9,15 @@ The 15th Annual Bioinformatics Open Source Conference (BOSC 2014) was held at th
 
 '''[http://www.open-bio.org/wiki/BOSC_2014_Schedule Complete Schedule]''' (with links to slides and videos of the talks)
 
-== Press ==
+== Media ==
 
 Storify Tweet archives for [https://storify.com/pjacock/bosc-2014-day-one Day One], [https://storify.com/pjacock/bosc-2014-day-two/ Day Two] and [https://storify.com/pjacock/bosc-during-ismb-2014/ during ISMB].
 
 Brad Chapman's [http://smallchangebio.wordpress.com/2014/07/11/notes-bioinformatics-open-source-conference-2014-day-1-afternoon-visualization-project-updates-and-lightning-talks/ blog posts]
 
 [http://www.open-bio.org/w/images/d/dd/Bosc2014-bioinform.pdf BioInform article about Philip Bourne's keynote talk] (posted with permission)
+
+[http://drjamesmalone.blogspot.co.uk/2014/07/a-paradigm-shift-on-bioinformatics.html James Malone's blog post]
 
 == Important Dates ==
 
