@@ -37,6 +37,11 @@ project ideas to the
 We'll use this brainstorming discussion document to prepare directions for the
 two days of work.
 
+== Report ==
+
+Brad presented a short set of slides from the group at BOSC 2014, linked to from
+the [[BOSC_2014_Schedule|BOSC 2014 Schedule]].
+
 == Attendees ==
 
 You are very welcome to attend. There is no cost, we only ask you to register to
