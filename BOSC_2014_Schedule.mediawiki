@@ -208,7 +208,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Robert Haines [P10]
 |-
 | 11:57-12:15
-| [Interoperability] Small Tools for Bioinformatics ([http://video.open-bio.org/video/28/small-tools-for-bioinformatics video], [http://www.open-bio.org/bosc2014/BOSC2014-InterOp-05-small_tools_Pjotr.pdf slides], [https://github.com/pjotrp/bioinformatics abstract])
+| [Interoperability] Small Tools for Bioinformatics ([http://video.open-bio.org/video/28/small-tools-for-bioinformatics video], [http://www.open-bio.org/bosc2014/BOSC2014-InterOp-05-small_tools_Pjotr.pdf slides], [https://github.com/pjotrp/bioinformatics abstract], [https://github.com/pjotrp/bioinformatics manifesto])
 | Pjotr Prins
 |-
 | '''12:30-13:30'''
