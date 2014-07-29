@@ -2,7 +2,7 @@
 title: EU-Codefest 2014
 ---
 
-OBF EU-Codefest 2014 will take place on September 18th and 19th, 2014 in Cambridge, UK, just before the [https://registration.hinxton.wellcome.ac.uk/display_info.asp?id=406 Genome Informatics Conference], which will be from September 21st to the 24th.
+OBF EU-Codefest 2014 will take place on September 18th and 19th, 2014 at the EBI in Hinxton, UK, just before the [https://registration.hinxton.wellcome.ac.uk/display_info.asp?id=406 Genome Informatics Conference], which will be from September 21st to the 24th.
 
 This is a great opportunity for open source bioinformatics developers to meet and work collaboratively. We hope to
 have developers from all the OpenBio, bioinformatics and scientific programming projects. Everyone is welcome to
@@ -20,25 +20,35 @@ This event will be linked to the [http://www.open-bio.org/wiki/Codefest_2014 OBF
 
 == Programme ==
 
-During the codefest people are encouraged to work on FOSS projects. There will be a number of topics of focus:
+A detailed programme description is available on the [http://www.ebi.ac.uk/training/course/eu-codefest EU Codefest page on the EBI website].
 
-# The Bio* projects
-# Semantic web
-# Software deployment and pipelines, including CloudBiolinux, and GNU GUIX
-# NoSQL and VCF
-# Visualisation with D3/JS
+During the Codefest people are encouraged to work on FOSS projects. There will be a number of topics of focus:
 
-If you have another topic of interest, please contact the organizers.
+# The OpenBio projects development (BioPerl, BioPython, BioRuby, BioJava)
+# Semantic web technologies for biological data (e.g. RDF, OWL)
+# Software deployment and bioinformatics pipelines, including CloudBiolinux, Docker and GNU GUIX
+# NoSQL databases and NGS data mining
+# Biological data visualisation with e.g. D3/JS and BioJS.
 
-== Attendees ==
+If you have another topic of interest, please contact the organisers.
 
-If you plan to attend to the EU Codefest 2014, please fill in this [https://docs.google.com/spreadsheets/d/1vSLuVSHg139b7TdZnHAQXy0ZetikN7PZOILX0cBUKR8/edit?usp=sharing spreadsheet] so we can keep track of the number of people.
+== Registration ==
 
-== Logistics ==
+The Codefest will be hosted at the EBI [http://www.ebi.ac.uk Campus] in Hinxton, close to Cambridge, UK
 
-The Codefest will be hosted at the EBI [http://www.ebi.ac.uk/about/travel Campus] in Hinxton, close to Cambridge, UK. 
+To register to the EU Codefest please use [http://embl-web.ungerboeck.com/reg/reg_p1_form.aspx?oc=20&ct=GBPNORMAL&eventid=5356 this link]
 
-More details on the logistics will be added in the near future, if you want you can register to the [https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2014 Codefest Mailing list] to receive news about this event.
+== Travel and Accommodation ==
+
+On the EBI page you can find more information to reach the [http://www.ebi.ac.uk/about/travel EBI Campus].
+
+We expect attendees to stay in Cambridge and we are organising a shuttle bus from the city centre to the EBI campus for the two days of the Codefest. To facilitate the gathering and pick up, we advise attendees to book a room in one of the following hotels: 
+
+http://www.travelodge.co.uk/hotels/255/Cambridge-Central-hotel
+
+http://www.travelodge.co.uk/hotels/577/Cambridge-Newmarket-Road-hotel
+
+Of course you are free to stay in other places, these hotels are just recommended as they are closer to the city centre and quite cheap.
 
 == Sponsors ==
 
