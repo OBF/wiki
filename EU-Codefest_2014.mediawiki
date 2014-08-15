@@ -51,8 +51,11 @@ http://www.travelodge.co.uk/hotels/577/Cambridge-Newmarket-Road-hotel
 Of course you are free to stay in other places, these hotels are just recommended as they are closer to the city centre and quite cheap.
 
 == Sponsors ==
+{|
+| [[File:Arvados.png|150px|center|Arvados logo|link=http://arvados.org]]
+[[File:Curoverse.png|150px|center|Curoverse logo|link=http://curoverse.org]]
+|}
 
-[[File:Curoverse.png|link=https://curoverse.com‎]]
 
 == Organizers ==
 
