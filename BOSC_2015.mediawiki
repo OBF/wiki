@@ -1,0 +1,31 @@
+---
+title: BOSC 2015
+---
+
+__NOTOC__
+
+<div style="float:left; maxwidth: 180px; margin-left:25px; margin-right:15px; background-color: #FFFFFF">[[Image:Pear.png|left|The Bosc Pear]]</div>
+
+== * * * We want your feedback on past and future BOSCs! Please [https://docs.google.com/forms/d/1sSKyWzERjA_TSDTvOjCTHPDUui-xe06QmBovEwYh1xU/viewform click here] for our short BOSC questionnaire. * * * ==
+
+== Organizing Committee ==
+
+'''Co-Chairs'''
+
+* [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; [http://www.hutton.ac.uk James Hutton Institute])
+* Nomi L. Harris (Lawrence Berkeley National Laboratory)
+
+== Previous BOSCs ==
+
+* BOSC has been held yearly since 2000.
+* [[BOSC 2014]] took place in Boston, MA, July 11-12, 2014.
+* [[Past BOSC conferences | Information about the first 14 BOSC conferences]]
+
+== Contact Us ==
+
+* [https://twitter.com/OBF_BOSC Follow BOSC on Twitter]: @OBF_BOSC, #bosc2015
+* If you'd like to join the mailing list for BOSC-related announcements, including the call for abstracts and deadline reminders, please subscribe to the [http://lists.open-bio.org/mailman/listinfo/bosc-announce bosc-announce] list.  This list has low traffic, and your address will be kept private.
+* If you have questions about the conference, or would like to volunteer to help out, please contact the organizers at [mailto:bosc@open-bio.org bosc@open-bio.org].
+
+[[Category:BOSC]] [[Category:Conferences]]
+[[Category:BOSC Conferences]]
