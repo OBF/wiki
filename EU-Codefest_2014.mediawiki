@@ -22,6 +22,8 @@ This event will be linked to the [http://www.open-bio.org/wiki/Codefest_2014 OBF
 
 A detailed programme description is available on the [http://www.ebi.ac.uk/training/course/eu-codefest EU Codefest page on the EBI website].
 
+Please use the [https://groups.google.com/forum/#!forum/openbio-codefest-2014 Cofefest Google Group] to see latest discussions on topics and tools people are interested in coding during the event. 
+
 During the Codefest people are encouraged to work on FOSS projects. There will be a number of topics of focus:
 
 # The OpenBio projects development (BioPerl, BioPython, BioRuby, BioJava)
