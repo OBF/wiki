@@ -6,7 +6,10 @@ __NOTOC__
 
 <div style="float:left; maxwidth: 180px; margin-left:25px; margin-right:15px; background-color: #FFFFFF">[[Image:Pear.png|left|The Bosc Pear]]</div>
 
-== * * * We want your feedback on past and future BOSCs! Please [https://docs.google.com/forms/d/1sSKyWzERjA_TSDTvOjCTHPDUui-xe06QmBovEwYh1xU/viewform click here] for our short BOSC questionnaire. * * * ==
+== Survey about BOSC 2015 location ==
+We have asked you, and you have spoken! 59 past and/or future BOSC attendees participated in our survey, answering questions about what they liked at BOSC 2014, what changes they’d like to see, and—most importantly—what they thought about the proposal to possibly hold BOSC 2015 in Norwich (UK) just after the Galaxy Community Conference, rather than as an ISMB SIG. Although some survey participants indicated that they would be more likely to attend BOSC 2015 if it were co-located with GCC, the majority prefer BOSC to remain an ISMB SIG, so we will hold BOSC 2015 in Dublin on 10-11 July, 2015, right before ISMB 2015.
+
+Although the survey is now closed, we are always happy to hear your suggestions for BOSC 2015. (We are particularly interested in increasing diversity at BOSC, and welcome suggestions of people to invite.) You can reach us at bosc@open-bio.org.
 
 == Organizing Committee ==
 
