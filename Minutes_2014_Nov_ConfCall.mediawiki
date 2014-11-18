@@ -5,14 +5,13 @@ title: Minutes:2014 Nov ConfCall
 = Agenda =
 
 '''Venue:''' to be held by conference call on Nov 18, 2014, 12.30pm EST (17:30 UTC) <br/>
-Dial-in Number:	<!-- 1-605-475-5950  (US Midwest) --> <br/>
-Participant Access Code:	<!-- 279610 -->
+Dial-in Information: +1-857-216-2939 PIN: 62534 http://www.uberconference.com/hlapp
 
 <ol>
 <li> Old business </li>
  <ul>
   <li> [[Minutes:2013_Dec_ConfCall| Dec 2013 BoD meeting minutes]]</li>
-  <li> 2013 Financial Report </li>
+  <li> [https://github.com/OBF/obf-docs/blob/e05413fdcf9bc1b43e171b67651c81d3d5bdc7da/Financial-Reports/Financial%20report%202013.md 2013 Financial Report] </li>
  </ul>  
 <li>New business</li>
 <ol style="list-style-type:lower-roman">
