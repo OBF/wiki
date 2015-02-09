@@ -1,0 +1,32 @@
+---
+title: Codefest 2015
+---
+
+OpenBio Codefest 2015 will take place July 8th and 9th, 2015 (the Wednesday and Thursday before [[BOSC 2015]]) in Dublin, Ireland. This is an opportunity for anyone interested in open science, biology and programming to meet, discuss and work collaboratively. Everyone is welcome to attend.
+
+This is the sixth annual pre-[[BOSC]] [[Codefest]]. Previous fun and successful events were [[Codefest 2010]] in
+Boston, [[Codefest 2011]] in Vienna, [[Codefest 2012]] in Los Angeles, [[Codefest 2013]] in Berlin,
+and [[Codefest 2014]] in Boston.
+
+== What to expect ==
+
+OpenBio Codefest is a collaborative two day get together 
+
+The goals for the two days are determined entirely by attendees. Please add your
+ideas to the [https://docs.google.com/document/d/1BJ_l4LG_RiCukJaDSkK4-_apr2nBtFr4gUYQHo1HeVQ/edit?usp=sharing shared Google document]
+We'll use this brainstorming discussion document to organize everyone at the start of the event.
+
+== Attendees ==
+
+You are very welcome to attend. There is no cost, we only ask you to register to help organize numbers. Please add yourself if you are
+interested to [https://docs.google.com/spreadsheets/d/1STl3x-KcInCxpGBgBHDz2C_LvrudXDe1X9d68NpH0Tk/edit?usp=sharing this Google spreadsheet]
+We'll coordinate through the [https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2015 Codefest 2015 mailing list],
+so please sign up to discuss and receive updates.
+
+== Logistics ==
+
+We're actively working on finding a location for Codefest 2015 in Dublin. If you are local and able to help, please get in touch with [Brad https://github.com/chapmanb].
+
+== Organizers ==
+
+* [http://bcb.io/ Brad Chapman]
