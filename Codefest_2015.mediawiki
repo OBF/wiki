@@ -18,20 +18,17 @@ attendees who want to learn and contribute to open source code or documentation.
 
 The rough structure of the two days is:
 
-- Start with introductions from everyone attending about their goals and plans
-  for the two days.
-- Assemble into working groups based on shared interests. We use the
-  [https://docs.google.com/document/d/1BJ_l4LG_RiCukJaDSkK4-_apr2nBtFr4gUYQHo1HeVQ/edit
-  collaboratively brainstormed Google document] as the basis for setting up
-  groups. Attendees determine the goals for the two days. Please add
-  your ideas before the event.
-- Work and discuss. Enjoy the productive time.
-- We'll have regular breaks where each group can deliver short reports on
-  their progress.
-- We have informal lunches, dinners and drinks as a way for everyone to get to
-  know each other better.
-- At the end of the two days, we summarize contributions and work accomplished
-  in a BOSC presentation and meeting report.
+* Start with introductions from everyone attending about their goals and plans for the two days.
+
+* Assemble into working groups based on shared interests. We use the [https://docs.google.com/document/d/1BJ_l4LG_RiCukJaDSkK4-_apr2nBtFr4gUYQHo1HeVQ/edit collaboratively brainstormed Google document] as the basis for setting up groups. Attendees determine the goals for the two days. Please add your ideas before the event.
+
+* Work and discuss. Enjoy the productive time.
+
+* We'll have regular breaks where each group can deliver short reports on their progress.
+
+* We have informal lunches, dinners and drinks as a way for everyone to get to know each other better.
+
+* At the end of the two days, we summarize contributions and work accomplished in a BOSC presentation and meeting report.
 
 Please feel free to get in touch with any of the organizers with questions. You
 are very welcome at Codefest.
