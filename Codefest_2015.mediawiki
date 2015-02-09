@@ -10,11 +10,31 @@ and [[Codefest 2014]] in Boston.
 
 == What to expect ==
 
-OpenBio Codefest is a collaborative two day get together 
+The OpenBio Codefest is a collaborative two day working session. The only
+requirement for attendance is that you have an interest in open source software
+and solving scientific problems. We will have contributors to open source
+bioinformatics tools present to collaboratively work with, and we welcome new
+attendees who want to learn and contribute to open source code or documentation.
 
-The goals for the two days are determined entirely by attendees. Please add your
-ideas to the [https://docs.google.com/document/d/1BJ_l4LG_RiCukJaDSkK4-_apr2nBtFr4gUYQHo1HeVQ/edit?usp=sharing shared Google document]
-We'll use this brainstorming discussion document to organize everyone at the start of the event.
+The rough structure of the two days is:
+
+- Start with introductions from everyone attending about their goals and plans
+  for the two days.
+- Assemble into working groups based on shared interests. We use the
+  [https://docs.google.com/document/d/1BJ_l4LG_RiCukJaDSkK4-_apr2nBtFr4gUYQHo1HeVQ/edit
+  collaboratively brainstormed Google document] as the basis for setting up
+  groups. Attendees determine the goals for the two days. Please add
+  your ideas before the event.
+- Work and discuss. Enjoy the productive time.
+- We'll have regular breaks where each group can deliver short reports on
+  their progress.
+- We have informal lunches, dinners and drinks as a way for everyone to get to
+  know each other better.
+- At the end of the two days, we summarize contributions and work accomplished
+  in a BOSC presentation and meeting report.
+
+Please feel free to get in touch with any of the organizers with questions. You
+are very welcome at Codefest.
 
 == Attending ==
 
