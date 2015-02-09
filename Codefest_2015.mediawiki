@@ -25,7 +25,7 @@ so please sign up to discuss and receive updates.
 
 == Logistics ==
 
-We're actively working on finding a location for Codefest 2015 in Dublin. If you are local and able to help, please get in touch with [Brad https://github.com/chapmanb].
+We're actively working on finding a location for Codefest 2015 in Dublin. If you are local and able to help, please get in touch with [https://github.com/chapmanb Brad].
 
 == Organizers ==
 
