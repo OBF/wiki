@@ -7,9 +7,9 @@ title: Google Summer of Code
 Google Summer of Code (GSoC) is a student internship program for open-source projects. The program offers eligible student developers stipends to write code for open source projects over a period of 3 summer months ("flip bits, not burgers"). See the '''[http://code.google.com/soc Google Summer of Code Main Site]''' for general information about the Google Summer of Code program, how to apply, frequently asked general questions, and more.
 
 
-== GSoC 2014 ==
+== GSoC 2015 ==
 
-The Google Summer of Code 2014 is ON! OBF is once again serving as a [http://www.google-melange.com/gsoc/org2/google/gsoc2014/obf GSoC mentoring organization] this year. Interested mentors and students should subscribe to the OBF/GSoC [http://lists.open-bio.org/mailman/listinfo/gsoc mailing list]. Please announce yourself, so we know who you are!
+The Google Summer of Code 2015 is ON! OBF is once again serving as a [http://www.google-melange.com/gsoc/org2/google/gsoc2015/obf GSoC mentoring organization] this year. Interested mentors and students should subscribe to the OBF/GSoC [http://lists.open-bio.org/mailman/listinfo/gsoc mailing list]. Please announce yourself, so we know who you are!
 The details of each of our project ideas are listed below, including potential mentors.
 
 <!--See the main OBF [[Google Summer of Code]] page for more information about the GSoC program and additional ways to get in touch with us.-->
@@ -189,7 +189,7 @@ Some mentors and developers can regularly be found on IRC, see the list of OBF p
 
 This section contains links to content related to OBF's participation
 in GSoC in previous years.
-* [[Google_Summer_of_Code_2014|2014]] - * student projects
+* [[Google_Summer_of_Code_2014|2014]] - 6 student projects
 * [[Google_Summer_of_Code_2012|2012]] - 5 student projects
 * [[Google_Summer_of_Code_2011|2011]] - 6 student projects
 * [[Google_Summer_of_Code_2010|2010]] - 6 student projects
