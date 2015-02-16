@@ -1,0 +1,204 @@
+---
+title: Google Summer of Code 2015 Ideas
+---
+
+The details of each of our project ideas are listed below, including potential mentors. Interested mentors and students should subscribe to the OBF/GSoC [http://lists.open-bio.org/mailman/listinfo/gsoc mailing list] and announce their interest.
+
+See the main OBF [[Google Summer of Code]] page for more information about the GSoC program and additional ways to get in touch with us.
+
+
+==Cross-project ideas==
+
+OBF is an umbrella organization which represents many different programming languages used in [http://en.wikipedia.org/wiki/Bioinformatics bioinformatics]. In addition to working with each of the "Bio*" projects (listed below), this year we are also accepting a category of "cross-project" ideas that cover multiple programming languages or projects. These collaborative ideas are broadly defined and can be thought of as "unfinished" &mdash; interested students should adapt the ideas to their own strengths and goals, and are responsible for the quality of the final proposed idea in their application.
+
+'''Feel free to propose your own entirely new idea'''. You can also draw ideas from [http://gmod.org/wiki/GSoC#2014_Project_Ideas Genome Informatics (GMOD)] and the [http://informatics.nescent.org/wiki/Phyloinformatics_Summer_of_Code_2014 National Evolutionary Synthesis Center (NESCent)].
+
+=== TITLE ===
+
+; Rationale
+: TEXT HERE TEXT HERE 
+
+; Approach
+: TEXT HERE TEXT HERE 
+
+; Languages and skill
+: TEXT HERE TEXT HERE 
+
+; Code
+: TEXT HERE TEXT HERE
+
+; Mentors
+: TEXT HERE TEXT HERE 
+
+
+==[http://bioperl.org/wiki/Google_Summer_of_Code BioPerl]==
+
+[[Image:BioPerl_logo_tiny.jpg|right|link=bp:Google Summer of Code]]
+
+* [[bp:Mailing_lists|Mailing lists]]
+* IRC: <code>#bioperl</code> on [http://freenode.net Freenode]
+* [[bp:Becoming_a_developer|Information for new developers]]
+* Source code browser for [https://github.com/bioperl/bioperl-live bioperl-live] (the main BioPerl code base), and [https://github.com/bioperl all BioPerl sub-projects]
+* [[bp:Project_priority_list|Priority list]] of things that need work, as another source for student-conceived project ideas 
+
+=== TITLE ===
+
+; Rationale
+: TEXT HERE TEXT HERE 
+
+; Approach
+: TEXT HERE TEXT HERE 
+
+; Languages and skill
+: TEXT HERE TEXT HERE 
+
+; Code
+: TEXT HERE TEXT HERE
+
+; Mentors
+: TEXT HERE TEXT HERE 
+
+
+==[http://biojava.org/wiki/Google_Summer_of_Code BioJava] and JSBML==
+
+[[Image:Biojava_logo_tiny.jpg|right|link=http://biojava.org/wiki/Google_Summer_of_Code]]
+
+* [http://lists.open-bio.org/mailman/listinfo/biojava-dev BioJava developer mailing list]
+* [https://groups.google.com/forum/#!forum/jsbml-development JSBML developer mailing list]
+* [http://biojava.org/wiki/BioJava:Modules BioJava modules] as another source for student-conceived project ideas
+* Source code for [http://code.open-bio.org/svnweb/index.cgi/biojava/browse/biojava-live/trunk biojava-live] (the main BioJava code base) and [http://code.open-bio.org/svnweb/index.cgi/biojava/ all BioJava sub-projects]
+
+For GSoC 2014, BioJava is partnering with the Systems Biology Markup Language (SMBL) team to bring enhancements to JSBML, the standard Java implementation of SBML, and bring SBML features to other Java-based systems biology software. See [http://sbml.org/GSoC2014 the SMBL website] for more ideas from the SBML team.
+
+Students working on these projects will interact with both the BioJava and JSBML communities, which overlap. Most development will happen on the JSBML codebase, although BioJava is used as a supporting library for some components.
+
+=== TITLE ===
+
+; Rationale
+: TEXT HERE TEXT HERE 
+
+; Approach
+: TEXT HERE TEXT HERE 
+
+; Languages and skill
+: TEXT HERE TEXT HERE 
+
+; Code
+: TEXT HERE TEXT HERE
+
+; Mentors
+: TEXT HERE TEXT HERE 
+
+
+
+==[[biopython:Google Summer of Code |BioPython]]==
+
+[[Image:Biopython_logo_tiny.png|right|link=biopython:Google Summer of Code]]
+
+* [[biopython:Mailing lists|Mailing lists]]
+* [[biopython:Contributing|Information for contributors]]
+* [[biopython:SourceCode| Source Code]]
+
+=== TITLE ===
+
+; Rationale
+: TEXT HERE TEXT HERE 
+
+; Approach
+: TEXT HERE TEXT HERE 
+
+; Languages and skill
+: TEXT HERE TEXT HERE 
+
+; Code
+: TEXT HERE TEXT HERE
+
+; Mentors
+: TEXT HERE TEXT HERE 
+
+
+
+==[http://bioruby.open-bio.org/wiki/Google_Summer_of_Code BioRuby]==
+
+[[Image:BioRuby_logo_tiny.png|right|link=http://bioruby.org]]
+
+* [http://lists.open-bio.org/mailman/listinfo/bioruby Developers mailing list]
+* [http://github.com/bioruby/bioruby/tree/master Source code]
+* IRC: <code>#bioruby</code> on [http://freenode.net Freenode]
+
+=== TITLE ===
+
+; Rationale
+: TEXT HERE TEXT HERE 
+
+; Approach
+: TEXT HERE TEXT HERE 
+
+; Languages and skill
+: TEXT HERE TEXT HERE 
+
+; Code
+: TEXT HERE TEXT HERE
+
+; Mentors
+: TEXT HERE TEXT HERE 
+
+
+
+==[http://biohaskell.org/Google_Summer_of_Code BioHaskell]==
+
+:* [http://biohaskell.org/ Project website]
+:* [http://hackage.haskell.org/packages/#cat:Bioinformatics Bioinformatics section on HackageDB]
+
+=== TITLE ===
+
+; Rationale
+: TEXT HERE TEXT HERE 
+
+; Approach
+: TEXT HERE TEXT HERE 
+
+; Languages and skill
+: TEXT HERE TEXT HERE 
+
+; Code
+: TEXT HERE TEXT HERE
+
+; Mentors
+: TEXT HERE TEXT HERE 
+
+
+
+==[http://biocaml.org Biocaml]==
+:* [https://groups.google.com/d/forum/biocaml Mailing List]
+
+=== TITLE ===
+
+; Rationale
+: TEXT HERE TEXT HERE 
+
+; Approach
+: TEXT HERE TEXT HERE 
+
+; Languages and skill
+: TEXT HERE TEXT HERE 
+
+; Code
+: TEXT HERE TEXT HERE
+
+; Mentors
+: TEXT HERE TEXT HERE 
+
+
+
+<!--
+==BioSQL==
+
+[[Image:BioSQL_logo.png|160px|right|link=biosql:Main Page]]
+; [[biosql:Main Page|BioSQL]] :
+:* [[biosql:Main Page|Project website]]
+:* Current [http://biosql.org/wiki/Enhancement_Requests enhancement requests] as another source for student-conceived project ideas
+:* [http://biosql.org/mailman/listinfo/biosql-l developers mailing list]
+:* [http://code.open-bio.org/svnweb/index.cgi/biosql/browse/biosql-schema/trunk source code]
+:* No IRC channel at present
+-->
