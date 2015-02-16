@@ -13,6 +13,79 @@ OBF is an umbrella organization which represents many different programming lang
 
 '''Feel free to propose your own entirely new idea'''. You can also draw ideas from [http://gmod.org/wiki/GSoC#2014_Project_Ideas Genome Informatics (GMOD)] and the [http://informatics.nescent.org/wiki/Phyloinformatics_Summer_of_Code_2014 National Evolutionary Synthesis Center (NESCent)].
 
+=== Provide Nextflow with a GUI based on NoFlo UI ===
+
+; Rationale
+: Nextflow mission is to bridge the gap between state-of-art industry driven
+computational tools and computation research requirements. The goal is to
+make data analysis, coming out of next generation sequence technologies and
+not only, an easy thing to do by all researchers. It follows the UNIX
+philosophy where many small tools can be composed together to create
+efficient computational solutions where individual parts can be easily
+replaced and it has been designed to allow developers to fast prototyping
+application reusing their existing tools and scripts. For this reasons it
+has been developed primarily as a command line oriented tool.
+NoFlo (http://noflojs.org/noflo-ui/) is a flow-based programming (FBP)
+framework that makes software creation more accessible and collaborative.
+It provides an interactive interface which allows you to create your
+computation workflow map by dragging, dropping and connecting the different
+task components. It basically allows you to draw your computational map,
+similar in a sense to that of a subway map. This "map" can then be more
+easily understood, shared and curated by other scientists, compared to
+endless files of source code.
+
+; Approach
+: The goal of the this proposal is to integrate NoFlo with Nextflow in order
+to provide the latter with a presentation layer that would allow
+researchers to "draw" their computational pipelines instead of programming
+them, making easier to handle and communicate complex tasks interaction in
+their application logic. 
+
+; Languages and skill
+: TEXT HERE TEXT HERE 
+
+; Code
+: TEXT HERE TEXT HERE
+
+; Mentors
+: TEXT HERE TEXT HERE
+
+=== Low latency scheduling and in-memory data processing ===
+
+; Rationale
+:Nextflow does not implement a task scheduling strategy on its own and
+delegates it to the underlying processing infrastructure, which in most
+cases is a grid engine like technology. However these platforms were
+designed for job processing in a batch scheduling fashion, i.e few long
+duration jobs scheduled sequentially to the computer-cluster facility. This
+approach suffers of very high latencies that makes it unfit to highly
+parallel and short-lived jobs that are more and more commons in
+bioinformatics data analysis.
+
+; Approach
+:The goal of this proposal is integrating Sparrow scheduler (
+https://github.com/radlab/sparrow) and Tachyon in-memory file system (
+https://github.com/amplab/tachyon) with Nextflow.
+
+The first is a high throughput, low latency distributed cluster scheduler,
+while the second is a memory centric distributed file system. Both of them
+are open source research project developed at UC Berkeley.
+
+The integration of these technologies would allow Nextflow to manage large
+distributed workloads in a more efficient and timely manner, to decrease
+tasks granularity in Nextflow applications, gaining an higher parallelism
+degree and better applications performance.
+
+; Languages and skill
+: TEXT HERE TEXT HERE 
+
+; Code
+: TEXT HERE TEXT HERE
+
+; Mentors
+: TEXT HERE TEXT HERE
+
+
 === TITLE ===
 
 ; Rationale
@@ -28,8 +101,7 @@ OBF is an umbrella organization which represents many different programming lang
 : TEXT HERE TEXT HERE
 
 ; Mentors
-: TEXT HERE TEXT HERE 
-
+: TEXT HERE TEXT HERE
 
 ==[http://bioperl.org/wiki/Google_Summer_of_Code BioPerl]==
 
