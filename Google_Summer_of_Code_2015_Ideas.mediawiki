@@ -189,6 +189,25 @@ Students working on these projects will interact with both the BioJava and JSBML
 ; Mentors
 : TEXT HERE TEXT HERE 
 
+== Candidate a new project for OBF ==
+Please if you want to be part of OBF but you porject is not yet listed above, contact us and let us know about your project and your proposal.
+
+=== TITLE ===
+
+; Rationale
+: TEXT HERE TEXT HERE 
+
+; Approach
+: TEXT HERE TEXT HERE 
+
+; Languages and skill
+: TEXT HERE TEXT HERE 
+
+; Code
+: TEXT HERE TEXT HERE
+
+; Mentors
+: TEXT HERE TEXT HERE 
 
 
 <!--
