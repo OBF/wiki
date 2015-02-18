@@ -67,41 +67,34 @@ NoFlo-UI source code is available at this link (https://github.com/noflo/noflo-u
 : 
 Paolo Di Tommaso
 
-=== Low latency scheduling and in-memory data processing ===
+=== Nextflow low latency scheduling and in-memory data processing ===
 
 ; Rationale
-:Nextflow does not implement a task scheduling strategy on its own and
-delegates it to the underlying processing infrastructure, which in most
-cases is a grid engine like technology. However these platforms were
-designed for job processing in a batch scheduling fashion, i.e few long
-duration jobs scheduled sequentially to the computer-cluster facility. This
-approach suffers of very high latencies that makes it unfit to highly
-parallel and short-lived jobs that are more and more commons in
-bioinformatics data analysis.
+: Nextflow is a data-driven toolkit for computational pipelines that simplify writing parallel and scalable pipelines in a portable manner across different execution platforms. Its goal is to make data analysis required by next generation sequence technologies and, in more general terms, bioinformatics applications  easier for researchers.
+
+: Nextflow does not implement a task scheduling strategy on its own but delegates it to the underlying processing infrastructure, which in most cases is a grid engine like technology (SGE, PBS, SLURM, etc). However, these platforms were designed for job processing in a batch scheduling fashion, i.e. a few long duration jobs scheduled sequentially to the computer-cluster facility. This model suffers from very high latencies which make it unfit for highly parallel and short-lived jobs that are more and more common in bioinformatics  data analysis.
+
+: The goal of this proposal is to integrate the Sparrow scheduler and Tachyon in-memory file system with Nextflow to overcome the limitations of batch-like schedulers generally available in most common cluster computation facilities.
+
+: The first is a high throughput, low latency distributed cluster scheduler, while the second is a memory centric distributed file system. Both of them are open source research projects developed at UC Berkeley.
+
+: The integration of these technologies would allow Nextflow to manage large distributed workloads in a more efficient and timely manner and to decrease the task granularity in Nextflow pipelines. Thus gaining an higher parallelism degree and better applications performance.
 
 ; Approach
-:The goal of this proposal is integrating Sparrow scheduler (
-https://github.com/radlab/sparrow) and Tachyon in-memory file system (
-https://github.com/amplab/tachyon) with Nextflow.
+: Nextflow implements an extensible mechanism that allows it to support several computing platforms and file systems in a portable manner. 
+: The approach suggested consists in implementing a new Nextflow executor which integrates the Sparrow scheduler and its features. 
+: The support for Tachyon file system can be added to Nextflow by writing an adapter layer that follows the Java JSR-203 specification.
 
-The first is a high throughput, low latency distributed cluster scheduler,
-while the second is a memory centric distributed file system. Both of them
-are open source research project developed at UC Berkeley.
-
-The integration of these technologies would allow Nextflow to manage large
-distributed workloads in a more efficient and timely manner, to decrease
-tasks granularity in Nextflow applications, gaining an higher parallelism
-degree and better applications performance.
-
-; Languages and skill
-: TEXT HERE TEXT HERE 
+; Languages and skills
+: Student is required to have proven working ability with the Java and/or Groovy programming languages and a good level of theoretical and practical knowledge in parallel and concurrent programming. 
 
 ; Code
-: TEXT HERE TEXT HERE
+: Nextflow source code repository (https://github.com/nextflow-io/nextflow)
+: Sparrow cluster source code (https://github.com/radlab/sparrow)
+: Tachyon file system source code (https://github.com/amplab/tachyon) 
 
 ; Mentors
-: TEXT HERE TEXT HERE
-
+: Paolo Di Tommaso
 
 === TITLE ===
 
