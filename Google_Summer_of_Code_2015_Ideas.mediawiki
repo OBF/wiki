@@ -16,56 +16,28 @@ OBF is an umbrella organization which represents many different programming lang
 === Provide Nextflow with a GUI based on NoFlo UI ===
 
 ; Rationale
-: 
-Nextflow is a data-driven toolkit for computational pipelines that simplify 
-writing parallel and scalable pipelines in a portable manner. Its goal is to
-make data analysis required by next generation sequence technologies and, in more 
-general terms, bioinformatics applications easier for researchers. 
-:
-It follows the UNIX philosophy where many small tools can be composed together 
-to create efficient computational solutions where individual parts can be easily
-replaced. It has been designed to allow developers to fast prototype applications
-reusing their existing tools and scripts. For this reason it has been developed 
-primarily as a command line oriented tool. However, complex pipelines may benefit 
-from having a visualisation layer that helps the developer design and represent 
-the application workflow logic.
-:
-NoFlo-UI is the presentation layer for NoFlo, a flow-based programming (FBP)
-environment that makes software creation more accessible and collaborative.
-It provides an interactive interface which allows you to create a computational 
-workflow by dragging, dropping and connecting the different task components. 
-It basically allows you to "draw" an application in such a way that it resembles
-a subway map. This "map" can then be more easily understood, shared and curated by 
-other scientists, compared to managing endless files of source code.
+: Nextflow is a data-driven toolkit for computational pipelines that simplify writing parallel and scalable pipelines in a portable manner. Its goal is to make data analysis required by next generation sequence technologies and, in more general terms, bioinformatics applications easier for researchers. 
+
+: It follows the UNIX philosophy where many small tools can be composed together to create efficient computational solutions where individual parts can be easily replaced. It has been designed to allow developers to fast prototype applications reusing their existing tools and scripts. For this reason it has been developed primarily as a command line oriented tool. However, complex pipelines may benefit from having a visualisation layer that helps the developer design and represent the application workflow logic.
+
+: NoFlo-UI is the presentation layer for NoFlo, a flow-based programming (FBP) environment that makes software creation more accessible and collaborative. It provides an interactive interface which allows you to create a computational workflow by dragging, dropping and connecting the different task components. It basically allows you to "draw" an application in such a way that it resembles a subway map. This "map" can then be more easily understood, shared and curated by other scientists, compared to managing endless files of source code.
 
 ; Approach
-: 
-The goal, therefore, of the this proposal is to implement a graphical front-end,
-based on the NoFlo-UI project, for the Nextflow programming environment. This would 
-provide the latter with a presentation layer that would allow researchers to "sketch" 
-their computational pipelines instead of programming them, making it easier to share 
-and handle complex task interactions in their application logic. 
-: 
-Ideally this integration will implement a two-way tool in such a way that 
-changes, applied in the visual editor, are reflected in the Nextflow scripting 
-language and vice-versa. 
+: The goal, therefore, of the this proposal is to implement a graphical front-end, based on the NoFlo-UI project, for the Nextflow programming environment. This would provide the latter with a presentation layer that would allow researchers to "sketch" their computational pipelines instead of programming them, making it easier to share and handle complex task interactions in their application logic. 
+
+: Ideally this integration will implement a two-way tool in such a way that changes, applied in the visual editor, are reflected in the Nextflow scripting language and vice-versa. 
 
 ; Languages and skills
-: 
-The student is required to have proven working ability with Javascript, HTML5, Polymer 
-and Node.js for the front-end development and good level of knowledge of the Groovy/Java 
-programming languages for Nextflow side. 
-He/she may also benefit by having some theoretical and practical knowledge of programming 
-language syntax and grammar parsers.
+: The student is required to have proven working ability with Javascript, HTML5, Polymer and Node.js for the front-end development and good level of knowledge of the Groovy/Java programming languages for Nextflow side. 
+
+: He/she may also benefit by having some theoretical and practical knowledge of programming language syntax and grammar parsers.
 
 ; Code
-: 
-Nextflow source code is available at the following repository (https://github.com/nextflow-io/nextflow/)
-NoFlo-UI source code is available at this link (https://github.com/noflo/noflo-ui/)
+: Nextflow source code is available at the following repository (https://github.com/nextflow-io/nextflow/)
+: NoFlo-UI source code is available at this link (https://github.com/noflo/noflo-ui/)
 
 ; Mentors
-: 
-Paolo Di Tommaso
+: Paolo Di Tommaso
 
 === Nextflow low latency scheduling and in-memory data processing ===
 
