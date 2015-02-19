@@ -215,7 +215,7 @@ Students working on these projects will interact with both the BioJava and JSBML
 * [http://github.com/bioruby/bioruby/tree/master Source code]
 * IRC: <code>#bioruby</code> on [http://freenode.net Freenode]
 
-=== Add super-fast local realignment support to Sambamba ===
+=== Add local realignment support to Sambamba ===
 
 ; Rationale
 : Sambamba is a multi-core alignment processor for next generation sequencing
@@ -230,15 +230,19 @@ Students working on these projects will interact with both the BioJava and JSBML
 
 ; Languages and skill
 : Able to read C code and willing to write high-performance software in D (and some Ruby).
+: Basic understanding of probability theory
 
 ; Code
 : Sambamba: https://github.com/lomereiter/sambamba
 : D language: http://dlang.org/
 : Bioruby-samtools gem: http://biogems.info/
 
+: Notes on Samtools algorithms: https://www.broadinstitute.org/gatk/media/docs/Samtools.pdf
+: Samtools indel caller code: https://github.com/samtools/samtools/blob/develop/bam2bcf_indel.c
+: Samtools local realignment: https://github.com/samtools/samtools/blob/develop/kprobaln.c
+
 ; Mentors
 : Pjotr Prins, Artem Tarasov, Francesco Strozzi
-
 
 === TITLE ===
 
