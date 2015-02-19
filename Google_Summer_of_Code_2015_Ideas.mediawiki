@@ -42,7 +42,7 @@ OBF is an umbrella organization which represents many different programming lang
 === Nextflow low latency scheduling and in-memory data processing ===
 
 ; Rationale
-: Nextflow is a data-driven toolkit for computational pipelines that simplify writing parallel and scalable pipelines in a portable manner across different execution platforms. Its goal is to make data analysis required by next generation sequence technologies and, in more general terms, bioinformatics applications  easier for researchers.
+: Nextflow is a data-driven toolkit for computational pipelines that simplify writing parallel and scalable pipelines in a portable manner across different execution platforms. Its goal is to make data analysis required by next generation sequence technologies and, in more general terms, bioinformatics applications  easier for researchers. You can read more about Nextflow at this link (http://www.nextflow.io).
 
 : Nextflow does not implement a task scheduling strategy on its own but delegates it to the underlying processing infrastructure, which in most cases is a grid engine like technology (SGE, PBS, SLURM, etc). However, these platforms were designed for job processing in a batch scheduling fashion, i.e. a few long duration jobs scheduled sequentially to the computer-cluster facility. This model suffers from very high latencies which make it unfit for highly parallel and short-lived jobs that are more and more common in bioinformatics  data analysis.
 
