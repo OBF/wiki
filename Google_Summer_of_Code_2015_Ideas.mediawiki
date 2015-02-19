@@ -13,17 +13,17 @@ OBF is an umbrella organization which represents many different programming lang
 
 '''Feel free to propose your own entirely new idea'''. You can also draw ideas from [http://gmod.org/wiki/GSoC#2014_Project_Ideas Genome Informatics (GMOD)] and the [http://informatics.nescent.org/wiki/Phyloinformatics_Summer_of_Code_2014 National Evolutionary Synthesis Center (NESCent)].
 
-=== Provide Nextflow with a GUI based on NoFlo UI ===
+=== Nextflow graphical front-end ===
 
 ; Rationale
-: Nextflow is a data-driven toolkit for computational pipelines that simplify writing parallel and scalable pipelines in a portable manner. Its goal is to make data analysis required by next generation sequence technologies and, in more general terms, bioinformatics applications easier for researchers. 
+: Nextflow is a data-driven toolkit for computational pipelines that simplify writing parallel and scalable pipelines in a portable manner. Its goal is to make data analysis required by next generation sequence technologies and, in more general terms, bioinformatics applications easier for researchers. You can read more about Nextflow at this link (http://www.nextflow.io).
 
 : It follows the UNIX philosophy where many small tools can be composed together to create efficient computational solutions where individual parts can be easily replaced. It has been designed to allow developers to fast prototype applications reusing their existing tools and scripts. For this reason it has been developed primarily as a command line oriented tool. However, complex pipelines may benefit from having a visualisation layer that helps the developer design and represent the application workflow logic.
 
-: NoFlo-UI is the presentation layer for NoFlo, a flow-based programming (FBP) environment that makes software creation more accessible and collaborative. It provides an interactive interface which allows you to create a computational workflow by dragging, dropping and connecting the different task components. It basically allows you to "draw" an application in such a way that it resembles a subway map. This "map" can then be more easily understood, shared and curated by other scientists, compared to managing endless files of source code.
+: NoFlo-UI is the presentation layer for NoFlo, a flow-based programming (FBP) environment that makes software creation more accessible and collaborative. It provides an interactive interface which allows you to create a computational workflow by dragging, dropping and connecting the different task components. It basically allows you to "draw" an application in such a way that it resembles a subway map. This "map" can then be more easily understood, shared and curated by other developers, compared to managing endless files of source code.
 
 ; Approach
-: The goal, therefore, of the this proposal is to implement a graphical front-end, based on the NoFlo-UI project, for the Nextflow programming environment. This would provide the latter with a presentation layer that would allow researchers to "sketch" their computational pipelines instead of programming them, making it easier to share and handle complex task interactions in their application logic. 
+: The goal, therefore, of the this proposal is to implement a graphical front-end, based on the NoFlo-UI project, for the Nextflow programming environment. This would provide the latter with a presentation layer that would allow scientists to "sketch" their computational pipelines instead of programming them, making it easier to share and handle complex task interactions in their application logic. 
 
 : Ideally this integration will implement a two-way tool in such a way that changes, applied in the visual editor, are reflected in the Nextflow scripting language and vice-versa. 
 
