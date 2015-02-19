@@ -215,6 +215,31 @@ Students working on these projects will interact with both the BioJava and JSBML
 * [http://github.com/bioruby/bioruby/tree/master Source code]
 * IRC: <code>#bioruby</code> on [http://freenode.net Freenode]
 
+=== Add super-fast local realignment support to Sambamba ===
+
+; Rationale
+: Sambamba is a multi-core alignment processor for next generation sequencing
+: (BAM/SAM/CRAM formats). It mostly replaces the samtools software apart from
+: the mpileup routine. To achieve that the local realignment routine of 
+: samtools needs to be implemented in the D programming language, preferably removing the bugs and 
+: taking ideas from the freebayes local realignment implementation.
+
+; Approach
+: Implement a local realignment routine in D. Add mpileup support to sambamaba.
+: Update the bioruby-samtools package to support sambamba.
+
+; Languages and skill
+: Able to read C code and willing to write high-performance software in D (and some Ruby).
+
+; Code
+: Sambamba: https://github.com/lomereiter/sambamba
+: D language: http://dlang.org/
+: Bioruby-samtools gem: http://biogems.info/
+
+; Mentors
+: Pjotr Prins, Artem Tarasov, Francesco Strozzi
+
+
 === TITLE ===
 
 ; Rationale
