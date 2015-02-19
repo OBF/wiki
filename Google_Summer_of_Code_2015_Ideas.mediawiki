@@ -68,6 +68,41 @@ OBF is an umbrella organization which represents many different programming lang
 ; Mentors
 : Paolo Di Tommaso
 
+=== Create GNU Guix Bioinformatics packaging system and add support to CloudBiolinux ===
+
+; Rationale
+: [http://www.gnu.org/software/guix/ GNU Guix] is a next generation software packaging system that has many interesting
+: features for bioinformatics including multi-version support, transactional installs and reproducible systems.
+: GNU GUix is written in the Scheme/LISP programming language and works well with 
+: virtual machines and Docker, for example.
+: Currently CloudBiolinux depends on linuxbrew/homebrew for creating special packages.
+: We propose to replace part of the linuxbrew infrastructure with that of GNU Guix.
+: Having the GNU Guix bionformatics package will allow us to run exactly
+: the same software on workstations, servers and virtual machines.
+
+; Approach
+: Write in Scheme a new collection of bioinformatics packages for GNU Guix as part of the GNU
+: project, perhaps adding further support for Ruby and Python interpreters in the process 
+: (Python is rather well supported already). Embed GNU Guix inside CloudBiolinux by
+: using 'flavors'. Also
+: write a testing infrastructure in Python. Next introduce GNU Guix to Galaxy as part
+: of the Galaxy toolshed.
+
+; Languages and skills
+: Interest in reproducible software deployment for bioinformatics. Willing to learn Scheme, some command of Python.
+
+; Code
+: GNU Guix presentation at codefest 2014: http://www.gnu.org/software/guix/guix-openbio-codefest-20140709.pdf
+: GNU Guix source: http://www.gnu.org/software/guix/
+: CloudBiolinux and Galaxy source and info: http://cloudbiolinux.org/
+
+; Mailing list
+: We will use the CloudBiolinux [https://groups.google.com/forum/#!forum/cloudbiolinux mailing list]
+; Mentors
+: Pjotr Prins, Marco van Zwetselaar, Brad Chapman, Dave Thompson
+
+
+
 === TITLE ===
 
 ; Rationale
