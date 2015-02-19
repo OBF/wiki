@@ -243,6 +243,28 @@ In Haskell, we typically don't talk that much about low-level implementation det
 ; Mentors
 : TEXT HERE TEXT HERE 
 
+== [https://github.com/dbcls/bh14/wiki/Yummydata Team YummyData] ==
+
+YummyData is a system of collecting and disseminating various statistical and functional data of SARQL endpoints in the Life Science domain.
+
+=== Sharing SPARQL endpoint data ===
+
+; Rationale
+: TEXT HERE TEXT HERE 
+
+; Approach
+: TEXT HERE TEXT HERE 
+
+; Languages and skill
+: TEXT HERE TEXT HERE 
+
+; Code
+: TEXT HERE TEXT HERE
+
+; Mentors
+: Andrea Splendiani, Thierry Lombardot, Yasunori Yamamoto
+
+
 == Candidate a new project for OBF ==
 Please if you want to be part of OBF but you porject is not yet listed above, contact us and let us know about your project and your proposal.
 
