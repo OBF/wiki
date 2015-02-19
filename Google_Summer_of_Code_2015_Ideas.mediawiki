@@ -148,18 +148,13 @@ OBF is an umbrella organization which represents many different programming lang
 : TEXT HERE TEXT HERE 
 
 
-==[http://biojava.org/wiki/Google_Summer_of_Code BioJava] and JSBML==
+==[http://biojava.org/wiki/Google_Summer_of_Code BioJava] ==
 
 [[Image:Biojava_logo_tiny.jpg|right|link=http://biojava.org/wiki/Google_Summer_of_Code]]
 
 * [http://lists.open-bio.org/mailman/listinfo/biojava-dev BioJava developer mailing list]
-* [https://groups.google.com/forum/#!forum/jsbml-development JSBML developer mailing list]
 * [http://biojava.org/wiki/BioJava:Modules BioJava modules] as another source for student-conceived project ideas
-* Source code for [http://code.open-bio.org/svnweb/index.cgi/biojava/browse/biojava-live/trunk biojava-live] (the main BioJava code base) and [http://code.open-bio.org/svnweb/index.cgi/biojava/ all BioJava sub-projects]
-
-For GSoC 2014, BioJava is partnering with the Systems Biology Markup Language (SMBL) team to bring enhancements to JSBML, the standard Java implementation of SBML, and bring SBML features to other Java-based systems biology software. See [http://sbml.org/GSoC2014 the SMBL website] for more ideas from the SBML team.
-
-Students working on these projects will interact with both the BioJava and JSBML communities, which overlap. Most development will happen on the JSBML codebase, although BioJava is used as a supporting library for some components.
+* Source code for [https://github.com/biojava/biojava/]
 
 === TITLE ===
 
@@ -176,9 +171,7 @@ Students working on these projects will interact with both the BioJava and JSBML
 : TEXT HERE TEXT HERE
 
 ; Mentors
-: TEXT HERE TEXT HERE 
-
-
+: TEXT HERE TEXT HERE
 
 ==[[biopython:Google Summer of Code |BioPython]]==
 
