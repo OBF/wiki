@@ -276,21 +276,31 @@ This is an area ripe for new student project ideas.  The more focused the better
 === TITLE ===
 
 ; Rationale
-: TEXT HERE TEXT HERE 
+It is now trivial to generate large amounts of DNA sequence data; the challenge is making sense of such data. In many cases, researchers can gain much from simple answers regarding small sets of previously identified study sequences – for example determining whether the sequences are present in a new dataset, or identifying the genetic variation present in such sequences. BLAST is the most commonly used tool for such analyses (>100,000 citations; twice among the top 15 cited papers of all time). However it remains surprisingly challenging to visualize BLAST results.
 
 ; Approach
-: TEXT HERE TEXT HERE 
+*The student will study existing BLAST visualization approaches including as part of:
+** NCBI’s website
+** SequenceServer 
+** dot-plot 
+** Kablammo http://kablammo.wasmuthlab.org
+** Circos-type visualization https://twitter.com/pjacock/statuses/484439588434636800
+** Genevalidator (a former GSoC project) http://genevalidator.sbcs.qmul.ac.uk
+** and potentially others - BLAST overviews should be considered independently of visualization concerning individual hits. 
+* Decide on architecture for implementing these (or a subset) on Sequenceserver
+* Integrate visualization as part of sequenceserver - in a manner that further improves Sequenceserver’s user experience. 
+* Release the libraries in a modular and documented manner for reuse by others. 
+* This will require use of at least the following technologies: Ruby, Javascript, HTML, CSS.  
 
 ; Languages and skill
-: TEXT HERE TEXT HERE 
+Ruby, JavaScript
 
 ; Code
 : TEXT HERE TEXT HERE
 
 ; Mentors
-: TEXT HERE TEXT HERE 
-
-
+Anurag Priyam
+Yannick Wurm
 
 ==[http://biohaskell.org/Google_Summer_of_Code BioHaskell]==
 
