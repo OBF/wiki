@@ -367,13 +367,15 @@ YummyData is a system of collecting and disseminating various statistical and fu
 : All of these aspects have important consequences for users that rely on federated queries across distributed SPARQL endpoints.
 
 ; Approach
-: TEXT HERE TEXT HERE 
+: YummyData system consists of mainly two components: that of collecting data for each endpoint and that of providing obtained data.
+: Those data to be collected are based on variety of factors including availability, reliability, content summarization, and content evolution.
+: Our long term goal is to compute a SPARKLE score, a composite metric combining measures such as the number of triples, size and frequency of updates, the number of links to other datasets, and the capabilities of the endpoint server.
 
 ; Languages and skill
-: TEXT HERE TEXT HERE 
+: YummyData system is written Java and Scala. In addition, SPARQL is used to collect data, and JavaScript is used for showing results.
 
 ; Code
-: TEXT HERE TEXT HERE
+: [https://github.com/sgtp/yummydata GitHub]
 
 ; Mentors
 : Andrea Splendiani, Thierry Lombardot, Yasunori Yamamoto
