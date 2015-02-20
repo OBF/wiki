@@ -273,7 +273,7 @@ This is an area ripe for new student project ideas.  The more focused the better
 ; Mentors
 : Pjotr Prins, Artem Tarasov, Francesco Strozzi
 
-=== TITLE ===
+=== BLAST visualisation library for BioRuby and SequenceServer ===
 
 ; Rationale
 It is now trivial to generate large amounts of DNA sequence data; the challenge is making sense of such data. In many cases, researchers can gain much from simple answers regarding small sets of previously identified study sequences – for example determining whether the sequences are present in a new dataset, or identifying the genetic variation present in such sequences. BLAST is the most commonly used tool for such analyses (>100,000 citations; twice among the top 15 cited papers of all time). However it remains surprisingly challenging to visualize BLAST results.
