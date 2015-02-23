@@ -307,7 +307,7 @@ Biohaskell has its own gsoc page. We currently have 2 (+1) open problems listed 
 : [http://hackage.haskell.org/package/containers containers] and [http://hackage.haskell.org/package/unordered-containers unordered containers] for references to map-like container structures.
 
 ; Mentors
-: Ketil Malde?
+: Ketil Malde
 
 === Low-level bit and stream-fusion optimizations ===
 
