@@ -127,7 +127,7 @@ OBF is an umbrella organization which represents many different programming lang
 :* excellent Perl programming skills, including familiarity with NGS datasets
 ;* knowledge of modern Perl practices.
 
-; Mentors : Chris Fields, Mark Jensen?
+; Mentors : Chris Fields, Mark Jensen
 
 === BioPerl 2.0 / BioPerl6 ===
 
