@@ -103,23 +103,6 @@ OBF is an umbrella organization which represents many different programming lang
 
 
 
-=== TITLE ===
-
-; Rationale
-: TEXT HERE TEXT HERE 
-
-; Approach
-: TEXT HERE TEXT HERE 
-
-; Languages and skill
-: TEXT HERE TEXT HERE 
-
-; Code
-: TEXT HERE TEXT HERE
-
-; Mentors
-: TEXT HERE TEXT HERE
-
 ==[http://bioperl.org/wiki/Google_Summer_of_Code BioPerl]==
 
 [[Image:BioPerl_logo_tiny.jpg|right|link=bp:Google Summer of Code]]
