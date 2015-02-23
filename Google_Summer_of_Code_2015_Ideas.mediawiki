@@ -149,7 +149,7 @@ This is an area ripe for new student project ideas.  The more focused the better
 
 ; Difficulty : Project-dependent
 
-; Mentors : Chris Fields, Mark Jensen?
+; Mentors : Chris Fields, Mark Jensen
 
 === Convert BioPerl-DB to DBIx::Class ===
 
