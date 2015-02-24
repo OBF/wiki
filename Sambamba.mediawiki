@@ -8,5 +8,5 @@ For more information see
 
   https://github.com/lomereiter/sambamba
 
-The Sambamba paper is published in Bioinformatics (2015) doi: [http://bioinformatics.oxfordjournals.org/content/early/2015/02/18/bioinformatics.btv098.full.pdf+html 10.1093/bioinformatics/btv098 10.1093/bioinformatics/btv098].
+The Sambamba paper is published in Bioinformatics (2015) doi: [http://dx.doi.org/10.1093/bioinformatics/btv098 10.1093/bioinformatics/btv098].
 Timing logs used in the publication can be found [https://github.com/pjotrp/smb_performance here].
