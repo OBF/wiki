@@ -23,16 +23,21 @@ Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter
 * '''BOSC 2015: July 10-11, 2015, Dublin'''
 * ISMB/ECCB 2015: July 10-14, 2015, Dublin
 
+== Session Topics ==
+We welcome submissions relating to all aspects of bioinformatics and open science software, including (but not limited to):
+* '''Open Science and Reproducible Research''' -- covers the theory and practice of open science, including open notebook science, open data, transparent and reproducible workflows, and shared standards for reviewing and publishing research papers.
+* '''Standards Interoperability''' -- includes standards such as ontologies, formats, etc, as well as Open Source approaches to integrating the latest bioinformatics tools, exploring how we can increase tool connectivity and help communities work better together.
+* '''Data Science''' -- encompasses software and other tools designed for managing, exploring, and analyzing large-scale data to address research questions, such as genome assembly, variant prediction, eQTL analysis, phylogenomics, and epigenetics.
+* '''Visualization''' -- focuses on approaches for interactive as well as static visual representations of biomedical data, ranging from exploration to explanation.
+* '''Translational Bioinformatics''' -- explores applications of biological and medical informatics to the development of personalized healthcare, therapies, and a better understanding of human health and disease. Topics include the analysis of large scale population and family sequencing data, bioinformatics methodologies for clinical research, and tools for discovering clinically useful associations in human databases.
+* '''Bioinformatics Open Source Libraries and Projects''' -- features short talks from new or ongoing projects describing their recent progress. Abstracts will be solicited from open source projects affiliated with the O|B|F (see http://www.open-bio.org/wiki/Projects), including the Bio* projects, DAS, BioMOBY, EMBOSS, and GMOD, but any other open-source project will be equally eligible to submit abstracts for this session.
+* '''Panel''': Open Source, Open Door: increasing diversity in the bioinformatics open source community
+
 == Sponsors ==
 
 BOSC is organised by the [[Main_Page|Open Bioinformatics Foundation]], a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community.
 
 If you would like to be a sponsor of BOSC 2015, please contact us at at bosc@open-bio.org.
-
-== Survey about BOSC 2015 location ==
-We have asked you, and you have spoken! 59 past and/or future BOSC attendees participated in our survey, answering questions about what they liked at BOSC 2014, what changes they’d like to see, and—most importantly—what they thought about the proposal to possibly hold BOSC 2015 in Norwich (UK) just after the Galaxy Community Conference, rather than as an ISMB SIG. Although some survey participants indicated that they would be more likely to attend BOSC 2015 if it were co-located with GCC, the majority prefer BOSC to remain an ISMB SIG, so we will hold BOSC 2015 in Dublin on 10-11 July, 2015, right before ISMB 2015.
-
-Although the survey is now closed, we are always happy to hear your suggestions for BOSC 2015. (We are particularly interested in increasing diversity at BOSC, and we welcome suggestions of people to invite.) You can reach us at bosc@open-bio.org.
 
 == Organizing Committee ==
 
@@ -56,6 +61,11 @@ Although the survey is now closed, we are always happy to hear your suggestions 
 '''Ex Officio (Members of the O|B|F Board)'''
 * [http://www.bioperl.org/wiki/Chris_Dagdigian Chris Dagdigian]
 * [http://www.bioperl.org/wiki/Jason_Stajich Jason Stajich]
+
+== Survey about BOSC 2015 location ==
+We have asked you, and you have spoken! 59 past and/or future BOSC attendees participated in our survey, answering questions about what they liked at BOSC 2014, what changes they’d like to see, and—most importantly—what they thought about the proposal to possibly hold BOSC 2015 in Norwich (UK) just after the Galaxy Community Conference, rather than as an ISMB SIG. Although some survey participants indicated that they would be more likely to attend BOSC 2015 if it were co-located with GCC, the majority prefer BOSC to remain an ISMB SIG, so we will hold BOSC 2015 in Dublin on 10-11 July, 2015, right before ISMB 2015.
+
+Although the survey is now closed, we are always happy to hear your suggestions for BOSC 2015. (We are particularly interested in increasing diversity at BOSC, and we welcome suggestions of people to invite.) You can reach us at bosc@open-bio.org.
 
 == Previous BOSCs ==
 
