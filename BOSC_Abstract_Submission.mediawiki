@@ -9,7 +9,7 @@ Abstract submission is expected to open on 5 March 2015. The deadline for abstra
 === Abstract Formatting Requirements ===
 Abstracts must be '''one page''' (8.5 inches by 11 inches) in length and submitted '''as a PDF (preferred) or Microsoft Word file only'''.
 
-You can download an abstract formatting example [[File:BOSC2015-abstract-template.pdf here as a PDF]] (not fillable).
+You can download an example of a properly formatted abstract here: [[File:BOSC2015-abstract-template.pdf]] (not fillable).
 
 Please format your abstract as follows:
 * Use 1 inch (2.5 cm) margins on the top, sides, and bottom of the page.
