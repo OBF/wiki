@@ -10,7 +10,7 @@ Abstract submission opens on 5 March 2015. The deadline for abstract submissions
 Abstracts must be '''one page''' (8.5 inches by 11 inches) in length and submitted '''as a PDF (preferred), Microsoft Word, or text file'''.
 
 Abstract templates:
-* [[File:BOSC2015-abstract-template.pdf|PDF]] (not fillable)
+* [http://www.open-bio.org/wiki/File:BOSC2015-abstract-template.pdf PDF] (not fillable)
 * [http://www.open-bio.org/bosc2015/bosc2015-abstract-example.doc Word (.doc)] 
 * [http://www.open-bio.org/bosc2015/bosc2015-abstract-example.docx Word (.docx)]
 * [http://www.open-bio.org/bosc2015/bosc2015-abstract-example.pages Pages]
