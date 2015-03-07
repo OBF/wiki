@@ -59,10 +59,10 @@ If you would like to be a sponsor of BOSC 2015, please contact us at at bosc@ope
 * Christopher Fields (National Center for Supercomputing Applications)
 * Karsten Hokamp (Smurfit Institute of Genetics, Trinity College Dublin, Ireland)
 * [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp] (National Evolutionary Synthesis Center)
+* [http://berkeleybop.org/person/monica-munoz-torres Monica Munoz-Torres]  (Lawrence Berkeley National Laboratory)
 
 '''Ex Officio (Members of the O|B|F Board)'''
 * [http://www.bioperl.org/wiki/Chris_Dagdigian Chris Dagdigian]
-* [http://www.bioperl.org/wiki/Jason_Stajich Jason Stajich]
 
 == Survey about BOSC 2015 location ==
 We have asked you, and you have spoken! 59 past and/or future BOSC attendees participated in our survey, answering questions about what they liked at BOSC 2014, what changes they’d like to see, and—most importantly—what they thought about the proposal to possibly hold BOSC 2015 in Norwich (UK) just after the Galaxy Community Conference, rather than as an ISMB SIG. Although some survey participants indicated that they would be more likely to attend BOSC 2015 if it were co-located with GCC, the majority prefer BOSC to remain an ISMB SIG, so we will hold BOSC 2015 in Dublin on 10-11 July, 2015, right before ISMB 2015.
