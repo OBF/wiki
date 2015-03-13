@@ -16,7 +16,7 @@ The goal of Codefest is to bring open source bioinformatics programmers together
 
 * Developing new communities working on shared problems. For example, the [https://groups.google.com/forum/#!forum/common-workflow-language Common Workflow Language] developed from discussions at Codefest 2014.
 
-* Establishing new relationships for training and expanding the open source bioinformatics community.
+* Establishing new relationships for training, helping to expand the open source bioinformatics community.
 
 * Preparing and publishing [http://www.biomedcentral.com/1471-2105/15/S14/S7 papers about the work accomplished].
 
