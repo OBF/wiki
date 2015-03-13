@@ -18,7 +18,7 @@ The goal of Codefest is to bring open source bioinformatics programmers together
 
 * Establishing new relationships for training and expanding the open source bioinformatics community.
 
-* Preparing and publishing [http://www.biomedcentral.com/1471-2105/15/S14/S7 papers about work].
+* Preparing and publishing [http://www.biomedcentral.com/1471-2105/15/S14/S7 papers about the work accomplished].
 
 == Why attend ==
 
