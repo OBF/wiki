@@ -8,6 +8,20 @@ This is the sixth annual pre-[[BOSC]] [[Codefest]]. Previous fun and successful 
 Boston, [[Codefest 2011]] in Vienna, [[Codefest 2012]] in Los Angeles, [[Codefest 2013]] in Berlin,
 and [[Codefest 2014]] in Boston.
 
+== Objectives ==
+
+The goal of Codefest is to bring open source bioinformatics programmers together to have an enjoyable and productive two days. Practically this results in a number useful outcomes:
+
+* Improving and expanding existing open source code, documentation and infrastructure (see the summaries from [https://docs.google.com/presentation/d/114yvrK0Veasc_ns_rg484j2xxRi1h7wNlU2XKONuUqY/edit Codefest 2014] and [http://bcb.io/2013/07/18/summary-from-bioinformatics-open-science-codefest-2013-tools-infrastructure-standards-and-visualization/ Codefest 2013] for examples of work accomplished in previous years).
+
+* Developing new communities working on shared problems. For example, the [https://groups.google.com/forum/#!forum/common-workflow-language Common Workflow Language] developed from discussions at Codefest 2014.
+
+* Establishing new relationships for training and expanding the open source bioinformatics community.
+
+* Preparing and publishing [http://www.biomedcentral.com/1471-2105/15/S14/S7 papers about work].
+
+== Why attend ==
+
 == What to expect ==
 
 The OpenBio Codefest is a collaborative two day working session. The only
