@@ -9,6 +9,10 @@ __NOTOC__
 
 BOSC includes normal-length talks (about 20 minutes), lightning talks (5 minutes), and posters. Please indicate on the submission form which you want your abstract to be considered for. (All abstracts that are accepted for talks will also be offered optional poster spots.)
 
+If the registration fee would prevent you from attending BOSC, please
+let us know in the Comments box when submitting your abstract. We
+have a limited number of free and half-price spots for accepted speakers.
+
 === * * * Click [http://events.open-bio.org/BOSC2015/openconf.php here] to submit your abstract! * * * ===
 
 === Abstract Formatting Requirements ===
