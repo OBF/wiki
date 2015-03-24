@@ -84,7 +84,7 @@ Although the survey is now closed, we are always happy to hear your suggestions 
 
 == ISMB Code of Conduct ==
 
-In March 2015, ISMB published a [http://www.iscb.org/ismbeccb2015-general-info/ismbeccb2015-coc|Code of Conduct] that applies to SIGs (including BOSC) as well as the main ISMB/ECCB meeting.
+In March 2015, ISMB published a [http://www.iscb.org/ismbeccb2015-general-info/ismbeccb2015-coc Code of Conduct] that applies to SIGs (including BOSC) as well as the main ISMB/ECCB meeting.
 
 [[Category:BOSC]] [[Category:Conferences]]
 [[Category:BOSC Conferences]]
