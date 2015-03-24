@@ -2,7 +2,7 @@
 title: BOSC 2015 Keynote Speakers
 ---
 
-BOSC 2015 is pleased to announce the following keynote speakers:
+[[BOSC 2015]] is pleased to announce the following keynote speakers:
 
 === Holly Bik ===
 
