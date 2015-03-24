@@ -20,7 +20,7 @@ Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter
 == Important Dates ==
 
 * ''' [[BOSC_Abstract_Submission|Abstract submission]] deadline: April 3, 2015'''.  [[BOSC_Abstract_Submission|Submit your abstract here!]]
-* [https://www.iscb.org/ismbeccb2015-registration Registration] opens for ISMB and BOSC
+* [https://www.iscb.org/ismbeccb2015-registration Registration] opens for ISMB and BOSC: March 24, 2015
 * Notification of accepted talks: May 3, 2015
 * [[Codefest 2015]]: July 8-9, 2015, Dublin
 * '''BOSC 2015: July 10-11, 2015, Dublin'''
