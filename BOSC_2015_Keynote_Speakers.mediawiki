@@ -6,7 +6,7 @@ BOSC 2015 is pleased to announce the following keynote speakers:
 
 === Holly Bik ===
 
-[[Image:HollyBik.jpg|130px|left|Holly Bik]]
+[[Image:HollyBik.png|140px|left|Holly Bik]]
 
 Holly Bik is a Birmingham Fellow (assistant professor) in the School of Biosciences at the University of Birmingham, UK. She obtained her Ph.D. in molecular phylogenetics at the University of Southampton, UK (working in conjunction with the Natural History Museum, London), followed by subsequent postdoctoral appointments at the Hubbard Center for Genome Studies at the University of New Hampshire and the UC Davis Genome Center. Her research uses high-throughput environmental sequencing approaches (rRNA surveys, metagenomics) to explore biodiversity and biogeographic patterns in in microbial eukaryote assemblages, with an emphasis on nematodes in marine sediments. Through active collaborations with computer scientists and participation in software development projects, her long-term research aims to address existing bottlenecks encountered in –Omic analyses focused on microbial eukaryotes.
 
@@ -16,7 +16,7 @@ Dr. Bik's keynote talk topic is "Bioinformatics: Still a scary world for biologi
 
 ----
 
-[[Image:EwanBirney.png|180px|right|Ewan Birney]]
+[[Image:EwanBirney.png|220px|right|Ewan Birney]]
 
 === Ewan Birney ===
 
