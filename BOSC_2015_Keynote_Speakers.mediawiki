@@ -35,5 +35,7 @@ Ewan was a cofounder of the [[Main_Page|Open Bioinformatics Foundation]], the or
 
 Ewan's talk topic will be announced soon.
 
+Homepage: [https://www.ebi.ac.uk/~birney/ Ewan Birney], Twitter: [https://twitter.com/ewanbirney @ewanbirney]
+
 ----
 [[BOSC_2015|Back to BOSC 2015 home page]]
