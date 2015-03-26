@@ -12,10 +12,11 @@ Dr Holly Bik is a Birmingham Fellow (assistant professor) in the School of Biosc
 
 Her research uses high-throughput environmental sequencing approaches (rRNA surveys, metagenomics) to explore biodiversity and biogeographic patterns in microbial eukaryote assemblages, with an emphasis on nematodes in marine sediments. Through active collaborations with computer scientists and participation in software development projects, her long-term research aims to address existing bottlenecks encountered in –Omic analyses focused on microbial eukaryotes.
 
-
 Holly's keynote talk topic is "Bioinformatics: Still a scary world for biologists".
 
 ''Many biological disciplines remain staunchly traditional, where high-throughput DNA sequencing and bioinformatics have not yet become widely adopted. In this talk, I'll discuss the ongoing challenges and barriers facing biologists in the age of 'Omics, based on my experiences in transitioning from nematode taxonomy to computational biology research.''
+
+Homepage: [http://www.hollybik.com/about/ Holly Bik]
 
 ----
 
