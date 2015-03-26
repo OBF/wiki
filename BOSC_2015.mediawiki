@@ -17,6 +17,14 @@ Open Source software has flourished in the bioinformatics community for well ove
 
 Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter.com/OBF_BOSC follow @OBF_BOSC] and use [https://twitter.com/search?q=%23BOSC2015 hash tag #bosc2015].
 
+== Registration ==
+
+Because BOSC is run as a two-day Special Interest Group (SIG) meeting at the annual ISMB conference, [https://www.iscb.org/ismbeccb2015-registration registration is via ISMB/ECCB 2015]. You can attend just BOSC, or combine this with attending the full ISMB/ECCB conference as well.
+
+We have a limited number of free and half-price spots for accepted speakers. If the registration fee would prevent you from attending BOSC, please let us know in the Comments box when submitting your abstract. 
+
+If you need a formal invitation letter for your USA VISA application, please contact the ISMB: https://www.iscb.org/ismbeccb2015-registration#visainvitation
+
 == Important Dates ==
 
 * ''' [[BOSC_Abstract_Submission|Abstract submission]] deadline: April 3, 2015'''.  [[BOSC_Abstract_Submission|Submit your abstract here!]]
