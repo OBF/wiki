@@ -19,9 +19,10 @@ Holly's keynote talk topic is "Bioinformatics: Still a scary world for biologist
 
 ----
 
+=== Ewan Birney ===
+
 [[Image:EwanBirney2.jpg|230px|right|Ewan Birney]]
 
-=== Ewan Birney ===
 
 Dr Ewan Birney is Joint Associate Director of EMBL-EBI, as well as Interim Head of the Centre for Therapeutic Target Validation. Together with Dr Rolf Apweiler, he has strategic responsibility and oversight for bioinformatics services at EMBL-EBI.
 
