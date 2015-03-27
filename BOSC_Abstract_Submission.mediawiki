@@ -51,6 +51,6 @@ See the following websites for further information:
 == Code of Conduct ==
 In March 2015, ISMB published a [http://www.iscb.org/ismbeccb2015-general-info/ismbeccb2015-coc Code of Conduct] that applies to SIGs (including BOSC) as well as the main ISMB/ECCB meeting.
 
-=== * * * Click [http://events.open-bio.org/BOSC2015/openconf.php here] to submit your abstract! * * * ===
+== * * * Click [http://events.open-bio.org/BOSC2015/openconf.php here] to submit your abstract! * * * ==
 
 [[BOSC_2015|Back to BOSC 2015 home page]]
