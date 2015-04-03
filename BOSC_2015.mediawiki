@@ -6,8 +6,8 @@ __NOTOC__
 
 <div style="float:left; maxwidth: 180px; margin-left:25px; margin-right:15px; background-color: #FFFFFF">[[Image:Pear.png|left|The Bosc Pear]]</div>
 
-=== * * * Abstracts due Friday, April 3!  Submit your abstract [[BOSC_Abstract_Submission|here]]! * * * ===
-Abstracts are due today, but we realize that it's Easter/Passover weekend -- if you need an extension, please contact us at at bosc@open-bio.org.
+=== * * * Submit your abstract [[BOSC_Abstract_Submission|here]]! * * * ===
+Since it's Easter/Passover weekend we decided to extend the deadline to Tuesday, April 8.
 
 == Overview ==
 
@@ -27,7 +27,7 @@ If you need a formal invitation letter for your Ireland VISA application, please
 
 == Important Dates ==
 
-* ''' [[BOSC_Abstract_Submission|Abstract submission]] deadline: April 3, 2015''' (if you need an extension, please contact us at at bosc@open-bio.org).  [[BOSC_Abstract_Submission|Submit your abstract here!]]
+* ''' [[BOSC_Abstract_Submission|Abstract submission]] deadline: April 8, 2015''' (deadline extended).  [[BOSC_Abstract_Submission|Submit your abstract here!]]
 * [https://www.iscb.org/ismbeccb2015-registration Registration] opens for ISMB and BOSC: March 25, 2015
 * Notification of accepted talks: May 3, 2015
 * [https://www.iscb.org/ismbeccb2015-registration#registrationfee End of early registration discount]: 5 June, 2015
