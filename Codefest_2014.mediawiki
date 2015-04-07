@@ -79,7 +79,7 @@ Our recommendation for housing is to look at [https://www.airbnb.com/s/boston--m
 == Sponsors ==
 
 {|
-| [[File:Curoverse.png|175px|center|Curoverse logo|link=http://curoverse.com]]
+| [[File:Curoverse_logo.png|175px|center|Curoverse logo|link=http://curoverse.com]]
 |rowspan="2"| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |rowspan="2"| [[File:HP-logo-no-tagline.png‎|131px|center|Harbinger Partners logo|link=http://harbinger-partners.com/]]
 |rowspan="2"| [[File: Aws-logo.jpeg|150px|center|AWS logo|link=http://aws.amazon.com/]]
