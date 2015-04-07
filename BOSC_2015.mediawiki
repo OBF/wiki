@@ -45,9 +45,10 @@ We welcome submissions relating to all aspects of bioinformatics and open scienc
 * '''Bioinformatics Open Source Libraries and Projects''' -- features short talks from new or ongoing projects describing their recent progress. Abstracts will be solicited from open source projects affiliated with the O|B|F (see http://www.open-bio.org/wiki/Projects), including the Bio* projects, DAS, BioMOBY, EMBOSS, and GMOD, but any other open-source project will be equally eligible to submit abstracts for this session.
 * '''Panel''': ''Open Source, Open Door: increasing diversity in the bioinformatics open source community''
 
+[[Image:EwanBirney2.jpg|120px|right|Ewan Birney]]
 == Keynote Speakers ==
 [[Image:HollyBik.png|100px|left|Holly Bik]] 
-[[Image:EwanBirney2.jpg|120px|right|Ewan Birney]]
+
 This year's keynote speakers will be Holly Bik (University of Birmingham) and Ewan Birney (EMBL-EBI).
 
 [[BOSC_2015_Keynote_Speakers|More information about BOSC 2015 Keynote Speakers]]
