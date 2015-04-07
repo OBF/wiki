@@ -68,7 +68,6 @@ If you would like to be a sponsor of BOSC 2015, please contact us at at bosc@ope
 
 '''Members'''
 
-* Raoul Jean Pierre Bonnal (Istituto Nazionale Genetica Molecolare (National Institute of Molecular Genetics), Italy)
 * [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer]; [http://compbio.sph.harvard.edu/chb/ Harvard School of Public Health])
 * [http://www.tgac.ac.uk/bioinformatics/sequencing-informatics/robert-davey/ Robert Davey] (The Genome Analysis Centre)
 * Christopher Fields (National Center for Supercomputing Applications)
@@ -78,6 +77,10 @@ If you would like to be a sponsor of BOSC 2015, please contact us at at bosc@ope
 
 '''Ex Officio (Members of the O|B|F Board)'''
 * [http://www.bioperl.org/wiki/Chris_Dagdigian Chris Dagdigian]
+
+== Review Committee ==
+
+Nomi Harris, Brad Chapman, Peter Cock, Karsten Hokamp, Raoul Bonnal, Robert Davey, Chris Fields, Karen Cranston, Jens Lichtenberg, Eric Talevich, Frank Nothaft, Michael Heuer, Monica Muñoz-Torres, Scott Markel, Francesco Strozzi, Hans-Rudolf Hotz, Timothy Booth, Tiago Antao, George Githinji, Manuel Corpas, Thomas Down, Sarah Hird, Spencer Bliven, Michael Reich, Lorena Pantano, Björn Grüning, Hilmar Lapp, Daniel Blankenberg, Amye Kenall.
 
 == Survey about BOSC 2015 location ==
 We have asked you, and you have spoken! 59 past and/or future BOSC attendees participated in our survey, answering questions about what they liked at BOSC 2014, what changes they’d like to see, and—most importantly—what they thought about the proposal to possibly hold BOSC 2015 in Norwich (UK) just after the Galaxy Community Conference, rather than as an ISMB SIG. Although some survey participants indicated that they would be more likely to attend BOSC 2015 if it were co-located with GCC, the majority prefer BOSC to remain an ISMB SIG, so we will hold BOSC 2015 in Dublin on 10-11 July, 2015, right before ISMB 2015.
