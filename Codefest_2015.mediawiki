@@ -68,6 +68,17 @@ so please sign up to discuss and receive updates.
 
 Codefest 2015 will be hosted at [http://www.tcd.ie/ Trinity College Dublin] by the schools of [http://naturalscience.tcd.ie/ Natural Sciences], [https://www.scss.tcd.ie/ Computing] and [http://www.tcd.ie/Engineering/ Engineering]. We're actively working on finalizing locations. We're also looking for sponsors interested in being involved with the open source community for help with food and coffee. If interested, please get in touch with [https://github.com/chapmanb Brad].
 
+== Sponsors ==
+
+{|
+| [[File:Curoverse_logo.png|175px|center|Curoverse logo|link=http://curoverse.com]]
+|-
+| [[File: Arvados.png|150px|center|Arvados logo|link=http://arvados.org]]
+|}
+
+We thank [http://curoverse.com Curoverse] for sponsoring the BOSC CodeFest 2015.
+
+
 == Organizers ==
 
 * [http://bcb.io/ Brad Chapman]
