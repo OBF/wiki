@@ -4,11 +4,6 @@ title: BOSC 2015
 
 __NOTOC__
 
-<div style="float:left; maxwidth: 180px; margin-left:25px; margin-right:15px; background-color: #FFFFFF">[[Image:Pear.png|left|The Bosc Pear]]</div>
-
-=== * * * Submit your abstract [[BOSC_Abstract_Submission|here]]! * * * ===
-The deadline has been extended to '''Tuesday, April 7'''.
-
 == Overview ==
 
 The Bioinformatics Open Source Conference (BOSC) is run as a two-day meeting before the annual [http://www.iscb.org/ismbeccb2015 ISMB conference]. It is sponsored by the Open Bioinformatics Foundation (O|B|F), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community. 
@@ -19,18 +14,16 @@ Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter
 
 == Registration ==
 
-Because BOSC is run as a two-day Special Interest Group (SIG) meeting at the annual ISMB conference, [https://www.iscb.org/ismbeccb2015-registration registration is via ISMB/ECCB 2015]. You can attend just BOSC, or combine this with attending the full ISMB/ECCB conference as well.
+Because BOSC is run as a two-day Special Interest Group (SIG) meeting at the annual ISMB conference, [https://www.iscb.org/ismbeccb2015-registration registration is via ISMB/ECCB 2015]. You can attend just BOSC, or register to attend the full ISMB/ECCB conference as well.
 
-We have a limited number of free and half-price spots for accepted speakers. If the registration fee would prevent you from attending BOSC, please let us know in the Comments box when submitting your abstract. 
-
-If you need a formal invitation letter for your Ireland VISA application, please contact the ISMB: https://www.iscb.org/ismbeccb2015-registration#visainvitation
+If you need a formal invitation letter for your Ireland VISA application, please [https://www.iscb.org/ismbeccb2015-registration#visainvitation contact the ISMB]
 
 == Important Dates ==
 
-* ''' [[BOSC_Abstract_Submission|Abstract submission]] deadline: Tuesday April 7, 2015''' (deadline extended).  [[BOSC_Abstract_Submission|Submit your abstract here!]]
 * [https://www.iscb.org/ismbeccb2015-registration Registration] opens for ISMB and BOSC: March 25, 2015
+* Deadline for submitting abstracts for longer talks: Tuesday April 7, 2015 (there will be an opportunity later to submit abstracts for lightning talks and posters)
 * Notification of accepted talks: May 3, 2015
-* [https://www.iscb.org/ismbeccb2015-registration#registrationfee End of early registration discount]: 5 June, 2015
+* [https://www.iscb.org/ismbeccb2015-registration#registrationfee End of early registration discount]: June 5, 2015
 * [[Codefest 2015]]: July 8-9, 2015, Dublin
 * '''BOSC 2015: July 10-11, 2015, Dublin'''
 * ISMB/ECCB 2015: July 10-14, 2015, Dublin
