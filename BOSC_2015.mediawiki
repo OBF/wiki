@@ -85,7 +85,7 @@ If you would like to be a sponsor of BOSC 2015, please contact us at at bosc@ope
 
 == Review Committee ==
 
-Nomi Harris, Brad Chapman, Peter Cock, Karsten Hokamp, Raoul Bonnal, Chris Fields, Karen Cranston, Jens Lichtenberg, Eric Talevich, Frank Nothaft, Michael Heuer, Monica Muñoz-Torres, Francesco Strozzi, Hans-Rudolf Hotz, Timothy Booth, Tiago Antao, George Githinji, Manuel Corpas, Thomas Down, Sarah Hird, Spencer Bliven, Michael Reich, Lorena Pantano, Björn Grüning, Hilmar Lapp, Daniel Blankenberg, Amye Kenall, Hervé Menager.
+Nomi Harris, Brad Chapman, Peter Cock, Karsten Hokamp, Raoul Bonnal, Chris Fields, Karen Cranston, Jens Lichtenberg, Eric Talevich, Frank Nothaft, Michael Heuer, Monica Muñoz-Torres, Francesco Strozzi, Hans-Rudolf Hotz, Timothy Booth, Tiago Antao, George Githinji, Manuel Corpas, Thomas Down, Sarah Hird, Scott Markel, Rob Davey, Spencer Bliven, Michael Reich, Lorena Pantano, Björn Grüning, Hilmar Lapp, Daniel Blankenberg, Amye Kenall, Hervé Menager.
 
 == Survey about BOSC 2015 location ==
 We have asked you, and you have spoken! 59 past and/or future BOSC attendees participated in our survey, answering questions about what they liked at BOSC 2014, what changes they’d like to see, and—most importantly—what they thought about the proposal to possibly hold BOSC 2015 in Norwich (UK) just after the Galaxy Community Conference, rather than as an ISMB SIG. Although some survey participants indicated that they would be more likely to attend BOSC 2015 if it were co-located with GCC, the majority prefer BOSC to remain an ISMB SIG, so we will hold BOSC 2015 in Dublin on 10-11 July, 2015, right before ISMB 2015.
