@@ -1,0 +1,32 @@
+---
+title: Minutes:2015 May ConfCall
+---
+
+= Agenda =
+
+'''Venue:''' to be held by conference call on May 12, 2014, 1pm EDT (17:00 UTC, 18:00 BST, 19:00 CEST, 10am PDT) <br/>
+Dial-in Information: +1-857-216-2939 PIN: 62534 http://www.uberconference.com/hlapp
+
+<ol>
+<li> Old business </li>
+ <ul>
+  <li> [[Minutes:2014_Nov_ConfCall| Nov 2014 BoD meeting minutes]]</li>
+  <li> <!-- [https://github.com/OBF/obf-docs/blob/e05413fdcf9bc1b43e171b67651c81d3d5bdc7da/Financial-Reports/Financial%20report%202013.md 2013 Financial Report] --> </li>
+ </ul>  
+<li>New business</li>
+<ol style="list-style-type:lower-roman">
+  <li> Term expirations and Elections for the Board</li>
+  <li> BOSC 2015: update from the 2015 chairs (Nomi, Peter)</li>
+  <li> Update on [http://www.iscb.org/iscb-affiliates-cosis ISCB "Community of Special Interest"] (COSI)  (Peter) </li>
+</ol>
+</ol>
+
+= Minutes =
+
+Etherpad for notes: https://etherpad.mozilla.org/OBF-BoD-Meeting-Nov2014
+
+'''Attending:'''
+* Directors: 
+* Guests: 
+
+'''Minutes:'''
