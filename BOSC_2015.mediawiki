@@ -80,7 +80,7 @@ If you would like to be a sponsor of BOSC 2015, please contact us at at bosc@ope
 * Christopher Fields (National Center for Supercomputing Applications)
 * Karsten Hokamp (Smurfit Institute of Genetics, Trinity College Dublin, Ireland)
 * [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp] (National Evolutionary Synthesis Center)
-* [http://berkeleybop.org/person/monica-munoz-torres Monica Munoz-Torres]  (Berkeley Bioinformatics Open Source Projects)
+* [http://berkeleybop.org/person/monica-munoz-torres Mónica Muñoz-Torres]  (Berkeley Bioinformatics Open Source Projects)
 
 '''Ex Officio (Members of the O|B|F Board)'''
 * [http://www.bioperl.org/wiki/Chris_Dagdigian Chris Dagdigian]
