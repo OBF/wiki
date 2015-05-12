@@ -23,7 +23,7 @@ Dial-in Information: +1-857-216-2939 PIN: 62534 http://www.uberconference.com/hl
 
 = Minutes =
 
-Etherpad for notes: https://etherpad.mozilla.org/OBF-BoD-Meeting-Nov2014
+Etherpad for notes: https://etherpad.mozilla.org/OBF-BoD-Meeting-May2015
 
 '''Attending:'''
 * Directors: 
