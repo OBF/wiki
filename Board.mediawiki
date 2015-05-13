@@ -9,7 +9,7 @@ The board can be contacted via email at [mailto:board@open-bio.org board@open-bi
 :; [[bp:Hilmar Lapp|Hilmar Lapp]] : Representing [[bp:BioPerl|BioPerl]].  Employed by the [http://genome.duke.edu/ Center for Genomic and Computational Biology] (GCB) at Duke University. Former OBF Parliamentarian <!--, and currently acting Treasurer -->.
 
 '''Treasurer'''
-:; [[bp:Chris Dagdigian|Chris Dagdigian]] : [[bp:BioPerl|BioPerl]] co-founder & O|B|F sysadmin. Employed by [http://www.bioteam.net the BioTeam].
+: Currently unfilled.
 
 '''Secretary'''
 
@@ -20,18 +20,19 @@ The board can be contacted via email at [mailto:board@open-bio.org board@open-bi
 
 '''At-large members'''
 
-:; [[bp:Jason Stajich|Jason Stajich]] : [[bp:BioPerl|BioPerl]] core developer. [http://stajichlab.fungalgenomes.org Assistant Professor] at [http://www.ucr.edu/ University of California, Riverside]. Former OBF President.
-
 :; <span class="plainlinks">[http://www.linkedin.com/in/nomiharris Nomi Harris]</span> : Employed by the Lawrence Berkeley National Laboratory. [[BOSC 2015]] co-chair.
 
 :; [[bp:Christopher_Fields|Chris Fields]] : [[bp:BioPerl|BioPerl]] core developer, researcher fellow at the [http://www.igb.uiuc.edu/ Institute for Genomic Biology] at the [http://www.uiuc.edu/ University of Illinois at Urbana-Champaign].
 
+:; <span class="plainlinks">[https://github.com/kcranston Karen Cranston]</span>: Training Coordinator and Informatics Project Manager at the National Evolutionary Synthesis Center (NESCent).
 
 === Past Board Members ===
 ; [[bp:Ewan Birney|Ewan Birney]] : ''Past President and At-large Member'',  [[bp:BioPerl|BioPerl]] core developer.  Coordinator of the [http://www.ebi.ac.uk EBI] half of the [http://www.ensembl.org Ensembl] genome annotation project.
 ; Andrew Dalke : ''Past Secretary'', Represented [http://www.biopython.org BioPython] & [http://www.dalkescientific.com Dalke Scientific].
 ; [[bp:Steven Brenner|Steven E. Brenner]] : ''Past At-large member'', [http://compbio.berkeley.edu Professor] at University of California, Berkeley.
 ; [[User:Kdahlquist|Kam Dahlquist]] : ''Past At-large Member'', [http://myweb.lmu.edu/kdahlqui/ Associate Professor] at Loyola Marymount University, Los Angeles.
+; [[bp:Chris Dagdigian|Chris Dagdigian]] : [[bp:BioPerl|BioPerl]] co-founder & O|B|F sysadmin. Employed by [http://www.bioteam.net the BioTeam].
+; [[bp:Jason Stajich|Jason Stajich]] : [[bp:BioPerl|BioPerl]] core developer. [http://stajichlab.fungalgenomes.org Assistant Professor] at [http://www.ucr.edu/ University of California, Riverside]. Former OBF President.
 
 == Board of Directors Meetings ==
 
