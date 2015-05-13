@@ -33,7 +33,9 @@ He has received a number of prestigious awards including the 2003 Francis Crick 
 
 Ewan was a cofounder of the [[Main_Page|Open Bioinformatics Foundation]], the organization that sponsors BOSC, and has been involved in BOSC since the first conference in 2000. He chaired the meeting in 2001, and gave one of the keynote talks in 2002. We are delighted to have him back as a keynote speaker for 2015.
 
-Ewan's talk topic will be announced soon.
+Ewan's talk title is "Big Data in Biology".
+
+''Molecular biology is now a leading example of a data intensive science, with both pragmatic and theoretical challenges being raised by data volumes and dimensionality of the data. These changes are present in both “large scale” consortia science and small scale science, and across now a broad range of applications – from human health, through to agriculture and ecosystems. All of molecular life science is feeling this effect. This shift in modality is creating a wealth of new opportunities and has some accompanying challenges. In particular there is a continued need for a robust information infrastructure for molecular biology. This ranges from the physical aspects of dealing with data volume through to the more statistically challenging aspects of interpreting it. A particular problem is finding causal relationships in the high level of correlative data. Genetic data are particular useful in resolving these issues. I will end with the serendipitous invention of using DNA for an entirely different reason – as a long-time horizon digital archiving material. I will describe this method and some of its benefits (as well as a few downsides) and explain how a future culture in 10,000 years time may still be able to read all of Shakespeare’s sonnets – and perhaps much more.''
 
 Homepage: [https://www.ebi.ac.uk/~birney/ Ewan Birney], Twitter: [https://twitter.com/ewanbirney @ewanbirney]
 
