@@ -48,7 +48,7 @@ We welcome submissions relating to all aspects of bioinformatics and open scienc
 
 This year's keynote speakers will be Holly Bik (University of Birmingham) and Ewan Birney (EMBL-EBI).
 
-[[BOSC_2015_Keynote_Speakers|More information about BOSC 2015 Keynote Speakers]]
+'''[[BOSC_2015_Keynote_Speakers|More information about BOSC 2015 Keynote Speakers]]'''
 
 == Sponsors ==
 
