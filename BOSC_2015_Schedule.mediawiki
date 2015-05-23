@@ -22,7 +22,7 @@ BOSC is organized by the Open Bioinformatics Foundation (OBF, www.open-bio.org).
 ![[Image:Gigascience-07.png|frameless|200px]]
 |}
 
-'''Schedule for Day 1 (Friday, 10 July, 2015)'''
+== Schedule for Day 1 (Friday, 10 July, 2015) ==
 
 {|
 !'''Time'''
@@ -160,7 +160,7 @@ BOSC is organized by the Open Bioinformatics Foundation (OBF, www.open-bio.org).
 |RSVP at [http://doodle.com/mcqehfpytzutwzum BOSC 2015 dinner] (limited space --you must RSVP to attend)
 |}
 
-'''Schedule for Day 2 (Saturday, 11 July, 2015)'''
+== Schedule for Day 2 (Saturday, 11 July, 2015) ==
 
 {|
 !'''Time'''
@@ -338,14 +338,16 @@ BOSC is organized by the Open Bioinformatics Foundation (OBF, www.open-bio.org).
 
 ''http://www.open-bio.org/wiki/BOSC_2015_Schedule''
 
-'''BOSC 2015 Organizing Committee:'''
+== BOSC 2015 Organizing Committee ==
 
 '''Nomi Harris''' and '''Peter Cock''' (Co-Chairs)
 
 Brad Chapman, Rob Davey, Chris Fields, Sarah Hird, Karsten Hokamp, Hilmar Lapp, Mónica Muñoz-Torres
 
-'''BOSC 2015 Program Committee:''' Nomi Harris, Brad Chapman, Peter Cock, Karsten Hokamp, Raoul Bonnal, Chris Fields, Karen Cranston, Jens Lichtenberg, Eric Talevich, Frank Nothaft, Michael Heuer, Mónica Muñoz-Torres, Francesco Strozzi, Hans-Rudolf Hotz, Timothy Booth, Tiago Antão, George Githinji, Manuel Corpas, Thomas Down, Sarah Hird, Scott Markel, Rob Davey, Spencer Bliven, Michael Reich, Lorena Pantano, Björn Grüning, Hilmar Lapp, Daniel Blankenberg, Amye Kenall, Hervé Menager
+== BOSC 2015 Program Committee == 
+
+Nomi Harris, Brad Chapman, Peter Cock, Karsten Hokamp, Raoul Bonnal, Chris Fields, Karen Cranston, Jens Lichtenberg, Eric Talevich, Frank Nothaft, Michael Heuer, Mónica Muñoz-Torres, Francesco Strozzi, Hans-Rudolf Hotz, Timothy Booth, Tiago Antão, George Githinji, Manuel Corpas, Thomas Down, Sarah Hird, Scott Markel, Rob Davey, Spencer Bliven, Michael Reich, Lorena Pantano, Björn Grüning, Hilmar Lapp, Daniel Blankenberg, Amye Kenall, Hervé Menager
 
 BOSC is a community effort—we thank all those who made it possible, including the organizing committee, the program committee, the session chairs, our sponsors, and the ISMB SIG chair, Steven Leard.
 
-If you are interested in helping to organize BOSC 2016, please email bosc@open-bio.org.
+If you are interested in helping to organize BOSC 2016, please email email bosc@open-bio.org
