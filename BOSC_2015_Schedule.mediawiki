@@ -16,10 +16,10 @@ BOSC is organized by the Open Bioinformatics Foundation (OBF, www.open-bio.org).
 
 {|
 !
-![[Image:Curoverse logo.png]]
-![[Image:Google-logo11w.png]]
-![[Image:Arvados.png]]
-![[Image:Gigascience-07.png]]
+![[Image:Curoverse logo.png|frameless|200px]]
+![[Image:Google-logo11w.png|frameless|200px]]
+![[Image:Arvados.png|frameless|200px]]
+![[Image:Gigascience-07.png|frameless|200px]]
 |}
 
 '''Schedule for Day 1 (Friday, 10 July, 2015)'''
