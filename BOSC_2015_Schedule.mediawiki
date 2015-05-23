@@ -21,8 +21,6 @@ BOSC is organized by the Open Bioinformatics Foundation (OBF, www.open-bio.org).
 ![[Image:media/image5.png]]
 |}
 
-<s>We thank Eagle Genomics for sponsoring the BOSC Student Travel Awards again this year, and welcome the open access journal GigaScience, and Curoverse (the team behind the open source platform Arvados) as new sponsors. We are grateful to Google for their generous support for videorecording the talks at BOSC 2015.</s>
-
 '''Schedule for Day 1 (Friday, 10 July, 2015)'''
 
 {|
