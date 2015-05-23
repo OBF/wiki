@@ -14,11 +14,15 @@ July 10-11, 2015
 
 BOSC is organized by the Open Bioinformatics Foundation (OBF, www.open-bio.org). The OBF is a non-profit group that promotes the practice and philosophy of Open Source software development and Open Science in the biological research community.
 
-{|
+== Sponsors ==
+
+We thank the open access journal GigaScience, Curoverse (the team behind the open source platform Arvados) as sponsors, and Google for their generous support for videorecording the talks at BOSC 2015.
+
+{| border="0" cellspacing="0" cellpadding="7"
 !
 ![[Image:Curoverse logo.png|frameless|200px]]
-![[Image:Google-logo11w.png|frameless]]
 ![[Image:Arvados.png|frameless|200px]]
+![[Image:Google-logo11w.png|frameless]]
 ![[Image:Gigascience-07.png|frameless|200px]]
 |}
 
