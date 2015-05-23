@@ -334,10 +334,6 @@ BOSC is organized by the Open Bioinformatics Foundation (OBF, www.open-bio.org).
 |
 |}
 
-''Any last-minute schedule updates will be posted at''
-
-''http://www.open-bio.org/wiki/BOSC_2015_Schedule''
-
 == BOSC 2015 Organizing Committee ==
 
 '''Nomi Harris''' and '''Peter Cock''' (Co-Chairs)
