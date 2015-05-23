@@ -1,0 +1,352 @@
+---
+title: BOSC 2015 Schedule
+---
+
+'''Bioinformatics Open Source Conference (BOSC) 2015'''
+
+[[Image:media/image1.png]]A Special Interest Group (SIG) meeting at ISMB/ECCB 2015
+
+Dublin, Ireland
+
+July 10-11, 2015
+
+''http://www.open-bio.org/wiki/BOSC_2015''
+
+BOSC is organized by the Open Bioinformatics Foundation (OBF, www.open-bio.org). The OBF is a non-profit group that promotes the practice and philosophy of Open Source software development and Open Science in the biological research community.
+
+{|
+!
+![[Image:media/image2.png]]
+![[Image:media/image3.png]][[Image:media/image4.png]]
+![[Image:media/image5.png]]
+|}
+
+<s>We thank Eagle Genomics for sponsoring the BOSC Student Travel Awards again this year, and welcome the open access journal GigaScience, and Curoverse (the team behind the open source platform Arvados) as new sponsors. We are grateful to Google for their generous support for videorecording the talks at BOSC 2015.</s>
+
+'''Schedule for Day 1 (Friday, 10 July, 2015)'''
+
+{|
+!'''Time'''
+!'''Title'''
+!'''Speaker / Chair'''
+|-
+|7:30-9:00
+|'''Registration'''
+|
+|-
+|9:00-9:15
+|'''Introduction and Welcome'''
+|Nomi Harris and Peter Cock (Co-Chairs, BOSC 2015)
+|-
+|9:15-10:15
+|'''Keynote:''' '''Bioinformatics: Still a scary world for biologists'''
+|Holly Bik
+|-
+|10:15-10:45
+|'''''Coffee Break'''''
+|
+|-
+|10:45-12:30
+|'''Session: Data Science'''
+|Chair:
+|-
+|10:45- 11:02
+|Apollo: Scalable &amp; collaborative curation for improved comparative genomics
+|Mónica Muñoz-Torres
+|-
+|11:02-11:19
+|GOexpress: A R/Bioconductor package for the identification and visualisation of robust gene ontology signatures through supervised clustering of gene expression data
+|Kévin Rue-Albrecht
+|-
+|11:19-11:36
+|Arvados: A Free Software Platform for Big Data Science
+|Peter Amstutz
+|-
+|11:36-11:53
+|Bringing Hadoop into Bioinformatics with Cloudgene and CloudMan
+|Sebastian Schoenherr
+|-
+|11:53-12:10
+|Segway: semi-automated genome annotation
+|Michael Hoffman
+|-
+|12:10-12:15
+|QualiMap 2.0: quality control of high throughput sequencing data
+|Konstantin Okonechnikov
+|-
+|12:15-12:20
+|A Genomics Virtual Laboratory
+|Andrew Lonie
+|-
+|12:20-12:25
+|BioSolr: Building better search for bioinformatics
+|Tony Burdett
+|-
+|12:25-12:30
+|Prioritization of structural variants based on known biological information
+|Brad Chapman
+|-
+|12:30-13:30
+|'''''Lunch'''''
+|
+|-
+|13:00-14:00
+|'''Poster Session and Birds of a Feather''' (overlapping with lunch)
+|
+|-
+|14:00-15:30
+|'''Session: Standards and Interoperability'''
+|Chair:
+|-
+|14:00-14:17
+|Portable workflow and tool descriptions with the CWL
+|Michael R. Crusoe
+|-
+|14:17-14:34
+|From peer-reviewed to peer-reproduced: a role for research objects in scholarly publishing in the life sciences
+|Alejandra Gonzalez-Beltran
+|-
+|14:34-14:51
+|Demystifying the Interoperability of Disparate Genomic Resources
+|Daniel Blankenberg
+|-
+|14:51-15:08
+|Increasing the utility of Galaxy workflows
+|John Chilton
+|-
+|15:10-15:15
+|Kipper: A software package for sequence database versioning for Galaxy bioinformatics servers
+|Damion Dooley
+|-
+|15:15-15:20
+|Evolution of the Galaxy tool ecosystem - happier developers, happier users
+|Martin Čech
+|-
+|15:20-15:25
+|Bionode - Modular and universal bioinformatics
+|Bruno Vieira
+|-
+|15:25-15:30
+|The EDAM Ontology
+|Hervé Ménager
+|-
+|15:30-16:00
+|'''''Coffee Break'''''
+|
+|-
+|16:00-17:00
+|'''Panel: Open Source, Open Door: increasing diversity in the bioinformatics open source community'''
+|'''''Moderator''''': Mónica Muñoz-Torres
+
+'''''Panelists''''': Holly Bik, Michael Crusoe, Aleksandra Pawlik, Jason Williams
+|-
+|17:00-17:10
+|Open Bioinformatics Foundation (OBF) Update
+|Hilmar Lapp (President, OBF)
+|-
+|17:10-17:15
+|'''Announcements'''
+|Nomi Harris
+|-
+|17:15-18:30
+|BOF/Unconference: Building successful open-source bioinformatics developer communities (Part 1)
+|Aidan Budd, Dave Clements, Manuel Corpas, Natasha Wood
+|-
+|17:15-18:30
+|'''BOFs'''
+|
+|-
+|19:00-
+|Pay-your-own-way BOSC dinner, Kennedy’s [link]
+|RSVP at [[bit.ly/BOSC2015-dinner|bit.ly/BOSC2015-dinner ]] (limited space --you must RSVP to attend)
+|}
+
+'''Schedule for Day 2 (Saturday, 11 July, 2015)'''
+
+{|
+!'''Time'''
+!'''Title'''
+!'''Speaker or'''
+
+'''Session Chair'''
+|-
+|9:00-9:05
+|'''Announcements'''
+|Peter Cock and Nomi Harris
+|-
+|9:05-9:15
+|Codefest 2015 Report
+|Brad Chapman (Codefest 2015 Organizer)
+|-
+|9:15-10:15
+|'''Keynote:''' '''Big Data in Biology'''
+|Ewan Birney
+|-
+|10:15-10:45
+|'''''Coffee Break'''''
+|
+|-
+|10:45-12:30
+|'''Session: Open Science''' '''and Reproducibility'''
+|Chair:
+|-
+|10:45-11:02
+|A curriculum for teaching Reproducible Computational Science bootcamps
+|Hilmar Lapp
+|-
+|11:02-11:19
+|Research shared: www.researchobject.org
+|Norman Morrison
+|-
+|11:19-11:36
+|Nextflow: a tool for deploying reproducible computational pipelines
+|Paolo Di Tommaso
+|-
+|11:36-11:53
+|Free beer today: how iPlant + Agave + Docker are changing our assumptions about reproducible science
+|John Fonner
+|-
+|11:55
+|The 500 builds of 300 applications in the HeLmod repository will at least get you started on a full suite of scientific applications
+|Aaron Kitzmiller
+|-
+|12:00
+|Bioboxes: Standardised bioinformatics tools using Docker containers.
+|Peter Belmann
+|-
+|12:05
+|The perfect fit for reproducible interactive research: Galaxy, Docker, IPython
+|Björn Grüning
+|-
+|12:10
+|COPO: Bridging the Gap from Data to Publication in Plant Science
+|Robert Davey
+|-
+|12:15
+|ELIXIR UK building on Data and Software Carpentry to address the challenges in computational training for life scientists
+|Aleksandra Pawlik
+|-
+|12:20
+|Parallel recipes: towards a common coordination language for scientific workflow management systems
+|Yves Vandriessche
+|-
+|12:25
+|openSNP - personal genomics and the public domain
+|Bastian Greshake
+|-
+|12:30-13:30
+|'''''Lunch'''''
+|
+|-
+|13:00-14:00
+|'''Poster Session and BOFs (overlapping with lunch)'''
+|
+|-
+|14:00-14:40
+|'''Session: Translational Bioinformatics'''
+|Chair: Brad Chapman
+|-
+|14:00-14:17
+|CIViC: Crowdsourcing the Clinical Interpretation of Variants in Cancer
+|Malachi Griffith
+|-
+|14:17-14:34
+|From Fastq To Drug Recommendation - Automated Cancer Report Generation using OncoRep &amp; Omics Pipe
+|Tobias Meissner
+|-
+|14:35-14:40
+|Cancer Informatics Collaboration and Computation: Two Initiatives of the U.S. National Cancer Institute
+|Ishwar Chandramouliswaran
+|-
+|14:40-15:30
+|'''Session: Bioinformatics Open Source Project Updates'''
+|Chair:
+|-
+|14:40-14:57
+|Biopython Project Update 2015
+|João Rodrigues
+|-
+|14:57-15:14
+|The biogems community: Challenges in distributed software development in bioinformatics
+|George Githinji
+|-
+|15:14-15:31
+|Apache Taverna: Sustaining research software at the Apache Software Foundation
+|Stian Soiland-Reyes
+|-
+|15:30-16:00
+|'''''Coffee Break'''''
+|
+|-
+|16:00-16:30
+|'''Session: Visualization'''
+|Chair:
+|-
+|16:00-16:17
+|Simple, Shareable, Online RNA Secondary Structure Diagrams
+|Stefan Hammer
+|-
+|16:17-16:22
+|BioJS 2.0: an open source standard for biological visualization
+|Guy Yachdav
+|-
+|16:22-16:27
+|Visualising Open PHACTS linked data with widgets
+|Ian Dunlop
+|-
+|16:30-17:00
+|'''Session: Late-Breaking Lightning Talks'''
+|
+|-
+|16:30
+|Biospectra-by-sequencing genetic analysis platform
+|Aurelie Laugraud
+|-
+|16:35
+|
+|
+|-
+|16:40
+|
+|
+|-
+|16:45
+|
+|
+|-
+|16:50
+|
+|
+|-
+|16:55
+|
+|
+|-
+|17:00-17:10
+|Concluding Remarks
+|Nomi Harris and Peter Cock
+|-
+|17:15-18:30
+|BOF/Unconference: Building successful open-source bioinformatics developer communities (Part 2)
+|Aidan Budd, Dave Clements, Manuel Corpas, Natasha Wood
+|-
+|17:10-18:10
+|'''BOFs'''
+|
+|}
+
+''Any last-minute schedule updates will be posted at''
+
+''http://www.open-bio.org/wiki/BOSC_2015_Schedule''
+
+'''BOSC 2015 Organizing Committee:'''
+
+'''Nomi Harris''' and '''Peter Cock''' (Co-Chairs)
+
+Brad Chapman, Rob Davey, Chris Fields, Sarah Hird, Karsten Hokamp, Hilmar Lapp, Mónica Muñoz-Torres
+
+'''BOSC 2015 Program Committee:''' Nomi Harris, Brad Chapman, Peter Cock, Karsten Hokamp, Raoul Bonnal, Chris Fields, Karen Cranston, Jens Lichtenberg, Eric Talevich, Frank Nothaft, Michael Heuer, Mónica Muñoz-Torres, Francesco Strozzi, Hans-Rudolf Hotz, Timothy Booth, Tiago Antão, George Githinji, Manuel Corpas, Thomas Down, Sarah Hird, Scott Markel, Rob Davey, Spencer Bliven, Michael Reich, Lorena Pantano, Björn Grüning, Hilmar Lapp, Daniel Blankenberg, Amye Kenall, Hervé Menager
+
+BOSC is a community effort—we thank all those who made it possible, including the organizing committee, the program committee, the session chairs, our sponsors, and the ISMB SIG chair, Steven Leard.
+
+If you are interested in helping to organize BOSC 2016, please email bosc@open-bio.org.
