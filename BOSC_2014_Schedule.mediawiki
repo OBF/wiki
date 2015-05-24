@@ -354,7 +354,7 @@ We are grateful to [http://www.google.com/ Google] for their generous support fo
 
 ----
 
-== Return to [[BOSC_2014 | BOSC 2014]] main page ==
+== Return to '''[[BOSC_2014 | BOSC 2014]]''' main page ==
 
 [[Category:BOSC]] [[Category:Conferences]]
 [[Category:BOSC Conferences]]
