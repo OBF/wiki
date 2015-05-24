@@ -352,5 +352,7 @@ BOSC is a community effort—we thank all those who made it possible, including 
 
 If you are interested in helping to organize BOSC 2016, please email email bosc@open-bio.org
 
-----
-Return to [[BOSC 2015]] main page
+== Return to [[BOSC 2015]] main page ==
+
+[[Category:BOSC]] [[Category:Conferences]]
+[[Category:BOSC Conferences]]
