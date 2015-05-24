@@ -4,15 +4,7 @@ title: BOSC 2015 Schedule
 
 '''Bioinformatics Open Source Conference (BOSC) 2015'''
 
-[[Image:Pear.png]]A Special Interest Group (SIG) meeting at ISMB/ECCB 2015
-
-Dublin, Ireland
-
-July 10-11, 2015
-
-''http://www.open-bio.org/wiki/BOSC_2015''
-
-BOSC is organized by the Open Bioinformatics Foundation (OBF, www.open-bio.org). The OBF is a non-profit group that promotes the practice and philosophy of Open Source software development and Open Science in the biological research community.
+[[Image:Pear.png]]
 
 == Sponsors ==
 
@@ -337,6 +329,10 @@ We thank the open access journal GigaScience, Curoverse (the team behind the ope
 |'''BOFs'''
 |
 |}
+
+== Posters ==
+
+TBA
 
 == BOSC 2015 Organizing Committee ==
 
