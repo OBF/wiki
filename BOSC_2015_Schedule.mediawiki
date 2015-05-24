@@ -2,8 +2,6 @@
 title: BOSC 2015 Schedule
 ---
 
-'''Bioinformatics Open Source Conference (BOSC) 2015'''
-
 [[Image:Pear.png]]
 
 You will be able to download the full program with abstracts; however, this wiki page is considered the definitive schedule and will be updated with any last minute changes.
