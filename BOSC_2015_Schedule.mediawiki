@@ -6,6 +6,8 @@ title: BOSC 2015 Schedule
 
 [[Image:Pear.png]]
 
+You will be able to download the full program with abstracts; however, this wiki page is considered the definitive schedule and will be updated with any last minute changes.
+
 == Sponsors ==
 
 We thank the open access journal GigaScience, Curoverse (the team behind the open source platform Arvados) as sponsors, and Google for their generous support for videorecording the talks at BOSC 2015.
@@ -18,7 +20,11 @@ We thank the open access journal GigaScience, Curoverse (the team behind the ope
 ![[Image:Gigascience-07.png|frameless|200px]]
 |}
 
-== Schedule for Day 1 (Friday, 10 July, 2015) ==
+== Pre-BOSC: Codefest 2015  ==
+
+See [[Codefest 2015]] for details.
+
+== BOSC Day 1 (Friday, 10 July, 2015) ==
 
 {| border="1" cellspacing="0" cellpadding="7"
 !'''Time'''
@@ -156,7 +162,7 @@ We thank the open access journal GigaScience, Curoverse (the team behind the ope
 |RSVP at [http://doodle.com/mcqehfpytzutwzum BOSC 2015 dinner] (limited space --you must RSVP to attend)
 |}
 
-== Schedule for Day 2 (Saturday, 11 July, 2015) ==
+== BOSC Day 2 (Saturday, 11 July, 2015) ==
 
 {| border="1" cellspacing="0" cellpadding="7"
 !'''Time'''
