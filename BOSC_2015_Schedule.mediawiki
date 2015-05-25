@@ -160,6 +160,7 @@ See [[Codefest 2015]] for details.
 |RSVP at [http://doodle.com/mcqehfpytzutwzum BOSC 2015 dinner] (limited space --you must RSVP to attend)
 |}
 
+
 == BOSC Day 2 (Saturday, 11 July, 2015) ==
 
 {| border="1" cellspacing="0" cellpadding="7"
