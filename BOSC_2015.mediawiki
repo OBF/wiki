@@ -14,11 +14,24 @@ We also organize a two-day community development session prior to the conference
 
 Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter.com/OBF_BOSC follow @OBF_BOSC] and use [https://twitter.com/search?q=%23BOSC2015 hash tag #bosc2015].
 
-== Registration ==
+== Sponsors ==
 
-Because BOSC is run as a two-day Special Interest Group (SIG) meeting at the annual ISMB conference, [https://www.iscb.org/ismbeccb2015-registration registration is via ISMB/ECCB 2015]. You can register for BOSC (which allows you to drop in on other SIGs as well), or register to attend the full ISMB/ECCB conference plus BOSC.
+BOSC is organised by the [[Main_Page|Open Bioinformatics Foundation]], a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community.
 
-If you need a formal invitation letter for your Ireland VISA application, please [https://www.iscb.org/ismbeccb2015-registration#visainvitation contact the ISMB].
+{|
+|rowspan="2"| [[File:google-logo11w.png‎|205px|left|Google|link=http://www.google.com/]]
+|rowspan="2"| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+| [[File:Curoverse_logo.png|175px|center|Curoverse logo|link=http://curoverse.com]]
+|-
+| [[File: Arvados.png|150px|center|Arvados logo|link=http://arvados.org]]
+|rowspan="2"| [[File:Gigascience-07.png‎|200px|left|GigaScience|link=http://www.gigasciencejournal.com/]]
+|rowspan="2"| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+|}
+
+We are grateful to [http://www.google.com/ Google] for their generous support for videorecording BOSC 2015, and we thank  [http://curoverse.com Curoverse] (the team behind the open source platform [http://arvados.org Arvados]) as a returning sponsor.
+
+If you would like to be a sponsor of BOSC 2015, please contact us at at bosc@open-bio.org.
 
 == Important Dates ==
 
@@ -30,6 +43,12 @@ If you need a formal invitation letter for your Ireland VISA application, please
 * [[Codefest 2015]]: July 8-9, 2015, Dublin (Trinity College)
 * '''BOSC 2015: July 10-11, 2015, Dublin'''
 * ISMB/ECCB 2015: July 10-14, 2015, Dublin
+
+== Registration ==
+
+Because BOSC is run as a two-day Special Interest Group (SIG) meeting at the annual ISMB conference, [https://www.iscb.org/ismbeccb2015-registration registration is via ISMB/ECCB 2015]. You can register for BOSC (which allows you to drop in on other SIGs as well), or register to attend the full ISMB/ECCB conference plus BOSC.
+
+If you need a formal invitation letter for your Ireland VISA application, please [https://www.iscb.org/ismbeccb2015-registration#visainvitation contact the ISMB].
 
 == Session Topics ==
 We welcome submissions relating to all aspects of bioinformatics and open science software, including (but not limited to):
@@ -50,23 +69,6 @@ This year's keynote speakers will be Holly Bik (University of Birmingham) and Ew
 
 '''[[BOSC_2015_Keynote_Speakers|More information about BOSC 2015 Keynote Speakers]]'''
 
-== Sponsors ==
-
-BOSC is organised by the [[Main_Page|Open Bioinformatics Foundation]], a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community.
-
-{|
-|rowspan="2"| [[File:google-logo11w.png‎|205px|left|Google|link=http://www.google.com/]]
-|rowspan="2"| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-| [[File:Curoverse_logo.png|175px|center|Curoverse logo|link=http://curoverse.com]]
-|-
-| [[File: Arvados.png|150px|center|Arvados logo|link=http://arvados.org]]
-|}
-
-We are grateful to [http://www.google.com/ Google] for their generous support for videorecording BOSC 2015, and we thank  [http://curoverse.com Curoverse] (the team behind the open source platform [http://arvados.org Arvados]) as a returning sponsor.
-
-
-If you would like to be a sponsor of BOSC 2015, please contact us at at bosc@open-bio.org.
 
 == Organizing Committee ==
 
