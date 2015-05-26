@@ -50,7 +50,7 @@ See [[Codefest 2015]] for details.
 |-
 |10:45-12:30
 |'''Session: Data Science'''
-|Chair:
+|Chair: Rob Davey
 |-
 |10:45- 11:02
 |Apollo: Scalable &amp; collaborative curation for improved comparative genomics
@@ -98,7 +98,7 @@ See [[Codefest 2015]] for details.
 |-
 |14:00-15:30
 |'''Session: Standards and Interoperability'''
-|Chair:
+|Chair: Peter Cock
 |-
 |14:00-14:17
 |Portable workflow and tool descriptions with the CWL
@@ -189,7 +189,7 @@ See [[Codefest 2015]] for details.
 |-
 |10:45-12:30
 |'''Session: Open Science''' '''and Reproducibility'''
-|Chair:
+|Chair: Hilmar Lapp
 |-
 |10:45-11:02
 |A curriculum for teaching Reproducible Computational Science bootcamps
@@ -261,7 +261,7 @@ See [[Codefest 2015]] for details.
 |-
 |14:40-15:30
 |'''Session: Bioinformatics Open Source Project Updates'''
-|Chair:
+|Chair: Nomi Harris
 |-
 |14:40-14:57
 |Biopython Project Update 2015
@@ -281,7 +281,7 @@ See [[Codefest 2015]] for details.
 |-
 |16:00-16:30
 |'''Session: Visualization'''
-|Chair:
+|Chair: Karsten Hokamp
 |-
 |16:00-16:17
 |Simple, Shareable, Online RNA Secondary Structure Diagrams
@@ -297,7 +297,7 @@ See [[Codefest 2015]] for details.
 |-
 |16:30-17:00
 |'''Session: Late-Breaking Lightning Talks'''
-|
+|Chair: Mónica Muñoz-Torres
 |-
 |16:30
 |Biospectra-by-sequencing genetic analysis platform
