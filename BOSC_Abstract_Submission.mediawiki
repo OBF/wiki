@@ -9,7 +9,7 @@ __NOTOC__
 
 [http://events.open-bio.org/BOSC2015/openconf.php Abstracts]  for Late-Breaking Lightning Talks and posters are due by '''5 June''' 2015 at 9pm PDT, and are subjected to the same requirements and review process as earlier submissions. You will be notified of your acceptance status on 14 June 2015.
 
-=== * * * Click [http://events.open-bio.org/BOSC2015/openconf.php here] to submit your abstract! * * * ===
+=== * * * Click [http://events.open-bio.org/BOSC2015/openconf.php here] to submit your abstract for a Late-Breaking Lightning Talk or Poster! * * * ===
 
 === Abstract Formatting Requirements ===
 Abstracts must be '''one page''' (8.5 inches by 11 inches) in length and submitted '''as a PDF (preferred), Microsoft Word, or text file'''.
