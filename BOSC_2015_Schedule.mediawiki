@@ -166,9 +166,7 @@ See [[Codefest 2015]] for details.
 {| border="1" cellspacing="0" cellpadding="7"
 !'''Time'''
 !'''Title'''
-!'''Speaker or'''
-
-'''Session Chair'''
+!'''Speaker / Chair'''
 |-
 |9:00-9:05
 |'''Announcements'''
