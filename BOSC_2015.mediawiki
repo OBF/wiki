@@ -4,6 +4,8 @@ title: BOSC 2015
 
 __NOTOC__
 
+<div style="float:left; maxwidth: 180px; margin-left:25px; margin-right:15px; background-color: #FFFFFF">[[Image:Pear.png|left|The Bosc Pear]]</div>
+
 == Overview ==
 
 The Bioinformatics Open Source Conference (BOSC) is run as a two-day meeting before the annual [http://www.iscb.org/ismbeccb2015 ISMB conference]. It is sponsored by the Open Bioinformatics Foundation (O|B|F), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community. 
