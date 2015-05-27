@@ -207,31 +207,31 @@ See [[Codefest 2015]] for details.
 |Free beer today: how iPlant + Agave + Docker are changing our assumptions about reproducible science
 |John Fonner
 |-
-|11:55
+|11:55-12:00
 |The 500 builds of 300 applications in the HeLmod repository will at least get you started on a full suite of scientific applications
 |Aaron Kitzmiller
 |-
-|12:00
+|12:00-12:05
 |Bioboxes: Standardised bioinformatics tools using Docker containers.
 |Peter Belmann
 |-
-|12:05
+|12:05-12:10
 |The perfect fit for reproducible interactive research: Galaxy, Docker, IPython
 |Björn Grüning
 |-
-|12:10
+|12:10-12:15
 |COPO: Bridging the Gap from Data to Publication in Plant Science
 |Robert Davey
 |-
-|12:15
+|12:15-12:20
 |ELIXIR UK building on Data and Software Carpentry to address the challenges in computational training for life scientists
 |Aleksandra Pawlik
 |-
-|12:20
+|12:20-12:25
 |Parallel recipes: towards a common coordination language for scientific workflow management systems
 |Yves Vandriessche
 |-
-|12:25
+|12:25-12:30
 |openSNP - personal genomics and the public domain
 |Bastian Greshake
 |-
@@ -299,27 +299,27 @@ See [[Codefest 2015]] for details.
 |'''Session: Late-Breaking Lightning Talks'''
 |Chair: Mónica Muñoz-Torres
 |-
-|16:30
+|16:30-16:35
 |Biospectra-by-sequencing genetic analysis platform
 |Aurelie Laugraud
 |-
-|16:35
+|16:35-16:40
 |
 |
 |-
-|16:40
+|16:40-16:45
 |
 |
 |-
-|16:45
+|16:45-16:50
 |
 |
 |-
-|16:50
+|16:50-16:55
 |
 |
 |-
-|16:55
+|16:55-17:00
 |
 |
 |-
