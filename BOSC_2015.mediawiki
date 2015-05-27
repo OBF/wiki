@@ -5,6 +5,10 @@ title: BOSC 2015
 __NOTOC__
 
 <div style="float:left; maxwidth: 180px; margin-left:25px; margin-right:15px; background-color: #FFFFFF">[[Image:Pear.png|left|The Bosc Pear]]</div>
+== Call for Abstracts for Late-Breaking Lightning Talks and Posters! ==
+The official deadline for submitting abstracts for BOSC talks was April 3rd. To further encourage participation from bioinformaticians at all career levels we have opened a few spots for Late-Breaking Lightning Talks and Posters. We have also reserved a few spots for walk-in posters; please be aware that walk-ins will not be listed in the program or on the BOSC website.
+
+[[BOSC_Abstract_Submission|Abstracts for Late-Breaking Lightning Talks and posters]] are due by 5 June 2015, and are subject to the same requirements and review process as earlier submissions.
 
 == Overview ==
 
