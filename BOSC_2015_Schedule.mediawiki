@@ -189,7 +189,7 @@ See [[Codefest 2015]] for details.
 |-
 |10:45-12:30
 |'''Session: Open Science''' '''and Reproducibility'''
-|Chair: Hilmar Lapp
+|Chair: Mónica Muñoz-Torres
 |-
 |10:45-11:02
 |A curriculum for teaching Reproducible Computational Science bootcamps
@@ -297,7 +297,7 @@ See [[Codefest 2015]] for details.
 |-
 |16:30-17:00
 |'''Session: Late-Breaking Lightning Talks'''
-|Chair: Mónica Muñoz-Torres
+|Chair: Hilmar Lapp
 |-
 |16:30-16:35
 |Biospectra-by-sequencing genetic analysis platform
