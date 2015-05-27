@@ -37,10 +37,7 @@ If you would like to be a sponsor of BOSC 2015, please contact us at at bosc@ope
 
 == Important Dates ==
 
-* [https://www.iscb.org/ismbeccb2015-registration Registration] opens for ISMB and BOSC: March 25, 2015
-* Deadline for submitting abstracts for longer talks: Tuesday April 7, 2015 (there will be an opportunity later to submit abstracts for lightning talks and posters)
-* Notification of accepted talks: May 3, 2015
-** Notifications were sent out--if you submitted an abstract and didn't hear back, please [mailto:bosc@open-bio.org let us know].
+* Deadline for [http://www.open-bio.org/wiki/BOSC_Abstract_Submission submitting abstracts] for late-breaking lightning talks and posters: June 5, 2015
 * [https://www.iscb.org/ismbeccb2015-registration#registrationfee End of early registration discount]: June 5, 2015
 * [[Codefest 2015]]: July 8-9, 2015, Dublin (Trinity College)
 * '''BOSC 2015: July 10-11, 2015, Dublin'''
