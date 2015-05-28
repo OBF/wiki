@@ -29,6 +29,7 @@ See [[Codefest 2015]] for details.
 == BOSC Day 1 (Friday, 10 July, 2015) ==
 
 {| border="1" cellspacing="0" cellpadding="7"
+|- style="background:#D8F781"
 !'''Time'''
 !'''Title'''
 !'''Speaker / Chair'''
@@ -40,7 +41,7 @@ See [[Codefest 2015]] for details.
 |9:00-9:15
 |'''Introduction and Welcome'''
 |Nomi Harris and Peter Cock (Co-Chairs, BOSC 2015)
-|-
+|- style="background:#EFFBFB"
 |9:15-10:15
 |'''Keynote:''' '''Bioinformatics: Still a scary world for biologists'''
 |Holly Bik
@@ -48,7 +49,7 @@ See [[Codefest 2015]] for details.
 |10:15-10:45
 |'''''Coffee Break'''''
 |
-|-
+|- style="background:#E6E6E6"
 |10:45-12:30
 |'''Session: Data Science'''
 |Chair: Rob Davey
@@ -88,7 +89,7 @@ See [[Codefest 2015]] for details.
 |12:25-12:30
 |Prioritization of structural variants based on known biological information
 |Brad Chapman
-|-
+|- style="background:#F7F8E0"
 |12:30-13:30
 |'''''Lunch'''''
 |
@@ -96,7 +97,7 @@ See [[Codefest 2015]] for details.
 |13:00-14:00
 |'''Poster Session and Birds of a Feather''' (overlapping with lunch)
 |
-|-
+|- style="background:#E6E6E6"
 |14:00-15:30
 |'''Session: Standards and Interoperability'''
 |Chair: Peter Cock
@@ -136,7 +137,7 @@ See [[Codefest 2015]] for details.
 |15:30-16:00
 |'''''Coffee Break'''''
 |
-|-
+|- style="background:#EFFBFB"
 |16:00-17:00
 |'''Panel: Open Source, Open Door: increasing diversity in the bioinformatics open source community'''
 |'''''Moderator''''': Mónica Muñoz-Torres
