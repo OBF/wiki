@@ -45,7 +45,7 @@ See [[Codefest 2015]] for details.
 |9:15-10:15
 |'''Keynote:''' '''Bioinformatics: Still a scary world for biologists'''
 |Holly Bik
-|-
+|- style="background:#FAF4EE"
 |10:15-10:45
 |'''''Coffee Break'''''
 |
@@ -133,7 +133,7 @@ See [[Codefest 2015]] for details.
 |15:25-15:30
 |The EDAM Ontology
 |Hervé Ménager
-|-
+|- style="background:#FAF4EE"
 |15:30-16:00
 |'''''Coffee Break'''''
 |
@@ -165,9 +165,11 @@ See [[Codefest 2015]] for details.
 |[http://doodle.com/mcqehfpytzutwzum RSVP] (limited space --you must RSVP to attend)
 |}
 
+
 == BOSC Day 2 (Saturday, 11 July, 2015) ==
 
 {| border="1" cellspacing="0" cellpadding="7"
+|- style="background:#D8F781"
 !'''Time'''
 !'''Title'''
 !'''Speaker / Chair'''
@@ -179,15 +181,15 @@ See [[Codefest 2015]] for details.
 |9:05-9:15
 |Codefest 2015 Report
 |Brad Chapman (Codefest 2015 Organizer)
-|-
+|- style="background:#EFFBFB"
 |9:15-10:15
 |'''Keynote:''' '''Big Data in Biology'''
 |Ewan Birney
-|-
+|- style="background:#FAF4EE"
 |10:15-10:45
 |'''''Coffee Break'''''
 |
-|-
+|- style="background:#E6E6E6"
 |10:45-12:30
 |'''Session: Open Science''' '''and Reproducibility'''
 |Chair: Mónica Muñoz-Torres
@@ -235,7 +237,7 @@ See [[Codefest 2015]] for details.
 |12:25-12:30
 |openSNP - personal genomics and the public domain
 |Bastian Greshake
-|-
+|- style="background:#F7F8E0"
 |12:30-13:30
 |'''''Lunch'''''
 |
@@ -243,7 +245,7 @@ See [[Codefest 2015]] for details.
 |13:00-14:00
 |'''Poster Session and BOFs (overlapping with lunch)'''
 |
-|-
+|- style="background:#E6E6E6"
 |14:00-14:40
 |'''Session: Translational Bioinformatics'''
 |Chair: Brad Chapman
@@ -259,7 +261,7 @@ See [[Codefest 2015]] for details.
 |14:35-14:40
 |Cancer Informatics Collaboration and Computation: Two Initiatives of the U.S. National Cancer Institute
 |Ishwar Chandramouliswaran
-|-
+|- style="background:#E6E6E6"
 |14:40-15:30
 |'''Session: Bioinformatics Open Source Project Updates'''
 |Chair: Nomi Harris
@@ -275,11 +277,11 @@ See [[Codefest 2015]] for details.
 |15:14-15:31
 |Apache Taverna: Sustaining research software at the Apache Software Foundation
 |Stian Soiland-Reyes
-|-
+|- style="background:#FAF4EE"
 |15:30-16:00
 |'''''Coffee Break'''''
 |
-|-
+|- style="background:#E6E6E6"
 |16:00-16:30
 |'''Session: Visualization'''
 |Chair: Karsten Hokamp
@@ -295,7 +297,7 @@ See [[Codefest 2015]] for details.
 |16:22-16:27
 |Visualising Open PHACTS linked data with widgets
 |Ian Dunlop
-|-
+|- style="background:#E6E6E6"
 |16:30-17:00
 |'''Session: Late-Breaking Lightning Talks'''
 |Chair: Hilmar Lapp
