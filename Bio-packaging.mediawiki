@@ -33,7 +33,10 @@ Here we discuss issues around packaging and deploying software: anything that co
 
 == Linux distributions and VMs ==
 
-=== Debian BioMed ===
+=== Debian Med ===
+
+[https://www.debian.org/devel/debian-med/ Debian Med] contains a wide range of software packages target at Debian Linux and derivatives.
+
 === CloudBiolinux ===
 === Galaxy ===
 === Docker ===
