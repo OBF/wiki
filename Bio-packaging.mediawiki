@@ -17,6 +17,9 @@ Here we discuss issues around packaging and deploying software: anything that co
 === Ruby biogems ===
 === Python packages ===
 === Perl CPAN ===
+=== R CRAN ===
+
+http://cran.r-project.org/
 
 == Linux distributions and VMs ==
 
