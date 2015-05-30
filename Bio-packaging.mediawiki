@@ -35,7 +35,7 @@ Here we discuss issues around packaging and deploying software: anything that co
 
 === Debian Med ===
 
-[https://www.debian.org/devel/debian-med/ Debian Med] contains a wide range of bioinformatics software packages target at Debian Linux and derivatives.
+[https://www.debian.org/devel/debian-med/ Debian Med] contains a wide range of bioinformatics software packages target at Debian Linux and derivatives. See also the [https://wiki.debian.org/ReproducibleBuilds Debian reproducible builds] initiative.
 
 === CloudBiolinux ===
 
