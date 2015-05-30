@@ -12,7 +12,7 @@ Here we discuss issues around packaging and deploying software: anything that co
 
 === GNU Guix ===
 
-[https://www.gnu.org/software/guix GNU guix] is a package manager for the Gnu/Linux operating system. Bioinformatics packages are constructed [http://git.savannah.gnu.org/cgit/guix.git/tree/gnu/packages/bioinformatics.scm here].
+[https://www.gnu.org/software/guix GNU guix] is a package manager for the Gnu/Linux operating system. Bioinformatics packages are constructed [http://git.savannah.gnu.org/cgit/guix.git/tree/gnu/packages/bioinformatics.scm here]. GNU Guix can be run inside any Linux distribution (it is distribution agnostic because all software installs under /gnu).
 
 == Language based packaging systems ==
 
