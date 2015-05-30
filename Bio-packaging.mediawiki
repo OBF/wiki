@@ -38,5 +38,8 @@ Here we discuss issues around packaging and deploying software: anything that co
 [https://www.debian.org/devel/debian-med/ Debian Med] contains a wide range of software packages target at Debian Linux and derivatives.
 
 === CloudBiolinux ===
+
+[http://cloudbiolinux.org CloudBioLinux] offers genome analysis resources for cloud computing platforms such as Amazon EC2. The source code can be found [https://github.com/chapmanb/cloudbiolinux here]. CloudBiolinux uses a combination of Debian/Ubuntu packages with linuxbrew and self-compiled software.
+
 === Galaxy ===
 === Docker ===
