@@ -18,7 +18,7 @@ Here we discuss issues around packaging and deploying software: anything that co
 
 === Ruby biogems ===
 
-* Biogems: http://biogems.info/
+* [http://biogems.info/ biogems] are Ruby packages (gems) that can install globally or in HOME. To make sure gems do not conflict with multiple Ruby versions it is possible to use RVM, rbenv and/or GNU Guix.
 
 === Python packages ===
 === Perl CPAN ===
