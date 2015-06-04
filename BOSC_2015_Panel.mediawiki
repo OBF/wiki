@@ -5,7 +5,7 @@ title: BOSC 2015 Panel
 [[File:Pear.png|120px|right|BOSC logo|link=BOSC_2015]]
 == Open Source, Open Door: increasing diversity in the bioinformatics open source community ==
 
-Every year, BOSC includes a panel discussion that offers all attendees to engage in conversation with the panelists and each other. This year, our panel discussion will focus on '''increasing diversity in our community and at our conferences'''.
+Every year, BOSC includes a panel discussion that offers all attendees the chance to engage in conversation with the panelists and each other. This year, our panel discussion will focus on '''increasing diversity in our community and at our conferences'''.
 
 Panel chair '''Mónica Muñoz-Torres''' ([https://twitter.com/monimunozto @monimunozto]) is the lead biocurator at Berkeley Bioinformatics Open-Source Projects (BBOP). She is part of the development teams for Web Apollo (a web-based annotation editor designed to support community-based curation of genomes) and the tools of the Gene Ontology (GO) Consortium. She co-leads the Community Curation group within the global initiative to sequence and annotate the genomes of 5,000 arthropods (i5K Initiative), and is a member of the Executive Committee of the International Society for Biocuration (ISB). As a graduate student, Monica founded the first South Easter Chapter of the Society for Advancement of Hispanics/Chicanos and Native Americans in Science (SACNAS) at Clemson University; the chapter has since been actively involved in outreach activities to local high schools in an attempt to inspire students to pursue careers in STEM. She is currently working on forming the first professional chapter of SACNAS in the San Francisco Bay area. 
 
