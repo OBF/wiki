@@ -139,7 +139,7 @@ See [[Codefest 2015]] for details.
 |
 |- style="background:#EFFBFB"
 |16:00-17:00
-|'''Panel: Open Source, Open Door: increasing diversity in the bioinformatics open source community'''
+|'''[[BOSC_2015_Panel|Panel: Open Source, Open Door: increasing diversity in the bioinformatics open source community]]'''
 |'''''Moderator''''': Mónica Muñoz-Torres
 
 '''''Panelists''''': Holly Bik, Michael R. Crusoe, Aleksandra Pawlik, Jason Williams
@@ -164,7 +164,6 @@ See [[Codefest 2015]] for details.
 |Pay-your-own-way BOSC dinner, [http://kennedys.ie/ Kennedy’s]
 |[http://doodle.com/mcqehfpytzutwzum RSVP] (limited space --you must RSVP to attend)
 |}
-
 
 == BOSC Day 2 (Saturday, 11 July, 2015) ==
 
