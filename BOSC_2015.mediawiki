@@ -9,11 +9,6 @@ __NOTOC__
 == Schedule ==
 Check out the complete [[BOSC_2015_Schedule|schedule]]!
 
-== Call for Abstracts for Late-Breaking Lightning Talks and Posters! ==
-The official deadline for submitting abstracts for BOSC talks was April 3rd. To further encourage participation from bioinformaticians at all career levels we have opened a few spots for Late-Breaking Lightning Talks and Posters. We have also reserved a few spots for walk-in posters; please be aware that walk-ins will not be listed in the program or on the BOSC website.
-
-[[BOSC_Abstract_Submission|Abstracts for Late-Breaking Lightning Talks and posters]] are due by 5 June 2015, and are subject to the same requirements and review process as earlier submissions.
-
 == Overview ==
 
 The Bioinformatics Open Source Conference (BOSC) is run as a two-day meeting before the annual [http://www.iscb.org/ismbeccb2015 ISMB conference]. It is sponsored by the Open Bioinformatics Foundation (O|B|F), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community. 
