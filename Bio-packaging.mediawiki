@@ -15,7 +15,7 @@ On the mailing list we discuss issues around packaging and deploying software: a
 
 === GNU Guix for bioinformatics ===
 
-For Bio-packaging we created a [https://github.com/genenetwork/guix/wiki/GNU-Guix-for-bioinformatics GNU Guix edition for bioinformatics]. See also GNU Guix [https://www.gnu.org/software/guix/manual/guix.html documentation] and Pjotr's [https://github.com/pjotrp/guix-notes guix-notes]
+For Bio-packaging we created a [https://github.com/genenetwork/guix/wiki/GNU-Guix-for-bioinformatics GNU Guix edition for bioinformatics]. See also GNU Guix [https://www.gnu.org/software/guix/manual/guix.html documentation] and Pjotr Prins' [https://github.com/pjotrp/guix-notes guix-notes] and Malcolm Cook's [https://github.com/malcook/sce manual]
 
 == Language based packaging systems ==
 
