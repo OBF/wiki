@@ -60,6 +60,9 @@ interested to [https://docs.google.com/spreadsheets/d/1STl3x-KcInCxpGBgBHDz2C_Lv
 We'll coordinate through the [https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2015 Codefest 2015 mailing list],
 so please sign up to discuss and receive updates.
 
+If you're not able to physically attend in Dublin, we're still more than happy to have you participate in Codefest. Please sign up on the [https://docs.google.com/spreadsheets/d/1STl3x-KcInCxpGBgBHDz2C_LvrudXDe1X9d68NpH0Tk/edit?usp=sharing the Google spreadsheet] and list yourself as remote only. We set up a [https://gitter.im/chapmanb/obf-codefest Gitter chat room]
+ we can use to coordinate and discuss in real time.
+
 == Logistics ==
 
 {|
