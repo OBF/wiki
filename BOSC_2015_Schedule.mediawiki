@@ -59,7 +59,7 @@ See [[Codefest 2015]] for details.
 |Mónica Muñoz-Torres
 |-
 |11:02-11:19
-|GOexpress: A R/Bioconductor package for the identification and visualisation of robust gene ontology signatures through supervised clustering of gene expression data
+|GOexpress: A R/Bioconductor package for the identification and visualisation of robust gene ontology signatures through supervised learning of gene expression data
 |Kévin Rue-Albrecht
 |-
 |11:19-11:36
