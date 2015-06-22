@@ -287,7 +287,7 @@ See [[Codefest 2015]] for details.
 |-
 |16:00-16:17
 |Simple, Shareable, Online RNA Secondary Structure Diagrams
-|Stefan Hammer
+Peter Kerpedjiev
 |-
 |16:17-16:22
 |BioJS 2.0: an open source standard for biological visualization
