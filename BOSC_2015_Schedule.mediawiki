@@ -306,24 +306,24 @@ See [[Codefest 2015]] for details.
 |Aurelie Laugraud
 |-
 |16:35-16:40
-|
-|
+|PhyloToAST: Bioinformatics tools for species-level analysis and visualization of complex microbial communities
+|Shareef Dabdoub
 |-
 |16:40-16:45
-|
-|
+|Otter/ZMap/SeqTools: A productive alternative to web browser genome visualisation
+|Gemma Guest
 |-
 |16:45-16:50
-|
-|
+|aRchive: enabling reproducibility of Bioconductor package versions
+|Nitesh Turaga
 |-
 |16:50-16:55
-|
-|
+|Developing an Arvados BWA-GATK pipeline
+|Pjotr Prins
 |-
 |16:55-17:00
-|
-|
+|Out of the box cloud solution for Next-Generation Sequencing analysis
+|Freerk van Dijk
 |-
 |17:00-17:10
 |Concluding Remarks
