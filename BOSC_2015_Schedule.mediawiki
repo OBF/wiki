@@ -32,7 +32,7 @@ See [[Codefest 2015]] for details.
 |- style="background:#D8F781"
 !'''Time'''
 !'''Title'''
-!'''Speaker / Chair'''
+!'''Speaker [Poster] / Chair'''
 |-
 |7:30-9:00
 |'''Registration'''
@@ -56,11 +56,11 @@ See [[Codefest 2015]] for details.
 |-
 |10:45- 11:02
 |Apollo: Scalable &amp; collaborative curation for improved comparative genomics
-|Mónica Muñoz-Torres
+|Mónica Muñoz-Torres [P1]
 |-
 |11:02-11:19
 |GOexpress: A R/Bioconductor package for the identification and visualisation of robust gene ontology signatures through supervised learning of gene expression data
-|Kévin Rue-Albrecht
+|Kévin Rue-Albrecht [P2]
 |-
 |11:19-11:36
 |Arvados: A Free Software Platform for Big Data Science
@@ -72,19 +72,19 @@ See [[Codefest 2015]] for details.
 |-
 |11:53-12:10
 |Segway: semi-automated genome annotation
-|Michael Hoffman
+|Michael Hoffman [P3]
 |-
 |12:10-12:15
 |QualiMap 2.0: quality control of high throughput sequencing data
-|Konstantin Okonechnikov
+|Konstantin Okonechnikov [P4]
 |-
 |12:15-12:20
 |A Genomics Virtual Laboratory
-|Andrew Lonie
+|Andrew Lonie [P5]
 |-
 |12:20-12:25
 |BioSolr: Building better search for bioinformatics
-|Tony Burdett
+|Tony Burdett [P6]
 |-
 |12:25-12:30
 |Prioritization of structural variants based on known biological information
@@ -104,7 +104,7 @@ See [[Codefest 2015]] for details.
 |-
 |14:00-14:17
 |Portable workflow and tool descriptions with the CWL
-|Michael R. Crusoe
+|Michael R. Crusoe [P7]
 |-
 |14:17-14:34
 |From peer-reviewed to peer-reproduced: a role for research objects in scholarly publishing in the life sciences
@@ -124,15 +124,15 @@ See [[Codefest 2015]] for details.
 |-
 |15:15-15:20
 |Evolution of the Galaxy tool ecosystem - happier developers, happier users
-|Martin Čech
+|Martin Čech [P8]
 |-
 |15:20-15:25
 |Bionode - Modular and universal bioinformatics
-|Bruno Vieira
+|Bruno Vieira [P9]
 |-
 |15:25-15:30
 |The EDAM Ontology
-|Hervé Ménager
+|Hervé Ménager [P10]
 |- style="background:#FAF4EE"
 |15:30-16:00
 |'''''Coffee Break'''''
@@ -199,15 +199,15 @@ See [[Codefest 2015]] for details.
 |-
 |11:02-11:19
 |Research shared: www.researchobject.org
-|Norman Morrison
+|Norman Morrison [P11]
 |-
 |11:19-11:36
 |Nextflow: a tool for deploying reproducible computational pipelines
-|Paolo Di Tommaso
+|Paolo Di Tommaso [P12]
 |-
 |11:36-11:53
 |Free beer today: how iPlant + Agave + Docker are changing our assumptions about reproducible science
-|John Fonner
+|John Fonner [P13]
 |-
 |11:55-12:00
 |The 500 builds of 300 applications in the HeLmod repository will at least get you started on a full suite of scientific applications
@@ -215,7 +215,7 @@ See [[Codefest 2015]] for details.
 |-
 |12:00-12:05
 |Bioboxes: Standardised bioinformatics tools using Docker containers.
-|Peter Belmann
+|Peter Belmann [P14]
 |-
 |12:05-12:10
 |The perfect fit for reproducible interactive research: Galaxy, Docker, IPython
@@ -223,19 +223,19 @@ See [[Codefest 2015]] for details.
 |-
 |12:10-12:15
 |COPO: Bridging the Gap from Data to Publication in Plant Science
-|Robert Davey
+|Robert Davey [P15]
 |-
 |12:15-12:20
 |ELIXIR UK building on Data and Software Carpentry to address the challenges in computational training for life scientists
-|Aleksandra Pawlik
+|Aleksandra Pawlik [P16]
 |-
 |12:20-12:25
 |Parallel recipes: towards a common coordination language for scientific workflow management systems
-|Yves Vandriessche
+|Yves Vandriessche [P17]
 |-
 |12:25-12:30
 |openSNP - personal genomics and the public domain
-|Bastian Greshake
+|Bastian Greshake [P18]
 |- style="background:#F7F8E0"
 |12:30-13:30
 |'''''Lunch'''''
@@ -251,15 +251,15 @@ See [[Codefest 2015]] for details.
 |-
 |14:00-14:17
 |CIViC: Crowdsourcing the Clinical Interpretation of Variants in Cancer
-|Malachi Griffith
+|Malachi Griffith [P19]
 |-
 |14:17-14:34
 |From Fastq To Drug Recommendation - Automated Cancer Report Generation using OncoRep &amp; Omics Pipe
-|Tobias Meissner
+|Tobias Meissner [P20]
 |-
 |14:35-14:40
 |Cancer Informatics Collaboration and Computation: Two Initiatives of the U.S. National Cancer Institute
-|Ishwar Chandramouliswaran
+|Ishwar Chandramouliswaran [P21]
 |- style="background:#E6E6E6"
 |14:40-15:30
 |'''Session: Bioinformatics Open Source Project Updates'''
@@ -275,7 +275,7 @@ See [[Codefest 2015]] for details.
 |-
 |15:14-15:31
 |Apache Taverna: Sustaining research software at the Apache Software Foundation
-|Stian Soiland-Reyes
+|Stian Soiland-Reyes [P22]
 |- style="background:#FAF4EE"
 |15:30-16:00
 |'''''Coffee Break'''''
@@ -291,11 +291,11 @@ See [[Codefest 2015]] for details.
 |-
 |16:17-16:22
 |BioJS 2.0: an open source standard for biological visualization
-|Guy Yachdav
+|Guy Yachdav [P23]
 |-
 |16:22-16:27
 |Visualising Open PHACTS linked data with widgets
-|Ian Dunlop
+|Ian Dunlop [P24]
 |- style="background:#E6E6E6"
 |16:30-17:00
 |'''Session: Late-Breaking Lightning Talks'''
@@ -303,7 +303,7 @@ See [[Codefest 2015]] for details.
 |-
 |16:30-16:35
 |Biospectra-by-sequencing genetic analysis platform
-|Aurelie Laugraud
+|Aurelie Laugraud [P25]
 |-
 |16:35-16:40
 |PhyloToAST: Bioinformatics tools for species-level analysis and visualization of complex microbial communities
@@ -311,19 +311,19 @@ See [[Codefest 2015]] for details.
 |-
 |16:40-16:45
 |Otter/ZMap/SeqTools: A productive alternative to web browser genome visualisation
-|Gemma Guest
+|Gemma Guest [P26]
 |-
 |16:45-16:50
 |aRchive: enabling reproducibility of Bioconductor package versions
-|Nitesh Turaga
+|Nitesh Turaga [P27]
 |-
 |16:50-16:55
 |Developing an Arvados BWA-GATK pipeline
-|Pjotr Prins
+|Pjotr Prins [P28]
 |-
 |16:55-17:00
 |Out of the box cloud solution for Next-Generation Sequencing analysis
-|Freerk van Dijk
+|Freerk van Dijk [P29]
 |-
 |17:00-17:10
 |Concluding Remarks
