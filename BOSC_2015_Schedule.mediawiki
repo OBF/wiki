@@ -271,7 +271,7 @@ See [[Codefest 2015]] for details.
 |-
 |14:57-15:14
 |The biogems community: Challenges in distributed software development in bioinformatics
-|George Githinji
+|George Githinji and Pjotr Prins  
 |-
 |15:14-15:31
 |Apache Taverna: Sustaining research software at the Apache Software Foundation
