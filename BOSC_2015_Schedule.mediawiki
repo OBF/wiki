@@ -343,6 +343,7 @@ See [[Codefest 2015]] for details.
 If the speaker also gave a talk, any poster link will be above (posters 1 to 17). This table lists poster-only presentations.
 
 {| border="1" cellspacing="0" cellpadding="7"
+|- style="background:#D8F781"
 ! Poster
 ! Title
 ! Presenter
