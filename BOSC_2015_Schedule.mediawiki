@@ -242,7 +242,7 @@ See [[Codefest 2015]] for details.
 |
 |-
 |13:00-14:00
-|'''Poster Session and BOFs (overlapping with lunch)'''
+|'''Poster Session and  [https://docs.google.com/document/d/1yaSjWEZzwiAk6jUiKVk_pbmru1uCJuGbgITIyI3kmfI/edit# BOFs] (overlapping with lunch)'''
 |
 |- style="background:#E6E6E6"
 |14:00-14:40
@@ -334,7 +334,7 @@ See [[Codefest 2015]] for details.
 |Aidan Budd, Dave Clements, Manuel Corpas, Natasha Wood
 |-
 |17:10-18:10
-|'''BOFs'''
+|'''[https://docs.google.com/document/d/1yaSjWEZzwiAk6jUiKVk_pbmru1uCJuGbgITIyI3kmfI/edit# BOFs]''': Feel free to organize one!
 |
 |}
 
