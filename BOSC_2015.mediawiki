@@ -40,7 +40,7 @@ If you would like to be a sponsor of BOSC, please contact us at at bosc@open-bio
 
 == Important Dates ==
 
-* [https://www.iscb.org/ismbeccb2015-registration#registrationfee End of early registration discount]: June 5, 2015
+* [https://www.iscb.org/ismbeccb2015-registration#registrationfee End of online registration for BOSC/ISMB]: June 26, 2015
 * [[Codefest 2015]]: July 8-9, 2015, Dublin (Trinity College)
 * '''BOSC 2015: July 10-11, 2015, Dublin'''
 * ISMB/ECCB 2015: July 10-14, 2015, Dublin
