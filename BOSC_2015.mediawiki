@@ -36,7 +36,7 @@ BOSC is organised by the [[Main_Page|Open Bioinformatics Foundation]], a non-pro
 
 We are grateful to [http://www.google.com/ Google] for their generous support for videorecording BOSC 2015, and we thank  [http://curoverse.com Curoverse] (the team behind the open source platform [http://arvados.org Arvados]) as a returning sponsor.
 
-If you would like to be a sponsor of BOSC 2015, please contact us at at bosc@open-bio.org.
+If you would like to be a sponsor of BOSC, please contact us at at bosc@open-bio.org.
 
 == Important Dates ==
 
