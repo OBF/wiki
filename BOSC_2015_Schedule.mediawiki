@@ -378,6 +378,7 @@ If the speaker also has a talk, the poster link will be above (posters 1 to 29).
 |-
 |}
 
+<br>
 == BOSC 2015 Organizing Committee ==
 
 '''Nomi Harris''' and '''Peter Cock''' (Co-Chairs)
