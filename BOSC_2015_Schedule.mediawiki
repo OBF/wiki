@@ -157,7 +157,7 @@ See [[Codefest 2015]] for details.
 |Aidan Budd, Dave Clements, Manuel Corpas, Natasha Wood
 |-
 |17:15-18:30
-|'''[https://docs.google.com/document/d/1yaSjWEZzwiAk6jUiKVk_pbmru1uCJuGbgITIyI3kmfI/edit# BOFs]''': feel free to suggest one!
+|'''[https://docs.google.com/document/d/1yaSjWEZzwiAk6jUiKVk_pbmru1uCJuGbgITIyI3kmfI/edit# BOFs]''': Feel free to organize one!
 |
 |-
 |19:00-
