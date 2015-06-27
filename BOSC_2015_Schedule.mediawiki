@@ -95,7 +95,7 @@ See [[Codefest 2015]] for details.
 |
 |-
 |13:00-14:00
-|'''Poster Session and Birds of a Feather''' (overlapping with lunch)
+|'''Poster Session and [https://docs.google.com/document/d/1yaSjWEZzwiAk6jUiKVk_pbmru1uCJuGbgITIyI3kmfI/edit# Birds of a Feather sessions]''' (overlapping with lunch)
 |
 |- style="background:#E6E6E6"
 |14:00-15:30
@@ -157,7 +157,7 @@ See [[Codefest 2015]] for details.
 |Aidan Budd, Dave Clements, Manuel Corpas, Natasha Wood
 |-
 |17:15-18:30
-|'''BOFs'''
+|'''[https://docs.google.com/document/d/1yaSjWEZzwiAk6jUiKVk_pbmru1uCJuGbgITIyI3kmfI/edit# BOFs]''': feel free to suggest one!
 |
 |-
 |19:00-
