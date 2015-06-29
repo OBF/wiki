@@ -99,7 +99,7 @@ We're always looking for sponsors interested in being involved with the open sou
 |rowspan="2"| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |}
 
-We thank [http://curoverse.com Curoverse] for sponsoring the BOSC CodeFest 2015.
+We thank [http://curoverse.com Curoverse] and [http://www.bina.org Bina] for sponsoring the BOSC CodeFest 2015.
 
 == Organizers ==
 
