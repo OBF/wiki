@@ -95,10 +95,11 @@ We're always looking for sponsors interested in being involved with the open sou
 | [[File:Curoverse_logo.png|175px|center|Curoverse logo|link=http://curoverse.com]]
 |-
 | [[File: Arvados.png|150px|center|Arvados logo|link=http://arvados.org]]
+|rowspan="2"| [[File:Bina_logo.png‎|200px|left|Bina|link=http://www.bina.com/]]
+|rowspan="2"| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |}
 
 We thank [http://curoverse.com Curoverse] for sponsoring the BOSC CodeFest 2015.
-
 
 == Organizers ==
 
