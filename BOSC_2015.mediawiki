@@ -9,6 +9,10 @@ __NOTOC__
 == Schedule ==
 Check out the complete [[BOSC_2015_Schedule|schedule]]!
 
+The full program including abstracts is available [http://www.open-bio.org/bosc2015/BOSC2015-program-with-abstracts.pdf here].
+
+The PDF of the schedule (without abstracts) is available [http://www.open-bio.org/w/images/2/2c/BOSC2015-schedule.pdf here].
+
 == Overview ==
 
 The Bioinformatics Open Source Conference (BOSC) is run as a two-day meeting before the annual [http://www.iscb.org/ismbeccb2015 ISMB conference]. It is sponsored by the Open Bioinformatics Foundation (O|B|F), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community. 
