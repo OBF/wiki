@@ -5,7 +5,11 @@ title: BOSC 2015 Schedule
 __NOTOC__
 [[File:Pear.png|120px|right|BOSC logo|link=BOSC_2015]]
 
-You will soon be able to download the full program with abstracts; however, this wiki page is considered the definitive schedule and will be updated with any last minute changes.
+The full program including abstracts is available [[bosc2015/BOSC2015-program-with-abstracts.pdf|here]].
+
+The PDF of this schedule (without abstracts) is available [[bosc2015/BOSC2015-schedule.pdf|here]].
+
+However, this wiki page is considered the definitive schedule and will be updated with any last minute changes.
 
 == Sponsors ==
 
