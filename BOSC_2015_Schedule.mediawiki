@@ -7,7 +7,7 @@ __NOTOC__
 
 The full program including abstracts is available [http://www.open-bio.org/bosc2015/BOSC2015-program-with-abstracts.pdf here].
 
-The PDF of this schedule (without abstracts) is available [http://www.open-bio.org/wiki/BOSC2015-schedule.pdf here].
+The PDF of this schedule (without abstracts) is available [http://www.open-bio.org/w/images/2/2c/BOSC2015-schedule.pdf here].
 
 However, this wiki page is considered the definitive schedule and will be updated with any last minute changes.
 
