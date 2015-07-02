@@ -13,7 +13,7 @@ However, this wiki page is considered the definitive schedule and will be update
 
 == Sponsors ==
 
-|
+{|
 |rowspan="2"| [[File:google-logo11w.png‎|205px|left|Google|link=http://www.google.com/]]
 |rowspan="2"| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
