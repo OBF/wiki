@@ -334,7 +334,7 @@ See [[Codefest 2015]] for details.
 |Nomi Harris and Peter Cock
 |-
 |17:15-18:30
-|BOF/Unconference: Building successful open-source bioinformatics developer communities (Part 2)
+|BOF/Unconference:  [http://www.hub-hub.de/wiki/index.php?title=BOSC2015Unconf Building successful open-source bioinformatics developer communities] (Part 2)
 |Aidan Budd, Dave Clements, Manuel Corpas, Natasha Wood
 |-
 |17:10-18:10
@@ -383,6 +383,7 @@ If the speaker also has a talk, the poster link will be above (posters 1 to 29).
 |}
 
 <br>
+
 == BOSC 2015 Organizing Committee ==
 
 '''Nomi Harris''' and '''Peter Cock''' (Co-Chairs)
