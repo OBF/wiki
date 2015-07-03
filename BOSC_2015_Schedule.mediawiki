@@ -157,7 +157,7 @@ See [[Codefest 2015]] for details.
 |Nomi Harris
 |-
 |17:15-18:30
-|BOF/Unconference: Building successful open-source bioinformatics developer communities (Part 1)
+|BOF/Unconference: [http://www.hub-hub.de/wiki/index.php?title=BOSC2015Unconf Building successful open-source bioinformatics developer communities] (Part 1)
 |Aidan Budd, Dave Clements, Manuel Corpas, Natasha Wood
 |-
 |17:15-18:30
