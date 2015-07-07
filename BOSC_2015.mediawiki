@@ -91,7 +91,7 @@ This year's keynote speakers will be Holly Bik (University of Birmingham) and Ew
 * [http://www.tgac.ac.uk/bioinformatics/sequencing-informatics/robert-davey/ Robert Davey] (The Genome Analysis Centre)
 * Christopher Fields (National Center for Supercomputing Applications)
 * Karsten Hokamp (Smurfit Institute of Genetics, Trinity College Dublin, Ireland)
-* [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp] (National Evolutionary Synthesis Center)
+* [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp] (Center for Genomic and Computational Biology (GCB), Duke University)
 * [http://berkeleybop.org/person/monica-munoz-torres Mónica Muñoz-Torres]  (Berkeley Bioinformatics Open Source Projects)
 
 '''Ex Officio (Members of the O|B|F Board)'''
