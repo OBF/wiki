@@ -25,6 +25,8 @@ The goal of Codefest is to bring open source bioinformatics programmers together
 2015 was another productive and fun event. Here are some of the outputs of the 2 days:
 
 * [https://docs.google.com/presentation/d/1MVRIQWyg3KPuK5Fqa6A_9bvgQ1AlU7LIU_S4ldDZ96k/edit?usp=sharing slide deck summarizing major project accomplishments]
+* [http://mussol.org/2015/07/11/codefest-and-bosc-2015-lots-of-workflows-and-docker/ Codefest overview from Guillermo Carrasco]
+* [http://www.robinandeer.com/blog/2015/07/08/bosc-codefest-2015/ Codefest experience report from Robin Andeer]
 
 == Why attend ==
 
