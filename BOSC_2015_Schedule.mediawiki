@@ -278,7 +278,7 @@ See [[Codefest 2015]] for details.
 |George Githinji and Pjotr Prins  
 |-
 |15:14-15:31
-|Apache Taverna: Sustaining research software at the Apache Software Foundation
+|Apache Taverna: Sustaining research software at the Apache Software Foundation ([http://www.slideshare.net/soilandreyes/20150711-bosc2015apachetaverna slideshare])
 |Stian Soiland-Reyes [P22]
 |- style="background:#FAF4EE"
 |15:30-16:00
