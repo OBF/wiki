@@ -318,7 +318,7 @@ See [[Codefest 2015]] for details.
 |Gemma Guest [P26]
 |-
 |16:45-16:50
-|aRchive: enabling reproducibility of Bioconductor package versions
+|BioaRchive: enabling reproducibility of Bioconductor package versions
 |Nitesh Turaga [P27]
 |-
 |16:50-16:55
