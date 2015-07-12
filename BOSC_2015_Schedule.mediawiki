@@ -357,7 +357,7 @@ If the speaker also has a talk, the poster link will be above (posters 1 to 29).
 ! Presenter
 |-
 | P30
-| Aequatus: Visualising complex similarity relationships among species 
+| [http://f1000research.com/posters/4-186 Aequatus: Visualising complex similarity relationships among species]
 | Anil Thanki 
 |-
 | P31
