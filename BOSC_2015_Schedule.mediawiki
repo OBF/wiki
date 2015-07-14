@@ -202,7 +202,7 @@ See [[Codefest 2015]] for details.
 |Hilmar Lapp
 |-
 |11:02-11:19
-|Research shared: www.researchobject.org
+|Research shared: www.researchobject.org ([http://www.slideshare.net/NormanMorrison2/researchobject-bosc-2015-v2 slides])
 |Norman Morrison [P11]
 |-
 |11:19-11:36
