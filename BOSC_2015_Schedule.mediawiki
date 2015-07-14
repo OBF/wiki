@@ -47,7 +47,7 @@ See [[Codefest 2015]] for details.
 |Nomi Harris and Peter Cock (Co-Chairs, BOSC 2015)
 |- style="background:#EFFBFB"
 |9:15-10:15
-|'''Keynote:''' '''Bioinformatics: Still a scary world for biologists''' ([http://figshare.com/articles/Bioinformatics_Still_a_scary_world_for_biologists/1478786 FigShare])
+|'''Keynote:''' '''Bioinformatics: Still a scary world for biologists''' ([http://figshare.com/articles/Bioinformatics_Still_a_scary_world_for_biologists/1478786 slides])
 |Holly Bik
 |- style="background:#FAF4EE"
 |10:15-10:45
