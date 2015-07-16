@@ -8,7 +8,9 @@ __NOTOC__
 
 Thanks to all for a successful meeting! Slides and videos will be posted soon.
 
-Check out the complete [[BOSC_2015_Schedule|schedule]]! The full program including abstracts is available [http://www.open-bio.org/bosc2015/BOSC2015-program-with-abstracts.pdf here].
+Check out the complete [[BOSC_2015_Schedule|schedule]] with links to slides, posters and videos - mostly on our [http://f1000research.com/channels/BOSC F1000 Research BOSC Channel].
+
+The full program including abstracts is available [http://www.open-bio.org/bosc2015/BOSC2015-program-with-abstracts.pdf here].
 
 == Summaries of BOSC 2015 by Participants ==
 There were over 2000 tweets about #BOSC2015, and a number of blog posts, some of which are listed below.
