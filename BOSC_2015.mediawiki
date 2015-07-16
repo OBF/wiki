@@ -6,7 +6,6 @@ __NOTOC__
 
 <div style="float:left; maxwidth: 180px; margin-left:25px; margin-right:15px; background-color: #FFFFFF">[[Image:Pear.png|left|The Bosc Pear]]</div>
 
-== BOSC 2015 is over! ==
 Thanks to all for a successful meeting! Slides and videos will be posted soon.
 
 Check out the complete [[BOSC_2015_Schedule|schedule]]! The full program including abstracts is available [http://www.open-bio.org/bosc2015/BOSC2015-program-with-abstracts.pdf here].
@@ -28,7 +27,7 @@ There were over 2000 tweets about #BOSC2015, and a number of blog posts, some of
 
 * [http://thedaoofflow.fluxionary.net/2015/07/bosc-2015-wrap-up/ Konrad Förstner's wrap-up]
 
-If you wrote a BOSC report and would like it to be listed here, please email us!
+If you wrote a BOSC report and would like it to be listed here, please email us at bosc@open-bio.org.
 
 == Overview ==
 
