@@ -6,12 +6,29 @@ __NOTOC__
 
 <div style="float:left; maxwidth: 180px; margin-left:25px; margin-right:15px; background-color: #FFFFFF">[[Image:Pear.png|left|The Bosc Pear]]</div>
 
-== Schedule ==
-Check out the complete [[BOSC_2015_Schedule|schedule]]!
+== BOSC 2015 is over! ==
+Thanks to all for a successful meeting! Slides and videos will be posted soon.
 
-The full program including abstracts is available [http://www.open-bio.org/bosc2015/BOSC2015-program-with-abstracts.pdf here].
+Check out the complete [[BOSC_2015_Schedule|schedule]]! The full program including abstracts is available [http://www.open-bio.org/bosc2015/BOSC2015-program-with-abstracts.pdf here].
 
-The PDF of the schedule (without abstracts) is available [http://www.open-bio.org/w/images/2/2c/BOSC2015-schedule.pdf here].
+== Summaries of BOSC 2015 by Participants ==
+There were over 2000 tweets about #BOSC2015, and a number of blog posts, some of which are listed below.
+
+* Brad Chapman's excellent summaries: [https://smallchangebio.wordpress.com/2015/07/10/bosc2015day1a/ Day 1 (morning)], [https://smallchangebio.wordpress.com/2015/07/11/bosc2015day1b/ Day 2 (afternoon)], [https://smallchangebio.wordpress.com/2015/07/11/notes-bioinformatics-open-source-conference-2015-day-2-morning-ewan-birney-open-science-and-reproducibility/ Day 2 (morning)], [https://smallchangebio.wordpress.com/2015/07/11/bosc2015day2b/ Day 2 (afternoon)]
+
+* Peter Cock's Storify of BOSC tweets: [https://storify.com/pjacock/bosc-2015-day-one part one], [https://storify.com/pjacock/bosc-2015-day-two part two]
+
+* [https://storify.com/bmpvieira/dublin-conferences Bruno Vieira's Storify]
+
+* [http://blogs.biomedcentral.com/gigablog/2015/07/12/open-bioinformatics-irish-free-software-state/ GigaScience blog post]
+
+* [http://www.flax.co.uk/blog/2015/07/13/biosolr-at-bosc-2015-open-source-search-for-bioinformatics/ Matt Pearce's blog post about BOSC and BioSolr]
+
+* [http://phdops.kblin.org/2015-on-overengineering.html Kai Blin's thoughts on BOSC and why we shouldn't overengineer bioinformatics analyses]
+
+* [http://thedaoofflow.fluxionary.net/2015/07/bosc-2015-wrap-up/ Konrad Förstner's wrap-up]
+
+If you wrote a BOSC report and would like it to be listed here, please email us!
 
 == Overview ==
 
