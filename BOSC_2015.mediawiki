@@ -13,7 +13,9 @@ Check out the complete [[BOSC_2015_Schedule|schedule]] with links to slides, pos
 The full program including abstracts is available [http://www.open-bio.org/bosc2015/BOSC2015-program-with-abstracts.pdf here].
 
 == Summaries of BOSC 2015 by Participants ==
-There were over 2000 tweets about #BOSC2015, and a number of blog posts, some of which are listed below.
+There were over 2000 tweets about #BOSC2015, and a number of articles and blog posts, some of which are listed below.
+
+* Uduak Grace Thomas's [https://www.genomeweb.com/informatics/bosc-community-discusses-ways-boost-diversity-participation-bioinformatics GenomeWeb article about our diversity efforts]
 
 * Brad Chapman's excellent summaries: [https://smallchangebio.wordpress.com/2015/07/10/bosc2015day1a/ Day 1 (morning)], [https://smallchangebio.wordpress.com/2015/07/11/bosc2015day1b/ Day 2 (afternoon)], [https://smallchangebio.wordpress.com/2015/07/11/notes-bioinformatics-open-source-conference-2015-day-2-morning-ewan-birney-open-science-and-reproducibility/ Day 2 (morning)], [https://smallchangebio.wordpress.com/2015/07/11/bosc2015day2b/ Day 2 (afternoon)]
 
