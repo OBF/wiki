@@ -17,7 +17,7 @@ There were over 2000 tweets about #BOSC2015, and a number of blog posts, some of
 
 * Peter Cock's Storify of BOSC tweets: [https://storify.com/pjacock/bosc-2015-day-one part one], [https://storify.com/pjacock/bosc-2015-day-two part two]
 
-* [https://storify.com/bmpvieira/dublin-conferences Bruno Vieira's Storify]
+* [https://storify.com/bmpvieira/dublin-conferences Bruno Vieira's Storify] about Codefest, BOSC, and ISMB/ECCB 2015
 
 * [http://blogs.biomedcentral.com/gigablog/2015/07/12/open-bioinformatics-irish-free-software-state/ GigaScience blog post]
 
