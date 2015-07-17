@@ -31,7 +31,7 @@ There were over 2000 tweets about #BOSC2015, and a number of articles and blog p
 
 * [http://thedaoofflow.fluxionary.net/2015/07/bosc-2015-wrap-up/ Konrad Förstner's wrap-up]
 
-* [http://okko73313.blogspot.de/2015/07/bosc-2015-amazing-as-always.html Konst Okonechnikov's summary ("BOSC 2015: amazing as always")]
+* [http://okko73313.blogspot.de/2015/07/bosc-2015-amazing-as-always.html Konstantin Okonechnikov's summary ("BOSC 2015: amazing as always")]
 
 If you wrote a BOSC report and would like it to be listed here, please email us at bosc@open-bio.org.
 
