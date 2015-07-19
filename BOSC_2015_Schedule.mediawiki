@@ -235,7 +235,7 @@ See [[Codefest 2015]] for details.
 |Yves Vandriessche [P17]
 |-
 |12:25-12:30
-|openSNP - personal genomics and the public domain
+|openSNP - personal genomics and the public domain ([http://figshare.com/articles/openSNP_BOSC15_Slides/1480397 slides], [http://figshare.com/articles/openSNP_BOSC15_Poster/1466880 poster])
 |Bastian Greshake [P18]
 |- style="background:#F7F8E0"
 |12:30-13:30
