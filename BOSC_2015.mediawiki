@@ -33,6 +33,8 @@ There were over 2000 tweets about #BOSC2015, and a number of articles and blog p
 
 * [http://okko73313.blogspot.de/2015/07/bosc-2015-amazing-as-always.html Konstantin Okonechnikov's summary ("BOSC 2015: amazing as always")]
 
+*[http://eukaryoticebullience.blogspot.com/2015/07/reflections-on-bosc2015-keynote-and.html Holly Bik's reflections]
+
 If you wrote a BOSC report and would like it to be listed here, please email us at bosc@open-bio.org.
 
 == Overview ==
