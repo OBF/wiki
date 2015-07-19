@@ -287,7 +287,7 @@ See [[Codefest 2015]] for details.
 |Chair: Karsten Hokamp
 |-
 |16:00-16:17
-|Simple, Shareable, Online RNA Secondary Structure Diagrams
+|Simple, Shareable, Online RNA Secondary Structure Diagrams ([http://www.tbi.univie.ac.at/~pkerp/bosc-2015/ slides])
 |Peter Kerpedjiev
 |-
 |16:17-16:22
