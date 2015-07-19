@@ -203,7 +203,7 @@ See [[Codefest 2015]] for details.
 |Norman Morrison [P11]
 |-
 |11:19-11:36
-|Nextflow: a tool for deploying reproducible computational pipelines
+|Nextflow: a tool for deploying reproducible computational pipelines ([https://speakerdeck.com/pditommaso/nextflow-a-tool-for-deploying-reproducible-computational-pipelines slides])
 |Paolo Di Tommaso [P12]
 |-
 |11:36-11:53
