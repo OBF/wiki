@@ -374,7 +374,7 @@ If the speaker also has a talk, the poster link will be above (posters 1 to 29).
 | Matúš Kalaš 
 |-
 | P35
-| MGkit: A Metagenomic Framework For The Study Of Microbial Communities 
+| [http://dx.doi.org/10.6084/m9.figshare.1269288 MGkit: A Metagenomic Framework For The Study Of Microbial Communities]
 | Francesco Rubino
 |-
 | P36
