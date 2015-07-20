@@ -128,7 +128,7 @@ See [[Codefest 2015]] for details.
 |Martin Čech [P8]
 |-
 |15:20-15:25
-|Bionode - Modular and universal bioinformatics
+|Bionode - Modular and universal bioinformatics ([http://f1000research.com/slides/4-288 slides])
 |Bruno Vieira [P9]
 |-
 |15:25-15:30
