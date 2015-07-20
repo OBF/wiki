@@ -108,7 +108,7 @@ See [[Codefest 2015]] for details.
 |Michael R. Crusoe [P7]
 |-
 |14:17-14:34
-|From peer-reviewed to peer-reproduced: a role for research objects in scholarly publishing in the life sciences
+|From peer-reviewed to peer-reproduced: a role for research objects in scholarly publishing in the life sciences ([http://www.slideshare.net/agbeltran/from-peerreviewed-to-peerreproduced-a-role-for-research-objects-in-scholarly-publishing-in-the-life-sciences slides])
 |Alejandra Gonzalez-Beltran
 |-
 |14:34-14:51
