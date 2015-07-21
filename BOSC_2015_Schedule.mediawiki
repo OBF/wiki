@@ -195,7 +195,7 @@ See [[Codefest 2015]] for details.
 |Chair: Mónica Muñoz-Torres
 |-
 |10:45-11:02
-|A curriculum for teaching Reproducible Computational Science bootcamps
+|A curriculum for teaching Reproducible Computational Science bootcamps ([http://reproducible-science-curriculum.github.io/bosc2015/#/ slides])
 |Hilmar Lapp
 |-
 |11:02-11:19
