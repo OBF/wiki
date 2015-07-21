@@ -251,7 +251,7 @@ See [[Codefest 2015]] for details.
 |Chair: Brad Chapman
 |-
 |14:00-14:17
-|CIViC: Crowdsourcing the Clinical Interpretation of Variants in Cancer
+|CIViC: Crowdsourcing the Clinical Interpretation of Variants in Cancer ([http://f1000research.com/slides/4-277 slides])
 |Malachi Griffith [P19]
 |-
 |14:17-14:34
