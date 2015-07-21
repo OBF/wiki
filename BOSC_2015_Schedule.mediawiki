@@ -255,7 +255,7 @@ See [[Codefest 2015]] for details.
 |Malachi Griffith [P19]
 |-
 |14:17-14:34
-|From Fastq To Drug Recommendation - Automated Cancer Report Generation using OncoRep &amp; Omics Pipe
+|From Fastq To Drug Recommendation - Automated Cancer Report Generation using OncoRep &amp; Omics Pipe ([http://f1000research.com/posters/4-275 poster])
 |Tobias Meissner [P20]
 |-
 |14:35-14:40
