@@ -267,7 +267,7 @@ See [[Codefest 2015]] for details.
 |Chair: Nomi Harris
 |-
 |14:40-14:57
-|Biopython Project Update 2015
+|Biopython Project Update 2015 ([http://f1000research.com/slides/4-279 slides])
 |João Rodrigues
 |-
 |14:57-15:14
