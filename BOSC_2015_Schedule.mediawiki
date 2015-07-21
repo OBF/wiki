@@ -319,7 +319,7 @@ See [[Codefest 2015]] for details.
 |Nitesh Turaga [P27]
 |-
 |16:50-16:55
-|Developing an Arvados BWA-GATK pipeline
+|Developing an Arvados BWA-GATK pipeline ([http://f1000research.com/slides/4-283 slides])
 |Pjotr Prins [P28]
 |-
 |16:55-17:00
