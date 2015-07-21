@@ -88,7 +88,7 @@ See [[Codefest 2015]] for details.
 |Tony Burdett [P6]
 |-
 |12:25-12:30
-|Prioritization of structural variants based on known biological information
+|Prioritization of structural variants based on known biological information ([http://f1000research.com/slides/4-280 slides])
 |Brad Chapman
 |- style="background:#F7F8E0"
 |12:30-13:30
