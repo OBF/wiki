@@ -44,7 +44,7 @@ See [[Codefest 2015]] for details.
 |Nomi Harris and Peter Cock (Co-Chairs, BOSC 2015)
 |- style="background:#EFFBFB"
 |9:15-10:15
-|'''Keynote:''' '''Bioinformatics: Still a scary world for biologists''' ([http://figshare.com/articles/Bioinformatics_Still_a_scary_world_for_biologists/1478786 slides])
+|'''Keynote:''' '''Bioinformatics: Still a scary world for biologists''' ([http://figshare.com/articles/Bioinformatics_Still_a_scary_world_for_biologists/1478786 slides], [http://youtu.be/dfCU4hZK2JA video])
 |Holly Bik
 |- style="background:#FAF4EE"
 |10:15-10:45
@@ -56,15 +56,15 @@ See [[Codefest 2015]] for details.
 |Chair: Rob Davey
 |-
 |10:45- 11:02
-|Apollo: Scalable &amp; collaborative curation for improved comparative genomics
+|Apollo: Scalable &amp; collaborative curation for improved comparative genomics ([http://youtu.be/R1HQskEw_p4 video])
 |Mónica Muñoz-Torres [P1]
 |-
 |11:02-11:19
-|GOexpress: A R/Bioconductor package for the identification and visualisation of robust gene ontology signatures through supervised learning of gene expression data ([http://f1000research.com/slides/4-248 slides], [http://f1000research.com/posters/4-247 poster])
+|GOexpress: A R/Bioconductor package for the identification and visualisation of robust gene ontology signatures through supervised learning of gene expression data ([http://f1000research.com/slides/4-248 slides], [http://f1000research.com/posters/4-247 poster], [https://youtu.be/Ih8I-WbdvTg video])
 |Kévin Rue-Albrecht (P2)
 |-
 |11:19-11:36
-|Arvados: A Free Software Platform for Big Data Science
+|Arvados: A Free Software Platform for Big Data Science ([http://youtu.be/NjvjTpdn_so video])
 |Peter Amstutz
 |-
 |11:36-11:53
