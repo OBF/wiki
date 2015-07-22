@@ -68,7 +68,7 @@ See [[Codefest 2015]] for details.
 |Peter Amstutz
 |-
 |11:36-11:53
-|Bringing Hadoop into Bioinformatics with Cloudgene and CloudMan
+|Bringing Hadoop into Bioinformatics with Cloudgene and CloudMan ([http://youtu.be/Eu4AHr3Rg98 video])
 |Sebastian Schoenherr
 |-
 |11:53-12:10
