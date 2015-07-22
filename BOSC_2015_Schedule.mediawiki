@@ -72,23 +72,23 @@ See [[Codefest 2015]] for details.
 |Sebastian Schoenherr
 |-
 |11:53-12:10
-|Segway: semi-automated genome annotation
+|Segway: semi-automated genome annotation ([http://youtu.be/-GOML8D9iWk video])
 |Michael Hoffman [P3]
 |-
 |12:10-12:15
-|QualiMap 2.0: quality control of high throughput sequencing data
+|QualiMap 2.0: quality control of high throughput sequencing data ([http://youtu.be/UR_9npHP_yM video])
 |Konstantin Okonechnikov [P4]
 |-
 |12:15-12:20
-|A Genomics Virtual Laboratory
+|A Genomics Virtual Laboratory ([http://youtu.be/ktotH6a_sSo video])
 |Andrew Lonie [P5]
 |-
 |12:20-12:25
-|BioSolr: Building better search for bioinformatics
+|BioSolr: Building better search for bioinformatics ([http://youtu.be/hl3NFE0-UUo video])
 |Tony Burdett [P6]
 |-
 |12:25-12:30
-|Prioritization of structural variants based on known biological information ([http://f1000research.com/slides/4-280 slides])
+|Prioritization of structural variants based on known biological information ([http://f1000research.com/slides/4-280 slides], [http://youtu.be/JZnF_6UnajY video])
 |Brad Chapman
 |- style="background:#F7F8E0"
 |12:30-13:30
