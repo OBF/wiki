@@ -68,7 +68,7 @@ See [[Codefest 2015]] for details.
 |Peter Amstutz
 |-
 |11:36-11:53
-|Bringing Hadoop into Bioinformatics with Cloudgene and CloudMan ([http://youtu.be/Eu4AHr3Rg98 video])
+|Bringing Hadoop into Bioinformatics with Cloudgene and CloudMan ([http://f1000research.com/slides/4-300 slides], [http://youtu.be/Eu4AHr3Rg98 video])
 |Sebastian Schoenherr
 |-
 |11:53-12:10
@@ -104,7 +104,7 @@ See [[Codefest 2015]] for details.
 |Chair: Peter Cock
 |-
 |14:00-14:17
-|Portable workflow and tool descriptions with the CWL ([http://f1000research.com/slides/4-278 slides])
+|Portable workflow and tool descriptions with the CWL ([http://f1000research.com/slides/4-278 slides], [http://youtu.be/sF4DJVUcjnU video])
 |Michael R. Crusoe [P7]
 |-
 |14:17-14:34
@@ -112,27 +112,27 @@ See [[Codefest 2015]] for details.
 |Alejandra Gonzalez-Beltran
 |-
 |14:34-14:51
-|Demystifying the Interoperability of Disparate Genomic Resources
+|Demystifying the Interoperability of Disparate Genomic Resources ([http://youtu.be/PbVqVlNtFOo video])
 |Daniel Blankenberg
 |-
 |14:51-15:08
-|Increasing the utility of Galaxy workflows
+|Increasing the utility of Galaxy workflows ([http://youtu.be/4ETL81P6p_g video])
 |John Chilton
 |-
 |15:10-15:15
-|Kipper: A software package for sequence database versioning for Galaxy bioinformatics servers
+|Kipper: A software package for sequence database versioning for Galaxy bioinformatics servers ([http://youtu.be/d4hh2OtpX5E video])
 |Damion Dooley
 |-
 |15:15-15:20
-|Evolution of the Galaxy tool ecosystem - happier developers, happier users
+|Evolution of the Galaxy tool ecosystem - happier developers, happier users ([http://youtu.be/APYzQWg0nrs video])
 |Martin Čech [P8]
 |-
 |15:20-15:25
-|Bionode - Modular and universal bioinformatics ([http://f1000research.com/slides/4-288 slides])
+|Bionode - Modular and universal bioinformatics ([http://f1000research.com/slides/4-288 slides], [http://youtu.be/_CNlpNxkP-k video])
 |Bruno Vieira [P9]
 |-
 |15:25-15:30
-|The EDAM Ontology ([http://f1000research.com/posters/4-227 poster])
+|The EDAM Ontology ([http://youtu.be/gsRWyfaYTPE video], [http://f1000research.com/posters/4-227 poster])
 |Hervé Ménager [P10]
 |- style="background:#FAF4EE"
 |15:30-16:00
