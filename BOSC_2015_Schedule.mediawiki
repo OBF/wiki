@@ -231,7 +231,7 @@ See [[Codefest 2015]] for details.
 |Aleksandra Pawlik [P16]
 |-
 |12:20-12:25
-|Parallel recipes: towards a common coordination language for scientific workflow management systems
+|Parallel recipes: towards a common coordination language for scientific workflow management systems ([http://f1000research.com/slides/4-333 slides])
 |Yves Vandriessche [P17]
 |-
 |12:25-12:30
