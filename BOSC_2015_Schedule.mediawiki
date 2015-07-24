@@ -64,7 +64,7 @@ See [[Codefest 2015]] for details.
 |Kévin Rue-Albrecht (P2)
 |-
 |11:19-11:36
-|Arvados: A Free Software Platform for Big Data Science ([http://youtu.be/NjvjTpdn_so video])
+|Arvados: A Free Software Platform for Big Data Science ([http://f1000research.com/slides/4-364 slides], [http://youtu.be/NjvjTpdn_so video])
 |Peter Amstutz
 |-
 |11:36-11:53
