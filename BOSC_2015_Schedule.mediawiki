@@ -223,7 +223,7 @@ See [[Codefest 2015]] for details.
 |Björn Grüning
 |-
 |12:10-12:15
-|COPO: Bridging the Gap from Data to Publication in Plant Science ([http://figshare.com/articles/Poster_Presented_at_BOSC_2015/1483428 poster])
+|COPO: Bridging the Gap from Data to Publication in Plant Science ([http://f1000research.com/slides/4-360 slides], [http://figshare.com/articles/Poster_Presented_at_BOSC_2015/1483428 poster])
 |Robert Davey [P15]
 |-
 |12:15-12:20
