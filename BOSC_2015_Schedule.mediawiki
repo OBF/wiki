@@ -215,7 +215,7 @@ See [[Codefest 2015]] for details.
 |Aaron Kitzmiller
 |-
 |12:00-12:05
-|Bioboxes: Standardised bioinformatics tools using Docker containers.
+|Bioboxes: Standardised bioinformatics tools using Docker containers. ([http://f1000research.com/slides/4-404 slides], [http://f1000research.com/posters/4-405 poster])
 |Peter Belmann [P14]
 |-
 |12:05-12:10
