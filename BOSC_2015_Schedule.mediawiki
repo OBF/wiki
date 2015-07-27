@@ -116,7 +116,7 @@ See [[Codefest 2015]] for details.
 |Daniel Blankenberg
 |-
 |14:51-15:08
-|Increasing the utility of Galaxy workflows ([http://youtu.be/4ETL81P6p_g video])
+|Increasing the utility of Galaxy workflows ([http://f1000research.com/slides/4-399 slides], [http://youtu.be/4ETL81P6p_g video])
 |John Chilton
 |-
 |15:10-15:15
