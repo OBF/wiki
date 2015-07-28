@@ -132,7 +132,7 @@ See [[Codefest 2015]] for details.
 |Bruno Vieira [P9]
 |-
 |15:25-15:30
-|The EDAM Ontology ([http://youtu.be/gsRWyfaYTPE video], [http://f1000research.com/posters/4-227 poster])
+|The EDAM Ontology ([http://f1000research.com/slides/4-359 slides], [http://youtu.be/gsRWyfaYTPE video], [http://f1000research.com/posters/4-227 poster])
 |Hervé Ménager [P10]
 |- style="background:#FAF4EE"
 |15:30-16:00
