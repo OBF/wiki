@@ -195,23 +195,23 @@ See [[Codefest 2015]] for details.
 |Chair: Mónica Muñoz-Torres
 |-
 |10:45-11:02
-|A curriculum for teaching Reproducible Computational Science bootcamps ([http://reproducible-science-curriculum.github.io/bosc2015/#/ slides], [http://dx.doi.org/10.5281/zenodo.20765 source])
+|A curriculum for teaching Reproducible Computational Science bootcamps ([http://reproducible-science-curriculum.github.io/bosc2015/#/ slides], [http://dx.doi.org/10.5281/zenodo.20765 source], [http://youtu.be/omBx1L5pt4w video])
 |Hilmar Lapp
 |-
 |11:02-11:19
-|Research shared: www.researchobject.org ([http://www.slideshare.net/NormanMorrison2/researchobject-bosc-2015-v2 slides])
+|Research shared: www.researchobject.org ([http://www.slideshare.net/NormanMorrison2/researchobject-bosc-2015-v2 slides], [http://youtu.be/D6TzbK7FBBM video])
 |Norman Morrison [P11]
 |-
 |11:19-11:36
-|Nextflow: a tool for deploying reproducible computational pipelines ([https://speakerdeck.com/pditommaso/nextflow-a-tool-for-deploying-reproducible-computational-pipelines slides])
+|Nextflow: a tool for deploying reproducible computational pipelines ([https://speakerdeck.com/pditommaso/nextflow-a-tool-for-deploying-reproducible-computational-pipelines slides], [http://youtu.be/hW3-ziwugnc video])
 |Paolo Di Tommaso [P12]
 |-
 |11:36-11:53
-|Free beer today: how iPlant + Agave + Docker are changing our assumptions about reproducible science ([https://github.com/johnfonner/presentations/blob/master/FreeBeerToday-iPlantAgaveDocker.pdf slides])
+|Free beer today: how iPlant + Agave + Docker are changing our assumptions about reproducible science ([https://github.com/johnfonner/presentations/blob/master/FreeBeerToday-iPlantAgaveDocker.pdf slides], [http://youtu.be/jluojupYKU8 video])
 |John Fonner [P13]
 |-
 |11:55-12:00
-|The 500 builds of 300 applications in the HeLmod repository will at least get you started on a full suite of scientific applications ([http://f1000research.com/slides/4-366 slides])
+|The 500 builds of 300 applications in the HeLmod repository will at least get you started on a full suite of scientific applications ([http://f1000research.com/slides/4-366 slides], [http://youtu.be/_WOfKzS1HtA video])
 |Aaron Kitzmiller
 |-
 |12:00-12:05
@@ -219,23 +219,23 @@ See [[Codefest 2015]] for details.
 |Peter Belmann [P14]
 |-
 |12:05-12:10
-|The perfect fit for reproducible interactive research: Galaxy, Docker, IPython
+|The perfect fit for reproducible interactive research: Galaxy, Docker, IPython ([http://youtu.be/S2DKQRcHY4s video])
 |Björn Grüning
 |-
 |12:10-12:15
-|COPO: Bridging the Gap from Data to Publication in Plant Science ([http://f1000research.com/slides/4-360 slides], [http://figshare.com/articles/Poster_Presented_at_BOSC_2015/1483428 poster])
+|COPO: Bridging the Gap from Data to Publication in Plant Science ([http://f1000research.com/slides/4-360 slides], [http://youtu.be/4YzTta6vgX8 video], [http://figshare.com/articles/Poster_Presented_at_BOSC_2015/1483428 poster])
 |Robert Davey [P15]
 |-
 |12:15-12:20
-|ELIXIR UK building on Data and Software Carpentry to address the challenges in computational training for life scientists
+|ELIXIR UK building on Data and Software Carpentry to address the challenges in computational training for life scientists ([http://youtu.be/eleqMgHvUwM video])
 |Aleksandra Pawlik [P16]
 |-
 |12:20-12:25
-|Parallel recipes: towards a common coordination language for scientific workflow management systems ([http://f1000research.com/slides/4-333 slides])
+|Parallel recipes: towards a common coordination language for scientific workflow management systems ([http://f1000research.com/slides/4-333 slides], [http://youtu.be/WJ0uPlrgP2M video])
 |Yves Vandriessche [P17]
 |-
 |12:25-12:30
-|openSNP - personal genomics and the public domain ([http://figshare.com/articles/openSNP_BOSC15_Slides/1480397 slides], [http://figshare.com/articles/openSNP_BOSC15_Poster/1466880 poster])
+|openSNP - personal genomics and the public domain ([http://figshare.com/articles/openSNP_BOSC15_Slides/1480397 slides], [http://youtu.be/HJwHGMdtIkk video], [http://figshare.com/articles/openSNP_BOSC15_Poster/1466880 poster])
 |Bastian Greshake [P18]
 |- style="background:#F7F8E0"
 |12:30-13:30
