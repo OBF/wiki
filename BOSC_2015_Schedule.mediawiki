@@ -323,7 +323,7 @@ See [[Codefest 2015]] for details.
 |Pjotr Prins [P28]
 |-
 |16:55-17:00
-|Out of the box cloud solution for Next-Generation Sequencing analysis
+|Out of the box cloud solution for Next-Generation Sequencing analysis ([http://f1000research.com/slides/4-357 slides])
 |Freerk van Dijk [P29]
 |-
 |17:00-17:10
