@@ -5,7 +5,7 @@ title: BOSC 2015 Schedule
 __NOTOC__
 [[File:Pear.png|120px|right|BOSC logo|link=BOSC_2015]]
 
-It is our hope to have all the posters and talk slides available on the [http://f1000research.com/channels/BOSC BOSC F1000 Research Channel], with links to the talk videos. Note some speakers have already made their talks available separately on other services like SlideShare and FigShare, which is fine. Links to any slides, posters and videos will be added to this listing as well.
+This page has links to all the publicly available talk slides, videos and posters. Most of the slides and posters are on our [http://f1000research.com/channels/BOSC BOSC F1000 Research Channel] (others are on SlideShare and FigShare), while the videos are on the [https://www.youtube.com/playlist?list=PLir-OOQiOhXbENjAIFF-JZ0WodnysPqfh BOSC 2015 YouTube playlist].
 
 The full program including abstracts is available [http://www.open-bio.org/bosc2015/BOSC2015-program-with-abstracts.pdf here]. The PDF of this schedule (without abstracts) is available [http://www.open-bio.org/w/images/2/2c/BOSC2015-schedule.pdf here].
 
