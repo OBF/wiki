@@ -80,7 +80,7 @@ See [[Codefest 2015]] for details.
 |Konstantin Okonechnikov [P4]
 |-
 |12:15-12:20
-|A Genomics Virtual Laboratory ([http://youtu.be/ktotH6a_sSo video])
+|A Genomics Virtual Laboratory ([http://f1000research.com/slides/4-374 slides], [http://youtu.be/ktotH6a_sSo video])
 |Andrew Lonie [P5]
 |-
 |12:20-12:25
