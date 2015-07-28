@@ -183,7 +183,7 @@ See [[Codefest 2015]] for details.
 |Brad Chapman (Codefest 2015 Organizer)
 |- style="background:#EFFBFB"
 |9:15-10:15
-|'''Keynote:''' '''Big Data in Biology''' ([http://f1000research.com/slides/4-408 slides])
+|'''Keynote:''' '''Big Data in Biology''' ([http://f1000research.com/slides/4-408 slides], [https://youtu.be/acV5qUcIFdo video])
 |Ewan Birney
 |- style="background:#FAF4EE"
 |10:15-10:45
