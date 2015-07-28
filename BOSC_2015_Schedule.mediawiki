@@ -11,7 +11,7 @@ The full program including abstracts is available [http://www.open-bio.org/bosc2
 
 == Sponsors ==
 
-We are grateful to [http://www.google.com/ Google] for their generous support for videorecording BOSC 2015, and we thank  [http://curoverse.com Curoverse] (the team behind the open source platform [http://arvados.org Arvados]) as a returning sponsor and welcome [http://bina.com/ Bina] as our newest sponsor.
+We are grateful to [http://www.google.com/ Google] for their generous support for videorecording BOSC 2015, and we thank  [http://curoverse.com Curoverse] (the team behind the open source platform [http://arvados.org Arvados]) and Open Access journal [http://www.gigasciencejournal.com/ GigaScience] as returning sponsors, and welcome [http://bina.com/ Bina] as our newest sponsor.
 {|
 |rowspan="2"| [[File:google-logo11w.png‎|205px|left|Google|link=http://www.google.com/]]
 |rowspan="2"| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
