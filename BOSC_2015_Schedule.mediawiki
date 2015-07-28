@@ -112,7 +112,7 @@ See [[Codefest 2015]] for details.
 |Alejandra Gonzalez-Beltran
 |-
 |14:34-14:51
-|Demystifying the Interoperability of Disparate Genomic Resources ([http://youtu.be/PbVqVlNtFOo video])
+|Demystifying the Interoperability of Disparate Genomic Resources ([http://f1000research.com/slides/4-372 slides], [http://youtu.be/PbVqVlNtFOo video])
 |Daniel Blankenberg
 |-
 |14:51-15:08
