@@ -295,7 +295,7 @@ See [[Codefest 2015]] for details.
 |Guy Yachdav [P23]
 |-
 |16:22-16:27
-|Visualising Open PHACTS linked data with widgets
+|Visualising Open PHACTS linked data with widgets ([http://f1000research.com/slides/4-363 slides])
 |Ian Dunlop [P24]
 |- style="background:#E6E6E6"
 |16:30-17:00
