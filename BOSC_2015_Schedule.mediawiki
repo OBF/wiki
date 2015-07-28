@@ -104,7 +104,7 @@ See [[Codefest 2015]] for details.
 |Chair: Peter Cock
 |-
 |14:00-14:17
-|Portable workflow and tool descriptions with the CWL ([http://f1000research.com/slides/4-278 slides], [http://youtu.be/sF4DJVUcjnU video])
+|Portable workflow and tool descriptions with the CWL (Common Workflow Language) ([http://f1000research.com/slides/4-278 slides], [http://youtu.be/sF4DJVUcjnU video])
 |Michael R. Crusoe [P7]
 |-
 |14:17-14:34
