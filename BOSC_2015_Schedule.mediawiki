@@ -211,7 +211,7 @@ See [[Codefest 2015]] for details.
 |John Fonner [P13]
 |-
 |11:55-12:00
-|The 500 builds of 300 applications in the HeLmod repository will at least get you started on a full suite of scientific applications
+|The 500 builds of 300 applications in the HeLmod repository will at least get you started on a full suite of scientific applications ([http://f1000research.com/slides/4-366 slides])
 |Aaron Kitzmiller
 |-
 |12:00-12:05
