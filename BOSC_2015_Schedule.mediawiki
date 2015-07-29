@@ -370,7 +370,7 @@ If the speaker also has a talk, the poster link will be above (posters 1 to 29).
 | Sung-Huan Yu
 |-
 | P34
-| BioXSD — a data model for sequences, alignments, features, measured and inferred values 
+| [http://f1000research.com/posters/4-425 BioXSD — a data model for sequences, alignments, features, measured and inferred values]
 | Matúš Kalaš 
 |-
 | P35
