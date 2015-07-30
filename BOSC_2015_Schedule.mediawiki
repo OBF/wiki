@@ -251,15 +251,15 @@ See [[Codefest 2015]] for details.
 |Chair: Brad Chapman
 |-
 |14:00-14:17
-|CIViC: Crowdsourcing the Clinical Interpretation of Variants in Cancer ([http://f1000research.com/slides/4-277 slides], [http://f1000research.com/posters/4-276 poster])
+|CIViC: Crowdsourcing the Clinical Interpretation of Variants in Cancer ([http://f1000research.com/slides/4-277 slides], [http://youtu.be/-d6mjtzwwrA video], [http://f1000research.com/posters/4-276 poster])
 |Malachi Griffith [P19]
 |-
 |14:17-14:34
-|From Fastq To Drug Recommendation - Automated Cancer Report Generation using OncoRep &amp; Omics Pipe ([http://f1000research.com/posters/4-275 poster])
+|From Fastq To Drug Recommendation - Automated Cancer Report Generation using OncoRep &amp; Omics Pipe ([http://youtu.be/K8vBlEa6JmU video], [http://f1000research.com/posters/4-275 poster])
 |Tobias Meissner [P20]
 |-
 |14:35-14:40
-|Cancer Informatics Collaboration and Computation: Two Initiatives of the U.S. National Cancer Institute
+|Cancer Informatics Collaboration and Computation: Two Initiatives of the U.S. National Cancer Institute ([http://youtu.be/TuBCuIrsLu0 video])
 |Ishwar Chandramouliswaran [P21]
 |- style="background:#E6E6E6"
 |14:40-15:30
