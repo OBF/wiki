@@ -76,7 +76,7 @@ See [[Codefest 2015]] for details.
 |Michael Hoffman [P3]
 |-
 |12:10-12:15
-|QualiMap 2.0: quality control of high throughput sequencing data ([http://f1000research.com/slides/4-378 slides], [http://youtu.be/UR_9npHP_yM video])
+|QualiMap 2.0: quality control of high throughput sequencing data ([http://f1000research.com/slides/4-378 slides], [http://youtu.be/UR_9npHP_yM video], [http://f1000research.com/posters/4-431 poster])
 |Konstantin Okonechnikov [P4]
 |-
 |12:15-12:20
