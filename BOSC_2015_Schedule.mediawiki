@@ -267,15 +267,15 @@ See [[Codefest 2015]] for details.
 |Chair: Nomi Harris
 |-
 |14:40-14:57
-|Biopython Project Update 2015 ([http://f1000research.com/slides/4-279 slides])
+|Biopython Project Update 2015 ([http://f1000research.com/slides/4-279 slides], [http://youtu.be/s5HDZHTxxIg video])
 |João Rodrigues
 |-
 |14:57-15:14
-|Biogems: Challenges in distributed software development in bioinformatics ([http://f1000research.com/slides/4-282 slides])
+|Biogems: Challenges in distributed software development in bioinformatics ([http://f1000research.com/slides/4-282 slides], [http://youtu.be/z1aHjhi2eHI video])
 |George Githinji and Pjotr Prins  
 |-
 |15:14-15:31
-|Apache Taverna: Sustaining research software at the Apache Software Foundation ([http://www.slideshare.net/soilandreyes/20150711-bosc2015apachetaverna slideshare])
+|Apache Taverna: Sustaining research software at the Apache Software Foundation ([http://www.slideshare.net/soilandreyes/20150711-bosc2015apachetaverna slides], [http://youtu.be/y-ct1k3AXCM video])
 |Stian Soiland-Reyes [P22]
 |- style="background:#FAF4EE"
 |15:30-16:00
