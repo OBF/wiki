@@ -32,4 +32,11 @@ In recent years the BOSC meetings have been preceded by a two day [[Codefest]], 
 Other conferences
 * A [[bp:BioPerl|BioPerl]] [[BioPerl Heidelberg 1999|workshop]] was held in conjunction with ISMB'99 in Heidelberg, Germany.
 
+Other links:
+
+* [http://f1000research.com/channels/BOSC BOSC F1000 Research Channel]
+* [http://twitter.com/OBF_BOSC/ @OBF_BOSC on Twitter]
+* [http://youtube.com/c/OBFBOSC OBF BOSC on YouTube]
+* [http://google.com/+OBFBOSC OBF BOSC on Google+]
+
 [[Category:BOSC Conferences]]
