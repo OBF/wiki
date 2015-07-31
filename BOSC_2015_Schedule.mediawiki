@@ -291,11 +291,11 @@ See [[Codefest 2015]] for details.
 |Peter Kerpedjiev
 |-
 |16:17-16:22
-|BioJS 2.0: an open source standard for biological visualization ([http://f1000research.com/slides/4-379 slides])
+|BioJS 2.0: an open source standard for biological visualization ([http://f1000research.com/slides/4-379 slides], [http://youtu.be/VNMu7xetnI4 video])
 |Guy Yachdav [P23]
 |-
 |16:22-16:27
-|Visualising Open PHACTS linked data with widgets ([http://f1000research.com/slides/4-363 slides])
+|Visualising Open PHACTS linked data with widgets ([http://f1000research.com/slides/4-363 slides], [http://youtu.be/PUngTgUOT_Y video])
 |Ian Dunlop [P24]
 |- style="background:#E6E6E6"
 |16:30-17:00
