@@ -303,11 +303,11 @@ See [[Codefest 2015]] for details.
 |Chair: Hilmar Lapp
 |-
 |16:30-16:35
-|Biospectra-by-sequencing genetic analysis platform
+|Biospectra-by-sequencing genetic analysis platform ([http://youtu.be/CgsdMizr1N8 video])
 |Aurelie Laugraud [P25]
 |-
 |16:35-16:40
-|PhyloToAST: Bioinformatics tools for species-level analysis and visualization of complex microbial communities
+|PhyloToAST: Bioinformatics tools for species-level analysis and visualization of complex microbial communities ([http://youtu.be/tlCnPw-XCIU video]))
 |Shareef Dabdoub
 |-
 |16:40-16:45
@@ -315,15 +315,15 @@ See [[Codefest 2015]] for details.
 |Gemma Guest [P26]
 |-
 |16:45-16:50
-|BioaRchive: enabling reproducibility of Bioconductor package versions ([http://f1000research.com/slides/4-369 slides], [http://f1000research.com/posters/4-370 poster])
+|BioaRchive: enabling reproducibility of Bioconductor package versions ([http://f1000research.com/slides/4-369 slides], [http://youtu.be/SVSLcl0JVhI video], [http://f1000research.com/posters/4-370 poster])
 |Nitesh Turaga [P27]
 |-
 |16:50-16:55
-|Developing an Arvados BWA-GATK pipeline ([http://f1000research.com/slides/4-283 slides], [http://f1000research.com/posters/4-281 poster])
+|Developing an Arvados BWA-GATK pipeline ([http://f1000research.com/slides/4-283 slides], [http://youtu.be/DjxZmQNpuTc video], [http://f1000research.com/posters/4-281 poster])
 |Pjotr Prins [P28]
 |-
 |16:55-17:00
-|Out of the box cloud solution for Next-Generation Sequencing analysis ([http://f1000research.com/slides/4-357 slides])
+|Out of the box cloud solution for Next-Generation Sequencing analysis ([http://f1000research.com/slides/4-357 slides], [http://youtu.be/5gq9GOCxHfA video])
 |Freerk van Dijk [P29]
 |-
 |17:00-17:10
