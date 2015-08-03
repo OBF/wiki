@@ -200,7 +200,7 @@ See [[Codefest 2015]] for details.
 |-
 |11:02-11:19
 |Research shared: www.researchobject.org ([http://www.slideshare.net/NormanMorrison2/researchobject-bosc-2015-v2 slides], [http://youtu.be/D6TzbK7FBBM video])
-|Norman Morrison [P11]
+|Norman Morrison [<del>P11</del>]
 |-
 |11:19-11:36
 |Nextflow: a tool for deploying reproducible computational pipelines ([https://speakerdeck.com/pditommaso/nextflow-a-tool-for-deploying-reproducible-computational-pipelines slides], [http://youtu.be/hW3-ziwugnc video], [http://f1000research.com/posters/4-430 poster])
