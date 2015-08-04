@@ -303,7 +303,7 @@ See [[Codefest 2015]] for details.
 |Chair: Hilmar Lapp
 |-
 |16:30-16:35
-|Biospectra-by-sequencing genetic analysis platform ([http://youtu.be/CgsdMizr1N8 video])
+|Biospectra-by-sequencing genetic analysis platform ([http://f1000research.com/slides/4-464 slides], [http://youtu.be/CgsdMizr1N8 video], [http://f1000research.com/posters/4-463 poster])
 |Aurelie Laugraud [P25]
 |-
 |16:35-16:40
