@@ -179,7 +179,7 @@ See [[Codefest 2015]] for details.
 |Peter Cock and Nomi Harris
 |-
 |9:05-9:15
-|Codefest 2015 Report
+|Codefest 2015 Report ([http://youtu.be/Mt5lUSPzg18 video])
 |Brad Chapman (Codefest 2015 Organizer)
 |- style="background:#EFFBFB"
 |9:15-10:15
