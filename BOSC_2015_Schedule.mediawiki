@@ -207,7 +207,7 @@ See [[Codefest 2015]] for details.
 |Paolo Di Tommaso [P12]
 |-
 |11:36-11:53
-|Free beer today: how iPlant + Agave + Docker are changing our assumptions about reproducible science ([https://github.com/johnfonner/presentations/blob/master/FreeBeerToday-iPlantAgaveDocker.pdf slides], [http://youtu.be/jluojupYKU8 video])
+|Free beer today: how iPlant + Agave + Docker are changing our assumptions about reproducible science ([https://github.com/johnfonner/presentations/blob/master/FreeBeerToday-iPlantAgaveDocker.pdf slides], [http://youtu.be/jluojupYKU8 video], [http://f1000research.com/posters/4-454 poster])
 |John Fonner [P13]
 |-
 |11:55-12:00
