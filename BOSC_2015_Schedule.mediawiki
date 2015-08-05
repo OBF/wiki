@@ -276,7 +276,7 @@ See [[Codefest 2015]] for details, report given at the start of BOSC day two ([h
 |-
 |15:14-15:31
 |Apache Taverna: Sustaining research software at the Apache Software Foundation ([http://www.slideshare.net/soilandreyes/20150711-bosc2015apachetaverna slides], [http://youtu.be/y-ct1k3AXCM video])
-|Stian Soiland-Reyes [P22]
+|Stian Soiland-Reyes [<del>P22</del>]
 |- style="background:#FAF4EE"
 |15:30-16:00
 |'''''Coffee Break'''''
