@@ -259,7 +259,7 @@ See [[Codefest 2015]] for details, report given at the start of BOSC day two ([h
 |Tobias Meissner [P20]
 |-
 |14:35-14:40
-|Cancer Informatics Collaboration and Computation: Two Initiatives of the U.S. National Cancer Institute ([http://youtu.be/TuBCuIrsLu0 video], [http://f1000research.com/posters/4-444 poster])
+|Cancer Informatics Collaboration and Computation: Two Initiatives of the U.S. National Cancer Institute ([http://f1000research.com/slides/4-498 slides], [http://youtu.be/TuBCuIrsLu0 video], [http://f1000research.com/posters/4-444 poster])
 |Ishwar Chandramouliswaran [P21]
 |- style="background:#E6E6E6"
 |14:40-15:30
