@@ -146,7 +146,7 @@ See [[Codefest 2015]] for details, report given at the start of BOSC day two ([h
 '''''Panelists''''': Holly Bik, Michael R. Crusoe, Aleksandra Pawlik, Jason Williams
 |-
 |17:00-17:10
-|Open Bioinformatics Foundation (OBF) Update
+|Open Bioinformatics Foundation (OBF) Update ([http://obf.github.io/obf-docs/OBF-Address-BOSC2015/ slides])
 |Hilmar Lapp (President, OBF)
 |-
 |17:10-17:15
