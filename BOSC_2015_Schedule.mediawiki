@@ -120,7 +120,7 @@ See [[Codefest 2015]] for details, report given at the start of BOSC day two ([h
 |John Chilton
 |-
 |15:10-15:15
-|Kipper: A software package for sequence database versioning for Galaxy bioinformatics servers ([http://youtu.be/d4hh2OtpX5E video])
+|Kipper: A software package for sequence database versioning for Galaxy bioinformatics servers ([http://f1000research.com/slides/4-496 slides], [http://youtu.be/d4hh2OtpX5E video])
 |Damion Dooley
 |-
 |15:15-15:20
