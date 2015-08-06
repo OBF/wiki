@@ -84,7 +84,7 @@ See [[Codefest 2015]] for details, report given at the start of BOSC day two ([h
 |Andrew Lonie [P5]
 |-
 |12:20-12:25
-|BioSolr: Building better search for bioinformatics ([http://youtu.be/hl3NFE0-UUo video])
+|BioSolr: Building better search for bioinformatics ([http://f1000research.com/slides/4-492 slides], [http://youtu.be/hl3NFE0-UUo video], [http://f1000research.com/posters/4-491 poster])
 |Tony Burdett [P6]
 |-
 |12:25-12:30
