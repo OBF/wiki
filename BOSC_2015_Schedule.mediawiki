@@ -25,7 +25,7 @@ We are grateful to [http://www.google.com/ Google] for their generous support fo
 
 == Pre-BOSC: Codefest 2015  ==
 
-See [[Codefest 2015]] for details, report given at the start of BOSC day two ([http://youtu.be/Mt5lUSPzg18 video]).
+See [[Codefest 2015]] for details, report given at the start of BOSC day two ([http://f1000research.com/slides/4-493 slides], [http://youtu.be/Mt5lUSPzg18 video]).
 
 == BOSC Day 1 (Friday, 10 July, 2015) ==
 
@@ -179,7 +179,7 @@ See [[Codefest 2015]] for details, report given at the start of BOSC day two ([h
 |Peter Cock and Nomi Harris
 |-
 |9:05-9:15
-|Codefest 2015 Report ([http://youtu.be/Mt5lUSPzg18 video])
+|Codefest 2015 Report ([http://f1000research.com/slides/4-493 slides], [http://youtu.be/Mt5lUSPzg18 video])
 |Brad Chapman (Codefest 2015 Organizer)
 |- style="background:#EFFBFB"
 |9:15-10:15
