@@ -61,7 +61,7 @@ See [[Codefest 2015]] for details, report given at the start of BOSC day two ([h
 |-
 |11:02-11:19
 |GOexpress: A R/Bioconductor package for the identification and visualisation of robust gene ontology signatures through supervised learning of gene expression data ([http://f1000research.com/slides/4-248 slides], [http://f1000research.com/posters/4-247 poster], [http://youtu.be/Ih8I-WbdvTg video])
-|Kévin Rue-Albrecht (P2)
+|Kévin Rue-Albrecht [P2]
 |-
 |11:19-11:36
 |Arvados: A Free Software Platform for Big Data Science ([http://f1000research.com/slides/4-364 slides], [http://youtu.be/NjvjTpdn_so video])
