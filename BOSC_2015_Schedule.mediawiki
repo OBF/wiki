@@ -124,7 +124,7 @@ See [[Codefest 2015]] for details, report given at the start of BOSC day two ([h
 |Damion Dooley
 |-
 |15:15-15:20
-|Evolution of the Galaxy tool ecosystem - happier developers, happier users ([http://bit.ly/boscisgreat slides], [http://youtu.be/APYzQWg0nrs video])
+|Evolution of the Galaxy tool ecosystem - happier developers, happier users ([http://f1000research.com/slides/4-521 slides], [http://youtu.be/APYzQWg0nrs video])
 |Martin Čech [P8]
 |-
 |15:20-15:25
