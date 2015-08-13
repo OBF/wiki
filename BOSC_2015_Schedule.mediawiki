@@ -183,7 +183,7 @@ See [[Codefest 2015]] for details, report given at the start of BOSC day two ([h
 |Brad Chapman (Codefest 2015 Organizer)
 |- style="background:#EFFBFB"
 |9:15-10:15
-|'''Keynote:''' '''Big Data in Biology''' ([http://f1000research.com/slides/4-408 slides], [https://youtu.be/acV5qUcIFdo video])
+|'''Keynote:''' '''Big Data in Biology''' ([http://f1000research.com/slides/4-408 slides], [http://youtu.be/acV5qUcIFdo video])
 |Ewan Birney
 |- style="background:#FAF4EE"
 |10:15-10:45
@@ -203,11 +203,11 @@ See [[Codefest 2015]] for details, report given at the start of BOSC day two ([h
 |Norman Morrison [<del>P11</del>]
 |-
 |11:19-11:36
-|Nextflow: a tool for deploying reproducible computational pipelines ([https://speakerdeck.com/pditommaso/nextflow-a-tool-for-deploying-reproducible-computational-pipelines slides], [http://youtu.be/hW3-ziwugnc video], [http://f1000research.com/posters/4-430 poster])
+|Nextflow: a tool for deploying reproducible computational pipelines ([http://speakerdeck.com/pditommaso/nextflow-a-tool-for-deploying-reproducible-computational-pipelines slides], [http://youtu.be/hW3-ziwugnc video], [http://f1000research.com/posters/4-430 poster])
 |Paolo Di Tommaso [P12]
 |-
 |11:36-11:53
-|Free beer today: how iPlant + Agave + Docker are changing our assumptions about reproducible science ([https://github.com/johnfonner/presentations/blob/master/FreeBeerToday-iPlantAgaveDocker.pdf slides], [http://youtu.be/jluojupYKU8 video], [http://f1000research.com/posters/4-454 poster])
+|Free beer today: how iPlant + Agave + Docker are changing our assumptions about reproducible science ([http://github.com/johnfonner/presentations/blob/master/FreeBeerToday-iPlantAgaveDocker.pdf slides], [http://youtu.be/jluojupYKU8 video], [http://f1000research.com/posters/4-454 poster])
 |John Fonner [P13]
 |-
 |11:55-12:00
