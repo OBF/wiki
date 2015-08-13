@@ -235,7 +235,7 @@ See [[Codefest 2015]] for details, report given at the start of BOSC day two ([h
 |Yves Vandriessche [P17]
 |-
 |12:25-12:30
-|openSNP - personal genomics and the public domain ([http://figshare.com/articles/openSNP_BOSC15_Slides/1480397 slides], [http://youtu.be/HJwHGMdtIkk video], [http://figshare.com/articles/openSNP_BOSC15_Poster/1466880 poster])
+|openSNP - personal genomics and the public domain ([http://figshare.com/articles/openSNP_BOSC15_Slides/1480397 slides], [http://youtu.be/HJwHGMdtIkk video], [http://f1000research.com/posters/4-284 poster], [http://figshare.com/articles/openSNP_BOSC15_Poster/1466880 poster])
 |Bastian Greshake [P18]
 |- style="background:#F7F8E0"
 |12:30-13:30
