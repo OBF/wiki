@@ -307,7 +307,7 @@ See [[Codefest 2015]] for details, report given at the start of BOSC day two ([h
 |Aurelie Laugraud [P25]
 |-
 |16:35-16:40
-|PhyloToAST: Bioinformatics tools for species-level analysis and visualization of complex microbial communities ([http://youtu.be/tlCnPw-XCIU video]))
+|PhyloToAST: Bioinformatics tools for species-level analysis and visualization of complex microbial communities ([http://youtu.be/tlCnPw-XCIU video])
 |Shareef Dabdoub
 |-
 |16:40-16:45
