@@ -227,7 +227,7 @@ See [[Codefest 2015]] for details, report given at the start of BOSC day two ([h
 |Robert Davey [P15]
 |-
 |12:15-12:20
-|ELIXIR UK building on Data and Software Carpentry to address the challenges in computational training for life scientists ([http://youtu.be/eleqMgHvUwM video])
+|ELIXIR UK building on Data and Software Carpentry to address the challenges in computational training for life scientists ([http://f1000research.com/slides/4-593 slides], [http://youtu.be/eleqMgHvUwM video])
 |Aleksandra Pawlik [P16]
 |-
 |12:20-12:25
