@@ -6,7 +6,7 @@ Hacking marathons (Hackathons) or coding festivals ([[Codefest|Codefests]]) are 
 
 == OBF Codefests and Hackathons ==
 
-Since 2010, people from the O|B|F project communities have regularly organized or co-organized short 2-3 day events preceding the [[BOSC|BOSC conference]].
+Since 2010, people from the OBF project communities have regularly organized or co-organized short 2-3 day events preceding the [[BOSC|BOSC conference]].
 
 * [[EU-Codefest 2014]]
 ** September 18th and 19th, 2014 in Cambridge, UK
@@ -31,7 +31,7 @@ Since 2010, people from the O|B|F project communities have regularly organized o
 ** Sponsored by Apple Asia
 ** This gathering focused more on [[BioSQL]] and [[bp:OBDA|OBDA]] as well as several supporting projects from the different toolkits.
 
-== Other hackathons involving O|B|F projects ==
+== Other hackathons involving OBF projects ==
 
 * [http://2013.biohackathon.org/ BioHackathon 2013]
 ** June, 2013, in Tokyo, Japan. Sponsored by the National Bioscience Database Center (NBCD) and Database Center for Life Science (DBCLS).
