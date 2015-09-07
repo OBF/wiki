@@ -26,7 +26,7 @@ Conference report preprint: [https://peerj.com/preprints/83/ Harris et al. (2013
 
 == Overview ==
 
-The Bioinformatics Open Source Conference (BOSC) is a two-day Special Interest Group of [http://www.iscb.org/ismbeccb2013 ISMB]. It is sponsored by the Open Bioinformatics Foundation (O|B|F), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development within the biological research community. 
+The Bioinformatics Open Source Conference (BOSC) is a two-day Special Interest Group of [http://www.iscb.org/ismbeccb2013 ISMB]. It is sponsored by the Open Bioinformatics Foundation (OBF), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development within the biological research community. 
 
 Open Source software has flourished in the bioinformatics community for well over a decade. When the first BOSC (Bioinformatics Open Source Conference) was held in 2000, there were already a number of popular open source bioinformatics packages, and the number and range of these projects has increased dramatically since then. BOSC covers the wide range of open source bioinformatics software packages that have been successfully developed and adopted by the community, and encompasses the growing movement of Open Science, with its focus on transparency, reproducibility, and data provenance. We welcome submissions relating to all aspects of open source bioinformatics software and open science, including new computational methods, reusable software components, visualization, interoperability, and other approaches that help to advance research in the biomolecular sciences. Two full days of talks, posters, panel discussions, and informal discussion groups will enable BOSC attendees to interact with other developers and share ideas and code, as well as learning about some of the latest developments in the field of open source bioinformatics.
 
@@ -49,7 +49,7 @@ The conference schedule is available '''[[BOSC_2013_Schedule|here as HTML]]''' a
 * '''Visualization''' -- Current data acquisition technologies are moving us more and more towards a "data first, hypothesis later" paradigm for scientific research. As a result, data visualization and visual analytics are of increasing importance. This session focuses on approaches for interactive as well as static visual representations of biomedical data, ranging from exploration to explanation.
 * '''Software Interoperability''' -- This session covers Open Source approaches to integrating the latest bioinformatics tools. Building flexible, reproducible workflows with connected tools is essential to modern bioinformatics. The goal of this session is to investigate how we can increase tool connectivity and help communities work better together.
 * '''Translational Bioinformatics''' -- This session will explore applications of biological and medical informatics to the development of personalized healthcare, therapies, and a better understanding of human health and disease. Topics include the analysis of large scale population and family sequencing data, bioinformatics methodologies for clinical research, and tools for discovering clinically useful associations in human databases. We especially welcome work that bridges the gap between research and patients, making analysis tools available and understandable for non-scientists.
-* '''Bioinformatics Open Source Project Updates''' -- This session will feature short talks from ongoing projects describing their recent progress. Abstracts will be solicited from open source projects affiliated with the O|B|F (see http://www.open-bio.org/wiki/Projects), including the Bio* projects, DAS, BioMOBY, EMBOSS, and GMOD, but any other open-source project will be equally eligible to submit abstracts for this session.
+* '''Bioinformatics Open Source Project Updates''' -- This session will feature short talks from ongoing projects describing their recent progress. Abstracts will be solicited from open source projects affiliated with the OBF (see http://www.open-bio.org/wiki/Projects), including the Bio* projects, DAS, BioMOBY, EMBOSS, and GMOD, but any other open-source project will be equally eligible to submit abstracts for this session.
 * '''[[BOSC_Panel_2013|Panel: Strategies for funding and maintaining open source software]]'''
 
 == Submitting Abstracts ==
@@ -78,7 +78,7 @@ We thank [http://www.eaglegenomics.com/ Eagle Genomics, Ltd.] for helping to spo
 * Hans-Rudolf Hotz (Friedrich Miescher Institute for Biomedical Research)
 * [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp] (National Evolutionary Synthesis Center)
 
-'''Ex Officio (Members of the O|B|F Board)'''
+'''Ex Officio (Members of the OBF Board)'''
 * [http://www.bioperl.org/wiki/Chris_Dagdigian Chris Dagdigian]
 * [http://www.bioperl.org/wiki/Jason_Stajich Jason Stajich]
 
