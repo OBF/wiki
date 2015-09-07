@@ -18,7 +18,7 @@ __NOTOC__
 <div style="float: right;">__TOC__</div>
 
 == Overview ==
-The Bioinformatics Open Source Conference (BOSC) is sponsored by the Open Bioinformatics Foundation (O|B|F), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development within the biological research community. 
+The Bioinformatics Open Source Conference (BOSC) is sponsored by the Open Bioinformatics Foundation (OBF), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development within the biological research community. 
 
 Many open source bioinformatics packages are widely used by the research community across many application areas and form a cornerstone in enabling research in the genomic and post-genomic era. Open source bioinformatics software has facilitated rapid innovation, dissemination, and wide adoption of new computational methods, reusable software components, and standards. One of the hallmarks of BOSC is the coming together of the open source developer community in one location to meet face-to-face. This creates synergy where participants can work together to create use cases, prototype working code, or run bootcamps for developers from other projects as short, informal, and hands-on tutorials in new software packages and emerging technologies.  In short, BOSC is not just a conference for presentations of completed work, but is a dynamic meeting where collaborative work gets done and attendees can learn about new or on-going developments that they can directly apply to their own work.
 
@@ -181,7 +181,7 @@ The BOSC Organizing Committee is pleased to announce that this year we have publ
 '''Members'''
 
 * [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer]; Mass General Hospital)
-* [http://www.linkedin.com/in/nomiharris Nomi Harris] (O|B|F Board)
+* [http://www.linkedin.com/in/nomiharris Nomi Harris] (OBF Board)
 * [http://biojava.org/wiki/Michael_Heuer Michael Heuer] (BioJava Developer)
 * [http://www.bioperl.org/wiki/Darin_London Darin London] (BioPerl Developer)
 * Steffen M&ouml;ller (Institute for Neuro- und Bioinformatics, L&uuml;beck, Germany)
@@ -189,7 +189,7 @@ The BOSC Organizing Committee is pleased to announce that this year we have publ
 * Ron Taylor (Pacific Northwest National Laboratory)
 
 
-'''Ex Officio (Members of the O|B|F Board)'''
+'''Ex Officio (Members of the OBF Board)'''
 * [http://www.bioperl.org/wiki/Chris_Dagdigian Chris Dagdigian]
 * [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp]
 * [http://www.bioperl.org/wiki/Jason_Stajich Jason Stajich]
