@@ -38,7 +38,7 @@ Arial'>Schedule (Day 1)</span></b></p>
   <p class=MsoNormal><span style='font-size:11.0pt'>Kam Dahlquist (Chair BOSC
   2008)</span></p>
   <p class=MsoNormal><span style='font-size:11.0pt'>Jason Stajich (President
-  O|B|F)</span></p>
+  OBF)</span></p>
   </td>
   <td width=407 valign=top style='width:305.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
