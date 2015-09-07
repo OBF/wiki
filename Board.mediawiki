@@ -31,7 +31,7 @@ The board can be contacted via email at [mailto:board@open-bio.org board@open-bi
 ; Andrew Dalke : ''Past Secretary'', Represented [http://www.biopython.org BioPython] & [http://www.dalkescientific.com Dalke Scientific].
 ; [[bp:Steven Brenner|Steven E. Brenner]] : ''Past At-large member'', [http://compbio.berkeley.edu Professor] at University of California, Berkeley.
 ; [[User:Kdahlquist|Kam Dahlquist]] : ''Past At-large Member'', [http://myweb.lmu.edu/kdahlqui/ Associate Professor] at Loyola Marymount University, Los Angeles.
-; [[bp:Chris Dagdigian|Chris Dagdigian]] : [[bp:BioPerl|BioPerl]] co-founder & O|B|F sysadmin. Employed by [http://www.bioteam.net the BioTeam].
+; [[bp:Chris Dagdigian|Chris Dagdigian]] : [[bp:BioPerl|BioPerl]] co-founder & OBF sysadmin. Employed by [http://www.bioteam.net the BioTeam].
 ; [[bp:Jason Stajich|Jason Stajich]] : [[bp:BioPerl|BioPerl]] core developer. [http://stajichlab.fungalgenomes.org Assistant Professor] at [http://www.ucr.edu/ University of California, Riverside]. Former OBF President.
 
 == Board of Directors Meetings ==
@@ -60,7 +60,7 @@ The board can be contacted via email at [mailto:board@open-bio.org board@open-bi
 
 == Nominating Committee ==
 
-According to the bylaws, the Nominating Committee "''shall attempt to contact members of the Board of Directors and active members of the OBF in an effort to identify eligible members interested in serving on the Board of Directors, and to solicit nominations from the general membership.''" (see Art. IV.7) It consists of "''the Parliamentarian and a minimum of 2 active members of the O|B|F.''" 
+According to the bylaws, the Nominating Committee "''shall attempt to contact members of the Board of Directors and active members of the OBF in an effort to identify eligible members interested in serving on the Board of Directors, and to solicit nominations from the general membership.''" (see Art. IV.7) It consists of "''the Parliamentarian and a minimum of 2 active members of the OBF.''" 
 
 Currently serving:
 # '''Nomi Harris''', BoD, Parliamentarian
