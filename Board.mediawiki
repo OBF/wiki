@@ -24,7 +24,7 @@ The board can be contacted via email at [mailto:board@open-bio.org board@open-bi
 
 :; [[bp:Christopher_Fields|Chris Fields]] : [[bp:BioPerl|BioPerl]] core developer, researcher fellow at the [http://www.igb.uiuc.edu/ Institute for Genomic Biology] at the [http://www.uiuc.edu/ University of Illinois at Urbana-Champaign].
 
-:; <span class="plainlinks">[https://github.com/kcranston Karen Cranston]</span>: Training Coordinator and Informatics Project Manager at the National Evolutionary Synthesis Center (NESCent).
+:; <span class="plainlinks">[https://github.com/kcranston Karen Cranston]</span>: Research Scientist, Duke University, and PI, Open Tree of Life.
 
 === Past Board Members ===
 ; [[bp:Ewan Birney|Ewan Birney]] : ''Past President and At-large Member'',  [[bp:BioPerl|BioPerl]] core developer.  Coordinator of the [http://www.ebi.ac.uk EBI] half of the [http://www.ensembl.org Ensembl] genome annotation project.
