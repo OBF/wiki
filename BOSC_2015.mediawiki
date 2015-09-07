@@ -39,7 +39,7 @@ If you wrote a BOSC report and would like it to be listed here, please email us 
 
 == Overview ==
 
-The Bioinformatics Open Source Conference (BOSC) is run as a two-day meeting before the annual [http://www.iscb.org/ismbeccb2015 ISMB conference]. It is sponsored by the Open Bioinformatics Foundation (O|B|F), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community. 
+The Bioinformatics Open Source Conference (BOSC) is run as a two-day meeting before the annual [http://www.iscb.org/ismbeccb2015 ISMB conference]. It is sponsored by the Open Bioinformatics Foundation (OBF), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community. 
 
 Open Source software has flourished in the bioinformatics community for well over a decade. When the first BOSC was held in 2000, there were already many popular open source bioinformatics packages, and the number and range of these projects has increased dramatically since then. BOSC covers the wide range of open source bioinformatics software being developed, and encompasses the growing movement of Open Science, with its focus on transparency, reproducibility, and data provenance.  We welcome submissions relating to all aspects of bioinformatics and open science software, including new computational methods, reusable software components, visualization, interoperability, and other approaches that help to advance research in the biomolecular sciences. Two full days of [[BOSC_2015_Schedule|talks, posters, panel discussions]], and [https://docs.google.com/document/d/1yaSjWEZzwiAk6jUiKVk_pbmru1uCJuGbgITIyI3kmfI/edit# iinformal discussion groups] will enable BOSC attendees to interact with other developers and share ideas and code, as well as learning about some of the latest developments in the field of open source bioinformatics.
 
@@ -85,7 +85,7 @@ We welcome submissions relating to all aspects of bioinformatics and open scienc
 * '''Data Science''' -- encompasses software and approaches to managing, exploring, and analyzing large-scale data to address research questions, such as genome assembly, variant prediction, eQTL analysis, phylogenomics, and epigenetics.
 * '''Visualization''' -- focuses on approaches for interactive as well as static visual representations of biomedical data, ranging from exploration to explanation.
 * '''Translational Bioinformatics''' -- explores applications of biological and medical informatics to the development of personalized healthcare, therapies, and a better understanding of human health and disease. Topics include the analysis of large scale population and family sequencing data, bioinformatics methodologies for clinical research, and tools for discovering clinically useful associations in human databases.
-* '''Bioinformatics Open Source Libraries and Projects''' -- features short talks from new or ongoing projects describing their recent progress. Abstracts will be solicited from open source projects affiliated with the O|B|F (see http://www.open-bio.org/wiki/Projects), including the Bio* projects, DAS, BioMOBY, EMBOSS, and GMOD, but any other open-source project will be equally eligible to submit abstracts for this session.
+* '''Bioinformatics Open Source Libraries and Projects''' -- features short talks from new or ongoing projects describing their recent progress. Abstracts will be solicited from open source projects affiliated with the OBF (see http://www.open-bio.org/wiki/Projects), including the Bio* projects, DAS, BioMOBY, EMBOSS, and GMOD, but any other open-source project will be equally eligible to submit abstracts for this session.
 * '''[[BOSC_2015_Panel|Panel: Open Source, Open Door: increasing diversity in the bioinformatics open source community.]]''' ''Chair'': Monica Munoz-Torres. ''Panelists'': Holly Bik, Michael R. Crusoe, Aleksandra Pawlik, Jason Williams.
 
 [[Image:EwanBirney2.jpg|120px|right|Ewan Birney]]
@@ -117,7 +117,7 @@ This year's keynote speakers will be Holly Bik (University of Birmingham) and Ew
 * [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp] (Center for Genomic and Computational Biology (GCB), Duke University)
 * [http://berkeleybop.org/person/monica-munoz-torres Mónica Muñoz-Torres]  (Berkeley Bioinformatics Open Source Projects)
 
-'''Ex Officio (Members of the O|B|F Board)'''
+'''Ex Officio (Members of the OBF Board)'''
 * [http://www.bioperl.org/wiki/Chris_Dagdigian Chris Dagdigian]
 
 == Review Committee ==
