@@ -6,7 +6,7 @@ title: Main Page
  <div style="width:26em; background-color: rgb(184,214,245); border: 1px solid grey; border-radius: 1em; margin: 0em 1em 0em 1em; padding: 0.6em;">
 <span style="font-size: larger"><center>'''Please Donate'''</center></span>
 
-Through our fiscal sponsor, [http://spi-inc.org/donations Software in the Public Interest, Inc.], you can donate to the O|B|F, including [https://co.clickandpledge.com/advanced/default.aspx?wid=66788# online by credit card]. Donations made through SPI are 501(c)3 tax-exempt in the US. (SPI also has a charitable partner organization in Europe.) Your contribution helps fund a growing community of people committed to developing reusable open-source software for advancing biological research. 
+Through our fiscal sponsor, [http://spi-inc.org/donations Software in the Public Interest, Inc.], you can donate to the OBF, including [https://co.clickandpledge.com/advanced/default.aspx?wid=66788# online by credit card]. Donations made through SPI are 501(c)3 tax-exempt in the US. (SPI also has a charitable partner organization in Europe.) Your contribution helps fund a growing community of people committed to developing reusable open-source software for advancing biological research. 
  </div>
  <div style="width:26em; background-color: white; border: 1px solid grey; border-radius: 1em; margin: 1em 1em 0em 1em; padding: 0.6em;">
   <rss>http://news.open-bio.org/news/feed/|charset=utf-8|short|data|max=10|date</rss>
@@ -15,7 +15,7 @@ See also our [[News|news page]], and [http://twitter.com/obf_news twitter].
 </div>
 == About Us ==
 
-The Open Bioinformatics Foundation or O|B|F is a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of [[wp:open source|Open Source]] software development and [[wp:Open science|Open Science]] within the biological research community.
+The Open Bioinformatics Foundation (OBF) is a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of [[wp:open source|Open Source]] software development and [[wp:Open science|Open Science]] within the biological research community.
 
 Our main activities are:
 
@@ -27,15 +27,15 @@ Our main activities are:
 
 The Foundation does not participate directly in the development or structure of the open source work, but as the members of the foundation are drawn from our projects' developer communities, there is clear commonality of direction and purpose.
 
-O|B|F is governed by a [[Board|Board of Directors]]. [[:File:OBF-Bylaws.pdf| Our bylaws]] lay out how the Board is elected, holds public meetings, and conducts its business, as well as the scope and role of our [[membership]]. O|B|F is an associated project with [http://spi-inc.org/ Software In The Public Interest, Inc.], a fiscal sponsorship organization, and through SPI we can accept tax-exempt charitable donations.
+OBF is governed by a [[Board|Board of Directors]]. [[:File:OBF-Bylaws.pdf| Our bylaws]] lay out how the Board is elected, holds public meetings, and conducts its business, as well as the scope and role of our [[membership]]. OBF is an associated project with [http://spi-inc.org/ Software In The Public Interest, Inc.], a fiscal sponsorship organization, and through SPI we can accept tax-exempt charitable donations.
 
 See also our [https://plus.google.com/115564754756543103019 OBF Google+] page.
 
 == History ==
 
-O|B|F grew out of the volunteer projects [[BioPerl]], [[BioJava]] and [[Biopython]] and was formally incorporated in 2001 in order to handle modest requirements of hardware ownership, domain name management and funding for conferences and workshops. In 2005, we enacted [[:File:OBF-Bylaws.pdf| bylaws]] for the first time, and along with it created a formal membership. 
+OBF grew out of the volunteer projects [[BioPerl]], [[BioJava]] and [[Biopython]] and was formally incorporated in 2001 in order to handle modest requirements of hardware ownership, domain name management and funding for conferences and workshops. In 2005, we enacted [[:File:OBF-Bylaws.pdf| bylaws]] for the first time, and along with it created a formal membership. 
 
-In 2012, we decided to give up our own incorporation to associate ourselves with [http://spi-inc.org/ Software In The Public Interest, Inc.], a fiscal sponsorship organization that we felt aligned well with our own values and culture. The bylaws [https://github.com/OBF/obf-docs/pull/8 underwent a series of changes], in part to better reflect our current practices, and in part to pave the way for joining SPI. The changes [[Minutes:2012_Sep_ConfCall| were approved on Sep 11, 2012]], [http://vote.heliosvoting.org/helios/e/OBFjoiningSPI our membership overwhelmingly approved of associating with SPI], and as of October 12, 2012, O|B|F is a SPI-associated project.
+In 2012, we decided to give up our own incorporation to associate ourselves with [http://spi-inc.org/ Software In The Public Interest, Inc.], a fiscal sponsorship organization that we felt aligned well with our own values and culture. The bylaws [https://github.com/OBF/obf-docs/pull/8 underwent a series of changes], in part to better reflect our current practices, and in part to pave the way for joining SPI. The changes [[Minutes:2012_Sep_ConfCall| were approved on Sep 11, 2012]], [http://vote.heliosvoting.org/helios/e/OBFjoiningSPI our membership overwhelmingly approved of associating with SPI], and as of October 12, 2012, OBF is a SPI-associated project.
 
 == BOSC ==
 The [[BOSC|Bioinformatics Open Source Conference (BOSC)]] is held annually in conjunction with [http://www.iscb.org ISCB's] meeting, ISMB.
