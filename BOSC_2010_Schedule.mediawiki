@@ -24,7 +24,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |- 
 | 9:00-9:15AM
 | Kam Dahlquist
-| [Welcome] Introduction to the <nowiki>O|B|F</nowiki> and Welcome to BOSC 2010
+| [Welcome] Introduction to the <nowiki>OBF</nowiki> and Welcome to BOSC 2010
 |-
 | 9:15-10:15
 | Guy Coates
@@ -148,7 +148,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 |- 
 | 6:45
 | &nbsp;
-| <nowiki>O|B|F</nowiki> Board Meeting and No-host Dinner; Location: Legal Seafood
+| <nowiki>OBF</nowiki> Board Meeting and No-host Dinner; Location: Legal Seafood
 |-
 |
 |
