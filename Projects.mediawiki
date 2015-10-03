@@ -13,6 +13,7 @@ title: Projects
 * BioHaskell [http://biohaskell.org/ home page], [http://hackage.haskell.org/packages/archive/pkg-list.html#cat:bioinformatics releases]
 * [http://biocaml.org Biocaml] - bioinformatics library in the functional programming language OCaml
 * [http://biophp.org BioPHP]
+* [http://biosmalltalk.github.io/web/ BioSmalltalk] - Bioinformatics in a pure objects environment
 * [http://bioweka.sourceforge.net/index.php/Main_Page BioWeka]
 * [http://www.bioclipse.net/ BioClipse] - visual platform based on Eclipse
 * [http://www.yandell-lab.org/cgl/ CGL] - Comparative Genomics Library
