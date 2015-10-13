@@ -10,6 +10,8 @@ title: Projects
 * [http://www.gmod.org/schema/ Chado] - The GMOD DB schema
 
 ==Other related projects==
+
+* [http://biojs.net/ BioJS] - an open-source library of JavaScript components to visualise biological data
 * BioHaskell [http://biohaskell.org/ home page], [http://hackage.haskell.org/packages/archive/pkg-list.html#cat:bioinformatics releases]
 * [http://biocaml.org Biocaml] - bioinformatics library in the functional programming language OCaml
 * [http://biophp.org BioPHP]
