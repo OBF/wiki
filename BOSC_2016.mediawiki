@@ -64,7 +64,7 @@ We welcome submissions relating to all aspects of bioinformatics and open scienc
 == Previous BOSCs ==
 
 * BOSC has been held yearly since 2000.
-* [BOSC 2015] took place July 10-11 in Dublin, Ireland.
+* [[BOSC 2015]] took place July 10-11 in Dublin, Ireland.
 * [[Past BOSC conferences | Information about the first 15 BOSC conferences]]
 
 == Contact Us ==
