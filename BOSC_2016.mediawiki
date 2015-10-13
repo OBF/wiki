@@ -1,0 +1,81 @@
+---
+title: BOSC 2016
+---
+
+_NOTOC__
+
+<div style="float:left; maxwidth: 180px; margin-left:25px; margin-right:15px; background-color: #FFFFFF">[[Image:Pear.png|left|The Bosc Pear]]</div>
+
+[BOSC 2015] took place July 10-11 in Dublin, Ireland. Check out the complete [[BOSC_2015_Schedule|schedule]] with links to slides, posters and videos - mostly on our [http://f1000research.com/channels/BOSC F1000 Research BOSC Channel], with the videos on the [https://www.youtube.com/playlist?list=PLir-OOQiOhXbENjAIFF-JZ0WodnysPqfh BOSC YouTube].
+
+BOSC 2016 will be held in Orlando, Florida, on July 8-9, 2016, right before ISMB 2016.
+
+== Overview ==
+
+The Bioinformatics Open Source Conference (BOSC) is run as a two-day meeting before the annual [http://www.iscb.org/ismbeccb2015 ISMB conference]. It is sponsored by the [[Main_Page|Open Bioinformatics Foundation (OBF)]], a non-profit group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community. 
+
+Open Source software has flourished in the bioinformatics community for well over a decade. When the first BOSC was held in 2000, there were already many popular open source bioinformatics packages, and the number and range of these projects has increased dramatically since then. BOSC covers the wide range of open source bioinformatics software being developed, and encompasses the growing movement of Open Science, with its focus on transparency, reproducibility, and data provenance.  We welcome submissions relating to all aspects of bioinformatics and open science software, including new computational methods, reusable software components, visualization, interoperability, and other approaches that help to advance research in the biomolecular sciences. Two full days of [[BOSC_2015_Schedule|talks, posters, panel discussions]], and [https://docs.google.com/document/d/1yaSjWEZzwiAk6jUiKVk_pbmru1uCJuGbgITIyI3kmfI/edit# iinformal discussion groups] will enable BOSC attendees to interact with other developers and share ideas and code, as well as learning about some of the latest developments in the field of open source bioinformatics.
+
+We also organize a two-day community development session prior to the conference ([[Codefest 2015]]). This is an opportunity for anyone interested in open science, biology and programming to meet, discuss and work collaboratively. Everyone is welcome to attend Codefest (whether or not you attend BOSC).
+
+Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter.com/OBF_BOSC follow @OBF_BOSC] and use [https://twitter.com/search?q=%23BOSC2015 hash tag #bosc2015].
+
+== Sponsors ==
+
+BOSC is organised by the [[Main_Page|Open Bioinformatics Foundation]], a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community.
+
+We gratefully accept sponsorships from relevant private companies. These sponsorships enable us to offer free registration to some BOSC speakers to lower the financial barrier of their attendance.
+If you would like to be a sponsor of BOSC, please contact us at at bosc@open-bio.org.
+
+== Important Dates ==
+
+* BOSC 2016: July 8-9, 2016, Orlando, FL, USA
+* [https://www.iscb.org/ismb2016 ISMB 2016]: July 8-12,, 2016, Orlando, FL, USA
+
+== Registration ==
+
+Because BOSC is run as a two-day Special Interest Group (SIG) meeting at the annual ISMB conference, [https://www.iscb.org/ismb2016 registration is via ISMB 2016]. You can register for BOSC (which allows you to drop in on other SIGs as well), or register to attend the full ISMB/ECCB conference plus BOSC.
+
+== Session Topics ==
+We welcome submissions relating to all aspects of bioinformatics and open science software, including (but not limited to):
+* '''Open Science and Reproducible Research''' -- covers the theory and practice of open science, including open notebook science, open data, transparent and reproducible workflows, and shared standards for reviewing and publishing research papers.
+* '''Standards and Interoperability''' -- includes standards such as ontologies, formats, etc, as well as Open Source approaches to integrating the latest bioinformatics tools, exploring how we can increase tool connectivity and help communities work better together.
+* '''Data Science''' -- encompasses software and approaches to managing, exploring, and analyzing large-scale data to address research questions, such as genome assembly, variant prediction, eQTL analysis, phylogenomics, and epigenetics.
+* '''Visualization''' -- focuses on approaches for interactive as well as static visual representations of biomedical data, ranging from exploration to explanation.
+* '''Translational Bioinformatics''' -- explores applications of biological and medical informatics to the development of personalized healthcare, therapies, and a better understanding of human health and disease. Topics include the analysis of large scale population and family sequencing data, bioinformatics methodologies for clinical research, and tools for discovering clinically useful associations in human databases.
+* '''Bioinformatics Open Source Libraries and Projects''' -- features short talks from new or ongoing projects describing their recent progress. Abstracts will be solicited from open source projects affiliated with the OBF (see http://www.open-bio.org/wiki/Projects), including the Bio* projects, DAS, BioMOBY, EMBOSS, and GMOD, but any other open-source project will be equally eligible to submit abstracts for this session.
+
+== Organizing Committee ==
+
+'''Co-Chairs'''
+
+* [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; [http://www.hutton.ac.uk James Hutton Institute])
+* Nomi L. Harris (Lawrence Berkeley National Laboratory)
+
+'''Members'''
+
+* [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer]; [http://compbio.sph.harvard.edu/chb/ Harvard School of Public Health])
+* [http://www.tgac.ac.uk/bioinformatics/sequencing-informatics/robert-davey/ Robert Davey] (The Genome Analysis Centre)
+* Christopher Fields (National Center for Supercomputing Applications)
+* Karsten Hokamp (Smurfit Institute of Genetics, Trinity College Dublin, Ireland)
+* [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp] (Center for Genomic and Computational Biology (GCB), Duke University)
+* [http://berkeleybop.org/person/monica-munoz-torres Mónica Muñoz-Torres]  (Berkeley Bioinformatics Open Source Projects)
+
+== Previous BOSCs ==
+
+* BOSC has been held yearly since 2000.
+* [BOSC 2015] took place July 10-11 in Dublin, Ireland.
+* [[Past BOSC conferences | Information about the first 15 BOSC conferences]]
+
+== Contact Us ==
+
+* [https://twitter.com/OBF_BOSC Follow BOSC on Twitter]: @OBF_BOSC, #bosc2016
+* If you'd like to join the mailing list for BOSC-related announcements, including the call for abstracts and deadline reminders, please subscribe to the [http://lists.open-bio.org/mailman/listinfo/bosc-announce bosc-announce] list.  This list has low traffic, and your address will be kept private.
+* If you have questions about the conference, or would like to volunteer to help out, please contact the organizers at [mailto:bosc@open-bio.org bosc@open-bio.org].
+
+== ISMB Code of Conduct ==
+
+In March 2015, ISMB published a [http://www.iscb.org/ismbeccb2015-general-info/ismbeccb2015-coc Code of Conduct] that applies to SIGs (including BOSC) as well as the main ISMB/ECCB meeting.
+
+[[Category:BOSC]] [[Category:Conferences]]
+[[Category:BOSC Conferences]]
