@@ -18,7 +18,7 @@ Open Source software has flourished in the bioinformatics community for well ove
 
 We also organize a two-day community development session prior to the conference ([[Codefest 2015]]). This is an opportunity for anyone interested in open science, biology and programming to meet, discuss and work collaboratively. Everyone is welcome to attend Codefest (whether or not you attend BOSC).
 
-Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter.com/OBF_BOSC follow @OBF_BOSC] and use [https://twitter.com/search?q=%23BOSC2015 hash tag #bosc2015].
+Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter.com/OBF_BOSC follow @OBF_BOSC] and use [https://twitter.com/search?q=%23BOSC2016 hash tag #bosc2016].
 
 == Sponsors ==
 
