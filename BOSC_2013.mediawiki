@@ -56,7 +56,7 @@ The conference schedule is available '''[[BOSC_2013_Schedule|here as HTML]]''' a
 
 The deadline for abstract submissions for talks was April 12, 2013. Late poster abstracts were accepted until June 7. We have reserved a few spaces for walk-in posters, which [[BOSC_Abstract_Submission|must meet the BOSC requirements of open source and recognized license]]. The ISMB staff specify that posters should not exceed the following dimensions: 0.95 m wide x 1.30 m high.
 
-<div style="float:right; background-color: #FFFFFF">[[File:Eagle_logo_2013.jpg‎|120px|right|Eagle Genomics logo|link=http://www.eaglegenomics.com/]]</div>
+<div style="float:right; background-color: #FFFFFF">[[File:Eagle_logo_2013.jpg|120px|right|Eagle Genomics logo|link=http://www.eaglegenomics.com/]]</div>
 
 == Sponsor ==
 
