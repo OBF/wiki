@@ -2,7 +2,7 @@
 title: BOSC 2009
 ---
 
-[[Image:Pear.png|right|The Bosc Pair]]
+[[Image:Pear.png|right|The Bosc Pear]]
 
 BOSC 2009 will be held for 2 days in conjunction with [http://www.iscb.org/ismbeccb2009/index.php the 17th Annual International Conference on Intelligent Systems for Molecular Biology (ISMB 2009)] in Stockholm, Sweden (which itself will be held jointly with the 7th European Conference on Computational Biology, ECCB 2009). The dates of BOSC 2009 are June 27 - 28; the main ISMB/ECCB Conference runs June 29 - July 2, 2009.
 
