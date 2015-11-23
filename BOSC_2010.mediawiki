@@ -208,7 +208,7 @@ The first BOSC was held in 2000.  Please see [[Past BOSC conferences|past BOSC c
 
 The keynote speakers and student travel fellowships to BOSC 2010 were made possible by [http://www.eaglegenomics.com/ Eagle Genomics, Ltd.] and an anonymous donor. Thank you. 
 
-[[File:Eagle_logo_RGB.png‎|200px|left|Eagle Genomics logo]] 
+[[File:Eagle_logo_RGB.png|200px|left|Eagle Genomics logo]] 
 
 [[Category:BOSC]] [[Category:Conferences]]
 [[Category:BOSC Conferences]]
