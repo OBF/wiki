@@ -56,7 +56,6 @@ We welcome submissions relating to all aspects of bioinformatics and open scienc
 
 * [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer]; [http://compbio.sph.harvard.edu/chb/ Harvard School of Public Health])
 * Christopher Fields (National Center for Supercomputing Applications)
-* [https://sites.google.com/site/sarahhird/home Sarah Hird] (UC Davis)
 * Karsten Hokamp (Smurfit Institute of Genetics, Trinity College Dublin, Ireland)
 * [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp] (Center for Genomic and Computational Biology (GCB), Duke University)
 * [http://berkeleybop.org/person/monica-munoz-torres Mónica Muñoz-Torres]  (Berkeley Bioinformatics Open Source Projects)
