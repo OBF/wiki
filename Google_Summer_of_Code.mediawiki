@@ -36,7 +36,7 @@ From the viewpoint of each open-source project, the program not only offers to p
 ==Project Ideas==
 
 
-Our GSoC ideas from each project are collected here: '''[[Google Summer of Code 2015 Ideas |OBF Project Ideas for GSoC 2015]]'''
+Our GSoC ideas from each project are collected here: http://obf.github.io/GSoC/
 
 == OBF Projects Accepting Applicants ==
 
