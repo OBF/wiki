@@ -12,7 +12,8 @@ Google Summer of Code (GSoC) is a student internship program for open-source pro
 The Google Summer of Code 2016 is ON! OBF is once again applying as a GSoC mentoring organization this year. Interested mentors and students should subscribe to the OBF/GSoC [http://lists.open-bio.org/mailman/listinfo/gsoc mailing list]. Please announce yourself, so we know who you are!
 The details of each of our project ideas are listed below, including potential mentors.
 
-<!--See the main OBF [[Google Summer of Code]] page for more information about the GSoC program and additional ways to get in touch with us.-->
+See http://obf.github.io/GSoC/ for more information about the GSoC program and additional ways to get in touch with us.
+
 <!--Our GSoC ideas from each project are collected here: '''[[Google Summer of Code 2015 Ideas |OBF Project Ideas for GSoC 2015]]''' -->
 === Facts & Links ===
 
