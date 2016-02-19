@@ -9,7 +9,7 @@ title: Main Page
 Through our fiscal sponsor, [http://spi-inc.org/donations Software in the Public Interest, Inc.], you can donate to the OBF, including [https://co.clickandpledge.com/advanced/default.aspx?wid=66788# online by credit card]. Donations made through SPI are 501(c)3 tax-exempt in the US. (SPI also has a charitable partner organization in Europe.) Your contribution helps fund a growing community of people committed to developing reusable open-source software for advancing biological research. 
  </div>
  <div style="width:26em; background-color: white; border: 1px solid grey; border-radius: 1em; margin: 1em 1em 0em 1em; padding: 0.6em;">
-  <rss>http://news.open-bio.org/news/feed/|charset=utf-8|short|data|max=10|date</rss>
+  <rss>http://news.open-bio.org/feed/|charset=utf-8|short|data|max=10|date</rss>
 See also our [[News|news page]], and [http://twitter.com/obf_news twitter].
  </div>
 </div>
