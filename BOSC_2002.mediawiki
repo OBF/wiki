@@ -2,11 +2,9 @@
 title: BOSC 2002
 ---
 
-[[Image:Bosc-2002-logo.png]]
+<div style="float: right;">[[Image:Bosc-2002-logo.png]]</div>
 
-[http://open-bio.org/bosc2002 BOSC 2002 website]
-
-[http://gallery.open-bio.org/gallery2/v/bosc2002 Pictures] from the conference
+BOSC 2002 was held in Edmonton, Alberta. The [http://www.open-bio.org/bosc2002/ BOSC 2002 website] was created as static pages. 
 
 [[Category:BOSC]] [[Category:Conferences]]
 [[Category:BOSC Conferences]]
