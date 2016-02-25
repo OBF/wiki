@@ -7,7 +7,5 @@ title: BOSC 2003
 
 [http://open-bio.org/bosc2003 BOSC 2003 website]
 
-[http://gallery.open-bio.org/gallery2/v/bosc2003 Pictures] from the conference
-
 [[Category:BOSC]] [[Category:Conferences]]
 [[Category:BOSC Conferences]]
