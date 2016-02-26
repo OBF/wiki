@@ -10,6 +10,9 @@ BOSC 2016 will be '''July 8-9, 2016''', in Orlando, Florida, right before ISMB 2
 
 [[BOSC 2015]] took place July 10-11 in Dublin, Ireland. Check out the complete [[BOSC_2015_Schedule|schedule]] with links to slides, posters and videos - mostly on our [http://f1000research.com/channels/BOSC F1000 Research BOSC Channel], with the videos on the [https://www.youtube.com/playlist?list=PLir-OOQiOhXbENjAIFF-JZ0WodnysPqfh BOSC YouTube].
 
+Read the [http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004691 BOSC 2015 Summary Report in PLOS Computational Biology].  
+ 
+
 == Overview ==
 
 The Bioinformatics Open Source Conference (BOSC) is run as a two-day meeting before the annual [http://www.iscb.org/ismbeccb2015 ISMB conference]. It is sponsored by the [[Main_Page|Open Bioinformatics Foundation (OBF)]], a non-profit group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community. 
