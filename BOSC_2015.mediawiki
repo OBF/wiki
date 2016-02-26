@@ -10,7 +10,7 @@ Thanks to all for a successful meeting! We hope to see you at [[BOSC 2016]] in O
 
 Check out the complete [[BOSC_2015_Schedule|schedule]] with links to slides, posters and videos - mostly on our [http://f1000research.com/channels/BOSC F1000 Research BOSC Channel], with the videos on the [https://www.youtube.com/playlist?list=PLir-OOQiOhXbENjAIFF-JZ0WodnysPqfh BOSC YouTube].
 
-The full program including abstracts is available [http://www.open-bio.org/bosc2015/BOSC2015-program-with-abstracts.pdf here].
+The full program including abstracts is available [http://www.open-bio.org/bosc2015/BOSC2015-program-with-abstracts.pdf here], and we wrote up a report as [http://dx.doi.org/10.1371/journal.pcbi.1004691 Harris et al (2016)].
 
 == Summaries of BOSC 2015 by Participants ==
 There were over 2000 tweets about #BOSC2015, and a number of articles and blog posts, some of which are listed below.
