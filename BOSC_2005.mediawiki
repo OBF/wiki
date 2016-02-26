@@ -6,7 +6,5 @@ title: BOSC 2005
 
 [http://open-bio.org/bosc2005 BOSC 2005 website]
 
-[http://gallery.open-bio.org/gallery2/v/bosc2005/ Pictures] from the conference
-
 [[Category:BOSC]] [[Category:Conferences]]
 [[Category:BOSC Conferences]]
