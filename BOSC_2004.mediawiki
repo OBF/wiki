@@ -6,7 +6,5 @@ title: BOSC 2004
 
 [http://open-bio.org/bosc2004 BOSC 2004 website]
 
-Some [http://gallery.open-bio.org/gallery2/v/bosc2004/ pictures] from the conference.
-
 [[Category:BOSC]] [[Category:Conferences]]
 [[Category:BOSC Conferences]]
