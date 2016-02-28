@@ -5,9 +5,9 @@ title: BOSC Abstract Submission
 __NOTOC__
 [[File:Pear.png‎|100px|left|BOSC logo|link=BOSC_2016]]
 
-Abstract submission this year will be via EasyChair.
+Abstract submission this year will be via [https://easychair.org/conferences/?conf=bosc2016 EasyChair].  You will need to register for an account on EasyChair in order to submit your abstract.   
 
-The official deadline for submitting abstracts for BOSC talks will be in April; however, we aim to keep a few spots saved for Late-Breaking Lightning Talks and posters. (There will also be a few spots reserved for walk-in posters; however, those will not be listed in the program or on the BOSC website.)
+The official deadline for submitting abstracts for BOSC talks will be '''April 1, 2016'''; however, we aim to keep a few spots saved for Late-Breaking Lightning Talks and posters. (There will also be a few spots reserved for walk-in posters; however, those will not be listed in the program or on the BOSC website.)
 
 ----
 
@@ -47,6 +47,6 @@ See the following websites for further information:
 == Code of Conduct ==
 In March 2015, ISMB published a [http://www.iscb.org/ismbeccb2015-general-info/ismbeccb2015-coc Code of Conduct] that applies to SIGs (including BOSC) as well as the main ISMB/ECCB meeting.
 
-== * * * Click [http://events.open-bio.org/BOSC2015/author/submit.php here] to submit your abstract! * * * ==
+== * * * Click [https://easychair.org/conferences/?conf=bosc2016 here] to submit your abstract! * * * ==
 
 [[BOSC_2016|Back to BOSC 2016 home page]]
