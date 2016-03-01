@@ -12,7 +12,7 @@ The official deadline for submitting abstracts for BOSC talks will be '''April 1
 ----
 
 === Abstract Formatting Requirements ===
-Abstracts must be '''one page''' (8.5 inches by 11 inches) in length and submitted '''as a PDF (preferred), Microsoft Word, or text file'''.
+Abstracts must be '''one page''' (8.5 inches by 11 inches or A4) in length and submitted '''as a PDF (preferred), LaTeX, Microsoft Word, or text file'''.
 
 You may wish to use one of these abstract templates:
 * [http://www.open-bio.org/wiki/File:BOSC2015-abstract-template.pdf PDF] (not fillable)
@@ -20,6 +20,7 @@ You may wish to use one of these abstract templates:
 * [http://www.open-bio.org/bosc2015/bosc2015-abstract-example.doc Word (.doc)] 
 * [http://www.open-bio.org/bosc2015/bosc2015-abstract-example.docx Word (.docx)]
 * [http://www.open-bio.org/bosc2015/bosc2015-abstract-example.pages Pages]
+* [https://github.com/bow/talks/blob/master/2014_bosc/abstract/abstract.tex Example BOSC abstract using LaTeX]
 
 If you want to submit your abstract in plain text format, please be sure to use the file extension ".txt" or the abstract submission system will reject it.
 
