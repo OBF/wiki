@@ -6,12 +6,9 @@ __NOTOC__
 
 <div style="float:left; maxwidth: 180px; margin-left:25px; margin-right:15px; background-color: #FFFFFF">[[Image:Pear.png|left|The Bosc Pear]]</div>
 
-BOSC 2016 will be '''July 8-9, 2016''', in Orlando, Florida, right before ISMB 2016.  The call for abstracts will open March 1, 2016.
+BOSC 2016 will be '''July 8-9, 2016''', in Orlando, Florida, right before ISMB 2016.  
 
-[[BOSC 2015]] took place July 10-11 in Dublin, Ireland. Check out the complete [[BOSC_2015_Schedule|schedule]] with links to slides, posters and videos - mostly on our [http://f1000research.com/channels/BOSC F1000 Research BOSC Channel], with the videos on the [https://www.youtube.com/playlist?list=PLir-OOQiOhXbENjAIFF-JZ0WodnysPqfh BOSC YouTube].
-
-Read the [http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004691 BOSC 2015 Summary Report in PLOS Computational Biology].  
- 
+'''[[BOSC_Abstract_Submission|Submit your abstract now!]]'''  Abstracts due by April 1, 2016.  
 
 == Overview ==
 
@@ -72,6 +69,8 @@ We welcome submissions relating to all aspects of bioinformatics and open scienc
 
 * BOSC has been held yearly since 2000.
 * [[BOSC 2015]] took place July 10-11 in Dublin, Ireland.
+** Check out the complete [[BOSC_2015_Schedule|schedule]] with links to slides, posters and videos - mostly on our [http://f1000research.com/channels/BOSC F1000 Research BOSC Channel], with the videos on the [https://www.youtube.com/playlist?list=PLir-OOQiOhXbENjAIFF-JZ0WodnysPqfh BOSC YouTube].
+** Read the [http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004691 BOSC 2015 Summary Report in PLOS Computational Biology].  
 * [[Past BOSC conferences | Information about the first 15 BOSC conferences]]
 
 == Contact Us ==
