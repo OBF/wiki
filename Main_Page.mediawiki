@@ -22,6 +22,7 @@ Our main activities are:
 * Running and supporting the [[BOSC]] conferences.
 * Organizing and supporting developer-centric "[[Hackathon]]" events.
 * [[Google Summer of Code| Participating in the Google Summer of Code program]] on behalf of our [[Projects| member projects]] as an umbrella mentoring organization.
+* Running the [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md OBF Travel Fellowship] scheme ([http://news.open-bio.org/2016/03/01/obf-travel-fellowship-program/ launched March 2016]).
 * Managing servers, colocation facilities, bank account, domain names, and other assets for the benefit of our [[Projects| member projects]].
 * Public opinion and policy statements about matters related to Open Source and Open Science in bioinformatics.
 
