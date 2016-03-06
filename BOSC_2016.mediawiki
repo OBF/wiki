@@ -6,9 +6,10 @@ __NOTOC__
 
 <div style="float:left; maxwidth: 180px; margin-left:25px; margin-right:15px; background-color: #FFFFFF">[[Image:Pear.png|left|The Bosc Pear]]</div>
 
-BOSC 2016 will be '''July 8-9, 2016''', in Orlando, Florida, right before ISMB 2016.  
-
-'''[[BOSC_Abstract_Submission|Submit your abstract now!]]'''  Abstracts due by April 1, 2016.  
+BOSC 2016 will take place '''July 8-9, 2016''', in Orlando, Florida, right before ISMB 2016.  
+=== '''[[BOSC_Abstract_Submission|Submit your abstract now!]]'''  Abstracts due by April 1, 2016. ===
+ 
+We plan to offer a limited number of [https://news.obf.io/2016/03/01/obf-travel-fellowship-program/ travel fellowships]  to help offset expenses for some accepted speakers who would not otherwise be able to attend BOSC. 
 
 == Overview ==
 
@@ -36,7 +37,7 @@ If you would like to be a sponsor of BOSC, please contact us at at bosc@open-bio
 * BOSC 2016: July 8-9, 2016, Orlando, FL, USA
 * [https://www.iscb.org/ismb2016 ISMB 2016]: July 8-12,, 2016, Orlando, FL, USA
 
-We plan to offer a limited number of travel fellowships to help offset expenses for some accepted speakers who would not otherwise be able to attend BOSC – please see the [https://news.obf.io/2016/03/01/obf-travel-fellowship-program/ OBF Travel Fellowship announcement] for more information. To be considered in time for BOSC, applications to this program are due for the April 15 deadline.
+We plan to offer a limited number of travel fellowships to help offset expenses for some accepted speakers who would not otherwise be able to attend BOSC – please see the for more information. To be considered in time for BOSC, applications to this program are due for the April 15 deadline.
 
 == Registration ==
 
