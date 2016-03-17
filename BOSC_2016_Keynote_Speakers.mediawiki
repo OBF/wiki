@@ -29,14 +29,7 @@ Dr. Salzberg is a Fellow of the American Association for the Advancement of Scie
 
 Dr. Salzberg will speak about "Open source, open access, and open data: why science moves faster in an open world."
 
-''The Human Genome Project established a practice of sharing data rapidly, prior to
-publication, that has since become a model for many projects in genomics. Data 
-sharing has been slow to penetrate other fields because of many factors, some of
-which I will discuss in this talk. Nevertheless, sharing of methods, data, and results
-helps science move ahead faster, and openness is essential for the continual process of 
-checking and self-correction that good science requires. I will discuss some of the 
-successes as well as some noteworthy mistakes that have been discovered thanks to
-open science.''
+''The Human Genome Project established a practice of sharing data rapidly, prior to publication, that has since become a model for many projects in genomics. Data sharing has been slow to penetrate other fields because of many factors, some of which I will discuss in this talk. Nevertheless, sharing of methods, data, and results helps science move ahead faster, and openness is essential for the continual process of checking and self-correction that good science requires. I will discuss some of the successes as well as some noteworthy mistakes that have been discovered thanks to open science.''
 
 ----
 [[BOSC_2016|Back to BOSC 2016 home page]]
