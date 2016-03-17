@@ -30,6 +30,8 @@ The goal of Codefest is to bring open source bioinformatics programmers together
 
 * For everyone: discuss and learn from the community. Teach others what you know. Build new friendships and collaborations.
 
+If you have any questions or thoughts, please get in touch with [https://github.com/chapmanb Brad] directly, in the [https://gitter.im/chapmanb/obf-codefest Gitter chat room] or on the [https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2016 Codefest 2016 mailing list].
+
 == What to expect ==
 
 The OpenBio Codefest is a collaborative two day working session. The only
