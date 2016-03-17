@@ -1,0 +1,40 @@
+---
+title: BOSC 2016 Keynote Speakers
+---
+
+[[BOSC 2016]] is pleased to announce the following keynote speakers:
+
+=== Jennifer Gardy ===
+
+[[Image:JenniferGardy.png|180px|left|Jennifer Gardy]]
+
+Dr. Jennifer Gardy is both a scientist and science communicator. She holds a PhD in Bioinformatics, and is an Assistant Professor of Population and Public Health at the University of British Columbia and a Senior Scientist at the British Columbia Centre for Disease Control (BCCDC). At the BCCDC, she pioneered a new way of investigating outbreaks of infectious diseases – “genomic epidemiology,” which uses a pathogen's genome sequence as a tool for understanding how an infectious disease spreads.  Her group was the first to use genome sequencing to reconstruct a large outbreak of tuberculosis, and she is continuing to apply this novel technique to other outbreak scenarios. She is also involved in other genomics-related research, including replacing traditional laboratory microbiology protocols with single genomic analyses. In 2014, she was appointed the Canada Research Chair in Public Health Genomics, and is Senior Editor at the new open data, open access journal Microbial Genomics.
+
+In addition to her career as a research scientist, Dr. Gardy is known for her work in science communication and education, both in print and on TV. She has made regular appearances on CBC's documentary series The Nature of Things, has hosted CBC's eight-part science series Project X, and is a regular guest host on Discovery Channel’s Daily Planet science show. She has written and blogged for the Globe and Mail, has written a children’s book – It’s Catching! The Infectious World of Germs and Microbes – and runs a series of workshops on how to communicate science effectively.
+
+Dr. Gardy’s keynote topic is “The open-source outbreak: can data prevent the next pandemic?”
+
+Every century, something comes along that shakes up public health – vaccines, sanitation, antibiotics – and data promises to be the great disrupter of 21st century infectious disease epidemiology. In the last 5-6 years, genomics has dramatically changed how public health agencies diagnose and investigate diseases from food poisoning to tuberculosis, giving us a new tool to understand and control infections. The change is also apparent at a cultural level – genomics and bioinformatics researchers have largely come from an open data, collaborative space and have brought new ways of thinking to public health laboratories, previously secret, closed organizations. In this talk, we’ll explore some of the dramatic changes in public health microbiology that genomics and bioinformatics has facilitated, and look at how future data sharing efforts in areas such as digital disease detection might be the key to preventing future pandemics.
+----
+
+=== Ewan Birney ===
+
+[[Image:EwanBirney2.jpg|230px|right|Ewan Birney]]
+
+
+Dr Ewan Birney is Joint Associate Director of EMBL-EBI, as well as Interim Head of the Centre for Therapeutic Target Validation. Together with Dr Rolf Apweiler, he has strategic responsibility and oversight for bioinformatics services at EMBL-EBI.
+
+Ewan played a vital role in annotating the genome sequences of the human, mouse, chicken and several other organisms; this work has had a profound impact on our understanding of genomic biology. He led the analysis group for the ENCODE project, which is defining functional elements in the human genome. He was also one of the leaders of the BioPerl project. Ewan’s main areas of research include functional genomics, assembly algorithms, statistical methods to analyse genomic information (in particular information associated with individual differences) and compression of sequence information.
+
+He has received a number of prestigious awards including the 2003 Francis Crick Award from the Royal Society, the 2005 Overton Prize from the International Society for Computational Biology and the 2005 Benjamin Franklin Award for contributions in Open Source Bioinformatics. He was elected a Fellow of the Royal Society in 2014.
+
+Ewan was a cofounder of the [[Main_Page|Open Bioinformatics Foundation]], the organization that sponsors BOSC, and has been involved in BOSC since the first conference in 2000. He chaired the meeting in 2001, and gave one of the keynote talks in 2002. We are delighted to have him back as a keynote speaker for 2015.
+
+Ewan's talk title is "Big Data in Biology".
+
+''Molecular biology is now a leading example of a data intensive science, with both pragmatic and theoretical challenges being raised by data volumes and dimensionality of the data. These changes are present in both “large scale” consortia science and small scale science, and across now a broad range of applications – from human health, through to agriculture and ecosystems. All of molecular life science is feeling this effect. This shift in modality is creating a wealth of new opportunities and has some accompanying challenges. In particular there is a continued need for a robust information infrastructure for molecular biology. This ranges from the physical aspects of dealing with data volume through to the more statistically challenging aspects of interpreting it. A particular problem is finding causal relationships in the high level of correlative data. Genetic data are particular useful in resolving these issues. I will end with the serendipitous invention of using DNA for an entirely different reason – as a long-time horizon digital archiving material. I will describe this method and some of its benefits (as well as a few downsides) and explain how a future culture in 10,000 years time may still be able to read all of Shakespeare’s sonnets – and perhaps much more.''
+
+Homepage: [https://www.ebi.ac.uk/~birney/ Ewan Birney], Twitter: [https://twitter.com/ewanbirney @ewanbirney]
+
+----
+[[BOSC_2016|Back to BOSC 2016 home page]]
