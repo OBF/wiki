@@ -19,7 +19,7 @@ Dr. Gardy’s keynote topic is “The open-source outbreak: can data prevent the
 
 === Steven Salzberg ===
 
-[[Image:StevenSalzberg.jpg|220px|right|Steven Salzberg]]
+[[Image:StevenSalzberg.jpg|210px|right|Steven Salzberg]]
 
 Dr. Steven Salzberg is the Bloomberg Distinguished Professor of Biomedical Engineering, Computer Science, and Biostatistics and the Director of the Center for Computational Biology in the McKusick-Nathans Institute of Genetic Medicine at Johns Hopkins University. From 2005-2011, he was the Director of the Center for Bioinformatics and Computational Biology and the Horvitz Professor of Computer Science at the University of Maryland, College Park. From 1997-2005 he was Senior Director of Bioinformatics at The Institute for Genomic Research (TIGR) in Rockville, Maryland, one of the world's leading DNA sequencing centers at the time.
 
