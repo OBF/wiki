@@ -14,27 +14,29 @@ In addition to her career as a research scientist, Dr. Gardy is known for her wo
 
 Dr. Gardy’s keynote topic is “The open-source outbreak: can data prevent the next pandemic?”
 
-Every century, something comes along that shakes up public health – vaccines, sanitation, antibiotics – and data promises to be the great disrupter of 21st century infectious disease epidemiology. In the last 5-6 years, genomics has dramatically changed how public health agencies diagnose and investigate diseases from food poisoning to tuberculosis, giving us a new tool to understand and control infections. The change is also apparent at a cultural level – genomics and bioinformatics researchers have largely come from an open data, collaborative space and have brought new ways of thinking to public health laboratories, previously secret, closed organizations. In this talk, we’ll explore some of the dramatic changes in public health microbiology that genomics and bioinformatics has facilitated, and look at how future data sharing efforts in areas such as digital disease detection might be the key to preventing future pandemics.
+''Every century, something comes along that shakes up public health – vaccines, sanitation, antibiotics – and data promises to be the great disrupter of 21st century infectious disease epidemiology. In the last 5-6 years, genomics has dramatically changed how public health agencies diagnose and investigate diseases from food poisoning to tuberculosis, giving us a new tool to understand and control infections. The change is also apparent at a cultural level – genomics and bioinformatics researchers have largely come from an open data, collaborative space and have brought new ways of thinking to public health laboratories, previously secret, closed organizations. In this talk, we’ll explore some of the dramatic changes in public health microbiology that genomics and bioinformatics has facilitated, and look at how future data sharing efforts in areas such as digital disease detection might be the key to preventing future pandemics.''
 ----
 
-=== Ewan Birney ===
+=== Steven Salzberg ===
 
-[[Image:EwanBirney2.jpg|230px|right|Ewan Birney]]
+[[Image:StevenSalzberg.jpg|230px|right|Steven Salzberg]]
 
+Dr. Steven Salzberg is the Bloomberg Distinguished Professor of Biomedical Engineering, Computer Science, and Biostatistics and the Director of the Center for Computational Biology in the McKusick-Nathans Institute of Genetic Medicine at Johns Hopkins University. From 2005-2011, he was the Director of the Center for Bioinformatics and Computational Biology and the Horvitz Professor of Computer Science at the University of Maryland, College Park. From 1997-2005 he was Senior Director of Bioinformatics at The Institute for Genomic Research (TIGR) in Rockville, Maryland, one of the world's leading DNA sequencing centers at the time.
 
-Dr Ewan Birney is Joint Associate Director of EMBL-EBI, as well as Interim Head of the Centre for Therapeutic Target Validation. Together with Dr Rolf Apweiler, he has strategic responsibility and oversight for bioinformatics services at EMBL-EBI.
+Salzberg's lab currently focuses on next-generation sequence alignment, genome assembly, and microbiome analysis.They have produced several popular systems for alignment of next-generation sequencing reads, including the Bowtie, Tophat, and Cufflinks systems. All of the group's software is free and open source, and their systems have been downloaded hundreds of thousands of times.
 
-Ewan played a vital role in annotating the genome sequences of the human, mouse, chicken and several other organisms; this work has had a profound impact on our understanding of genomic biology. He led the analysis group for the ENCODE project, which is defining functional elements in the human genome. He was also one of the leaders of the BioPerl project. Ewan’s main areas of research include functional genomics, assembly algorithms, statistical methods to analyse genomic information (in particular information associated with individual differences) and compression of sequence information.
+Dr. Salzberg is a Fellow of the American Association for the Advancement of Science (AAAS) and a Fellow of the International Society for Computational Biology (ISCB). He was the 2013 winner of the Benjamin Franklin Award for Open Access in the Life Sciences, in recognition of his many contributions to open access bioinformatics software and his strong advocacy for open access to data, software and publications.
 
-He has received a number of prestigious awards including the 2003 Francis Crick Award from the Royal Society, the 2005 Overton Prize from the International Society for Computational Biology and the 2005 Benjamin Franklin Award for contributions in Open Source Bioinformatics. He was elected a Fellow of the Royal Society in 2014.
+Dr. Salzberg will speak about "Open source, open access, and open data: why science moves faster in an open world."
 
-Ewan was a cofounder of the [[Main_Page|Open Bioinformatics Foundation]], the organization that sponsors BOSC, and has been involved in BOSC since the first conference in 2000. He chaired the meeting in 2001, and gave one of the keynote talks in 2002. We are delighted to have him back as a keynote speaker for 2015.
-
-Ewan's talk title is "Big Data in Biology".
-
-''Molecular biology is now a leading example of a data intensive science, with both pragmatic and theoretical challenges being raised by data volumes and dimensionality of the data. These changes are present in both “large scale” consortia science and small scale science, and across now a broad range of applications – from human health, through to agriculture and ecosystems. All of molecular life science is feeling this effect. This shift in modality is creating a wealth of new opportunities and has some accompanying challenges. In particular there is a continued need for a robust information infrastructure for molecular biology. This ranges from the physical aspects of dealing with data volume through to the more statistically challenging aspects of interpreting it. A particular problem is finding causal relationships in the high level of correlative data. Genetic data are particular useful in resolving these issues. I will end with the serendipitous invention of using DNA for an entirely different reason – as a long-time horizon digital archiving material. I will describe this method and some of its benefits (as well as a few downsides) and explain how a future culture in 10,000 years time may still be able to read all of Shakespeare’s sonnets – and perhaps much more.''
-
-Homepage: [https://www.ebi.ac.uk/~birney/ Ewan Birney], Twitter: [https://twitter.com/ewanbirney @ewanbirney]
+''The Human Genome Project established a practice of sharing data rapidly, prior to
+publication, that has since become a model for many projects in genomics. Data 
+sharing has been slow to penetrate other fields because of many factors, some of
+which I will discuss in this talk. Nevertheless, sharing of methods, data, and results
+helps science move ahead faster, and openness is essential for the continual process of 
+checking and self-correction that good science requires. I will discuss some of the 
+successes as well as some noteworthy mistakes that have been discovered thanks to
+open science.''
 
 ----
 [[BOSC_2016|Back to BOSC 2016 home page]]
