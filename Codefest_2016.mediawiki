@@ -66,7 +66,13 @@ If you're not able to physically attend, we're still more than happy to have you
 
 == Logistics ==
 
-We're currently confirming a venue and will add more details.
+Codefest is kindly hosted by [https://familab.org/ FamiLAB], an Orlando community space for creators.
+
+[[File: https://cdn.familab.org/wp-content/uploads/2012/04/Top-Logo3.gif|200px|center|FamiLAB|link=http://familab.org]]
+
+FamiLAB is located north of Orlando International Airport and about an hour drive from the BOSC/ISMB venue at Walt Disney World Swan and Dolphin Hotel. For Codefest, we recommend staying in a hotel near FamiLAB (we will post recommendations soon) and we will use taxi/Uber to get between the venue and hotel. We will organize a shuttle from Codefest to the BOSC venue on the evening of July 7th for everyone attending Codefest. We recommend a taxi/Uber for getting from the Airport to FamiLAB.
+
+We plan to have food and coffee available for everyone attending.
 
 == Sponsors ==
 
