@@ -24,7 +24,7 @@ The goal of Codefest is to bring open source bioinformatics programmers together
 
 == Why attend ==
 
-* For new members of the community: meet and learn with existing open source programmers. First timers are welcome at Codefest.
+* For new members of the community: meet and learn with other open source programmers. There are [https://docs.google.com/document/d/1XQr4xgVneR9PopAdyrGH-DogKju5Lzn30J5Ak2Ugbc4/edit?usp=sharing projects specifically for new attendees, or add your own ideas]. 
 
 * For current community members: expand your network and strengthen existing relationships. Teach and learn from new community members. Focus on open source work without interruptions. Discuss questions and problems in real time. 
 
