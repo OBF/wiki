@@ -64,7 +64,9 @@ interested to [https://docs.google.com/spreadsheets/d/1sJxWzTTt-g8vZtNDac9xeEoYP
 We'll coordinate through the [https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2016 Codefest 2016 mailing list],
 so please sign up to discuss and receive updates.
 
-If you're not able to physically attend, we're still more than happy to have you participate in Codefest. Please sign up on the [https://docs.google.com/spreadsheets/d/1sJxWzTTt-g8vZtNDac9xeEoYPM2lWIB1m7xXkrfc_do/edit?usp=sharing the Google spreadsheet] and list yourself as remote only. We set up a [https://gitter.im/chapmanb/obf-codefest Gitter chat room] we can use to coordinate and discuss in real time and also hope to setup additional remote options to make it easier to be part of Codefest.
+If you're not able to physically attend, we're still more than happy to have you participate in Codefest. Please sign up on the [https://docs.google.com/spreadsheets/d/1sJxWzTTt-g8vZtNDac9xeEoYPM2lWIB1m7xXkrfc_do/edit?usp=sharing the Google spreadsheet] and list yourself as remote only. We have a [https://gitter.im/chapmanb/obf-codefest Gitter chat room] we can use to coordinate and discuss in real time and will have an open Google Hangout to make it easier to be part of Codefest remotely.
+
+Add your [https://docs.google.com/document/d/1XQr4xgVneR9PopAdyrGH-DogKju5Lzn30J5Ak2Ugbc4/edit?usp=sharing project ideas to the shared google document]. The ideas include smaller focused projects and larger work. We want suggestions from everyone and will organize into groups around these during Codefest.
 
 == Logistics ==
 
