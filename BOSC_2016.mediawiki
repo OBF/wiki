@@ -31,7 +31,7 @@ If you would like to be a sponsor of BOSC, please contact us at at bosc@open-bio
 == Important Dates ==
 
 * March 1, 2016: Call for [[BOSC_Abstract_Submission|one-page abstracts]] opens
-* April 1, 2016: Deadline for submitting [[BOSC_Abstract_Submission|abstracts]]
+* April 4, 2016: Deadline for submitting [[BOSC_Abstract_Submission|abstracts]]
 * May 6, 2016: Authors notified
 * [[Codefest 2016]]: July 6-7, 2016, Orlando, FL, USA at [https://familab.org/ FamiLAB]
 * BOSC 2016: July 8-9, 2016, Orlando, FL, USA
