@@ -5,7 +5,7 @@ title: BOSC Abstract Submission
 __NOTOC__
 [[File:Pear.png‎|100px|left|BOSC logo|link=BOSC_2016]]
 
-Submit your one-page abstract today!
+== * * * Click [https://easychair.org/conferences/?conf=bosc2016 here] to submit your abstract! * * * ==
 
 The official deadline for submitting abstracts for BOSC talks is '''April 4, 2016'''; however, we aim to keep a few spots saved for Late-Breaking Lightning Talks and posters. (There will also be a few spots reserved for walk-in posters; however, those will not be listed in the program or on the BOSC website.)
 
