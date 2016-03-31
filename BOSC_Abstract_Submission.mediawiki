@@ -11,6 +11,8 @@ The official deadline for submitting abstracts for BOSC talks is '''April 4, 201
 
 Abstract submission this year is via [https://easychair.org/conferences/?conf=bosc2016 EasyChair].
 
+We plan to offer a limited number of [https://news.obf.io/2016/03/01/obf-travel-fellowship-program/ travel fellowships]  to help offset expenses for some accepted speakers who would not otherwise be able to attend BOSC.  The Travel Fellowship application deadline is April 15.
+
 ----
 
 === Abstract Formatting Requirements ===
