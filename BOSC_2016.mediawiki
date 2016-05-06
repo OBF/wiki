@@ -8,7 +8,7 @@ __NOTOC__
 
 BOSC 2016 will take place '''July 8-9, 2016''', in Orlando, Florida, right before ISMB 2016.
 
-The '''main abstract call has now closed''' but 'we will reopen the call for late-breaking lightning talks and posters soon'. See [[BOSC_Abstract_Submission]] for requirements.
+The '''main abstract call has now closed''' but we will reopen the call for late-breaking lightning talks and posters soon. See [[BOSC_Abstract_Submission]] for requirements.
  
 We plan to offer a limited number of [https://news.obf.io/2016/03/01/obf-travel-fellowship-program/ travel fellowships]  to help offset expenses for some accepted speakers who would not otherwise be able to attend BOSC.
 
