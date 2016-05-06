@@ -51,9 +51,8 @@ We welcome submissions relating to all aspects of bioinformatics and open scienc
 * '''Open Science and Reproducible Research''' -- covers the theory and practice of open science, including open notebook science, open data, transparent and reproducible workflows, and shared standards for reviewing and publishing research papers.
 * '''Standards and Interoperability''' -- includes standards such as ontologies, formats, etc, as well as Open Source approaches to integrating the latest bioinformatics tools, exploring how we can increase tool connectivity and help communities work better together.
 * '''Data Science''' -- encompasses software and approaches to managing, exploring, and analyzing large-scale data to address research questions, such as genome assembly, variant prediction, eQTL analysis, phylogenomics, and epigenetics.
-* '''Visualization''' -- focuses on approaches for interactive as well as static visual representations of biomedical data, ranging from exploration to explanation.
-* '''Translational Bioinformatics''' -- explores applications of biological and medical informatics to the development of personalized healthcare, therapies, and a better understanding of human health and disease. Topics include the analysis of large scale population and family sequencing data, bioinformatics methodologies for clinical research, and tools for discovering clinically useful associations in human databases.
-* '''Bioinformatics Open Source Libraries and Projects''' -- features short talks from new or ongoing projects describing their recent progress. Abstracts will be solicited from open source projects affiliated with the OBF (see http://www.open-bio.org/wiki/Projects), including the Bio* projects, DAS, BioMOBY, EMBOSS, and GMOD, but any other open-source project will be equally eligible to submit abstracts for this session.
+* '''Workflows''' -- focuses on standardized representations and exchange formats for workflows (such as Common Workflow Language) and tools for creating, editing and running workflows.
+* '''Developer Tools and Libraries''' -- includes Bio* libraries such as Biopython, and tools to help developers install or maintain analysis packages, configure web-based services, store and exchange metadata, etc.
 * '''Panel: Growing and sustaining open source communities'''
 
 == Keynote Speakers ==
