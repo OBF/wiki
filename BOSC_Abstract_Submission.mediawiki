@@ -5,13 +5,11 @@ title: BOSC Abstract Submission
 __NOTOC__
 [[File:Pear.png‎|100px|left|BOSC logo|link=BOSC_2016]]
 
-== * * * Click [https://easychair.org/conferences/?conf=bosc2016 here] to submit your abstract! * * * ==
+== * * * Click [https://easychair.org/conferences/?conf=bosc2016 here] to submit your abstract for a Late-Breaking Lightning Talk or Poster! * * * ==
 
-The official deadline for submitting abstracts for BOSC talks is '''April 4, 2016'''; however, we aim to keep a few spots saved for Late-Breaking Lightning Talks and posters. (There will also be a few spots reserved for walk-in posters; however, those will not be listed in the program or on the BOSC website.)
+The official deadline for submitting abstracts for BOSC talks was April 4, 2016. If you missed that deadline, you still have a chance to submit an abstract for consideration for a Late-Breaking Lightning Talk and/or poster. (There will also be a few spots reserved for walk-in posters; however, those will not be listed in the program or on the BOSC website.)
 
-Abstract submission this year is via [https://easychair.org/conferences/?conf=bosc2016 EasyChair].
-
-We plan to offer a limited number of [https://news.obf.io/2016/03/01/obf-travel-fellowship-program/ travel fellowships]  to help offset expenses for some accepted speakers who would not otherwise be able to attend BOSC.  The Travel Fellowship application deadline is April 15.
+Abstract submission this year is via [https://easychair.org/conferences/?conf=bosc2016 EasyChair]. The deadline for submitting your abstract is '''June 2, 2016''' (which is also the last day of early registration for ISMB/BOSC). Authors will be notified of acceptance by June 10.
 
 ----
 
