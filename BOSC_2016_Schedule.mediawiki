@@ -2,6 +2,17 @@
 title: BOSC 2016 Schedule
 ---
 
+__NOTOC__
+[[File:Pear.png|120px|right|BOSC logo|link=BOSC_2016]]
+
+The full program including abstracts will be available soon.
+
+== Pre-BOSC: Codefest 2016  ==
+
+See [[Codefest 2016]] for details.
+
+== BOSC Day 1 (Friday, July 8, 2016) ==
+
 == BOSC 2016 Organizing Committee ==
 
 '''Nomi Harris''' and '''Peter Cock''' (Co-Chairs)
