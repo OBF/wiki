@@ -13,6 +13,18 @@ See [[Codefest 2016]] for details.
 
 == BOSC Day 1 (Friday, July 8, 2016) ==
 
+{| border="1" cellspacing="0" cellpadding="7"
+|- style="background:#D8F781"
+! Time
+! Title
+! Speaker [Poster] / Chair
+|-
+| 7:30-9:00
+| '''Registration'''
+|
+|-
+|}
+
 == BOSC 2016 Organizing Committee ==
 
 '''Nomi Harris''' and '''Peter Cock''' (Co-Chairs)
