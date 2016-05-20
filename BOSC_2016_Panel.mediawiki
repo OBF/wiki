@@ -17,6 +17,8 @@ Panel chair '''Mónica Muñoz-Torres''' ([https://twitter.com/monimunozto @monim
 [[File:bastian.jpg|120px|right|Bastian Greshake]]
 '''Bastian Greshake''' ([https://twitter.com/gedankenstuecke @gedankenstuecke]) is a biologist-turned-bioinformatician, currently working on his PhD in the Group for Applied Bioinformatics at the University of Frankfurt. When not doing research in fungal genomics he's also an open* advocate. In 2011 he co-founded openSNP, a crowdsourced/citizen science open data project that puts personal genetics data into the public domain. Over the course of running openSNP he experienced the different sides of sustaining and growing a scientific open source project which is independent of traditional academic institutions.
 
+[[File:abigail-mayes.jpg|120px|right|Abigail Cabunoc Mayes]]
+'''Abigail Cabunoc Mayes''' ([https://twitter.com/abbycabs @abbycabs]) is the Lead Developer of the [https://mozillascience.org/ Mozilla Science Lab], an initiative of the Mozilla Foundation working to make research collaborative, accessible and usable. She has led development on various open source science projects such as [https://badges.mozillascience.org/ Contributorship Badges for Science] and WormBase. Before joining Mozilla, Abby worked as a bioinformatics software developer at the Ontario Institute for Cancer Research and at Michigan State University. With a background in bioinformatics and computer science, she builds tools that use the web to move science forward.
 
 ----
 
