@@ -9,10 +9,10 @@ Every year, BOSC includes a panel discussion that offers attendees the chance to
 
 Panel chair '''Mónica Muñoz-Torres''' ([https://twitter.com/monimunozto @monimunozto]) is the lead biocurator at Berkeley Bioinformatics Open-Source Projects (BBOP). She is part of the development teams for Web Apollo (a web-based annotation editor designed to support community-based curation of genomes) and the tools of the Gene Ontology (GO) Consortium. She co-leads the Community Curation group within the global initiative to sequence and annotate the genomes of 5,000 arthropods (i5K Initiative), and is a member of the Executive Committee of the International Society for Biocuration (ISB). As a graduate student, Monica founded the first Southeastern Chapter of the Society for Advancement of Hispanics/Chicanos and Native Americans in Science (SACNAS) at Clemson University; the chapter has since been actively involved in outreach activities to local high schools in an attempt to inspire students to pursue careers in STEM.
 
-[[File:natasha-wood.png|250px|left|Natasha Wood]]
+[[File:natasha-wood.png|150px|left|Natasha Wood]]
 '''Natasha Wood''' ([https://twitter.com/natashawood @natasha_wood]) is an NRF Research Career Award Fellow and lecturer in the Department of Integrative Biomedical Sciences at the University of Cape Town, South Africa. Her research includes molecular dynamics and evolutionary modelling of HIV structural and sequence data to better understand the interplay between the virus and host immune system. She promotes the development of the bioinformatics community through training initiatives, hackathons and more social platforms (as co-founder of the Cape Unseminars in Bioinformatics).
 
-[[File:bastian.jpg|250px|right|Bastian Greshake]]
+[[File:bastian.jpg|150px|right|Bastian Greshake]]
 '''Bastian Greshake''' ([https://twitter.com/gedankenstuecke @gedankenstuecke]) is a biologist-turned-bioinformatician, currently working on his PhD in the Group for Applied Bioinformatics at the University of Frankfurt. When not doing research in fungal genomics he's also an open* advocate. In 2011 he co-founded openSNP, a crowdsourced/citizen science open data project that puts personal genetics data into the public domain. Over the course of running openSNP he experienced the different sides of sustaining and growing a scientific open source project which is independent of traditional academic institutions.
 ----
 
