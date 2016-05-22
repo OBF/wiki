@@ -314,6 +314,22 @@ See [[Codefest 2016]] for details.
 |
 |}
 
+=== Posters ===
+
+If a poster presenter also is giving a talk, the poster link will be above. The table below lists poster-only presentations.
+
+{| border="1" cellspacing="0" cellpadding="7"
+|- style="background:#D8F781"
+! Poster
+! Title
+! Presenter
+|-
+| P30
+| 
+| 
+|-
+|}
+
 == BOSC 2016 Organizing Committee ==
 
 '''Nomi Harris''' and '''Peter Cock''' (Co-Chairs)
