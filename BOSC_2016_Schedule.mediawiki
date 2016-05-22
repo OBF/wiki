@@ -15,14 +15,134 @@ See [[Codefest 2016]] for details.
 
 {| border="1" cellspacing="0" cellpadding="7"
 |- style="background:#D8F781"
-! Time
-! Title
-! Speaker [Poster] / Chair
+!'''Time'''
+!'''Title'''
+!'''Speaker [Poster] / Chair'''
 |-
-| 7:30-9:00
-| '''Registration'''
+|7:30-9:00
+|'''Registration'''
 |
 |-
+|9:00-9:15
+|'''Introduction and Welcome'''
+|Nomi Harris and Peter Cock (Co-Chairs, BOSC 2016)
+|- style="background:#EFFBFB"
+|9:15-10:15
+|'''Keynote:''' ''The open-source outbreak: can data prevent the next pandemic?''' 
+|Jennifer Gardy
+|- style="background:#FAF4EE"
+|10:15-10:45
+|'''''Coffee Break'''''
+|
+|- style="background:#E6E6E6"
+|10:45-12:30
+|'''Session: Workflows'''
+|Chair: TBA
+|-
+|10:45- 11:02
+|
+|
+|-
+|11:02-11:19
+|
+|
+|-
+|11:19-11:36
+|
+|
+|-
+|11:36-11:53
+|
+|
+|-
+|11:53-12:10
+|
+|
+|-
+|12:10-12:15
+|
+|
+|-
+|12:15-12:20
+|
+|
+|-
+|12:20-12:25
+|
+|
+|-
+|12:25-12:30
+|
+|
+|- style="background:#F7F8E0"
+|12:30-13:30
+|'''''Lunch'''''
+|
+|-
+|13:00-14:00
+|'''Poster Session and Birds of a Feather sessions''' (overlapping with lunch)
+|
+|- style="background:#E6E6E6"
+|14:00-15:30
+|'''Session: Standards and Interoperability'''
+|Chair: 
+|-
+|14:00-14:17
+|
+|
+|-
+|14:17-14:34
+|
+|
+|-
+|14:34-14:51
+|
+|
+|-
+|14:51-15:08
+|
+|
+|-
+|15:10-15:15
+|
+|
+|-
+|15:15-15:20
+|
+|
+|-
+|15:20-15:25
+|
+|
+|-
+|15:25-15:30
+|
+|
+|- style="background:#FAF4EE"
+|15:30-16:00
+|'''''Coffee Break'''''
+|
+|- style="background:#EFFBFB"
+|16:00-17:00
+|Panel: Growing and sustaining open source communities
+|'''''Moderator''''': Mónica Muñoz-Torres
+
+'''''Panelists''''':  John Chilton, Bastian Greshake, Abigail Cabunoc Mayes, Jamie Whitacre, Natasha Wood
+|-
+|17:00-17:10
+|Open Bioinformatics Foundation (OBF) Update (or do Sat. morning?)
+|
+|-
+|17:10-17:15
+|'''Announcements'''
+|Nomi Harris
+|-
+|17:15-18:30
+|'''BOFs''': Feel free to organize one!
+|
+|-
+|19:00-
+|Pay-your-own-way BOSC dinner (TBA)
 |}
 
 == BOSC 2016 Organizing Committee ==
