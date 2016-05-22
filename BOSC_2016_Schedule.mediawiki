@@ -145,6 +145,175 @@ See [[Codefest 2016]] for details.
 |Pay-your-own-way BOSC dinner (TBA)
 |}
 
+== BOSC Day 2 (Saturday, July 9, 2016) ==
+
+{| border="1" cellspacing="0" cellpadding="7"
+|- style="background:#D8F781"
+!'''Time'''
+!'''Title'''
+!'''Speaker / Chair'''
+|-
+|9:00-9:05
+|'''Announcements'''
+|Peter Cock and Nomi Harris
+|-
+|9:05-9:15
+|Codefest 2016 Report 
+|Brad Chapman (Codefest Organizer)
+|- style="background:#EFFBFB"
+|9:15-10:15
+|'''Keynote:''' '''Open source, open access, and open data: why science moves faster in an open world''
+|Steven Salzberg
+|- style="background:#FAF4EE"
+|10:15-10:45
+|'''''Coffee Break'''''
+|
+|- style="background:#E6E6E6"
+|10:45-12:30
+|Session: ''''Data Science''''
+|
+|-
+|10:45-11:02
+|
+|
+|-
+|11:02-11:19
+|
+|
+|-
+|11:19-11:36
+|
+|
+|-
+|11:36-11:53
+|
+|
+|-
+|11:55-12:00
+|
+|
+|-
+|12:00-12:05
+|
+|
+|-
+|12:05-12:10
+|
+|
+|-
+|12:10-12:15
+|
+|
+|-
+|12:15-12:20
+|
+|
+|-
+|12:20-12:25
+|
+|
+|-
+|12:25-12:30
+|
+|
+|- style="background:#F7F8E0"
+|12:30-13:30
+|'''''Lunch'''''
+|
+|-
+|13:00-14:00
+|'''Poster Session and BOFs (overlapping with lunch)'''
+|
+|- style="background:#E6E6E6"
+|14:00-14:40
+|'''Session: Developer tools and libraries''
+|Chair: Chris Fields
+|-
+|14:00-14:17
+|
+|
+|-
+|14:17-14:34
+|
+|
+|-
+|14:35-14:40
+|
+|
+|- style="background:#E6E6E6"
+|14:40-15:30
+|'''Session: Open Science and Reproducibility''
+|Chair: 
+|-
+|14:40-14:57
+|
+|
+|-
+|14:57-15:14
+|
+|
+|-
+|15:14-15:31
+|
+|
+|- style="background:#FAF4EE"
+|15:30-16:00
+|'''''Coffee Break'''''
+|
+|- style="background:#E6E6E6"
+|16:00-16:30
+|'''Session: Late-Breaking Lightning Talks'''
+|
+|-
+|16:00-16:17
+|
+|
+|-
+|16:17-16:22
+|
+|
+|-
+|16:22-16:27
+|
+|
+|- style="background:#E6E6E6"
+|16:30-17:00
+|'''Session: Late-Breaking Lightning Talks'''
+|
+|-
+|16:30-16:35
+|
+|
+|-
+|16:35-16:40
+|
+|
+|-
+|16:40-16:45
+|
+|
+|-
+|16:45-16:50
+|
+|
+|-
+|16:50-16:55
+|
+|
+|-
+|16:55-17:00
+|Concluding remarks
+|Nomi Harris and Peter Cock
+|-
+|17:00-18:30
+|''BOFs''': Feel free to organize one!
+|
+|-
+|19:00
+| Pay-your-own-way dinner (TBA)
+|
+|}
+
 == BOSC 2016 Organizing Committee ==
 
 '''Nomi Harris''' and '''Peter Cock''' (Co-Chairs)
