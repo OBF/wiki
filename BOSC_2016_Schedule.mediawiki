@@ -310,7 +310,7 @@ See [[Codefest 2016]] for details.
 |
 |}
 
-=== Posters ===
+== Posters ==
 
 If a poster presenter also is giving a talk, the poster link will be above. The table below lists poster-only presentations.
 
