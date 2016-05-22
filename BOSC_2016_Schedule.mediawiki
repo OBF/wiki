@@ -28,7 +28,7 @@ See [[Codefest 2016]] for details.
 |Nomi Harris and Peter Cock (Co-Chairs, BOSC 2016)
 |- style="background:#EFFBFB"
 |9:15-10:15
-|'''Keynote:''' ''The open-source outbreak: can data prevent the next pandemic?''' 
+|'''Keynote''': ''The open-source outbreak: can data prevent the next pandemic?''
 |Jennifer Gardy
 |- style="background:#FAF4EE"
 |10:15-10:45
