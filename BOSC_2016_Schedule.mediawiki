@@ -162,7 +162,7 @@ See [[Codefest 2016]] for details.
 |Brad Chapman (Codefest Organizer)
 |- style="background:#EFFBFB"
 |9:15-10:15
-|'''Keynote:''' '''Open source, open access, and open data: why science moves faster in an open world''
+|'''Keynote''': ''Open source, open access, and open data: why science moves faster in an open world''
 |Steven Salzberg
 |- style="background:#FAF4EE"
 |10:15-10:45
@@ -170,7 +170,7 @@ See [[Codefest 2016]] for details.
 |
 |- style="background:#E6E6E6"
 |10:45-12:30
-|Session: ''''Data Science''''
+|'''Session: Data Science'''
 |
 |-
 |10:45-11:02
@@ -226,7 +226,7 @@ See [[Codefest 2016]] for details.
 |
 |- style="background:#E6E6E6"
 |14:00-14:40
-|'''Session: Developer tools and libraries''
+|'''Session: Developer tools and libraries'''
 |Chair: Chris Fields
 |-
 |14:00-14:17
@@ -242,7 +242,7 @@ See [[Codefest 2016]] for details.
 |
 |- style="background:#E6E6E6"
 |14:40-15:30
-|'''Session: Open Science and Reproducibility''
+|'''Session: Open Science and Reproducibility'''
 |Chair: 
 |-
 |14:40-14:57
@@ -261,7 +261,7 @@ See [[Codefest 2016]] for details.
 |'''''Coffee Break'''''
 |
 |- style="background:#E6E6E6"
-|16:00-16:30
+|16:00-17:00
 |'''Session: Late-Breaking Lightning Talks'''
 |
 |-
@@ -275,10 +275,6 @@ See [[Codefest 2016]] for details.
 |-
 |16:22-16:27
 |
-|
-|- style="background:#E6E6E6"
-|16:30-17:00
-|'''Session: Late-Breaking Lightning Talks'''
 |
 |-
 |16:30-16:35
@@ -306,7 +302,7 @@ See [[Codefest 2016]] for details.
 |Nomi Harris and Peter Cock
 |-
 |17:00-18:30
-|''BOFs''': Feel free to organize one!
+|'''BOFs''': Feel free to organize one!
 |
 |-
 |19:00
