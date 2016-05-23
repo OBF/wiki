@@ -15,10 +15,10 @@ Every year, BOSC includes a panel discussion that offers attendees the chance to
 |[[File:abigail-mayes.jpg|120px|left|Abigail Cabunoc Mayes]]
 |'''Abigail Cabunoc Mayes''' ([https://twitter.com/abbycabs @abbycabs]) is the Lead Developer of the [https://mozillascience.org/ Mozilla Science Lab], an initiative of the Mozilla Foundation working to make research collaborative, accessible and usable. She has led development on various open source science projects such as [https://badges.mozillascience.org/ Contributorship Badges for Science] and WormBase. Before joining Mozilla, Abby worked as a bioinformatics software developer at the Ontario Institute for Cancer Research and at Michigan State University. With a background in bioinformatics and computer science, she builds tools that use the web to move science forward.
 |-
-|[[File:bastian.jpg|120px|right|Bastian Greshake]]
+|[[File:bastian.jpg|120px|left|Bastian Greshake]]
 |'''Bastian Greshake''' ([https://twitter.com/gedankenstuecke @gedankenstuecke]) is a biologist-turned-bioinformatician, currently working on his PhD in the Group for Applied Bioinformatics at the University of Frankfurt. When not doing research in fungal genomics he's also an open* advocate. In 2011 he co-founded openSNP, a crowdsourced/citizen science open data project that puts personal genetics data into the public domain. Over the course of running openSNP he experienced the different sides of sustaining and growing a scientific open source project which is independent of traditional academic institutions.
 |-
-|[[File:jamie-whitacre.jpg|120px|right|Jamie Whitacre]]
+|[[File:jamie-whitacre.jpg|120px|left|Jamie Whitacre]]
 Jamie Whitacre is the technical project manager for Project Jupyter, which was born out of the IPython Notebook in 2014. Jupyter is a web application that allows users to perform exploratory data analysis and create and share documents that contain live code, equations, visualizations and explanatory text. Before joining Project Jupyter, Jamie worked with the Smithsonian’s National Museum of Natural History building out scientific workflows and databases for several genetics and genomics initiatives. Jamie works from the Berkeley Institute for Data Science and is an affiliate of the Lawrence Berkeley National Laboratory.
 |-
 |[[File:natasha-wood.png|120px|left|Natasha Wood]]
