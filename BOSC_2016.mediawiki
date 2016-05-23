@@ -49,7 +49,7 @@ We welcome submissions relating to all aspects of bioinformatics and open scienc
 * '''Data Science''' -- encompasses software and approaches to managing, exploring, and analyzing large-scale data to address research questions, such as genome assembly, variant prediction, eQTL analysis, phylogenomics, and epigenetics.
 * '''Workflows''' -- focuses on standardized representations and exchange formats for workflows (such as Common Workflow Language) and tools for creating, editing and running workflows.
 * '''Developer Tools and Libraries''' -- includes Bio* libraries such as Biopython, and tools to help developers install or maintain analysis packages, configure web-based services, store and exchange metadata, etc.
-* '''Panel: Growing and sustaining open source communities'''
+* [[BOSC_2016_Panel|'''Panel: Growing and sustaining open source communities''']]
 
 == Keynote Speakers ==
 
