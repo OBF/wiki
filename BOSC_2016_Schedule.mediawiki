@@ -83,37 +83,30 @@ See [[Codefest 2016]] for details.
 |'''Session: Standards and Interoperability'''
 |Chair: 
 |-
-|14:00-14:17
-|
-|
+|TIME
+|Enhancements to MISO: An open-source community-driven LIMS
+|Andre Masella
 |-
-|14:17-14:34
-|
-|
+|TIME
+|Biothings APIs: high-performance bioentity-centric web services
+|Chunlei Wu
 |-
-|14:34-14:51
-|
-|
+|TIME
+|The Noctua Modeling Tool
+|Seth Carbon
 |-
-|14:51-15:08
-|
-|
+|TIME
+|Processing phenotype data using Phenopackets-API and PXFTools
+|Chris Mungall
 |-
-|15:10-15:15
-|
-|
+|TIME
+|The EDAM Ontology
+|Jon Ison
 |-
-|15:15-15:20
-|
-|
+|TIME
+|Towards traceable, scriptable, and efficient data distribution for next-generation genomics
+|Hilmar Lapp
 |-
-|15:20-15:25
-|
-|
-|-
-|15:25-15:30
-|
-|
 |- style="background:#FAF4EE"
 |15:30-16:00
 |'''''Coffee Break'''''
