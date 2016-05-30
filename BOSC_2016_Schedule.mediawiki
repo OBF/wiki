@@ -113,7 +113,7 @@ See [[Codefest 2016]] for details.
 |
 |- style="background:#EFFBFB"
 |16:00-17:00
-|Panel: Growing and sustaining open source communities
+|[[BOSC_2016_Panel|Panel: Growing and sustaining open source communities]]
 |'''''Moderator''''': Mónica Muñoz-Torres
 
 '''''Panelists''''':  John Chilton, Bastian Greshake, Abigail Cabunoc Mayes, Jamie Whitacre, Natasha Wood
