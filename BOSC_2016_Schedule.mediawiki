@@ -116,7 +116,7 @@ See [[Codefest 2016]] for details.
 |[[BOSC_2016_Panel|Panel: Growing and sustaining open source communities]]
 |'''''Moderator''''': Mónica Muñoz-Torres
 
-'''''Panelists''''':  John Chilton, Bastian Greshake, Abigail Cabunoc Mayes,<br>Jamie Whitacre, Natasha Wood
+'''''Panelists''''':  Abigail Cabunoc Mayes, Bastian Greshake, <br>Jamie Whitacre, John Chilton, Natasha Wood
 |-
 |17:00-17:10
 |Open Bioinformatics Foundation (OBF) Update (or do Sat. morning?)
