@@ -17,7 +17,7 @@ See [[Codefest 2016]] for details.
 |- style="background:#D8F781"
 !'''Time'''
 !'''Title'''
-!'''Speaker [Poster] / Chair'''
+!'''Speaker or Session Chair'''
 |-
 |7:30-9:00
 |'''Registration'''
@@ -126,13 +126,13 @@ See [[Codefest 2016]] for details.
 |'''Announcements'''
 |Nomi Harris
 |-
-|17:15-18:30
+|17:00-18:30
 |'''BOFs''': Feel free to organize one!
 |
 |-
-|19:00-
-|Pay-your-own-way BOSC dinner (TBA)
-|-
+|19:00
+| Pay-your-own-way dinner (TBA)
+|
 |}
 
 == BOSC Day 2 (Saturday, July 9, 2016) ==
