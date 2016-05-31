@@ -167,31 +167,31 @@ See [[Codefest 2016]] for details.
 |'''Session: Data Science'''
 |
 |-
-|TIME
+|10:45-11:03
 |Mango: Data Exploration on Large Genomic Datasets
 |Alyssa Morrow
 |-
-|TIME
+|11:03-11:21
 |ADAM Enables Distributed Analyses Across Large Scale Genomic Datasets
 |Frank Nothaft
 |-
-|TIME
+|11:21-11:39
 |SUPERSMART - A Self-Updating platform for Estimating Rates of Speciation and Migration, Ages, and<br>Relationships of Taxa
 |Hannes Hettling
 |-
-|TIME
+|11:39-11:57
 |Characterization of the small RNA transcriptome using the bcbio-nextgen python framework
 |Lorena Pantano Rubino
 |-
-|TIME
+|11:57-12:15
 |MetaR: simple, high-level languages for data analysis with the R ecosystem
 |Fabien Campagne
 |-
-|TIME
+|12:15-12:20
 |Development of NGSEP as an open-source comprehensive solution for analysis of high throughput sequencing data
 |Jorge Duitama
 |-
-|TIME
+|12:21-12:26
 |GRNmap and GRNsight: open source software for dynamical systems modeling and visualization of medium-scale<br>gene regulatory networks
 |Kam D. Dahlquist
 |- style="background:#F7F8E0"
