@@ -140,7 +140,7 @@ See [[Codefest 2016]] for details.
 |- style="background:#D8F781"
 !'''Time'''
 !'''Title'''
-!'''Speaker / Chair'''
+!'''Speaker or Session Chair'''
 |-
 |9:00-9:05
 |'''Announcements'''
@@ -162,49 +162,33 @@ See [[Codefest 2016]] for details.
 |'''Session: Data Science'''
 |
 |-
-|10:45-11:02
-|
-|
+|TIME
+|Mango: Data Exploration on Large Genomic Datasets
+|Alyssa Morrow
 |-
-|11:02-11:19
-|
-|
+|TIME
+|ADAM Enables Distributed Analyses Across Large Scale Genomic Datasets
+|Frank Nothaft
 |-
-|11:19-11:36
-|
-|
+|TIME
+|SUPERSMART - A Self-Updating platform for Estimating Rates of Speciation and Migration, Ages, and Relationships of Taxa
+|Hannes Hettling
 |-
-|11:36-11:53
-|
-|
+|TIME
+|Characterization of the small RNA transcriptome using the bcbio-nextgen python framework
+|Lorena Pantano Rubino
 |-
-|11:55-12:00
-|
-|
+|TIME
+|MetaR: simple, high-level languages for data analysis with the R ecosystem
+|Fabien Campagne
 |-
-|12:00-12:05
-|
-|
+|TIME
+|Development of NGSEP as an open-source comprehensive solution for analysis of high throughput sequencing data
+|Jorge Duitama
 |-
-|12:05-12:10
-|
-|
-|-
-|12:10-12:15
-|
-|
-|-
-|12:15-12:20
-|
-|
-|-
-|12:20-12:25
-|
-|
-|-
-|12:25-12:30
-|
-|
+|TIME
+|GRNmap and GRNsight: open source software for dynamical systems modeling and visualization of medium-scale gene regulatory networks
+|Kam D. Dahlquist
 |- style="background:#F7F8E0"
 |12:30-13:30
 |'''''Lunch'''''
@@ -218,33 +202,45 @@ See [[Codefest 2016]] for details.
 |'''Session: Developer tools and libraries'''
 |Chair: Chris Fields
 |-
-|14:00-14:17
-|
-|
+|TIME
+|Biopython Project Update 2016
+|Christian Brueffer
 |-
-|14:17-14:34
-|
-|
+|TIME
+|Sequenceserver: a modern graphical user interface for custom BLAST databases
+|Anurag Priyam
 |-
-|14:35-14:40
-|
-|
+|TIME
+|Linuxbrew and Homebrew-Science to Navigate the Software Dependency Labyrinth
+|Shaun Jackman
+|-
+|TIME
+|SnoVault and encodeD: A novel object-based storage system and applications to ENCODE metadata
+|Benjamin Hitz
 |- style="background:#E6E6E6"
 |14:40-15:30
 |'''Session: Open Science and Reproducibility'''
 |Chair: 
 |-
-|14:40-14:57
-|
-|
+|TIME
+|State of the openSNP.org Union: Dockerizing, Crowdfunding & Opening for Contributors
+|Bastian Greshake
 |-
-|14:57-15:14
-|
-|
+|TIME
+|The GenePattern Notebook Environment
+|Michael Reich
 |-
-|15:14-15:31
-|
-|
+|TIME
+|Reproducibility in computationally intensive workflows with continuous analysis
+|Brett K Beaulieu-Jones
+|-
+|TIME
+|ReportMD: Writing complex scientific reports in R
+|Peter Humburg
+|-
+|TIME
+|Reproducible Research in the Cloud with the Refinery Platform
+|Nils Gehlenborg
 |- style="background:#FAF4EE"
 |15:30-16:00
 |'''''Coffee Break'''''
@@ -254,15 +250,23 @@ See [[Codefest 2016]] for details.
 |'''Session: Late-Breaking Lightning Talks'''
 |
 |-
-|16:00-16:17
+|16:00-16:05
 |
 |
 |-
-|16:17-16:22
+|16:06-16:11
 |
 |
 |-
-|16:22-16:27
+|16:12-16:17
+|
+|
+|-
+|16:18-16:23
+|
+|
+|-
+|16:24-16:29
 |
 |
 |-
@@ -271,22 +275,10 @@ See [[Codefest 2016]] for details.
 |
 |-
 |16:35-16:40
-|
-|
-|-
-|16:40-16:45
-|
+|Questions for lightning talk presenters
 |
 |-
-|16:45-16:50
-|
-|
-|-
-|16:50-16:55
-|
-|
-|-
-|16:55-17:00
+|16:40-16:50
 |Concluding remarks
 |Nomi Harris and Peter Cock
 |-
