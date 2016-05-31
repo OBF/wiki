@@ -152,7 +152,7 @@ See [[Codefest 2016]] for details.
 |Peter Cock and Nomi Harris
 |-
 |9:05-9:15
-|Codefest 2016 Report 
+|[[Codefest_2016|Codefest 2016]] Report 
 |Brad Chapman (Codefest Organizer)
 |- style="background:#EFFBFB"
 |9:15-10:15
