@@ -39,39 +39,39 @@ See [[Codefest 2016]] for details.
 |'''Session: Workflows'''
 |Chair: TBA
 |-
-|10:45-11:05
+|10:45-11:03
 |GenomeSpace: Open source interoperability platform with crowd-sourced analysis recipes
 |Ted Liefeld
 |-
-|11:05-11:25
+|11:03-11:21
 |This is Why We Can Have Nice Things: Getting to 1.0 of the Common Workflow Language
 |Michael R. Crusoe
 |-
-|11:25-11:45
+|11:21-11:39
 |CWL in Practice: Experiences, challenges, and results from adopting Common Workflow Language
 |Dan Leehr
 |-
-|11:45-12:05
+|11:39-11:57
 |Using the Common Workflow Language (CWL) to run portable workflows with Arvados and Toil
 |Peter Amstutz
 |-
-|12:05-12:10
+|11:57-12:03
 |Planemo – A Scientific Workflow SDK
 |John Chilton
 |-
-|12:11-12:16
+|12:04-12:09
 |Sample Size Does Matter: Scaling Up Analysis in Galaxy with Metagenomics
 |Daniel Blankenberg
 |-
-|12:17-12:22
+|12:10-12:15
 |NextflowWorkbench: Reproducible and Reusable Workflows for Beginners and Experts
 |Fabien Campagne
 |-
-|12:23-12:28
+|12:16-12:21
 |Promoting platform interoperability with portable bcbio workflows
 |Brad Chapman
 |-
-|12:28-12:32
+|12:21-12:26
 |Questions for lightning talk speakers in this session
 |
 |- style="background:#F7F8E0"
@@ -87,27 +87,27 @@ See [[Codefest 2016]] for details.
 |'''Session: Standards and Interoperability'''
 |Chair: 
 |-
-|14:00-14:20
+|14:00-14:18
 |Enhancements to MISO: An open-source community-driven LIMS
 |Andre Masella
 |-
-|14:20-14:40
+|14:18-14:36
 |Biothings APIs: high-performance bioentity-centric web services
 |Chunlei Wu
 |-
-|14:40-15:00
+|14:36-14:54
 |The Noctua Modeling Tool
 |Seth Carbon
 |-
-|15:00-15:20
+|14:54-15:12
 |Processing phenotype data using Phenopackets-API and PXFTools
 |Chris Mungall
 |-
-|15:20-15:25
+|15:12-15:17
 |The EDAM Ontology
 |Jon Ison
 |-
-|15:26-15:31
+|15:18-15:23
 |Towards traceable, scriptable, and efficient data distribution for next-generation genomics
 |Hilmar Lapp
 |-
@@ -130,7 +130,7 @@ See [[Codefest 2016]] for details.
 |'''Announcements'''
 |Nomi Harris
 |-
-|17:00-18:30
+|17:15-18:30
 |'''BOFs''': Feel free to organize one!
 |
 |-
