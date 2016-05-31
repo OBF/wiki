@@ -39,37 +39,41 @@ See [[Codefest 2016]] for details.
 |'''Session: Workflows'''
 |Chair: TBA
 |-
-|TIME
+|10:45-11:05
 |GenomeSpace: Open source interoperability platform with crowd-sourced analysis recipes
 |Ted Liefeld
 |-
-|TIME
+|11:05-11:25
 |This is Why We Can Have Nice Things: Getting to 1.0 of the Common Workflow Language
 |Michael R. Crusoe
 |-
-|TIME
+|11:25-11:45
 |CWL in Practice: Experiences, challenges, and results from adopting Common Workflow Language
 |Dan Leehr
 |-
-|TIME
+|11:45-12:05
 |Using the Common Workflow Language (CWL) to run portable workflows with Arvados and Toil
 |Peter Amstutz
 |-
-|TIME
+|12:05-12:10
 |Planemo – A Scientific Workflow SDK
 |John Chilton
 |-
-|TIME
+|12:11-12:16
 |Sample Size Does Matter: Scaling Up Analysis in Galaxy with Metagenomics
 |Daniel Blankenberg
 |-
-|TIME
+|12:17-12:22
 |NextflowWorkbench: Reproducible and Reusable Workflows for Beginners and Experts
 |Fabien Campagne
 |-
-|TIME
+|12:23-12:28
 |Promoting platform interoperability with portable bcbio workflows
 |Brad Chapman
+|-
+|12:28-12:32
+|Questions for lightning talk speakers in this session
+|
 |- style="background:#F7F8E0"
 |12:30-13:30
 |'''''Lunch'''''
@@ -83,27 +87,27 @@ See [[Codefest 2016]] for details.
 |'''Session: Standards and Interoperability'''
 |Chair: 
 |-
-|TIME
+|14:00-14:20
 |Enhancements to MISO: An open-source community-driven LIMS
 |Andre Masella
 |-
-|TIME
+|14:20-14:40
 |Biothings APIs: high-performance bioentity-centric web services
 |Chunlei Wu
 |-
-|TIME
+|14:40-15:00
 |The Noctua Modeling Tool
 |Seth Carbon
 |-
-|TIME
+|15:00-15:20
 |Processing phenotype data using Phenopackets-API and PXFTools
 |Chris Mungall
 |-
-|TIME
+|15:20-15:25
 |The EDAM Ontology
 |Jon Ison
 |-
-|TIME
+|15:26-15:31
 |Towards traceable, scriptable, and efficient data distribution for next-generation genomics
 |Hilmar Lapp
 |-
