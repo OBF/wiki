@@ -188,7 +188,7 @@ See [[Codefest 2016]] for details.
 |Jorge Duitama
 |-
 |TIME
-|GRNmap and GRNsight: open source software for dynamical systems modeling and visualization of medium-scale gene regulatory networks
+|GRNmap and GRNsight: open source software for dynamical systems modeling and visualization of medium-scale<br>gene regulatory networks
 |Kam D. Dahlquist
 |- style="background:#F7F8E0"
 |12:30-13:30
