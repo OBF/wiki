@@ -172,7 +172,7 @@ See [[Codefest 2016]] for details.
 |Frank Nothaft
 |-
 |TIME
-|SUPERSMART - A Self-Updating platform for Estimating Rates of Speciation and Migration, Ages, and Relationships of Taxa
+|SUPERSMART - A Self-Updating platform for Estimating Rates of Speciation and Migration, Ages, and<br>Relationships of Taxa
 |Hannes Hettling
 |-
 |TIME
