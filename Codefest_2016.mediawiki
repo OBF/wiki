@@ -92,6 +92,10 @@ We plan to have food and coffee available for everyone attending.
 
 We're looking for sponsors interested in being involved with the open source community. If interested, please get in touch with [https://github.com/chapmanb Brad].
 
+== Related Events ==
+
+Immediately after our CodeFest, as part of  [http://www.iscb.org/ismb2016 ISMB 2016] (including our annual meeting [[BOSC 2016]]), there is a [http://www.iscb.org/ismb2016program/hackathon Sequence-Structure Moonlight Hackathon] being organised by the NCBI and RCSB PDB with the ISCB. Note this has a formal registration system, with a fee unless already registered for the main ISMB meeting.
+
 == Organizers ==
 
 * [http://bcb.io/ Brad Chapman]
