@@ -37,7 +37,7 @@ See [[Codefest 2016]] for details.
 |- style="background:#E6E6E6"
 |10:45-12:30
 |'''Session: Workflows'''
-|Chair: TBA
+|Chair: Brad Chapman
 |-
 |10:45-11:03
 |GenomeSpace: Open source interoperability platform with crowd-sourced analysis recipes
@@ -85,7 +85,7 @@ See [[Codefest 2016]] for details.
 |- style="background:#E6E6E6"
 |14:00-15:30
 |'''Session: Standards and Interoperability'''
-|Chair: 
+|Chair: Hilmar Lapp
 |-
 |14:00-14:18
 |Enhancements to MISO: An open-source community-driven LIMS
