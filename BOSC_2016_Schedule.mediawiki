@@ -207,19 +207,19 @@ See [[Codefest 2016]] for details.
 |'''Session: Developer tools and libraries'''
 |Chair: Chris Fields
 |-
-|TIME
+|14:00-14:18
 |Biopython Project Update 2016
 |Christian Brueffer
 |-
-|TIME
+|14:18-14:23
 |Sequenceserver: a modern graphical user interface for custom BLAST databases
 |Anurag Priyam
 |-
-|TIME
+|14:24-14:29
 |Linuxbrew and Homebrew-Science to Navigate the Software Dependency Labyrinth
 |Shaun Jackman
 |-
-|TIME
+|14:30-14:35
 |SnoVault and encodeD: A novel object-based storage system and applications to ENCODE metadata
 |Benjamin Hitz
 |- style="background:#E6E6E6"
@@ -227,25 +227,25 @@ See [[Codefest 2016]] for details.
 |'''Session: Open Science and Reproducibility'''
 |Chair: 
 |-
-|TIME
+|14:40-14:58
 |State of the openSNP.org Union: Dockerizing, Crowdfunding & Opening for Contributors
 |Bastian Greshake
 |-
-|TIME
+|14:58-15:16
 |The GenePattern Notebook Environment
 |Michael Reich
 |-
-|TIME
+|15:16-15:21
 |Reproducibility in computationally intensive workflows with continuous analysis
 |Brett K Beaulieu-Jones
 |-
-|TIME
-|ReportMD: Writing complex scientific reports in R
-|Peter Humburg
-|-
-|TIME
+|15:22-15:27
 |Reproducible Research in the Cloud with the Refinery Platform
 |Nils Gehlenborg
+|-
+|15:28-15:33
+|ReportMD: Writing complex scientific reports in R
+|Peter Humburg
 |- style="background:#FAF4EE"
 |15:30-16:00
 |'''''Coffee Break'''''
