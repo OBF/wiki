@@ -165,7 +165,7 @@ See [[Codefest 2016]] for details.
 |- style="background:#E6E6E6"
 |10:45-12:30
 |'''Session: Data Science'''
-|
+| Chair: Heather Wiencko
 |-
 |10:45-11:03
 |Mango: Data Exploration on Large Genomic Datasets
@@ -225,7 +225,7 @@ See [[Codefest 2016]] for details.
 |- style="background:#E6E6E6"
 |14:40-15:30
 |'''Session: Open Science and Reproducibility'''
-|Chair: 
+|Chair: Peter Cock
 |-
 |14:40-14:58
 |State of the openSNP.org Union: Dockerizing, Crowdfunding & Opening for Contributors
@@ -253,7 +253,7 @@ See [[Codefest 2016]] for details.
 |- style="background:#E6E6E6"
 |16:00-17:00
 |'''Session: Late-Breaking Lightning Talks'''
-|
+| Chair: Karsten Hokamp
 |-
 |16:00-16:05
 |
