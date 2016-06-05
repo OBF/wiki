@@ -71,7 +71,7 @@ This year's keynote speakers will be Jennifer Gardy (University of British Colum
 * Karsten Hokamp (Smurfit Institute of Genetics, Trinity College Dublin, Ireland)
 * [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp] (Center for Genomic and Computational Biology (GCB), Duke University)
 * [http://berkeleybop.org/person/monica-munoz-torres Mónica Muñoz-Torres]  (Berkeley Bioinformatics Open Source Projects)
-* Heather Wiencko (Equinome Ltd.)
+* Heather Wiencko (PlusVital)
 
 == Previous BOSCs ==
 
