@@ -109,7 +109,7 @@ See [[Codefest 2016]] for details.
 |-
 |15:18-15:23
 |Towards traceable, scriptable, and efficient data distribution for next-generation genomics
-|Hilmar Lapp
+|John Bradley
 |-
 |- style="background:#FAF4EE"
 |15:30-16:00
