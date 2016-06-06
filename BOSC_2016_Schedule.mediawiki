@@ -306,7 +306,7 @@ If a poster presenter also is giving a talk, the poster link will be above. The 
 ! Title
 ! Presenter
 |-
-| P30
+| 
 | 
 | 
 |-
