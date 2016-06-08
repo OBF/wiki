@@ -9,7 +9,7 @@ The full program including abstracts will be available soon.
 
 == Pre-BOSC: Codefest 2016  ==
 
-See [[Codefest 2016]] for details.
+The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. It is FREE and open to all (even if you're not attending BOSC). See [[Codefest 2016]] for details.
 
 == BOSC Day 1 (Friday, July 8, 2016) ==
 
