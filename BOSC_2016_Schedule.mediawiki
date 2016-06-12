@@ -256,28 +256,28 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 | Chair: Karsten Hokamp
 |-
 |16:00-16:05
-|
-|
+|Apollo Genome Annotation Editor: Latest Updates, Including Galaxy Integration
+|Mónica C. Muñoz-Torres
 |-
 |16:06-16:11
-|
-|
+|MoCA : A Tool for Motif Conservation Analysis
+|Saket Choudhary
 |-
 |16:12-16:17
-|
-|
+|PDB on steroids – compressive structural bioinformatics
+|Peter Rose
 |-
 |16:18-16:23
-|
-|
+|Puzzle: VCF/GEMINI interface for genetic disease analysis
+|Robin Andeer
 |-
 |16:24-16:29
-|
-|
+|Modernization of the Cytoscape ecosystem
+|Keiichiro Ono
 |-
 |16:30-16:35
-|
-|
+|Collaborative Software Development: Lessons from Open Source
+|Abigail Cabunoc Mayes
 |-
 |16:35-16:40
 |Questions for lightning talk presenters
