@@ -55,23 +55,23 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Using the Common Workflow Language (CWL) to run portable workflows with Arvados and Toil
 |Peter Amstutz
 |-
-|11:57-12:03
+|11:57-12:02
 |Planemo – A Scientific Workflow SDK
 |John Chilton
 |-
-|12:04-12:09
+|12:03-12:08
 |Sample Size Does Matter: Scaling Up Analysis in Galaxy with Metagenomics
 |Daniel Blankenberg
 |-
-|12:10-12:15
+|12:09-12:14
 |NextflowWorkbench: Reproducible and Reusable Workflows for Beginners and Experts
 |Fabien Campagne
 |-
-|12:16-12:21
+|12:15-12:20
 |Promoting platform interoperability with portable bcbio workflows
 |Brad Chapman
 |-
-|12:21-12:26
+|12:20-12:25
 |Questions for lightning talk speakers in this session
 |
 |- style="background:#F7F8E0"
