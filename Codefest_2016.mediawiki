@@ -90,7 +90,15 @@ We plan to have food and coffee available for everyone attending.
 
 == Sponsors ==
 
-We're looking for sponsors interested in being involved with the open source community. If interested, please get in touch with [https://github.com/chapmanb Brad].
+{|
+| [[File:Curoverse_logo.png|175px|center|Curoverse logo|link=http://curoverse.com]]
+|-
+| [[File: Arvados.png|150px|center|Arvados logo|link=http://arvados.org]]
+|}
+
+We thank [http://curoverse.com Curoverse] for sponsoring the BOSC CodeFest 2016 once again.
+
+We're looking for additional sponsors interested in being involved with the open source community. If interested, please get in touch with [https://github.com/chapmanb Brad].
 
 == Related Events ==
 
