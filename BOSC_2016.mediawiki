@@ -25,7 +25,8 @@ Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter
 BOSC is organised by the [[Main_Page|Open Bioinformatics Foundation]], a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community.
 
 We gratefully accept sponsorships from relevant private companies. These sponsorships enable us to offer free registration to some BOSC speakers to lower the financial barrier of their attendance.
-If you would like to be a sponsor of BOSC, please contact us at at bosc@open-bio.org.
+
+If you would like to be a sponsor of BOSC, please contact us at bosc@open-bio.org.
 
 == Important Dates ==
 
