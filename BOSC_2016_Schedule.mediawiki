@@ -268,10 +268,6 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Apollo Genome Annotation Editor: Latest Updates, Including Galaxy Integration
 |Mónica C. Muñoz-Torres
 |-
-|16:06-16:11
-|MoCA : A Tool for Motif Conservation Analysis
-|Saket Choudhary
-|-
 |16:12-16:17
 |PDB on steroids – compressive structural bioinformatics
 |Peter Rose
