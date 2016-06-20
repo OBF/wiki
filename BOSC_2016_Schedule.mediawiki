@@ -315,9 +315,29 @@ If a poster presenter also is giving a talk, the poster link will be above. The 
 ! Title
 ! Presenter
 |-
-| 
-| 
-| 
+| 24
+| Lightweight sample labeling, barcoding and tracking systems for the academic laboratory
+| Dimitra Sarantopoulou
+|-
+| 25
+| Kronos: a workflow assembler for genome analytics and informatics
+| Jafar Taghiyar
+|-
+| 26
+| PhyPipe: an automated pipeline for phylogenetic reconstruction from multilocus sequences
+| Javier Correa Alvarez
+|-
+| 27
+| HUBzero®: an open source platform for scientific exploration in bioinformatics and medical informatics
+| Michael Zentner
+|-
+| 28
+| An invitation to the bioinformatics community to participate in the HUBzero® open source release
+| Michael Zentner
+|-
+| 29
+| Skip the line and balance your work with vQ
+| Gregory Zynda
 |-
 |}
 
