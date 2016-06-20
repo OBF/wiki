@@ -26,7 +26,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |- style="background:#D8F781"
 !'''Time'''
 !'''Title'''
-!'''Speaker or Session Chair'''
+!'''Speaker [Poster] / Chair'''
 |-
 |7:30-9:00
 |'''Registration'''
@@ -50,15 +50,15 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |-
 |10:45-11:03
 |GenomeSpace: Open source interoperability platform with crowd-sourced analysis recipes
-|Ted Liefeld [1]
+|Ted Liefeld [P1]
 |-
 |11:03-11:21
 |This is Why We Can Have Nice Things: Getting to 1.0 of the Common Workflow Language
-|Michael R. Crusoe [2]
+|Michael R. Crusoe [P2]
 |-
 |11:21-11:39
 |CWL in Practice: Experiences, challenges, and results from adopting Common Workflow Language
-|Dan Leehr [3]
+|Dan Leehr [P3]
 |-
 |11:39-11:57
 |Using the Common Workflow Language (CWL) to run portable workflows with Arvados and Toil
@@ -74,7 +74,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |-
 |12:09-12:14
 |NextflowWorkbench: Reproducible and Reusable Workflows for Beginners and Experts
-|Fabien Campagne [4]
+|Fabien Campagne [P4]
 |-
 |12:15-12:20
 |Promoting platform interoperability with portable bcbio workflows
@@ -102,11 +102,11 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |-
 |14:18-14:36
 |Biothings APIs: high-performance bioentity-centric web services
-|Chunlei Wu [5]
+|Chunlei Wu [P5]
 |-
 |14:36-14:54
 |The Noctua Modeling Tool
-|Seth Carbon [6]
+|Seth Carbon [P6]
 |-
 |14:54-15:12
 |Processing phenotype data using Phenopackets-API and PXFTools
@@ -114,11 +114,11 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |-
 |15:12-15:17
 |The EDAM Ontology
-|Jon Ison [7]
+|Jon Ison [P7]
 |-
 |15:18-15:23
 |Towards traceable, scriptable, and efficient data distribution for next-generation genomics
-|John Bradley [8]
+|John Bradley [P8]
 |-
 |- style="background:#FAF4EE"
 |15:30-16:00
@@ -154,7 +154,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |- style="background:#D8F781"
 !'''Time'''
 !'''Title'''
-!'''Speaker or Session Chair'''
+!'''Speaker [Poster] / Chair'''
 |-
 |9:00-9:05
 |'''Announcements'''
@@ -178,7 +178,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |-
 |10:45-11:03
 |Mango: Data Exploration on Large Genomic Datasets
-|Alyssa Morrow [9]
+|Alyssa Morrow [P9]
 |-
 |11:03-11:21
 |ADAM Enables Distributed Analyses Across Large Scale Genomic Datasets
@@ -194,15 +194,15 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |-
 |11:57-12:15
 |MetaR: simple, high-level languages for data analysis with the R ecosystem
-|Fabien Campagne [10]
+|Fabien Campagne [P10]
 |-
 |12:15-12:20
 |Development of NGSEP as an open-source comprehensive solution for analysis of high throughput sequencing data
-|Jorge Duitama [11]
+|Jorge Duitama [P11]
 |-
 |12:21-12:26
 |GRNmap and GRNsight: open source software for dynamical systems modeling and visualization of medium-scale<br>gene regulatory networks
-|Kam D. Dahlquist [12]
+|Kam D. Dahlquist [P12]
 |- style="background:#F7F8E0"
 |12:30-13:30
 |'''''Lunch'''''
@@ -222,15 +222,15 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |-
 |14:18-14:23
 |Sequenceserver: a modern graphical user interface for custom BLAST databases
-|Anurag Priyam [13]
+|Anurag Priyam [P13]
 |-
 |14:24-14:29
 |Linuxbrew and Homebrew-Science to Navigate the Software Dependency Labyrinth
-|Shaun Jackman [14]
+|Shaun Jackman [P14]
 |-
 |14:30-14:35
 |SnoVault and encodeD: A novel object-based storage system and applications to ENCODE metadata
-|Benjamin Hitz [15]
+|Benjamin Hitz [P15]
 |- style="background:#E6E6E6"
 |14:40-15:30
 |'''Session: Open Science and Reproducibility'''
@@ -238,11 +238,11 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |-
 |14:40-14:58
 |State of the openSNP.org Union: Dockerizing, Crowdfunding & Opening for Contributors
-|Bastian Greshake [16]
+|Bastian Greshake [P16]
 |-
 |14:58-15:16
 |The GenePattern Notebook Environment
-|Michael Reich [17]
+|Michael Reich [P17]
 |-
 |15:16-15:21
 |Reproducibility in computationally intensive workflows with continuous analysis
@@ -250,11 +250,11 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |-
 |15:22-15:27
 |Reproducible Research in the Cloud with the Refinery Platform
-|Nils Gehlenborg [18]
+|Nils Gehlenborg [P18]
 |-
 |15:28-15:33
 |ReportMD: Writing complex scientific reports in R
-|Peter Humburg [19]
+|Peter Humburg [P19]
 |- style="background:#FAF4EE"
 |15:30-16:00
 |'''''Coffee Break'''''
@@ -266,23 +266,23 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |-
 |16:00-16:05
 |Apollo Genome Annotation Editor: Latest Updates, Including Galaxy Integration
-|Mónica C. Muñoz-Torres [20]
+|Mónica C. Muñoz-Torres [P20]
 |-
 |16:06-16:11
 |An invitation to the bioinformatics community to participate in the HUBzero® open source release
-|Michael Zentner [21]
+|Michael Zentner [P21]
 |-
 |16:12-16:17
 |PDB on steroids – compressive structural bioinformatics
-|Peter Rose [22]
+|Peter Rose [P22]
 |-
 |16:18-16:23
 |Puzzle: VCF/GEMINI interface for genetic disease analysis
-|Robin Andeer [23]
+|Robin Andeer [P23]
 |-
 |16:24-16:29
 |Modernization of the Cytoscape ecosystem
-|Keiichiro Ono [24]
+|Keiichiro Ono [P24]
 |-
 |16:30-16:35
 |Collaborative Software Development: Lessons from Open Source
@@ -315,19 +315,19 @@ If a poster presenter also is giving a talk, the poster link will be in the sche
 ! Title
 ! Presenter
 |-
-| 25
+| P25
 | Lightweight sample labeling, barcoding and tracking systems for the academic laboratory
 | Dimitra Sarantopoulou
 |-
-| 26
+| P26
 | Kronos: a workflow assembler for genome analytics and informatics
 | Jafar Taghiyar
 |-
-| 27
+| P27
 | PhyPipe: an automated pipeline for phylogenetic reconstruction from multilocus sequences
 | Javier Correa Alvarez
 |-
-| 28
+| P28
 | Skip the line and balance your work with vQ
 | Gregory Zynda
 |-
