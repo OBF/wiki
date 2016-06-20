@@ -178,7 +178,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |-
 |10:45-11:03
 |Mango: Data Exploration on Large Genomic Datasets
-|Alyssa Morrow
+|Alyssa Morrow [9]
 |-
 |11:03-11:21
 |ADAM Enables Distributed Analyses Across Large Scale Genomic Datasets
@@ -194,15 +194,15 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |-
 |11:57-12:15
 |MetaR: simple, high-level languages for data analysis with the R ecosystem
-|Fabien Campagne
+|Fabien Campagne [10]
 |-
 |12:15-12:20
 |Development of NGSEP as an open-source comprehensive solution for analysis of high throughput sequencing data
-|Jorge Duitama
+|Jorge Duitama [11]
 |-
 |12:21-12:26
 |GRNmap and GRNsight: open source software for dynamical systems modeling and visualization of medium-scale<br>gene regulatory networks
-|Kam D. Dahlquist
+|Kam D. Dahlquist [12]
 |- style="background:#F7F8E0"
 |12:30-13:30
 |'''''Lunch'''''
@@ -222,15 +222,15 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |-
 |14:18-14:23
 |Sequenceserver: a modern graphical user interface for custom BLAST databases
-|Anurag Priyam
+|Anurag Priyam [13]
 |-
 |14:24-14:29
 |Linuxbrew and Homebrew-Science to Navigate the Software Dependency Labyrinth
-|Shaun Jackman
+|Shaun Jackman [14]
 |-
 |14:30-14:35
 |SnoVault and encodeD: A novel object-based storage system and applications to ENCODE metadata
-|Benjamin Hitz
+|Benjamin Hitz [15]
 |- style="background:#E6E6E6"
 |14:40-15:30
 |'''Session: Open Science and Reproducibility'''
@@ -238,11 +238,11 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |-
 |14:40-14:58
 |State of the openSNP.org Union: Dockerizing, Crowdfunding & Opening for Contributors
-|Bastian Greshake
+|Bastian Greshake [16]
 |-
 |14:58-15:16
 |The GenePattern Notebook Environment
-|Michael Reich
+|Michael Reich [17]
 |-
 |15:16-15:21
 |Reproducibility in computationally intensive workflows with continuous analysis
@@ -250,11 +250,11 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |-
 |15:22-15:27
 |Reproducible Research in the Cloud with the Refinery Platform
-|Nils Gehlenborg
+|Nils Gehlenborg [18]
 |-
 |15:28-15:33
 |ReportMD: Writing complex scientific reports in R
-|Peter Humburg
+|Peter Humburg [19]
 |- style="background:#FAF4EE"
 |15:30-16:00
 |'''''Coffee Break'''''
@@ -266,7 +266,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |-
 |16:00-16:05
 |Apollo Genome Annotation Editor: Latest Updates, Including Galaxy Integration
-|Mónica C. Muñoz-Torres
+|Mónica C. Muñoz-Torres [20]
 |-
 |16:06-16:11
 |An invitation to the bioinformatics community to participate in the HUBzero® open source release
@@ -278,11 +278,11 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |-
 |16:18-16:23
 |Puzzle: VCF/GEMINI interface for genetic disease analysis
-|Robin Andeer
+|Robin Andeer [21]
 |-
 |16:24-16:29
 |Modernization of the Cytoscape ecosystem
-|Keiichiro Ono
+|Keiichiro Ono [22]
 |-
 |16:30-16:35
 |Collaborative Software Development: Lessons from Open Source
