@@ -50,15 +50,15 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |-
 |10:45-11:03
 |GenomeSpace: Open source interoperability platform with crowd-sourced analysis recipes
-|Ted Liefeld
+|Ted Liefeld [1]
 |-
 |11:03-11:21
 |This is Why We Can Have Nice Things: Getting to 1.0 of the Common Workflow Language
-|Michael R. Crusoe
+|Michael R. Crusoe [2]
 |-
 |11:21-11:39
 |CWL in Practice: Experiences, challenges, and results from adopting Common Workflow Language
-|Dan Leehr
+|Dan Leehr [3]
 |-
 |11:39-11:57
 |Using the Common Workflow Language (CWL) to run portable workflows with Arvados and Toil
@@ -74,7 +74,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |-
 |12:09-12:14
 |NextflowWorkbench: Reproducible and Reusable Workflows for Beginners and Experts
-|Fabien Campagne
+|Fabien Campagne [4]
 |-
 |12:15-12:20
 |Promoting platform interoperability with portable bcbio workflows
@@ -102,11 +102,11 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |-
 |14:18-14:36
 |Biothings APIs: high-performance bioentity-centric web services
-|Chunlei Wu
+|Chunlei Wu [5]
 |-
 |14:36-14:54
 |The Noctua Modeling Tool
-|Seth Carbon
+|Seth Carbon [6]
 |-
 |14:54-15:12
 |Processing phenotype data using Phenopackets-API and PXFTools
@@ -114,11 +114,11 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |-
 |15:12-15:17
 |The EDAM Ontology
-|Jon Ison
+|Jon Ison [7]
 |-
 |15:18-15:23
 |Towards traceable, scriptable, and efficient data distribution for next-generation genomics
-|John Bradley
+|John Bradley [8]
 |-
 |- style="background:#FAF4EE"
 |15:30-16:00
