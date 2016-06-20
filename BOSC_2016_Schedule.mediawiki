@@ -274,15 +274,15 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |-
 |16:12-16:17
 |PDB on steroids – compressive structural bioinformatics
-|Peter Rose
+|Peter Rose [21]
 |-
 |16:18-16:23
 |Puzzle: VCF/GEMINI interface for genetic disease analysis
-|Robin Andeer [21]
+|Robin Andeer [22]
 |-
 |16:24-16:29
 |Modernization of the Cytoscape ecosystem
-|Keiichiro Ono [22]
+|Keiichiro Ono [23]
 |-
 |16:30-16:35
 |Collaborative Software Development: Lessons from Open Source
