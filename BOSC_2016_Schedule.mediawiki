@@ -307,7 +307,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 
 == Posters ==
 
-If a poster presenter also is giving a talk, the poster link will be above. The table below lists poster-only presentations.
+If a poster presenter also is giving a talk, the poster link will be in the schedule above. The table below lists poster-only presentations.
 
 {| border="1" cellspacing="0" cellpadding="7"
 |- style="background:#D8F781"
@@ -315,27 +315,19 @@ If a poster presenter also is giving a talk, the poster link will be above. The 
 ! Title
 ! Presenter
 |-
-| 24
+| 25
 | Lightweight sample labeling, barcoding and tracking systems for the academic laboratory
 | Dimitra Sarantopoulou
 |-
-| 25
+| 26
 | Kronos: a workflow assembler for genome analytics and informatics
 | Jafar Taghiyar
 |-
-| 26
+| 27
 | PhyPipe: an automated pipeline for phylogenetic reconstruction from multilocus sequences
 | Javier Correa Alvarez
 |-
-| 27
-| HUBzero®: an open source platform for scientific exploration in bioinformatics and medical informatics
-| Michael Zentner
-|-
 | 28
-| An invitation to the bioinformatics community to participate in the HUBzero® open source release
-| Michael Zentner
-|-
-| 29
 | Skip the line and balance your work with vQ
 | Gregory Zynda
 |-
