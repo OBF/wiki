@@ -343,7 +343,7 @@ Brad Chapman, Chris Fields, Karsten Hokamp, Hilmar Lapp, Mónica Muñoz-Torres, 
 
 Nomi Harris, Michael Heuer, Karen Cranston, Gianluca Della Vedova*, George Githinji, Christopher Fields, Hilmar Lapp*, Scott Markel, Frank Nothaft, Lorena Pantano, Michael Reich, Morgan Taschuk, Heather Wiencko*, Kai Blin*, Spencer Bliven*, Brad Chapman*, Michael Crusoe, Bastian Greshake*, Hans-Rudolf Hotz*, Herve Menager, Fiona Nielsen, Konstantin Okonechnikov, João Rodrigues*, Eric Talevich, Jason Williams, Melissa Wilson Sayres, Peter Cock*, Björn Grüning, Karsten Hokamp*, Amye Kenall, John Chilton, Konrad Förstner*, Jens Lichtenberg, Monica C Munoz-Torres
 
- * Also reviewed Late-Breaking Lightning Talk abstracts
+&lowast; Also reviewed Late-Breaking Lightning Talk abstracts
 
 BOSC is a community effort—we thank all those who made it possible, including the organizing committee, the program committee, the session chairs, our sponsors, and the ISMB SIG chair, Steven Leard.
 
