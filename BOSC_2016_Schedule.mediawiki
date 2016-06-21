@@ -89,7 +89,8 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |
 |-
 |13:00-14:00
-|'''Poster Session and Birds of a Feather sessions''' (overlapping with lunch)
+|'''Poster Session and [https://docs.google.com/document/d/1zKSzP4_6_ezVw1g4Igy8ZRdFDBJ268uMy_5LKA98Mc0/ Birds of a Feather] sessions''' (overlapping with lunch)
+(Feel free to organize a [https://docs.google.com/document/d/1zKSzP4_6_ezVw1g4Igy8ZRdFDBJ268uMy_5LKA98Mc0/ BoF]!)
 |
 |- style="background:#E6E6E6"
 |14:00-15:30
@@ -140,7 +141,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Nomi Harris
 |-
 |17:15-18:30
-|'''Bird of a Feather sessions (BOFs)''': Feel free to organize one! Sign up [here].
+|'''Bird of a Feather sessions (BOFs)''': Feel free to organize one! Sign up [https://docs.google.com/document/d/1zKSzP4_6_ezVw1g4Igy8ZRdFDBJ268uMy_5LKA98Mc0/ here].
 |
 |-
 |19:00
