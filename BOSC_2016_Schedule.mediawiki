@@ -331,6 +331,10 @@ If a poster presenter also is giving a talk, the poster link will be in the sche
 | Skip the line and balance your work with vQ
 | Gregory Zynda
 |-
+| P29
+| Using the Nextflow framework for reproducible in-silico omics analyses across clouds and clusters
+| Paolo Di Tommaso
+|-
 |}
 
 == BOSC 2016 Organizing Committee ==
