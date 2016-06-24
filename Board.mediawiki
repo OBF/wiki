@@ -13,14 +13,14 @@ The board can be contacted via email at [mailto:board@open-bio.org board@open-bi
 
 '''Secretary'''
 
-:; <span class="plainlinks">[http://www.hutton.ac.uk/staff/peter-cock Peter Cock]</span> : [[bp:Biopython|Biopython]] core developer, bioinformatician at the [http://www.hutton.ac.uk/ James Hutton Institute]. [[BOSC 2015]] co-chair
+:; <span class="plainlinks">[http://www.hutton.ac.uk/staff/peter-cock Peter Cock]</span> : [[bp:Biopython|Biopython]] core developer, bioinformatician at the [http://www.hutton.ac.uk/ James Hutton Institute]. [[BOSC 2016]] co-chair
 
 '''Parliamentarian'''
 : Currently unfilled.
 
 '''At-large members'''
 
-:; <span class="plainlinks">[http://www.linkedin.com/in/nomiharris Nomi Harris]</span> : Project Manager at the Lawrence Berkeley National Laboratory. [[BOSC 2015]] co-chair.
+:; <span class="plainlinks">[http://www.linkedin.com/in/nomiharris Nomi Harris]</span> : Project Manager at the Lawrence Berkeley National Laboratory. [[BOSC 2016]] co-chair.
 
 :; [[bp:Christopher_Fields|Chris Fields]] : [[bp:BioPerl|BioPerl]] core developer, researcher fellow at the [http://www.igb.uiuc.edu/ Institute for Genomic Biology] at the [http://www.uiuc.edu/ University of Illinois at Urbana-Champaign].
 
