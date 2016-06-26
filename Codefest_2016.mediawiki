@@ -119,7 +119,7 @@ We're looking for additional sponsors interested in being involved with the open
 
 == Related Events ==
 
-Immediately after our CodeFest, as part of  [http://www.iscb.org/ismb2016 ISMB 2016] (including our annual meeting [[BOSC 2016]]), there is a [http://www.iscb.org/ismb2016program/hackathon Sequence-Structure Moonlight Hackathon] being organised by the NCBI and RCSB PDB with the ISCB. Note this has a formal registration system, with a fee unless already registered for the main ISMB meeting.
+Immediately after our Codefest, as part of  [http://www.iscb.org/ismb2016 ISMB 2016] (including our annual meeting [[BOSC 2016]]), there is a [http://www.iscb.org/ismb2016program/hackathon Sequence-Structure Moonlight Hackathon] being organised by the NCBI and RCSB PDB with the ISCB. Note this has a formal registration system, with a fee unless already registered for the main ISMB meeting.
 
 == Organizers ==
 
