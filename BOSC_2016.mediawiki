@@ -39,10 +39,8 @@ If you would like to be a sponsor of BOSC, please contact us at bosc@open-bio.or
 == Important Dates ==
 
 * April 4, 2016: Deadline for submitting [[BOSC_Abstract_Submission|abstracts]] for full talks
-* May 6, 2016: Authors notified
 * June 2, 2016: End of early [https://www.iscb.org/ismb2016-registration registration] discount for ISMB/BOSC 
 * June 2, 2016: Deadline for [[BOSC_Abstract_Submission|submitting abstracts for Late-Breaking Lightning Talks and posters]]
-* June 10, 2016: Notification of acceptance for Late-Breaking Lightning Talks and posters
 * [[Codefest 2016]]: July 6-7, 2016, Orlando, FL, USA at [https://familab.org/ FamiLAB]
 * BOSC 2016: July 8-9, 2016, Orlando, FL, USA
 * [https://www.iscb.org/ismb2016 ISMB 2016]: July 8-12,, 2016, Orlando, FL, USA
