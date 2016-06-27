@@ -38,7 +38,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |- style="background:#EFFBFB"
 |9:15-10:15
 |'''Keynote''': ''The open-source outbreak: can data prevent the next pandemic?''
-|Jennifer Gardy
+|[https://www.open-bio.org/wiki/BOSC_2016_Keynote_Speakers Jennifer Gardy]
 |- style="background:#FAF4EE"
 |10:15-10:45
 |'''''Coffee Break'''''
