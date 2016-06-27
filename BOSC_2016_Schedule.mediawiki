@@ -309,7 +309,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 
 == Posters ==
 
-If a poster presenter also is giving a talk, the poster link will be in the schedule above. The table below lists poster-only presentations.
+If a poster presenter also is giving a talk, the poster number will be in the schedule above (in square brackets after the talk title). The table below lists poster-only presentations.
 
 {| border="1" cellspacing="0" cellpadding="7"
 |- style="background:#D8F781"
