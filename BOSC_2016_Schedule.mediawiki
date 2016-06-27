@@ -295,7 +295,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |
 |-
 |16:40-16:50
-|Recognition of [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md OBF Travel Award] winners and concluding remarks
+|Concluding remarks
 |Nomi Harris and Peter Cock
 |-
 |17:00-18:30
