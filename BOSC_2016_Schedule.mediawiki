@@ -167,7 +167,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |- style="background:#EFFBFB"
 |9:15-10:15
 |'''Keynote''': ''Open source, open access, and open data: why science moves faster in an open world''
-|Steven Salzberg
+|[https://www.open-bio.org/wiki/BOSC_2016_Keynote_Speakers Steven Salzberg]
 |- style="background:#FAF4EE"
 |10:15-10:45
 |'''''Coffee Break'''''
