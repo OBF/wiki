@@ -60,7 +60,7 @@ We welcome submissions relating to all aspects of bioinformatics and open scienc
 
 == Keynote Speakers ==
 
-This year's keynote speakers will be Jennifer Gardy (University of British Columbia / British Columbia Centre for Disease Control) and Steven Salzburg (Johns Hopkins University).
+This year's keynote speakers will be Jennifer Gardy (University of British Columbia / British Columbia Centre for Disease Control) and Steven Salzberg (Johns Hopkins University).
 
 '''[[BOSC_2016_Keynote_Speakers|More information about BOSC 2016 Keynote Speakers]]'''
 
