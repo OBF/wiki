@@ -329,7 +329,7 @@ If a poster presenter also is giving a talk, the poster number will be in the sc
 | PhyPipe: an automated pipeline for phylogenetic reconstruction from multilocus sequences
 | Javier Correa Alvarez
 |-
-| P28
+| P29
 | Using the Nextflow framework for reproducible in-silico omics analyses across clouds and clusters
 | Paolo Di Tommaso
 |-
