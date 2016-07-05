@@ -330,10 +330,6 @@ If a poster presenter also is giving a talk, the poster number will be in the sc
 | Javier Correa Alvarez
 |-
 | P28
-| <s>Skip the line and balance your work with vQ</s>
-| <s>Gregory Zynda</s>
-|-
-| P29
 | Using the Nextflow framework for reproducible in-silico omics analyses across clouds and clusters
 | Paolo Di Tommaso
 |-
