@@ -153,7 +153,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 
 {| border="1" cellspacing="0" cellpadding="7"
 |- style="background:#D8F781"
-!'''Time'''
+! style="width: 6em" | '''Time'''
 !'''Title'''
 !'''Speaker [Poster] / Chair'''
 |-
