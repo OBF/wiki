@@ -130,7 +130,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |[[BOSC_2016_Panel|Panel: Growing and sustaining open source communities]]
 |'''''Moderator''''': Mónica Muñoz-Torres
 
-'''''Panelists''''':  Abigail Cabunoc Mayes, Bastian Greshake, <br>Jamie Whitacre, John Chilton, Natasha Wood
+'''''Panelists''''':  Abigail Cabunoc Mayes, Bastian Greshake, Jamie Whitacre, John Chilton, Natasha Wood
 |-
 |17:00-17:10
 |Open Bioinformatics Foundation (OBF) Update
