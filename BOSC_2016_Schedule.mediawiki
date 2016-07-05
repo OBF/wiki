@@ -202,7 +202,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Jorge Duitama [P11]
 |-
 |12:21-12:26
-|GRNmap and GRNsight: open source software for dynamical systems modeling and visualization of medium-scale<br>gene regulatory networks
+|GRNmap and GRNsight: open source software for dynamical systems modeling and visualization of medium-scale gene regulatory networks
 |Kam D. Dahlquist [P12]
 |- style="background:#F7F8E0"
 |12:30-13:30
