@@ -80,13 +80,15 @@ Codefest is kindly hosted by [https://familab.org/ FamiLAB], an Orlando communit
 | [[File: FamiLAB-Logo3.gif|400px|left|FamiLAB|link=http://familab.org]]
 |}
 
-FamiLAB is located north of Orlando International Airport and about an hour drive from the BOSC/ISMB venue at Walt Disney World Swan and Dolphin Hotel. For Codefest, we recommend staying in a hotel near FamiLAB. Nearby choices are:
+FamiLAB is located north of Orlando International Airport and about an hour drive from the BOSC/ISMB venue at Walt Disney World Swan and Dolphin Hotel. Participants should fill out [https://www.hellosign.com/signer/getStartedInPerson?guid=372d4680 this waiver] in order to get a temporary badge to FamiLAB.
+
+For Codefest, we recommend staying in a hotel near FamiLAB. Nearby choices are:
 
 * [http://bit.ly/1Tu15ZB Hampton Inn & Suites Orlando-North/Altamonte Springs] -- $98/night on hotels.com or $103/night on the [http://hamptoninn3.hilton.com/en/hotels/florida/hampton-inn-and-suites-orlando-north-altamonte-springs-MCOALHX/index.html hotel website]
 * [http://www.hotels.com/hotel/details.html?FPQ=2&WOE=4&q-localised-check-out=07/07/16&WOD=2&q-room-0-children=0&pa=2&tab=description&JHR=2&q-localised-check-in=07/05/16&hotel-id=202366&q-room-0-adults=2&YGF=14&MGT=2&ZSX=0&SYE=3 Hawthorn Suites by Wyndham Orlando Altamonte Springs] -- $96/night on hotels.com
 * [http://j.mp/1TtWjLI Days Inn and Suites Altamonte Springs] -- $51/night on hotels.com; budget conscious choice the reviews are pretty poor
 
-These are close (~10 minute walk apart) and we will use taxi/Uber/shared rides to get between the venue and hotel so can coordinate with everyone attending. We will organize a shuttle from Codefest to the BOSC venue on the evening of July 7th for everyone attending Codefest. We recommend a taxi/Uber for getting from the Airport to FamiLAB.
+These are close (~10 minute walk apart) and we will use taxi/Uber/shared rides to get between the venue and hotel so can coordinate with everyone attending. We will organize a shuttle from Codefest to the BOSC venue on the evening of July 7th for everyone attending Codefest. Please fill out [http://doodle.com/poll/ck76g2z6spd475wv this doodle poll] if you need a ride or can provide a ride to the BOSC venue on Thursday evening. We recommend a taxi/Uber for getting from the Airport to FamiLAB.
 
 * [https://www.google.com/maps/d/edit?mid=zLeaxcXY2lXM.kq7vmHyLohiU&usp=sharing Google Map of Codefest/BOSC locations of interest]
 
