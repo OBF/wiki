@@ -4,10 +4,11 @@ title: Codefest
 
 In recent years, typically before each annual [[BOSC]] meeting the OBF has organised an informal two day "Coding Festival", or Codefest. Like similar "[[Hackathon]]" (hacking marathon) or programming "Sprint" events, these are programmer orientated and are intended to foster collaborations amongst the international bioinformatics community.
 
-* [[Codefest 2015]] in Dublin
-* [[Codefest 2014]] in Boston
+* [[Codefest 2016]] in Orlando, Florida
+* [[Codefest 2015]] in Dublin, Ireland
+* [[Codefest 2014]] in Boston, Massachusetts
 * [[EU-Codefest 2014]] in Cambridge, UK
-* [[Codefest 2013]] in Berlin
-* [[Codefest 2012]] in Los Angeles, followed by the [[EU Codefest 2012]] in Lodi, Italy
-* [[Codefest 2011]] in Vienna
-* [[Codefest 2010]] in Boston
+* [[Codefest 2013]] in Berlin, Germany
+* [[Codefest 2012]] in Los Angeles, CA, followed by the [[EU Codefest 2012]] in Lodi, Italy
+* [[Codefest 2011]] in Vienna, Austria
+* [[Codefest 2010]] in Boston, Massachusetts
