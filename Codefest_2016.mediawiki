@@ -101,7 +101,7 @@ We plan to have food and coffee available for everyone attending. The rough sche
 * Thursday July 7th 6pm: Wrap up presentations + quick pay your own way dinner
 * Thursday July 7th 7pm: Shuttle to Disney BOSC venue
 
-This is completely flexible based on progress and needs of attendees.
+This is completely flexible based on progress and needs of attendees. There is an [https://hangouts.google.com/call/u5hvj2atabchvegkzeylsu5seme Google Hangout] for remote participants that will be on when we're working at FamiLAB. Feel free to ask in the [https://gitter.im/chapmanb/obf-codefest Gitter Chat channel] if you're wondering about the current status at any time.
 
 == Sponsors ==
 
