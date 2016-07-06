@@ -5,7 +5,7 @@ title: BOSC 2016 Schedule
 __NOTOC__
 [[File:Pear.png|120px|right|BOSC logo|link=BOSC_2016]]
 
-The full program including abstracts is available [https://www.open-bio.org/w/images/2/24/BOSC2016-program4.pdf here]. 
+The full program including abstracts is available [https://www.open-bio.org/w/images/2/24/BOSC2016-program4.pdf here].  Most of the talk videos, slides and posters should be on our [http://f1000research.com/channels/BOSC BOSC F1000 Research Channel] later (some will be on SlideShare, FigShare, etc).
 
 == Sponsors ==
 
