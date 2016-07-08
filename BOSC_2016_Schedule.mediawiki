@@ -98,7 +98,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Andre Masella
 |-
 |14:18-14:36
-|Biothings APIs: high-performance bioentity-centric web services
+|Biothings APIs: high-performance bioentity-centric web services ([http://www.slideshare.net/ChunleiWu/biothings-apis-highperformance-bioentitycentric-web-services slides])
 |Chunlei Wu [P5]
 |-
 |14:36-14:54
