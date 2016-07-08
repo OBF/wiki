@@ -53,7 +53,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Ted Liefeld [P1]
 |-
 |11:03-11:21
-|This is Why We Can Have Nice Things: Getting to 1.0 of the Common Workflow Language
+|This is Why We Can Have Nice Things: Getting to 1.0 of the Common Workflow Language ([https://docs.google.com/presentation/d/1sD-gWyAFHedeP9O8i8xJMRRoZnUChvNVV5qOGj9gJnM/edit?usp=sharing slides])
 |Michael R. Crusoe [P2]
 |-
 |11:21-11:39
