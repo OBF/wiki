@@ -110,16 +110,16 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Chris Mungall
 |-
 |15:12-15:17
-|The EDAM Ontology
-|Jon Ison [P7]
+|Promoting platform interoperability with portable bcbio workflows
+|Brad Chapman
 |-
 |15:18-15:23
 |Towards traceable, scriptable, and efficient data distribution for next-generation genomics
 |John Bradley [P8]
 |-
 |15:24-15:29
-|Promoting platform interoperability with portable bcbio workflows
-|Brad Chapman
+|Questions for lightning talks in this session
+|
 |-
 |- style="background:#FAF4EE"
 |15:30-16:00
