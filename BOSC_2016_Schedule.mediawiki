@@ -223,8 +223,8 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Christian Brueffer
 |-
 |14:18-14:23
-|<s>Sequenceserver: a modern graphical user interface for custom BLAST databases</s>
-|<s>Anurag Priyam [P13]</s>
+|ReportMD: Writing complex scientific reports in R
+|Peter Humburg [P19]
 |-
 |14:24-14:29
 |Linuxbrew and Homebrew-Science to Navigate the Software Dependency Labyrinth
@@ -233,6 +233,9 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |14:30-14:35
 |SnoVault and encodeD: A novel object-based storage system and applications to ENCODE metadata
 |Benjamin Hitz [P15]
+| 14:35-14:40
+| Questions for lightning talk speakers in Developer Tools and Libraries session
+|
 |- style="background:#E6E6E6"
 |14:40-15:30
 |'''Session: Open Science and Reproducibility'''
@@ -255,8 +258,8 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Nils Gehlenborg [P18]
 |-
 |15:28-15:33
-|ReportMD: Writing complex scientific reports in R
-|Peter Humburg [P19]
+| Questions for lightning talk speakers in Open Science and Reproducibility session
+|
 |- style="background:#FAF4EE"
 |15:30-16:00
 |'''''Coffee Break'''''
