@@ -233,6 +233,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |14:30-14:35
 |SnoVault and encodeD: A novel object-based storage system and applications to ENCODE metadata
 |Benjamin Hitz [P15]
+|-
 | 14:35-14:40
 | Questions for lightning talk speakers in Developer Tools and Libraries session
 |
