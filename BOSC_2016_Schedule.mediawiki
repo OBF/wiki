@@ -223,8 +223,8 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Christian Brueffer
 |-
 |14:18-14:23
-|Sequenceserver: a modern graphical user interface for custom BLAST databases
-|Anurag Priyam [P13]
+|<s>Sequenceserver: a modern graphical user interface for custom BLAST databases</s>
+|<s>Anurag Priyam [P13]</s>
 |-
 |14:24-14:29
 |Linuxbrew and Homebrew-Science to Navigate the Software Dependency Labyrinth
