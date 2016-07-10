@@ -10,6 +10,14 @@ BOSC 2016 will take place '''July 8-9, 2016''', in Orlando, Florida, right befor
 
 '''Check out the complete [[BOSC_2016_Schedule|schedule]]''', including self-organizing [https://docs.google.com/document/d/1zKSzP4_6_ezVw1g4Igy8ZRdFDBJ268uMy_5LKA98Mc0/edit#heading=h.m64zx0e3odcv BOFs], and follow us on Twitter ([https://twitter.com/OBF_BOSC @OBF_BOSC] and hashtag [https://twitter.com/search?f=tweets&vertical=default&q=%23bosc2016&src=savs #BOSC2016]).
 
+
+== Summaries of BOSC 2016 by Participants ==
+
+There were thousands of tweets, and a number of blog posts etc which will'll try to list here:
+
+* Peter Cock's Storify of BOSC tweets: [https://storify.com/pjacock/bosc-2016-day-one part one], [https://storify.com/pjacock/bosc-2016-day-two part two]
+* Heather Wiencko's [https://storify.com/HLWiencko/bosc2016-panel Storify of the BOSC panel tweets]
+
 == Overview ==
 
 The Bioinformatics Open Source Conference (BOSC) is run as a two-day meeting before the annual [http://www.iscb.org/ismb2016 ISMB conference]. It is organized by the [[Main_Page|Open Bioinformatics Foundation (OBF)]], a non-profit group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community. 
