@@ -194,7 +194,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Lorena Pantano Rubino
 |-
 |11:57-12:15
-|MetaR: simple, high-level languages for data analysis with the R ecosystem
+|MetaR: simple, high-level languages for data analysis with the R ecosystem ([https://prezi.com/x6nhbkext0ga/metar-bosc-2016/ slides])
 |Fabien Campagne [P10]
 |-
 |12:15-12:20
