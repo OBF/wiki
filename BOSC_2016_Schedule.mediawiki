@@ -287,7 +287,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Robin Andeer [P23]
 |-
 |16:24-16:29
-|Modernization of the Cytoscape ecosystem
+|Modernization of the Cytoscape ecosystem ([http://f1000research.com/slides/5-1661 slides], [http://f1000research.com/posters/5-1662 poster])
 |Keiichiro Ono [P24]
 |-
 |16:30-16:35
