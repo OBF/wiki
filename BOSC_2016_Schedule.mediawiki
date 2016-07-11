@@ -331,7 +331,7 @@ If a poster presenter also is giving a talk, the poster number will be in the sc
 | Jafar Taghiyar
 |-
 | P27
-| PhyPipe: an automated pipeline for phylogenetic reconstruction from multilocus sequences
+| [http://f1000research.com/posters/5-1609 PhyPipe: an automated pipeline for phylogenetic reconstruction from multilocus sequences]
 | Javier Correa Alvarez
 |-
 | P28
