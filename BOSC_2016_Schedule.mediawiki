@@ -57,7 +57,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Michael R. Crusoe [P2]
 |-
 |11:21-11:39
-|CWL in Practice: Experiences, challenges, and results from adopting Common Workflow Language
+|CWL in Practice: Experiences, challenges, and results from adopting Common Workflow Language ([http://f1000research.com/posters/5-1615 poster])
 |Dan Leehr [P3]
 |-
 |11:39-11:57
