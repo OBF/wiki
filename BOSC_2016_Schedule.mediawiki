@@ -291,7 +291,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Keiichiro Ono [P24]
 |-
 |16:30-16:35
-|Collaborative Software Development: Lessons from Open Source
+|Collaborative Software Development: Lessons from Open Source ([http://f1000research.com/slides/5-1660 slides])
 |Abigail Cabunoc Mayes
 |-
 |16:35-16:40
