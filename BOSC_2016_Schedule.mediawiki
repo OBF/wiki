@@ -94,7 +94,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Chair: Hilmar Lapp
 |-
 |14:00-14:18
-|Enhancements to MISO: An open-source community-driven LIMS
+|Enhancements to MISO: An open-source community-driven LIMS ([http://f1000research.com/slides/5-1608 slides])
 |Andre Masella
 |-
 |14:18-14:36
