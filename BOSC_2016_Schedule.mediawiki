@@ -223,7 +223,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Christian Brueffer
 |-
 |14:18-14:23
-|ReportMD: Writing complex scientific reports in R
+|ReportMD: Writing complex scientific reports in R ([http://f1000research.com/posters/5-1647 poster])
 |Peter Humburg [P19]
 |-
 |14:24-14:29
