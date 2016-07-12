@@ -198,7 +198,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Fabien Campagne [P10]
 |-
 |12:15-12:20
-|Development of NGSEP as an open-source comprehensive solution for analysis of high throughput sequencing data
+|Development of NGSEP as an open-source comprehensive solution for analysis of high throughput sequencing data ([http://f1000research.com/slides/5-1650 slides])
 |Jorge Duitama [P11]
 |-
 |12:21-12:26
