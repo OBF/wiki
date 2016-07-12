@@ -110,7 +110,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Chris Mungall
 |-
 |15:12-15:17
-|Promoting platform interoperability with portable bcbio workflows
+|Promoting platform interoperability with portable bcbio workflows ([http://f1000research.com/slides/5-1639 slides])
 |Brad Chapman
 |-
 |15:18-15:23
