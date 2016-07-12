@@ -61,7 +61,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Dan Leehr [P3]
 |-
 |11:39-11:57
-|Using the Common Workflow Language (CWL) to run portable workflows with Arvados and Toil
+|Using the Common Workflow Language (CWL) to run portable workflows with Arvados and Toil ([http://f1000research.com/slides/5-1624 slides])
 |Peter Amstutz
 |-
 |11:57-12:15
