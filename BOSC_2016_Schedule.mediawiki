@@ -49,7 +49,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Chair: Brad Chapman
 |-
 |10:45-11:03
-|GenomeSpace: Open source interoperability platform with crowd-sourced analysis recipes
+|GenomeSpace: Open source interoperability platform with crowd-sourced analysis recipes ([http://f1000research.com/slides/5-1633 slides])
 |Ted Liefeld [P1]
 |-
 |11:03-11:21
