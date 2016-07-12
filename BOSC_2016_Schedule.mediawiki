@@ -190,7 +190,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Hannes Hettling
 |-
 |11:39-11:57
-|Characterization of the small RNA transcriptome using the bcbio-nextgen python framework
+|Characterization of the small RNA transcriptome using the bcbio-nextgen python framework ([http://f1000research.com/slides/5-1627 slides])
 |Lorena Pantano Rubino
 |-
 |11:57-12:15
