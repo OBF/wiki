@@ -106,7 +106,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Seth Carbon [P6]
 |-
 |14:54-15:12
-|Processing phenotype data using Phenopackets-API and PXFTools
+|Processing phenotype data using Phenopackets-API and PXFTools ([http://f1000research.com/slides/5-1649 slides])
 |Chris Mungall
 |-
 |15:12-15:17
