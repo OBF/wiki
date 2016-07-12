@@ -73,7 +73,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Daniel Blankenberg
 |-
 |12:21-12:26
-|NextflowWorkbench: Reproducible and Reusable Workflows for Beginners and Experts ([https://prezi.com/qbn8ys1oa5fm/nextflowworkbench-bosc-2016/ slides])
+|NextflowWorkbench: Reproducible and Reusable Workflows for Beginners and Experts ([https://prezi.com/qbn8ys1oa5fm/nextflowworkbench-bosc-2016/ slides], [http://f1000research.com/posters/5-1651 poster])
 |Fabien Campagne [P4]
 |-
 |12:26-12:30
