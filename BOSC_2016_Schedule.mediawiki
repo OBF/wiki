@@ -37,7 +37,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Nomi Harris and Peter Cock (Co-Chairs, BOSC 2016)
 |- style="background:#EFFBFB"
 |9:15-10:15
-|'''Keynote''': ''The open-source outbreak: can data prevent the next pandemic?'' ([http://www.slideshare.net/jennifergardy/bosc-2016-the-opensource-outbreak slides])
+|'''Keynote''': ''The open-source outbreak: can data prevent the next pandemic?'' ([https://youtu.be/5KfnXZQ4RzQ video], [http://www.slideshare.net/jennifergardy/bosc-2016-the-opensource-outbreak slides])
 |[https://www.open-bio.org/wiki/BOSC_2016_Keynote_Speakers Jennifer Gardy]
 |- style="background:#FAF4EE"
 |10:15-10:45
@@ -166,7 +166,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Brad Chapman (Codefest Organizer)
 |- style="background:#EFFBFB"
 |9:15-10:15
-|'''Keynote''': ''Open source, open access, and open data: why science moves faster in an open world''
+|'''Keynote''': ''Open source, open access, and open data: why science moves faster in an open world'' ([https://youtu.be/TYmpxLHy_UM video])
 |[https://www.open-bio.org/wiki/BOSC_2016_Keynote_Speakers Steven Salzberg]
 |- style="background:#FAF4EE"
 |10:15-10:45
