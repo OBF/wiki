@@ -104,7 +104,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Chunlei Wu [P5]
 |-
 |14:36-14:54
-|The Noctua Modeling Tool
+|The Noctua Modeling Tool ([http://f1000research.com/slides/5-1678 slides], [http://f1000research.com/posters/5-1677 poster])
 |Seth Carbon [P6]
 |-
 |14:54-15:12
