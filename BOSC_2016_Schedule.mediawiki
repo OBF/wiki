@@ -285,7 +285,7 @@ The Codefest (a pre-BOSC hackathon) takes place July 6-7 in Orlando at FamiLAB. 
 |Peter Rose [P22]
 |-
 |16:18-16:23
-|Puzzle: VCF/GEMINI interface for genetic disease analysis
+|Puzzle: VCF/GEMINI interface for genetic disease analysis ([https://www.dropbox.com/s/c2tuxi8k9g2t4en/puzzle-bosc-2016.pdf?dl=0 slides])
 |Robin Andeer [P23]
 |-
 |16:24-16:29
