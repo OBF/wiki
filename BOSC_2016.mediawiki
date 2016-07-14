@@ -19,6 +19,7 @@ There were thousands of tweets, and a number of blog posts etc which will'll try
 * Heather Wiencko's [https://storify.com/HLWiencko/bosc2016-panel Storify of the BOSC panel tweets]
 * GigaScience blog post [http://blogs.biomedcentral.com/gigablog/2016/07/10/open-bioinformatics-goes-disney/ Open bioinformatics in the house of the mouse]
 * Brad Chapman's excellent summaries: [https://smallchangebio.wordpress.com/2016/07/08/bosc2016_day1a/ Day 1 (morning)], [https://smallchangebio.wordpress.com/2016/07/08/bosc2016day1b/ Day 2 (afternoon)], [https://smallchangebio.wordpress.com/2016/07/09/bosc2016day2a/ Day 2 (morning)], [https://smallchangebio.wordpress.com/2016/07/09/bosc2016day2b/ Day 2 (afternoon)]
+* Robin Andeer's [http://www.robinandeer.com/blog/2016/07/12/bosc-2016/ Codefest and BOSC 2016 blog post]
 
 == Overview ==
 
