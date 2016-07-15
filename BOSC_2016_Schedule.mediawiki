@@ -221,7 +221,7 @@ The Codefest (a pre-BOSC hackathon) took place July 6-7 in Orlando at FamiLAB. I
 |Chair: Chris Fields
 |-
 |14:00-14:18
-|Biopython Project Update 2016 ([http://f1000research.com/slides/5-1644 slides])
+|Biopython Project Update 2016 ([http://f1000research.com/slides/5-1712 slides])
 |Christian Brueffer
 |-
 |14:18-14:23
