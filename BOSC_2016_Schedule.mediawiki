@@ -51,31 +51,31 @@ The Codefest (a pre-BOSC hackathon) took place July 6-7 in Orlando at FamiLAB. I
 |Chair: Brad Chapman
 |-
 |10:45-11:03
-|GenomeSpace: Open source interoperability platform with crowd-sourced analysis recipes ([http://f1000research.com/slides/5-1633 slides], [http://f1000research.com/posters/5-1634 poster])
+|GenomeSpace: Open source interoperability platform with crowd-sourced analysis recipes ([https://youtu.be/EpHn_WhXlI8 video], [http://f1000research.com/slides/5-1633 slides], [http://f1000research.com/posters/5-1634 poster])
 |Ted Liefeld [P1]
 |-
 |11:03-11:21
-|This is Why We Can Have Nice Things: Getting to 1.0 of the Common Workflow Language ([http://f1000research.com/slides/5-1622 slides])
+|This is Why We Can Have Nice Things: Getting to 1.0 of the Common Workflow Language ([https://youtu.be/__8qUDZGeLc video], [http://f1000research.com/slides/5-1622 slides])
 |Michael R. Crusoe [P2]
 |-
 |11:21-11:39
-|CWL in Practice: Experiences, challenges, and results from adopting Common Workflow Language ([http://f1000research.com/slides/5-1617 slides], [http://f1000research.com/posters/5-1615 poster])
+|CWL in Practice: Experiences, challenges, and results from adopting Common Workflow Language ([https://youtu.be/zrOfNqPnZCk video], [http://f1000research.com/slides/5-1617 slides], [http://f1000research.com/posters/5-1615 poster])
 |Dan Leehr [P3]
 |-
 |11:39-11:57
-|Using the Common Workflow Language (CWL) to run portable workflows with Arvados and Toil ([http://f1000research.com/slides/5-1624 slides])
+|Using the Common Workflow Language (CWL) to run portable workflows with Arvados and Toil ([https://youtu.be/COKqH4FqvxI video], [http://f1000research.com/slides/5-1624 slides])
 |Peter Amstutz
 |-
 |11:57-12:15
-|Planemo – A Scientific Workflow SDK
+|Planemo – A Scientific Workflow SDK ([https://youtu.be/kVa-oWxWDww video])
 |John Chilton
 |-
 |12:15-12:20
-|Sample Size Does Matter: Scaling Up Analysis in Galaxy with Metagenomics
+|Sample Size Does Matter: Scaling Up Analysis in Galaxy with Metagenomics ([https://youtu.be/VtGyidSuMd8 video])
 |Daniel Blankenberg
 |-
 |12:21-12:26
-|NextflowWorkbench: Reproducible and Reusable Workflows for Beginners and Experts ([https://prezi.com/qbn8ys1oa5fm/nextflowworkbench-bosc-2016/ slides], [http://f1000research.com/posters/5-1651 poster])
+|NextflowWorkbench: Reproducible and Reusable Workflows for Beginners and Experts ([https://youtu.be/Sf-MVuug3sQ video], [https://prezi.com/qbn8ys1oa5fm/nextflowworkbench-bosc-2016/ slides], [http://f1000research.com/posters/5-1651 poster])
 |Fabien Campagne [P4]
 |-
 |12:26-12:30
