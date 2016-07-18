@@ -96,27 +96,27 @@ The Codefest (a pre-BOSC hackathon) took place July 6-7 in Orlando at FamiLAB. I
 |Chair: Hilmar Lapp
 |-
 |14:00-14:18
-|Enhancements to MISO: An open-source community-driven LIMS ([http://f1000research.com/slides/5-1608 slides])
+|Enhancements to MISO: An open-source community-driven LIMS ([https://youtu.be/znrRsPip5D0 video], [http://f1000research.com/slides/5-1608 slides])
 |Andre Masella
 |-
 |14:18-14:36
-|Biothings APIs: high-performance bioentity-centric web services ([http://www.slideshare.net/ChunleiWu/biothings-apis-highperformance-bioentitycentric-web-services slides])
+|Biothings APIs: high-performance bioentity-centric web services ([https://youtu.be/296cGIZ6Ps8 video], [http://www.slideshare.net/ChunleiWu/biothings-apis-highperformance-bioentitycentric-web-services slides])
 |Chunlei Wu [P5]
 |-
 |14:36-14:54
-|The Noctua Modeling Tool ([http://f1000research.com/slides/5-1678 slides], [http://f1000research.com/posters/5-1677 poster])
+|The Noctua Modeling Tool ([https://youtu.be/W9_udk6Oz2E video], [http://f1000research.com/slides/5-1678 slides], [http://f1000research.com/posters/5-1677 poster])
 |Seth Carbon [P6]
 |-
 |14:54-15:12
-|Processing phenotype data using Phenopackets-API and PXFTools ([http://f1000research.com/slides/5-1649 slides])
+|Processing phenotype data using Phenopackets-API and PXFTools ([https://youtu.be/8UreKE1eGNY video], [http://f1000research.com/slides/5-1649 slides])
 |Chris Mungall
 |-
 |15:12-15:17
-|Promoting platform interoperability with portable bcbio workflows ([http://f1000research.com/slides/5-1639 slides])
+|Promoting platform interoperability with portable bcbio workflows ([https://youtu.be/kMoAWjHhOVc video], [http://f1000research.com/slides/5-1639 slides])
 |Brad Chapman
 |-
 |15:18-15:23
-|Towards traceable, scriptable, and efficient data distribution for next-generation genomics ([http://f1000research.com/slides/5-1623 slides], [http://f1000research.com/posters/5-1625 poster])
+|Towards traceable, scriptable, and efficient data distribution for next-generation genomics ([https://youtu.be/yRR8qhRJqt8 video], [http://f1000research.com/slides/5-1623 slides], [http://f1000research.com/posters/5-1625 poster])
 |John Bradley [P8]
 |-
 |15:24-15:29
