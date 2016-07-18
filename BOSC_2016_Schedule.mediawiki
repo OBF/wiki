@@ -164,7 +164,7 @@ The Codefest (a pre-BOSC hackathon) took place July 6-7 in Orlando at FamiLAB. I
 |Peter Cock and Nomi Harris
 |-
 |9:05-9:15
-|[[Codefest_2016|Codefest 2016]] Report  ([http://f1000research.com/slides/5-1640 slides])
+|[[Codefest_2016|Codefest 2016]] Report  ([https://youtu.be/-1cthBe-Xcg video], [http://f1000research.com/slides/5-1640 slides])
 |Brad Chapman (Codefest Organizer)
 |- style="background:#EFFBFB"
 |9:15-10:15
