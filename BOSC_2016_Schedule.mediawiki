@@ -273,27 +273,27 @@ The Codefest (a pre-BOSC hackathon) took place July 6-7 in Orlando at FamiLAB. I
 | Chair: Karsten Hokamp
 |-
 |16:00-16:05
-|Apollo Genome Annotation Editor: Latest Updates, Including Galaxy Integration
+|Apollo Genome Annotation Editor: Latest Updates, Including Galaxy Integration ([https://youtu.be/NNqnAZE1ZOE videos])
 |Mónica C. Muñoz-Torres [P20]
 |-
 |16:06-16:11
-|An invitation to the bioinformatics community to participate in the HUBzero® open source release
+|An invitation to the bioinformatics community to participate in the HUBzero® open source release ([https://youtu.be/Xbox7-AEPJ8 video])
 |Michael Zentner [P21]
 |-
 |16:12-16:17
-|PDB on steroids – compressive structural bioinformatics
+|PDB on steroids – compressive structural bioinformatics ([https://youtu.be/1WEevvFpjQU video])
 |Peter Rose [P22]
 |-
 |16:18-16:23
-|Puzzle: VCF/GEMINI interface for genetic disease analysis ([https://www.dropbox.com/s/c2tuxi8k9g2t4en/puzzle-bosc-2016.pdf?dl=0 slides])
+|Puzzle: VCF/GEMINI interface for genetic disease analysis ([https://youtu.be/JKI_taSh5D8 video], [https://www.dropbox.com/s/c2tuxi8k9g2t4en/puzzle-bosc-2016.pdf?dl=0 slides])
 |Robin Andeer [P23]
 |-
 |16:24-16:29
-|Modernization of the Cytoscape ecosystem ([http://f1000research.com/slides/5-1661 slides], [http://f1000research.com/posters/5-1662 poster])
+|Modernization of the Cytoscape ecosystem ([https://youtu.be/MKmhDU47BZQ video], [http://f1000research.com/slides/5-1661 slides], [http://f1000research.com/posters/5-1662 poster])
 |Keiichiro Ono [P24]
 |-
 |16:30-16:35
-|Collaborative Software Development: Lessons from Open Source ([http://f1000research.com/slides/5-1660 slides])
+|Collaborative Software Development: Lessons from Open Source ([https://youtu.be/1af4M0xK7_4 video], [http://f1000research.com/slides/5-1660 slides])
 |Abigail Cabunoc Mayes
 |-
 |16:35-16:40
