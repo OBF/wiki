@@ -136,7 +136,7 @@ The Codefest (a pre-BOSC hackathon) took place July 6-7 in Orlando at FamiLAB. I
 |-
 |17:00-17:10
 |Open Bioinformatics Foundation (OBF) Update
-|
+|Hilmar Lapp
 |-
 |17:10-17:15
 |'''Announcements'''
