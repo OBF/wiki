@@ -180,11 +180,11 @@ The Codefest (a pre-BOSC hackathon) took place July 6-7 in Orlando at FamiLAB. I
 | Chair: Heather Wiencko
 |-
 |10:45-11:03
-|Mango: Data Exploration on Large Genomic Datasets
+|Mango: Data Exploration on Large Genomic Datasets ([https://youtu.be/67og0xCZxZ4 video])
 |Alyssa Morrow [P9]
 |-
 |11:03-11:21
-|ADAM Enables Distributed Analyses Across Large Scale Genomic Datasets
+|ADAM Enables Distributed Analyses Across Large Scale Genomic Datasets ([https://youtu.be/su_oltymp78 video])
 |Frank Nothaft
 |-
 |11:21-11:39
@@ -192,19 +192,19 @@ The Codefest (a pre-BOSC hackathon) took place July 6-7 in Orlando at FamiLAB. I
 |Hannes Hettling
 |-
 |11:39-11:57
-|Characterization of the small RNA transcriptome using the bcbio-nextgen python framework ([http://f1000research.com/slides/5-1627 slides])
+|Characterization of the small RNA transcriptome using the bcbio-nextgen python framework ([https://youtu.be/hESTyIKuGQY video], [http://f1000research.com/slides/5-1627 slides])
 |Lorena Pantano Rubino
 |-
 |11:57-12:15
-|MetaR: simple, high-level languages for data analysis with the R ecosystem ([https://prezi.com/x6nhbkext0ga/metar-bosc-2016/ slides], [http://f1000research.com/posters/5-1652 poster])
+|MetaR: simple, high-level languages for data analysis with the R ecosystem ([https://youtu.be/bWYhuQCSaqU video], [https://prezi.com/x6nhbkext0ga/metar-bosc-2016/ slides], [http://f1000research.com/posters/5-1652 poster])
 |Fabien Campagne [P10]
 |-
 |12:15-12:20
-|Development of NGSEP as an open-source comprehensive solution for analysis of high throughput sequencing data ([http://f1000research.com/slides/5-1650 slides])
+|Development of NGSEP as an open-source comprehensive solution for analysis of high throughput sequencing data ([https://youtu.be/51nuQ3c063Q video], [http://f1000research.com/slides/5-1650 slides])
 |Jorge Duitama [P11]
 |-
 |12:21-12:26
-|GRNmap and GRNsight: open source software for dynamical systems modeling and visualization of medium-scale gene regulatory networks ([http://f1000research.com/slides/5-1637 slides], [http://f1000research.com/posters/5-1618 poster])
+|GRNmap and GRNsight: open source software for dynamical systems modeling and visualization of medium-scale gene regulatory networks ([https://youtu.be/HP-oMNEi9cU video], [http://f1000research.com/slides/5-1637 slides], [http://f1000research.com/posters/5-1618 poster])
 |Kam D. Dahlquist [P12]
 |- style="background:#F7F8E0"
 |12:30-13:30
