@@ -5,7 +5,7 @@ title: BOSC 2016 Schedule
 __NOTOC__
 [[File:Pear.png|120px|right|BOSC logo|link=BOSC_2016]]
 
-This page has links to all the publicly available talk slides, videos and posters. Most of the slides and posters are on our [http://f1000research.com/channels/BOSC BOSC F1000 Research Channel] (others are on SlideShare and FigShare), while the videos will be on the [https://www.youtube.com/playlist?list=PLir-OOQiOhXZoehorqOhcHAUEXQqiVZRS BOSC 2016 YouTube playlist].
+This page has links to all the publicly available talk slides, videos and posters. Most of the slides and posters are on our [http://f1000research.com/channels/BOSC BOSC F1000 Research Channel] (others are on SlideShare and FigShare), while the videos are on the [https://www.youtube.com/playlist?list=PLir-OOQiOhXZoehorqOhcHAUEXQqiVZRS BOSC 2016 YouTube playlist].
 
 The [https://www.open-bio.org/w/images/2/24/BOSC2016-program4.pdf full program including abstracts] is available.
 
