@@ -24,7 +24,7 @@ The goal of Codefest is to bring open source bioinformatics programmers together
 
 == Outcomes == 
 
-* [https://docs.google.com/presentation/d/1cUQoQJ3AZ6jjVwOncTTGc5h7vV-RbB4KrDM0VwJGREM/edit?usp=sharing Project summary presentation]
+* Prokect summary presentation  ([https://youtu.be/-1cthBe-Xcg video], [http://f1000research.com/slides/5-1640 slides])
 * [https://docs.google.com/document/d/17XsM5O1CPxjsVXzcoqc08ocriB2v7a17DZpaf9Z83sU/edit?usp=sharing Detailed project write ups]
 * [https://goo.gl/photos/QejrQQcsiCugzFPPA Shared Google photo album] -- please add your pictures
 
