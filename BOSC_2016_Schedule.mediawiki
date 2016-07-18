@@ -245,19 +245,19 @@ The Codefest (a pre-BOSC hackathon) took place July 6-7 in Orlando at FamiLAB. I
 |Chair: Peter Cock
 |-
 |14:40-14:58
-|State of the openSNP.org Union: Dockerizing, Crowdfunding & Opening for Contributors ([http://f1000research.com/slides/5-1643 slides])
+|State of the openSNP.org Union: Dockerizing, Crowdfunding & Opening for Contributors ([https://youtu.be/KsoDPk-wVVE video], [http://f1000research.com/slides/5-1643 slides])
 |Bastian Greshake [P16]
 |-
 |14:58-15:16
-|The GenePattern Notebook Environment
+|The GenePattern Notebook Environment ([https://youtu.be/dIhFMceSETU video])
 |Michael Reich [P17]
 |-
 |15:16-15:21
-|Reproducibility in computationally intensive workflows with continuous analysis
+|Reproducibility in computationally intensive workflows with continuous analysis ([https://youtu.be/pXBk0YL-k04 video])
 |Brett K Beaulieu-Jones
 |-
 |15:22-15:27
-|Reproducible Research in the Cloud with the Refinery Platform
+|Reproducible Research in the Cloud with the Refinery Platform ([https://youtu.be/dX9En3GvtDk video])
 |Nils Gehlenborg [P18]
 |-
 |15:28-15:33
