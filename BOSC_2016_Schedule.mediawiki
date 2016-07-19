@@ -67,7 +67,7 @@ The Codefest (a pre-BOSC hackathon) took place July 6-7 in Orlando at FamiLAB. I
 |Peter Amstutz
 |-
 |11:57-12:15
-|Planemo – A Scientific Workflow SDK ([https://youtu.be/kVa-oWxWDww video])
+|Planemo – A Scientific Workflow SDK ([https://youtu.be/kVa-oWxWDww video], [http://f1000research.com/slides/5-1742 slides])
 |John Chilton
 |-
 |12:15-12:20
