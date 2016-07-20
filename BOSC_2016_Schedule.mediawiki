@@ -71,7 +71,7 @@ The Codefest (a pre-BOSC hackathon) took place July 6-7 in Orlando at FamiLAB. I
 |John Chilton
 |-
 |12:15-12:20
-|Sample Size Does Matter: Scaling Up Analysis in Galaxy with Metagenomics ([https://youtu.be/VtGyidSuMd8 video])
+|Sample Size Does Matter: Scaling Up Analysis in Galaxy with Metagenomics ([https://youtu.be/VtGyidSuMd8 video], [https://www.bx.psu.edu/~dan/presentations/2016/bosc/blankenberg_bosc_2016_scaling_up_with_metagenomics.pdf slides])
 |Daniel Blankenberg
 |-
 |12:21-12:26
