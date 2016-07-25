@@ -281,7 +281,7 @@ The Codefest (a pre-BOSC hackathon) took place July 6-7 in Orlando at FamiLAB. I
 |Michael Zentner [P21]
 |-
 |16:12-16:17
-|PDB on steroids – compressive structural bioinformatics ([https://youtu.be/1WEevvFpjQU video], [http://f1000research.com/slides/5-1755 slides], [ http://f1000research.com/posters/5-1752 poster])
+|PDB on steroids – compressive structural bioinformatics ([https://youtu.be/1WEevvFpjQU video], [http://f1000research.com/slides/5-1755 slides], [http://f1000research.com/posters/5-1752 poster])
 |Peter Rose [P22]
 |-
 |16:18-16:23
