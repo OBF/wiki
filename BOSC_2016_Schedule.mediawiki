@@ -273,7 +273,7 @@ The Codefest (a pre-BOSC hackathon) took place July 6-7 in Orlando at FamiLAB. I
 | Chair: Karsten Hokamp
 |-
 |16:00-16:05
-|Apollo Genome Annotation Editor: Latest Updates, Including Galaxy Integration ([https://youtu.be/NNqnAZE1ZOE videos])
+|Apollo Genome Annotation Editor: Latest Updates, Including Galaxy Integration ([https://youtu.be/NNqnAZE1ZOE video])
 |Mónica C. Muñoz-Torres [P20]
 |-
 |16:06-16:11
