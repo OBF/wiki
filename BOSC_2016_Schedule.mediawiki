@@ -253,7 +253,7 @@ The Codefest (a pre-BOSC hackathon) took place July 6-7 in Orlando at FamiLAB. I
 |Michael Reich [P17]
 |-
 |15:16-15:21
-|Reproducibility in computationally intensive workflows with continuous analysis ([https://youtu.be/pXBk0YL-k04 video])
+|Reproducibility in computationally intensive workflows with continuous analysis ([https://youtu.be/pXBk0YL-k04 video], [http://f1000research.com/slides/5-1811 slides])
 |Brett K Beaulieu-Jones
 |-
 |15:22-15:27
