@@ -277,7 +277,7 @@ The Codefest (a pre-BOSC hackathon) took place July 6-7 in Orlando at FamiLAB. I
 |Mónica C. Muñoz-Torres [P20]
 |-
 |16:06-16:11
-|An invitation to the bioinformatics community to participate in the HUBzero® open source release ([https://youtu.be/Xbox7-AEPJ8 video])
+|An invitation to the bioinformatics community to participate in the HUBzero® open source release ([https://youtu.be/Xbox7-AEPJ8 video], [http://f1000research.com/posters/5-1800 poster])
 |Michael Zentner [P21]
 |-
 |16:12-16:17
