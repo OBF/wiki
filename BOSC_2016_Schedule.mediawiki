@@ -229,7 +229,7 @@ The Codefest (a pre-BOSC hackathon) took place July 6-7 in Orlando at FamiLAB. I
 |Peter Humburg [P19]
 |-
 |14:24-14:29
-|Linuxbrew and Homebrew-Science to Navigate the Software Dependency Labyrinth ([https://youtu.be/2QlH-3Bm0ns video], [http://sjackman.ca/linuxbrew-slides/#/ slides])
+|Linuxbrew and Homebrew-Science to Navigate the Software Dependency Labyrinth ([https://youtu.be/2QlH-3Bm0ns video], [http://sjackman.ca/linuxbrew-slides/#/ slides], [http://f1000research.com/posters/5-1795 poster])
 |Shaun Jackman [P14]
 |-
 |14:30-14:35
