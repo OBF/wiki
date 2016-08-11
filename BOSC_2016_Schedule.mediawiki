@@ -100,7 +100,7 @@ The Codefest (a pre-BOSC hackathon) took place July 6-7 in Orlando at FamiLAB. I
 |Andre Masella
 |-
 |14:18-14:36
-|Biothings APIs: high-performance bioentity-centric web services ([https://youtu.be/296cGIZ6Ps8 video], [http://www.slideshare.net/ChunleiWu/biothings-apis-highperformance-bioentitycentric-web-services slides])
+|Biothings APIs: high-performance bioentity-centric web services ([https://youtu.be/296cGIZ6Ps8 video], [http://www.slideshare.net/ChunleiWu/biothings-apis-highperformance-bioentitycentric-web-services slides], [ posterhttp://f1000research.com/posters/5-1954])
 |Chunlei Wu [P5]
 |-
 |14:36-14:54
