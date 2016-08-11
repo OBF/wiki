@@ -249,7 +249,7 @@ The Codefest (a pre-BOSC hackathon) took place July 6-7 in Orlando at FamiLAB. I
 |Bastian Greshake [P16]
 |-
 |14:58-15:16
-|The GenePattern Notebook Environment ([https://youtu.be/dIhFMceSETU video])
+|The GenePattern Notebook Environment ([https://youtu.be/dIhFMceSETU video], [http://f1000research.com/posters/5-1900 poster])
 |Michael Reich [P17]
 |-
 |15:16-15:21
