@@ -21,7 +21,7 @@ title: Minutes:2016 Oct ConfCall
 
 = Minutes =
 
-Etherpad for notes: https://piratepad.net/OBF-BoD-Meeting-Oct2016
+Etherpad for notes: http://piratepad.net/OBF-BoD-Meeting-Oct2016
 
 '''Attending:'''
 * Directors: 
