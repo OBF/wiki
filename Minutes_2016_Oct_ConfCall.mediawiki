@@ -1,0 +1,30 @@
+---
+title: Minutes:2016 Oct ConfCall
+---
+
+= Agenda =
+
+'''Venue:''' to be held by conference call on May 12, 2014, 1pm EDT (17:00 UTC, 18:00 BST, 19:00 CEST, 10am PDT) <br/>
+Dial-in Information: +1-857-216-2939 PIN: 62534 http://www.uberconference.com/hlapp
+
+<ol>
+<li> Old business </li>
+ <ul>
+  <li> [[Minutes:2015_May_ConfCall| May 2015 BoD meeting minutes]]</li>
+ </ul>  
+<li>New business</li>
+<ol style="list-style-type:lower-roman">
+  <li> Term expirations and Elections for the Board</li>
+  <li> T.B.D.</li>
+</ol>
+</ol>
+
+= Minutes =
+
+Etherpad for notes: https://etherpad.mozilla.org/OBF-BoD-Meeting-Oct2016
+
+'''Attending:'''
+* Directors: 
+* Guests: 
+
+'''Minutes:'''
