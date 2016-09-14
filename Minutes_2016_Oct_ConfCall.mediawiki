@@ -4,8 +4,8 @@ title: Minutes:2016 Oct ConfCall
 
 = Agenda =
 
-'''Venue:''' to be held by conference call on May 12, 2014, 1pm EDT (17:00 UTC, 18:00 BST, 19:00 CEST, 10am PDT) <br/>
-Dial-in Information: +1-857-216-2939 PIN: 62534 http://www.uberconference.com/hlapp
+'''Venue:''' To be held by conference call on Oct 4, 2016, 12.30pm EDT (16:30 UTC, 17:30 BST, 18:30 CEST, 9.30am PDT) <br/>
+<!-- Dial-in Information: +1-857-216-2939 PIN: 62534 http://www.uberconference.com/hlapp -->
 
 <ol>
 <li> Old business </li>
