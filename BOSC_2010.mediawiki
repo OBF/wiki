@@ -10,7 +10,7 @@ The 11th Annual Bioinformatics Open Source Conference (BOSC) 2010 will be held f
 
 '''''SLIDES''''' for both days' talks are up on [http://www.slideshare.net/bosc2010/presentations SlideShare] under the username "bosc2010".  Individual links to each talk are posted on the [[BOSC_2010_Schedule | schedule page]].
 
-'''BOSC 2010 Proceedings''': The [http://www.biomedcentral.com/1471-2105/11?issue=S12 Proceedings] have been published as of 21 December 2010 in ''BMC Bioinformatics''.
+'''BOSC 2010 Proceedings''': The [https://bmcbioinformatics.biomedcentral.com/articles/supplements/volume-11-supplement-12 Proceedings] have been published as of 21 December 2010 in ''BMC Bioinformatics''.
 
 <!--'''The deadline for [[BOSC 2010#Abstract_Submission_Information | submitting abstracts]] is April 15, 2010.'''-->
 
