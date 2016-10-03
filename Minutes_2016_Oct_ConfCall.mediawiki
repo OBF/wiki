@@ -11,11 +11,21 @@ title: Minutes:2016 Oct ConfCall
 <li> Old business </li>
  <ul>
   <li> [[Minutes:2015_May_ConfCall| May 2015 BoD meeting minutes]]</li>
+  <li> [https://github.com/OBF/obf-docs/pull/33 Amendments to the 2013 Financial Report] </li>
+  <li> [https://github.com/OBF/obf-docs/pull/34 2014 Financial Report] </li>
  </ul>  
 <li>New business</li>
 <ol style="list-style-type:lower-roman">
-  <li> Term expirations and Elections for the Board</li>
-  <li> T.B.D.</li>
+  <li> Term expirations and Elections for the Board
+    <ul>
+       <li>Hilmar Lapp, President of the Board. Running for re-election.</li>
+       <li>Peter Cock, Secretary. Running for re-election to the Board and as Treasurer.</li>
+       <li>Chris Fields, Board member at-large. Running for re-election to the Board and as Secretary.</li>
+       <li>Nomi Harris, Board member at-large. Running for re-election.</li>
+    </ul>
+  </li>
+  <li> Proposed changes to the OBF Bylaws: [https://github.com/OBF/obf-docs/pull/28 Part 1] and [https://github.com/OBF/obf-docs/pull/29 Part 2] </li>
+  <li> Options for and hurdles to generating revenue from selling swag (OBF project-branded merchandise) </li>
 </ol>
 </ol>
 
