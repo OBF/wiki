@@ -18,6 +18,7 @@ title: Minutes:2016 Oct ConfCall
 <ol style="list-style-type:lower-roman">
   <li> Term expirations and Elections for the Board
     <ul>
+       <li>Heather Wiencko, running for election to the Board.</li>
        <li>Hilmar Lapp, President of the Board. Running for re-election.</li>
        <li>Peter Cock, Secretary. Running for re-election to the Board and as Treasurer.</li>
        <li>Chris Fields, Board member at-large. Running for re-election to the Board and as Secretary.</li>
