@@ -9,7 +9,7 @@ The '''B'''ioinformatics '''O'''pen '''S'''ource '''C'''onference is held annual
 # Promote Open Science, with its focus on sharing data and tools, transparency, reproducibility, and data provenance;
 # Inform the research community of important developments occurring within the Open Source Bioinformatics Developer community.
 
-BOSC meetings to date:
+== BOSC meetings to date ==
 
 * [[BOSC 2016]] Orlando, FL, USA
 * [[BOSC 2015]] Dublin, Ireland
@@ -34,9 +34,9 @@ In recent years the BOSC meetings have been preceded by a two day [[Codefest]], 
 Other conferences
 * A [[bp:BioPerl|BioPerl]] [[BioPerl Heidelberg 1999|workshop]] was held in conjunction with ISMB'99 in Heidelberg, Germany.
 
-Other links:
+== BOSC-related channels and links ==
 
-* [http://f1000research.com/channels/BOSC BOSC F1000 Research Channel]
+* [http://f1000research.com/channels/BOSC BOSC F1000 Research Channel] (BOSC reports, posters, slides)
 * [http://twitter.com/OBF_BOSC/ @OBF_BOSC on Twitter]
 * [http://youtube.com/c/OBFBOSC OBF BOSC on YouTube]
 * [http://google.com/+OBFBOSC OBF BOSC on Google+]
