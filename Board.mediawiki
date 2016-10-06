@@ -60,3 +60,5 @@ The board can be contacted via email at [mailto:board@open-bio.org board@open-bi
 According to the bylaws, "''Nominations for the Board of Directors may be made by the general membership at any time throughout the year by email to any Board Member.''" (see Art. IV.1)  The Board tries on an ongoing basis to create opportunities for members of the community to serve, while also ensuring stability of the Board. Opportunities for filling a seat, either through expansion of the Board, or by replacing a Board member whose term expires, arise in most years, and the Board is always interested to hear from volunteers from the community interested in serving. 
 
 Please see general [[Board/Expectations|expectations for Board members]].
+
+''The Nominating Committee, which used to be described here until recently, no longer exists as a fixed entity. It was removed in the [https://github.com/OBF/obf-docs/pull/28 Oct 2016 revisions to the Bylaws].''
