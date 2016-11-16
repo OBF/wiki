@@ -2,4 +2,4 @@
 title: Minutes:2016 Nov ConfCall
 ---
 
-Etherpad: http://etherpad.osuosl.org/OBF_Board_Meeting_-_Nov._8
+[http://etherpad.osuosl.org/p/r.f80bd11029f840db7a48fb9f7b5c206f Etherpad]
