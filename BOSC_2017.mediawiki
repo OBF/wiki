@@ -17,7 +17,7 @@ We also organize Codefest, a two-day community development session, just before 
 Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter.com/OBF_BOSC follow @OBF_BOSC] and use [https://twitter.com/search?q=%23BOSC2017 hash tag #bosc2017].
 
 == Important Dates ==
-* March 1, 2017: [[BOSC_Abstract_Submission|abstract]] submission portal opens
+* March 1, 2017: [[BOSC_Abstract_Submission|Abstract]] submission portal opens
 * April 13, 2017: Deadline for submitting [[BOSC_Abstract_Submission|abstracts]] for full talks (there will be a later deadline for late-breaking lightning talks and posters)
 * July 26-27, 2017: Codefest 2017, Prague (place TBD)
 * July 24-25, 2017: BOSC 2017, Prague
