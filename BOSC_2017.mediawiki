@@ -1,0 +1,85 @@
+---
+title: BOSC 2017
+---
+
+__NOTOC__
+
+<div style="float:left; maxwidth: 180px; margin-left:25px; margin-right:15px; background-color: #FFFFFF">[[Image:Pear.png|left|The Bosc Pear]]</div>
+
+BOSC 2017 will be held July 24-25, 2017 in Prague as part of the new combined [https://www.iscb.org/ismbeccb2017 ISMB/EECB/COSI meeting] to be held July 21-25, 2017.
+
+== Overview ==
+
+The Bioinformatics Open Source Conference (BOSC) is organized by the [https://www.open-bio.org/wiki/Main_Page Open Bioinformatics Foundation (OBF)], a non-profit group dedicated to promoting the practice and philosophy of open source software development and open science within the biological research community. Since its inception in 2000, BOSC has provided a forum for developers and users to interact and share research results and ideas in open source bioinformatics. BOSC’s broad spectrum of topics includes practical techniques for solving bioinformatics problems; software development practices; standards and ontologies; approaches that promote open science and sharing of data, results and software; and ways to grow open source communities while promoting diversity within them.
+
+We also organize Codefest, a two-day community development session, just before or after BOSC ([[Codefest 2016]]). This is an opportunity for anyone interested in open science, biology and programming to meet, discuss and work collaboratively. Everyone is welcome to attend Codefest (whether or not you attend BOSC).
+
+Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter.com/OBF_BOSC follow @OBF_BOSC] and use [https://twitter.com/search?q=%23BOSC2017 hash tag #bosc2017].
+
+== Important Dates ==
+* March 1, 2017: Abstract submission portal opens
+* April 13, 2017: Deadline for submitting [[BOSC_Abstract_Submission|abstracts]] for full talks (there will be a later deadline for late-breaking lightning talks and posters)
+* July 26-27, 2017: [[Codefest 2017]], Prague (place TBD)
+* July 24-25, 2017: BOSC 2017, Prague
+* July 21-25: Combined [https://www.iscb.org/ismbeccb2017 ISMB/EECB/COSI meeting]
+
+== Session Topics ==
+We welcome submissions relating to all aspects of bioinformatics and open science software, including (but not limited to):
+* Open Science and Reproducible Research
+* Open Biomedical Data
+* Open Publishing
+* Growing and Diversifying Open Source Communities
+* Standards and Interoperability
+* Data Science
+* Workflows
+* Visualization
+* Translational Bioinformatics
+* Developer Tools and Libraries
+* Bioinformatics Open Source Project Progress Reports
+
+== Sponsors ==
+
+BOSC is organised by the [[Main_Page|Open Bioinformatics Foundation]], a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community.
+sors.
+
+We gratefully accept sponsorships from relevant private companies. These sponsorships enable us to offer free registration to some BOSC speakers to help increase diversity at our meeting.
+
+If you would like to be a sponsor of BOSC, please contact us at bosc@open-bio.org.
+
+== Organizing Committee ==
+
+'''Co-Chairs'''
+
+* [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; [http://www.hutton.ac.uk James Hutton Institute])
+* Nomi L. Harris (Lawrence Berkeley National Laboratory)
+
+'''Members'''
+
+* [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer]; [http://compbio.sph.harvard.edu/chb/ Harvard School of Public Health])
+* Christopher Fields (National Center for Supercomputing Applications)
+* Bastian Greshake (OpenSNP)
+* Karsten Hokamp (Smurfit Institute of Genetics, Trinity College Dublin, Ireland)
+* [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp] (Center for Genomic and Computational Biology (GCB), Duke University)
+* [http://berkeleybop.org/person/monica-munoz-torres Mónica Muñoz-Torres]  (Berkeley Bioinformatics Open Source Projects)
+* Heather Wiencko (PlusVital)
+
+== Previous BOSCs ==
+
+* BOSC has been held yearly since 2000.
+* [BOSC 2016] took place '''July 8-9, 2016''', in Orlando, Florida, right before ISMB 2016.
+** Check out the complete [[BOSC_2015_Schedule|schedule]] with links to slides, posters and videos - mostly on our [http://f1000research.com/channels/BOSC F1000 Research BOSC Channel], with the videos on the [https://www.youtube.com/playlist?list=PLir-OOQiOhXbENjAIFF-JZ0WodnysPqfh BOSC YouTube].
+** Read the [http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004691 BOSC 2015 Summary Report in PLOS Computational Biology].  
+* [[Past BOSC conferences | Information about the first 15 BOSC conferences]]
+
+== Contact Us ==
+
+* [https://twitter.com/OBF_BOSC Follow BOSC on Twitter]: @OBF_BOSC, #bosc2017
+* If you'd like to join the mailing list for BOSC-related announcements, including the call for abstracts and deadline reminders, please subscribe to the [http://lists.open-bio.org/mailman/listinfo/bosc-announce bosc-announce] list.  This list has low traffic, and your address will be kept private.
+* If you have questions about the conference, or would like to volunteer to help out, please contact the organizers at [mailto:bosc@open-bio.org bosc@open-bio.org].
+
+== ISMB Code of Conduct ==
+
+In March 2015, ISMB published a [http://www.iscb.org/ismbeccb2015-general-info/ismbeccb2015-coc Code of Conduct] that applies to SIGs (including BOSC) as well as the main ISMB/ECCB meeting.
+
+[[Category:BOSC]] [[Category:Conferences]]
+[[Category:BOSC Conferences]]
