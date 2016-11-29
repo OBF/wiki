@@ -6,4 +6,6 @@ We plan to hold the OpenBio's BOSC Codefest 2017 on 26th and 27th July 2017 (the
 
 This is an opportunity for anyone interested in open science, biology and programming to meet, discuss and work collaboratively. Everyone is welcome to attend. We will have a mix of experienced developers, newcomers to bioinformatics and everything in between.
 
-This will be the eight annual BOSC [[Codefest]].
+We have not yet identified a location for Codefest. If anyone has interest in hosting or helping find venues, please [https://github.com/chapmanb/ get in touch with Brad Chapman].
+
+This will be the eight annual OpenBio [[Codefest]].
