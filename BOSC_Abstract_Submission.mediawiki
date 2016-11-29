@@ -3,7 +3,7 @@ title: BOSC Abstract Submission
 ---
 
 __NOTOC__
-[[File:Pear.png‎|100px|left|BOSC logo|link=BOSC_2016]]
+[[File:Pear.png‎|100px|left|BOSC logo|link=BOSC_2017]]
 
 == Important Dates ==
 * March 1, 2017: Abstract submission portal opens
@@ -53,6 +53,6 @@ See the following websites for further information:
 == Code of Conduct ==
 In March 2015, ISMB published a [http://www.iscb.org/ismbeccb2015-general-info/ismbeccb2015-coc Code of Conduct] that applies to SIGs (including BOSC) as well as the main ISMB/ECCB meeting.
 
-== * * * Click [https://easychair.org/conferences/?conf=bosc2016 here] to submit your abstract! * * * ==
+== When abstract submission opens, you will be able to click [https://easychair.org/conferences/?conf=bosc2016 here] to submit your abstract ==
 
 [[BOSC_2017|Back to BOSC 2017 home page]]
