@@ -48,14 +48,14 @@ If you would like to be a sponsor of BOSC, please contact us at bosc@open-bio.or
 
 == Organizing Committee ==
 
-'''Co-Chairs'''
+'''Chair'''
 
-* [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; [http://www.hutton.ac.uk James Hutton Institute])
 * Nomi L. Harris (Lawrence Berkeley National Laboratory)
 
 '''Members'''
 
 * [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer]; [http://compbio.sph.harvard.edu/chb/ Harvard School of Public Health])
+* [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; [http://www.hutton.ac.uk James Hutton Institute])
 * Christopher Fields (National Center for Supercomputing Applications)
 * Bastian Greshake (OpenSNP)
 * Karsten Hokamp (Smurfit Institute of Genetics, Trinity College Dublin, Ireland)
