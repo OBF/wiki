@@ -5,14 +5,21 @@ title: BOSC Abstract Submission
 __NOTOC__
 [[File:Pear.png‎|100px|left|BOSC logo|link=BOSC_2016]]
 
-The deadline for submitting abstracts for BOSC talks was April 4, 2016, with a second round for Late-Breaking Lightning Talks and/or posters that closed on June 2 
+== Important Dates ==
+* March 1, 2017: Abstract submission portal opens
+* April 13, 2017: Deadline for submitting [[BOSC_Abstract_Submission|abstracts]] for full talks (there will be a later deadline for late-breaking lightning talks and posters)
+* July 26-27, 2017: [[Codefest 2017]], Prague (place TBD)
+* July 24-25, 2017: BOSC 2017, Prague
+* July 21-25: Combined [https://www.iscb.org/ismbeccb2017 ISMB/EECB/COSI meeting]
 
-If you missed those deadlines, there will be few spots reserved for walk-in posters; however, those will not be listed in the program or on the BOSC website.
+== Acceptance Criteria ==
 
-----
+BOSC covers all aspects of open source bioinformatics software and open biomedical science and data. Work discussed in BOSC presentations must be open source, with a recognized open source license and an URL for accessing your code. We look for impact of the work in building or sustaining open source communities.
+
+We are happy to consider abstracts describing work that has already been published or presented elsewhere, but we ask you to mention that on the submission form. Work that has been presented at a recent BOSC will need to demonstrate significant progress in order to be eligible for a talk at BOSC 2017.
 
 === Abstract Formatting Requirements ===
-Abstracts must be '''one page''' (8.5 inches by 11 inches or A4) in length and submitted '''as a PDF (preferred), LaTeX, Microsoft Word, or text file'''.
+Abstracts must be '''one page''' (8.5 inches by 11 inches or A4) in length and submitted '''as a PDF file'''.
 
 You may wish to use one of these abstract templates:
 * [http://www.open-bio.org/wiki/File:BOSC2015-abstract-template.pdf PDF] (not fillable)
@@ -21,8 +28,6 @@ You may wish to use one of these abstract templates:
 * [http://www.open-bio.org/bosc2015/bosc2015-abstract-example.docx Word (.docx)]
 * [http://www.open-bio.org/bosc2015/bosc2015-abstract-example.pages Pages]
 * [https://github.com/bow/talks/blob/master/2014_bosc/abstract/abstract.tex Example BOSC abstract using LaTeX]
-
-If you want to submit your abstract in plain text format, please be sure to use the file extension ".txt" or the abstract submission system will reject it.
 
 Please use one of the provided templates or format your abstract as follows:
 * Use 1 inch (2.5 cm) margins on the top, sides, and bottom of the page.
@@ -37,7 +42,7 @@ Please use one of the provided templates or format your abstract as follows:
 
 To be considered for acceptance, software systems representing the central topic in a presentation submitted to BOSC must be licensed with a recognized Open Source License, and be freely available for download in source code form. Please see the next section for more information.
 
-== BOSC Open Source License Requirement ==
+=== BOSC Open Source License Requirement ===
 
 The [[OBF|Open Bioinformatics Foundation]], which sponsors BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development within the biological research community. For this reason, if a submitted abstract concerns a specific software system for use by the research community, then that software must be licensed with a recognized Open Source License, and be available for download, including source code, by a tar/zip file accessed through ftp/http or through a widely used version control system like cvs/subversion/git/bazaar/Mercurial.
 
@@ -50,4 +55,4 @@ In March 2015, ISMB published a [http://www.iscb.org/ismbeccb2015-general-info/i
 
 == * * * Click [https://easychair.org/conferences/?conf=bosc2016 here] to submit your abstract! * * * ==
 
-[[BOSC_2016|Back to BOSC 2016 home page]]
+[[BOSC_2017|Back to BOSC 2017 home page]]
