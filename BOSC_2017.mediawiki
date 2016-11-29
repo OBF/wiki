@@ -66,7 +66,7 @@ If you would like to be a sponsor of BOSC, please contact us at bosc@open-bio.or
 == Previous BOSCs ==
 
 * BOSC has been held yearly since 2000.
-* [BOSC 2016] took place '''July 8-9, 2016''', in Orlando, Florida, right before ISMB 2016.
+* [[BOSC 2016]] took place July 8-9, 2016 in Orlando, Florida, right before ISMB 2016.
 ** Check out the complete [[BOSC_2015_Schedule|schedule]] with links to slides, posters and videos - mostly on our [http://f1000research.com/channels/BOSC F1000 Research BOSC Channel], with the videos on the [https://www.youtube.com/playlist?list=PLir-OOQiOhXbENjAIFF-JZ0WodnysPqfh BOSC YouTube].
 ** Read the [http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004691 BOSC 2015 Summary Report in PLOS Computational Biology].  
 * [[Past BOSC conferences | Information about the first 15 BOSC conferences]]
