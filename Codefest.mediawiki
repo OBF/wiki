@@ -2,7 +2,7 @@
 title: Codefest
 ---
 
-In recent years, typically before each annual [[BOSC]] meeting the OBF has organised an informal two day "Coding Festival", or Codefest. Like similar "[[Hackathon]]" (hacking marathon) or programming "Sprint" events, these are programmer orientated and are intended to foster collaborations amongst the international bioinformatics community.
+In recent years, typically before each annual [[BOSC]] meeting the OBF has organised an informal two day "Coding Festival", or OpenBio Codefest. Like similar "[[Hackathon]]" (hacking marathon) or programming "Sprint" events, these are programmer orientated and are intended to foster collaborations amongst the international bioinformatics community.
 
 * [[Codefest 2017]] in Prague, Czech Republic
 * [[Codefest 2016]] in Orlando, Florida
