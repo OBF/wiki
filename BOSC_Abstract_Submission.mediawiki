@@ -6,8 +6,11 @@ __NOTOC__
 [[File:Pear.png‎|100px|left|BOSC logo|link=BOSC_2017]]
 
 == Important Dates ==
-* March 1, 2017: Abstract submission portal opens
-* April 13, 2017: Deadline for submitting [[BOSC_Abstract_Submission|abstracts]] for full talks (there will be a later deadline for late-breaking lightning talks and posters)
+
+Note this year all the SIG/COSI meetings at ISMB/ECCB are trying to use consistent abstract deadlines dates, and these have yet to be confirmed.
+
+* Around March 1, 2017: Abstract submission portal opens
+* Around April 13, 2017: Deadline for submitting [[BOSC_Abstract_Submission|abstracts]] for full talks (there will be a later deadline for late-breaking lightning talks and posters)
 * July 24-25, 2017: BOSC 2017, Prague
 * July 21-25: Combined [https://www.iscb.org/ismbeccb2017 ISMB/EECB/COSI meeting]
 * July 26-27, 2017: [[Codefest 2017]], Prague (dates and venue TBC)
