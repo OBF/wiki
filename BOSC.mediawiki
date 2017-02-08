@@ -11,6 +11,7 @@ The '''B'''ioinformatics '''O'''pen '''S'''ource '''C'''onference is held annual
 
 == BOSC meetings to date ==
 
+* [[BOSC 2017]] Prague, Czech Republic
 * [[BOSC 2016]] Orlando, FL, USA
 * [[BOSC 2015]] Dublin, Ireland
 * [[BOSC 2014]] Boston, MA USA
