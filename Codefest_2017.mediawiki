@@ -2,7 +2,7 @@
 title: Codefest 2017
 ---
 
-We plan to hold the OpenBio's BOSC Codefest 2017 on 26th and 27th July 2017 (the Wednesday and Thursday just after BOSC 2017 and the ISMB/ECCB 2017 meeting) in Prague.
+We plan to hold the OpenBio's BOSC Codefest 2017 on 20 and 21 July (just before [[BOSC 2017]] and the ISMB/ECCB 2017 meeting) in Prague, but this and the venue has yet to be confirmed.
 
 This is an opportunity for anyone interested in open science, biology and programming to meet, discuss and work collaboratively. Everyone is welcome to attend. We will have a mix of experienced developers, newcomers to bioinformatics and everything in between.
 
