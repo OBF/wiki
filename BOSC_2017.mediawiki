@@ -30,13 +30,12 @@ Note this year all the SIG/COSI meetings at ISMB/ECCB are trying to use consiste
 We welcome submissions relating to all aspects of bioinformatics and open science software, including (but not limited to):
 * Open Science and Reproducible Research
 * Open Biomedical Data
-* Open Publishing
-* Growing and Diversifying Open Source Communities
+* Citizen/Participatory Science
 * Standards and Interoperability
 * Data Science
 * Workflows
 * Visualization
-* Translational Bioinformatics
+* Medical and Translational Bioinformatics
 * Developer Tools and Libraries
 * Bioinformatics Open Source Project Progress Reports
 
