@@ -21,6 +21,7 @@ Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter
 Note this year all the SIG/COSI meetings at ISMB/ECCB are trying to use consistent abstract deadlines dates, and these have yet to be confirmed.
 
 * March 5, 2017: [[BOSC_Abstract_Submission|Abstract]] submission opens
+* April 3, 2017: Online registration opens
 * Around April 13, 2017: Deadline for submitting [[BOSC_Abstract_Submission|abstracts]] for full talks (there will be a later deadline for late-breaking lightning talks and posters)
 * July 21-25: Combined [https://www.iscb.org/ismbeccb2017 ISMB/ECCB meeting]
 * July 20-21, 2017: [[Codefest 2017]], Prague (location TBD)
@@ -38,6 +39,10 @@ We welcome submissions relating to all aspects of bioinformatics and open scienc
 * Medical and Translational Bioinformatics
 * Developer Tools and Libraries
 * Bioinformatics Open Source Project Progress Reports
+
+== Registration ==
+
+[https://www.iscb.org/ismbeccb2017-registration BOSC 2017 registration is via ISMB/ECCB 2017]. You can either register for the full ISMB/ECCB 2017 meeting, or at minimum register for 2-days. There is no 1-day registration option this year. Note the pricing structure is designed to encourage participants to join ISCB as members as this saves you money overall.
 
 == Sponsors ==
 
