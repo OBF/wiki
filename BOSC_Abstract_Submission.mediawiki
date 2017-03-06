@@ -4,10 +4,16 @@ title: BOSC Abstract Submission
 
 __NOTOC__
 [[File:Pear.png‎|100px|left|BOSC logo|link=BOSC_2017]]
+== Click [https://easychair.org/conferences/?conf=bosc2017 here] to submit your abstract! ==
+Abstract submission is via [https://easychair.org/conferences/?conf=bosc2017 EasyChair].  You will need to register for an account on EasyChair in order to submit your abstract.   
+
+The official deadline for submitting abstracts for full BOSC talks is '''April 13, 2017.'''
+
+There will also be a later deadline (May 15) for submitting abstracts for late-breaking lightning talks or posters.
 
 == Important Dates ==
 
-* March 6, 2017: Abstract submission portal opens
+* March 6, 2017: [https://easychair.org/conferences/?conf=bosc2017 Abstract submission portal] opens
 * April 13, 2017: Deadline for submitting abstracts for full talks (there will be a later deadline for late-breaking lightning talks and posters)
 * May 11, 2017: Authors notified
 * May 15, 2017: Deadline for submitting abstracts for late-breaking lightning talks and/or posters
@@ -22,7 +28,7 @@ BOSC covers all aspects of open source bioinformatics software and open biomedic
 We are happy to consider abstracts describing work that has already been published or presented elsewhere, but we ask you to mention that on the submission form. Work that has been presented at a recent BOSC will need to demonstrate significant progress in order to be eligible for a talk at BOSC 2017.
 
 == Abstract Formatting Requirements ==
-Abstracts must be '''one page''' (8.5 inches by 11 inches or A4) in length and submitted '''as a PDF file'''.
+Abstracts must be '''one page''' (8.5 inches by 11 inches or A4) in length and submitted '''as a PDF file'''. Your one-page abstract is welcome to include any figures or graphics that will fit; however, we cannot accept figures on additional page(s).
 
 You may wish to use one of these abstract templates:
 * [http://www.open-bio.org/wiki/File:BOSC2015-abstract-template.pdf PDF] (not fillable)
@@ -56,8 +62,8 @@ See the following websites for further information:
 == Code of Conduct ==
 In March 2015, ISMB published a [http://www.iscb.org/ismbeccb2015-general-info/ismbeccb2015-coc Code of Conduct] that applies to SIGs (including BOSC) as well as the main ISMB/ECCB meeting.
 
-== Click [https://easychair.org/conferences/?conf=bosc2017 here] to submit your abstract! ==
+<hr>
 
-You will need to register for a free EasyChair account, if you don't already have one. Your contact information will be used only to contact you about your abstract; it will not be shared with any other organizations.
+=== * * * Click [https://easychair.org/conferences/?conf=bosc2017 here] to submit your abstract! * * * ===
 
 [[BOSC_2017|Back to BOSC 2017 home page]]
