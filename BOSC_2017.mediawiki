@@ -20,7 +20,7 @@ Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter
 
 Note this year all the SIG/COSI meetings at ISMB/ECCB are trying to use consistent abstract deadlines dates, and these have yet to be confirmed.
 
-* March 5, 2017: [[BOSC_Abstract_Submission|Abstract submission]] opens
+* March 6, 2017: [[BOSC_Abstract_Submission|Abstract submission]] opens
 * April 3, 2017: [https://www.iscb.org/ismbeccb2017-registration ISMB/ECCB online registration] opens (see notes below)
 * April 13, 2017: '''Deadline for [[BOSC_Abstract_Submission|submitting abstracts]] for full talks''' (there will be a later deadline for late-breaking lightning talks and posters)
 * July 20-21, 2017: [[Codefest 2017]], Prague (location TBD)
