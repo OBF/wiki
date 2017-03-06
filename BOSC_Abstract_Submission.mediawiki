@@ -7,7 +7,7 @@ __NOTOC__
 
 == Important Dates ==
 
-* March 5, 2017: Abstract submission portal opens
+* March 6, 2017: Abstract submission portal opens
 * April 13, 2017: Deadline for submitting abstracts for full talks (there will be a later deadline for late-breaking lightning talks and posters)
 * May 11, 2017: Authors notified
 * May 15, 2017: Deadline for submitting abstracts for late-breaking lightning talks and/or posters
