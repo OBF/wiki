@@ -60,11 +60,11 @@ are very welcome at Codefest.
 == Attending ==
 
 You are very welcome to attend. There is no cost, we only ask you to register to help organize numbers. Please add yourself if you are
-interested to [https://docs.google.com/spreadsheets/d/1sJxWzTTt-g8vZtNDac9xeEoYPM2lWIB1m7xXkrfc_do/edit?usp=sharing this Google spreadsheet]
+interested to [https://docs.google.com/spreadsheets/d/1o-eIxURNdYoCsrpMRYtzXygM8wMj96WN8zYTTpLhkSU/edit#gid=0 this Google spreadsheet]
 We'll coordinate through the [https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2017 Codefest 2017 mailing list],
 so please sign up to discuss and receive updates.
 
-If you're not able to physically attend, we're still more than happy to have you participate in Codefest. Please sign up on the [https://docs.google.com/spreadsheets/d/1sJxWzTTt-g8vZtNDac9xeEoYPM2lWIB1m7xXkrfc_do/edit?usp=sharing the Google spreadsheet] and list yourself as remote only. We have a [https://gitter.im/chapmanb/obf-codefest Gitter chat room] we can use to coordinate and discuss in real time and will have an open Google Hangout to make it easier to be part of Codefest remotely.
+If you're not able to physically attend, we're still more than happy to have you participate in Codefest. Please sign up on the [https://docs.google.com/spreadsheets/d/1o-eIxURNdYoCsrpMRYtzXygM8wMj96WN8zYTTpLhkSU/edit#gid=0 the Google spreadsheet] and list yourself as remote only. We have a [https://gitter.im/chapmanb/obf-codefest Gitter chat room] we can use to coordinate and discuss in real time and will have an open Google Hangout to make it easier to be part of Codefest remotely.
 
 Add your [https://docs.google.com/document/d/1XQr4xgVneR9PopAdyrGH-DogKju5Lzn30J5Ak2Ugbc4/edit?usp=sharing project ideas to the shared google document]. The ideas include smaller focused projects and larger work. We want suggestions from everyone and will organize into groups around these during Codefest.
 
