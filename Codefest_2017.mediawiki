@@ -76,7 +76,7 @@ Codefest is kindly hosted by [https://brmlab.cz/ Brmlab], a non-profit, communit
 | [[File: Brmlab.png|400px|left|Brmlab|link=http://brmlab.cz]]
 |}
 
-* [https://www.google.com/maps/d/edit?mid=zLeaxcXY2lXM.kq7vmHyLohiU&usp=sharing Google Map of Codefest/BOSC locations of interest]
+* [https://drive.google.com/open?id=1N9qWaOreNLstmAejjDQOhpKFZ0c&usp=sharing Google Map of Codefest/BOSC locations of interest in Prague]
 
 We plan to have lunch and coffee available for everyone attending. The rough schedule for the two days is:
 
@@ -92,7 +92,7 @@ We plan to have lunch and coffee available for everyone attending. The rough sch
 * Thursday July 7th 2-6: Work
 * Thursday July 7th 6pm: Wrap up presentations and get ready for [[BOSC 2017]]
 
-This is completely flexible based on progress and needs of attendees. There is an [https://hangouts.google.com/call/u5hvj2atabchvegkzeylsu5seme Google Hangout] for remote participants that will be on when we're working in Prague. Feel free to ask in the [https://gitter.im/chapmanb/obf-codefest Gitter Chat channel] if you're wondering about the current status at any time.
+This is completely flexible based on progress and needs of attendees. There is a [https://hangouts.google.com/call/u5hvj2atabchvegkzeylsu5seme Google Hangout] for remote participants that will be on when we're working in Prague. Feel free to ask in the [https://gitter.im/chapmanb/obf-codefest Gitter Chat channel] if you're wondering about the current status at any time.
 
 == Sponsors ==
 
