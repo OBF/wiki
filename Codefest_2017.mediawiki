@@ -73,7 +73,7 @@ Add your [https://docs.google.com/document/d/1XQr4xgVneR9PopAdyrGH-DogKju5Lzn30J
 Codefest is kindly hosted by [https://brmlab.cz/ Brmlab], a non-profit, community-run hackerspace in Prague.
 
 {|
-| [[File: FamiLAB-Logo3.gif|400px|left|Brmlab|link=http://brmlab.cz]]
+| [[File: Brmlab.png|400px|left|Brmlab|link=http://brmlab.cz]]
 |}
 
 * [https://www.google.com/maps/d/edit?mid=zLeaxcXY2lXM.kq7vmHyLohiU&usp=sharing Google Map of Codefest/BOSC locations of interest]
