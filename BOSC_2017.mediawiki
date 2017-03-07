@@ -52,7 +52,6 @@ If you choose the July 22-23 option, this will include BOSC (as well as allowing
 == Sponsors ==
 
 BOSC is organised by the [[Main_Page|Open Bioinformatics Foundation]], a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community.
-sors.
 
 We gratefully accept sponsorships from relevant private companies. These sponsorships enable us to offer free registration to some BOSC speakers to help increase diversity at our meeting.
 
