@@ -2,10 +2,104 @@
 title: Codefest 2017
 ---
 
-We plan to hold the OpenBio's BOSC Codefest 2017 on 20 and 21 July (just before [[BOSC 2017]] and the ISMB/ECCB 2017 meeting) in Prague, but this and the venue has yet to be confirmed.
+OpenBio Codefest 2017 is July 20th and 21st, 2017 (the Thursday and Friday before [[BOSC 2017]] and the ISMB/ECCB 2017 meeting) at [https://brmlab.cz/ Brmlab: a non-profit, community-run hackerspace in Prague].
 
 This is an opportunity for anyone interested in open science, biology and programming to meet, discuss and work collaboratively. Everyone is welcome to attend. We will have a mix of experienced developers, newcomers to bioinformatics and everything in between.
 
-We have not yet identified a location for Codefest. If anyone has interest in hosting or helping find venues, please [https://github.com/chapmanb/ get in touch with Brad Chapman].
+This is the eight annual pre-[[BOSC]] [[Codefest]]. Previous fun and successful events were [[Codefest 2010]] in
+Boston, [[Codefest 2011]] in Vienna, [[Codefest 2012]] in Los Angeles, [[Codefest 2013]] in Berlin,
+and [[Codefest 2014]] in Boston, [[Codefest 2015]] in Dublin and [[Codefest 2016]] in Orlando.
 
-This will be the eight annual OpenBio [[Codefest]].
+== Objectives ==
+
+The goal of Codefest is to bring open source bioinformatics programmers together to have an enjoyable and productive two days. Practically this results in a number of useful outcomes:
+
+* Improving and expanding existing open source code, documentation and infrastructure (see the summaries from [https://www.open-bio.org/wiki/Codefest_2016#Outcomes Codefest 2016], [https://www.open-bio.org/wiki/Codefest_2015#Outcomes Codefest 2015], [https://docs.google.com/presentation/d/114yvrK0Veasc_ns_rg484j2xxRi1h7wNlU2XKONuUqY/edit Codefest 2014] and [http://bcb.io/2013/07/18/summary-from-bioinformatics-open-science-codefest-2013-tools-infrastructure-standards-and-visualization/ Codefest 2013] for examples of work accomplished in previous years).
+
+* Developing new communities working on shared problems. For example, the [https://groups.google.com/forum/#!forum/common-workflow-language Common Workflow Language] developed from discussions at Codefest 2014.
+
+* Establishing new friendships, helping to expand the open source bioinformatics community.
+
+* Preparing and publishing [http://www.biomedcentral.com/1471-2105/15/S14/S7 papers about the work accomplished].
+
+== Why attend ==
+
+* For new members of the community: meet and learn with other open source programmers. There are [https://docs.google.com/document/d/1XQr4xgVneR9PopAdyrGH-DogKju5Lzn30J5Ak2Ugbc4/edit?usp=sharing projects specifically for new attendees, or add your own ideas]. 
+
+* For current community members: expand your network and strengthen existing relationships. Teach and learn from new community members. Focus on open source work without interruptions. Discuss questions and problems in real time. 
+
+* For everyone: discuss and learn from the community. Teach others what you know. Build new friendships and collaborations.
+
+If you have any questions or thoughts, please get in touch with [https://github.com/chapmanb Brad] directly, in the [https://gitter.im/chapmanb/obf-codefest Gitter chat room] or on the [https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2016 Codefest 2016 mailing list].
+
+== What to expect ==
+
+The OpenBio Codefest is a collaborative two day working session. The only
+requirement for attendance is that you have an interest in open source software
+and solving scientific problems. We will have contributors to open source
+bioinformatics tools present to collaboratively work with, and we welcome new
+attendees who want to learn and contribute to open source code or documentation.
+
+The rough structure of the two days is:
+
+* Start with introductions from everyone attending about their goals and plans for the two days.
+
+* Assemble into working groups based on shared interests like programming languages, open source projects or biological questions. We use the [https://docs.google.com/document/d/1XQr4xgVneR9PopAdyrGH-DogKju5Lzn30J5Ak2Ugbc4/edit?usp=sharing collaboratively brainstormed Google document] as the basis for setting up groups. Attendees determine the goals for the two days. If you have an idea for a project, please add it before the event. Any and all suggestions are welcome.
+
+* Work and discuss. Enjoy the productive time.
+
+* We'll have regular breaks where each group can deliver short reports on their progress.
+
+* We have informal lunches, dinners and drinks as a way for everyone to get to know each other better.
+
+* At the end of the two days, we summarize contributions and work accomplished in a BOSC presentation and meeting report.
+
+Please feel free to get in touch with any of the organizers with questions. You
+are very welcome at Codefest.
+
+== Attending ==
+
+You are very welcome to attend. There is no cost, we only ask you to register to help organize numbers. Please add yourself if you are
+interested to [https://docs.google.com/spreadsheets/d/1sJxWzTTt-g8vZtNDac9xeEoYPM2lWIB1m7xXkrfc_do/edit?usp=sharing this Google spreadsheet]
+We'll coordinate through the [https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2016 Codefest 2016 mailing list],
+so please sign up to discuss and receive updates.
+
+If you're not able to physically attend, we're still more than happy to have you participate in Codefest. Please sign up on the [https://docs.google.com/spreadsheets/d/1sJxWzTTt-g8vZtNDac9xeEoYPM2lWIB1m7xXkrfc_do/edit?usp=sharing the Google spreadsheet] and list yourself as remote only. We have a [https://gitter.im/chapmanb/obf-codefest Gitter chat room] we can use to coordinate and discuss in real time and will have an open Google Hangout to make it easier to be part of Codefest remotely.
+
+Add your [https://docs.google.com/document/d/1XQr4xgVneR9PopAdyrGH-DogKju5Lzn30J5Ak2Ugbc4/edit?usp=sharing project ideas to the shared google document]. The ideas include smaller focused projects and larger work. We want suggestions from everyone and will organize into groups around these during Codefest.
+
+== Logistics ==
+
+Codefest is kindly hosted by [https://brmlab.cz/ Brmlab], a non-profit, community-run hackerspace in Prague.
+
+{|
+| [[File: FamiLAB-Logo3.gif|400px|left|Brmlab|link=http://brmlab.cz]]
+|}
+
+* [https://www.google.com/maps/d/edit?mid=zLeaxcXY2lXM.kq7vmHyLohiU&usp=sharing Google Map of Codefest/BOSC locations of interest]
+
+We plan to have lunch and coffee available for everyone attending. The rough schedule for the two days is:
+
+* Wednesday July 6th 9am: Meet at Brmlab, coffee, introductions and organization into projects.
+* Wednesday July 6th 10-1: Work in groups
+* Wednesday July 6th 1pm: Provided Lunch at Brmlab + post-lunch presentations on progress and organization
+* Wednesday July 6th 2-6: Work in groups
+* Wednesday July 6th 6pm: End of day presentations, then pay your way group dinner (location to be decided)
+* Wednesday July 6th late evening: additional work at your discretion
+* Thursday July 7th 9am: Meet at Brmlab, coffee, provide status updates and organize.
+* Thursday July 7th 10-1: Work
+* Thursday July 7th 1pm: Provided lunch at Brmlab + post-lunch presentations on progress
+* Thursday July 7th 2-6: Work
+* Thursday July 7th 6pm: Wrap up presentations and get ready for [[BOSC 2017]]
+
+This is completely flexible based on progress and needs of attendees. There is an [https://hangouts.google.com/call/u5hvj2atabchvegkzeylsu5seme Google Hangout] for remote participants that will be on when we're working in Prague. Feel free to ask in the [https://gitter.im/chapmanb/obf-codefest Gitter Chat channel] if you're wondering about the current status at any time.
+
+== Sponsors ==
+
+We're looking for sponsors interested in being involved with the open source community. Sponsorship money helps provide food and drink for the Codefest and [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md Open Bioinformatics Foundation Travel Fellowships] for BOSC and Codefest. If interested, please get in touch with [https://github.com/chapmanb Brad].
+
+== Organizers ==
+
+* [http://github.com/chapmanb Brad Chapman]
+* [https://twitter.com/matuskalas Matúš Kalaš]
+* [https://twitter.com/HLWiencko Heather Wiencko]
