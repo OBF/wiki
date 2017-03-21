@@ -12,7 +12,7 @@ Dawn Field is a Lamberg International Guest Professor at Göteborg University’
 
 Dr. Field is credited with introducing the concept of a biological code, or “biocode"--the sum of all DNA on earth. In their book Biocode: The New Age of Genomics, she and coauthor Neil Davies describe the rapid rise of genomics, how it is revealing the scale and diversity of life on Earth, and future possibilities and implications. 
 
-Dr. Field's advocacy for open data and interoperability is epitomized by her past leadership of the Genomics Standards Consortium (GSC, http://gensc.org/about-gsc/), which aims to facilitate genomic data integration, discovery and comparison through international community-driven standards.
+Dr. Field's advocacy for open data and interoperability is epitomized by her past leadership of the Genomics Standards Consortium ([http://gensc.org/about-gsc/ GSC]), which aims to facilitate genomic data integration, discovery and comparison through international community-driven standards.
 
 ----
 
