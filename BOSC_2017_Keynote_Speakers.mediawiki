@@ -14,6 +14,8 @@ Dr. Field is credited with introducing the concept of a biological code, or “b
 
 Dr. Field's advocacy for open data and interoperability is epitomized by her past leadership of the Genomics Standards Consortium (GSC, http://gensc.org/about-gsc/), which aims to facilitate genomic data integration, discovery and comparison through international community-driven standards.
 
+----
+
 === Nick Loman ===
 
 [[Image:NickLoman.jpg|210px|right|Nick Loman]]
