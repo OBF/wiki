@@ -13,8 +13,8 @@ There will also be a later deadline (May 15) for submitting abstracts for late-b
 
 == Important Dates ==
 
-* March 6, 2017: [https://easychair.org/conferences/?conf=bosc2017 Abstract submission portal] opens
-* April 13, 2017: Deadline for submitting abstracts for full talks (there will be a later deadline for late-breaking lightning talks and posters)
+* April 13, 2017: Deadline for [https://easychair.org/conferences/?conf=bosc2017 submitting abstracts for full talks] (there will be a later deadline for late-breaking lightning talks and posters)
+* April 15, 2017: Deadline for applying for [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md OBF travel fellowship]
 * May 11, 2017: Authors notified
 * May 15, 2017: Deadline for submitting abstracts for late-breaking lightning talks and/or posters
 * May 17, 2017: Deadline for authors to respond to May 11 notification
