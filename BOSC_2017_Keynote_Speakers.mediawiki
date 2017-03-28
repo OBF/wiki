@@ -4,7 +4,7 @@ title: BOSC 2017 Keynote Speakers
 
 [[BOSC 2017]] is pleased to announce the following keynote speakers:
 
-[[Image:DawnFieldy.jpg|240px|left|Dawn Field]]
+[[Image:DawnFieldy.jpg|240px|right|Dawn Field]]
 
 === Dawn Field ===
 
@@ -16,9 +16,8 @@ Dr. Field's advocacy for open data and interoperability is epitomized by her pas
 
 ----
 
+[[Image:NickLoman.jpg|210px|left|Nick Loman]]
 === Nick Loman ===
-
-[[Image:NickLoman.jpg|210px|right|Nick Loman]]
 
 [http://lab.loman.net/about/ Nick Loman] is known as a vocal proponent of open genomic data in healthcare. An Independent Research Fellow in the Institute for Microbiology and Infection at the University of Birmingham, Dr. Loman explores the use of cutting-edge genomics and metagenomics approaches to human pathogens. He promotes the use of open data to facilitate the surveillance and treatment of infectious disease.
 
