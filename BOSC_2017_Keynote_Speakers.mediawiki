@@ -4,9 +4,9 @@ title: BOSC 2017 Keynote Speakers
 
 [[BOSC 2017]] is pleased to announce the following keynote speakers:
 
-=== Dawn Field ===
-
 [[Image:DawnFieldy.jpg|240px|left|Dawn Field]]
+
+=== Dawn Field ===
 
 Dawn Field is a Lamberg International Guest Professor at Göteborg University’s Department of Marine Sciences. Previously she was a senior research fellow at the NERC Centre for Ecology and Hydrology, Head of the Molecular Evolution and Bioinformatics Group at the Centre for Ecology and Hydrology in Wallingford, UK, and a research associate at the Smithsonian Institution. She is also a founder of the Genomic Standards Consortium, the Genomic Observatories Network and Ocean Sampling Day.
 
