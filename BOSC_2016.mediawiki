@@ -96,6 +96,12 @@ This year's keynote speakers will be Jennifer Gardy (University of British Colum
 * [http://berkeleybop.org/person/monica-munoz-torres Mónica Muñoz-Torres]  (Berkeley Bioinformatics Open Source Projects)
 * Heather Wiencko (PlusVital)
 
+== Review Committee == 
+
+Nomi Harris, Michael Heuer, Karen Cranston, Gianluca Della Vedova*, George Githinji, Christopher Fields, Hilmar Lapp*, Scott Markel, Frank Nothaft, Lorena Pantano, Michael Reich, Morgan Taschuk, Heather Wiencko*, Kai Blin*, Spencer Bliven*, Brad Chapman*, Michael Crusoe, Bastian Greshake*, Hans-Rudolf Hotz*, Herve Menager, Fiona Nielsen, Konstantin Okonechnikov, João Rodrigues*, Eric Talevich, Jason Williams, Melissa Wilson Sayres, Peter Cock*, Björn Grüning, Karsten Hokamp*, Amye Kenall, John Chilton, Konrad Förstner*, Jens Lichtenberg, Monica C Munoz-Torres
+
+&lowast; Also reviewed Late-Breaking Lightning Talk abstracts
+
 == Previous BOSCs ==
 
 * BOSC has been held yearly since 2000.
