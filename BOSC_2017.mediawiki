@@ -43,6 +43,12 @@ We welcome submissions relating to all aspects of bioinformatics and open scienc
 * Bioinformatics Open Source Project Progress Reports
 * PANEL: Open Data--Standards, Opportunities and Challenges
 
+== Keynote Speakers ==
+
+This year's keynote speakers will be Dawn Field (Göteborg University), known for her work on open data and interoperability, and Nick Loman (University of Birmingham), a vocal proponent of open genomic data in healthcare who heads the Zibra project.
+
+'''[[BOSC_2017_Keynote_Speakers|More information about BOSC 2017 Keynote Speakers]]'''
+
 == Registration ==
 
 [https://www.iscb.org/ismbeccb2017-registration BOSC 2017 registration is via ISMB/ECCB 2017]. In the past, BOSC has taken place the two days before ISMB as a Special Interest Group (SIG). This year, ISMB is trying a new structure: the SIGs (now called Communities of Special Interest, or COSIs) are integrated into the main ISMB meeting. BOSC will take place the first two full days of ISMB (July 22-23). Attendees will have the option to register for the full ISMB/ECCB meeting (July 21-25) or for just two days (there is no single-day registration option this year). Note that the pricing structure is designed to encourage participants to join ISCB, as this saves you money overall.
