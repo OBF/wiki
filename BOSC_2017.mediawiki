@@ -41,6 +41,7 @@ We welcome submissions relating to all aspects of bioinformatics and open scienc
 * Medical and Translational Bioinformatics
 * Developer Tools and Libraries
 * Bioinformatics Open Source Project Progress Reports
+* PANEL: Open Data--Standards, Opportunities and Challenges
 
 == Registration ==
 
