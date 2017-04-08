@@ -8,7 +8,7 @@ title: BOSC 2017 Keynote Speakers
 
 === Dawn Field ===
 
-Dawn Field  is a Lamberg International Guest Professor at Göteborg University’s Department of Marine Sciences. Previously she was a senior research fellow at the NERC Centre for Ecology and Hydrology, Head of the Molecular Evolution and Bioinformatics Group at the Centre for Ecology and Hydrology in Wallingford, UK, and a research associate at the Smithsonian Institution. She is also a founder of the Genomic Standards Consortium, the Genomic Observatories Network and Ocean Sampling Day.
+Dawn Field is a Lamberg International Guest Professor at Göteborg University’s Department of Marine Sciences. Previously she was a senior research fellow at the NERC Centre for Ecology and Hydrology, Head of the Molecular Evolution and Bioinformatics Group at the Centre for Ecology and Hydrology in Wallingford, UK, and a research associate at the Smithsonian Institution. She is also a founder of the Genomic Standards Consortium, the Genomic Observatories Network and Ocean Sampling Day.
 
 Dr. Field is credited with introducing the concept of a biological code, or “biocode"--the sum of all DNA on earth. In their book [https://global.oup.com/academic/product/biocode-9780199687756 Biocode: The New Age of Genomics], she and coauthor Neil Davies describe the rapid rise of genomics, how it is revealing the scale and diversity of life on Earth, and future possibilities and implications. 
 
