@@ -65,7 +65,7 @@ BOSC is organised by the [[Main_Page|Open Bioinformatics Foundation]], a non-pro
 | [[File:MSLLogo_small.png|220px|center|Mozilla Science Lab logo|link=https://science.mozilla.org/]]
 |}
 
-We are grateful to and welcome [http://thehyve.nl/ The Hyve] (who offer Open source solutions for bioinformatics) and [https://science.mozilla.org/ Mozilla Science Lab] (a community of researchers, developers, and librarians making research open and accessible), as new sponsors for BOSC 2017.
+We are grateful to and welcome [http://thehyve.nl/ The Hyve] (open source solutions for bioinformatics) and [https://science.mozilla.org/ Mozilla Science Lab] (a community of researchers, developers, and librarians making research open and accessible), as new sponsors for BOSC 2017.
 
 If you would like to be a sponsor of BOSC, please contact us at bosc@open-bio.org.
 
