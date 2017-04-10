@@ -59,7 +59,13 @@ If you choose the July 22-23 option, this will include BOSC (as well as allowing
 
 BOSC is organised by the [[Main_Page|Open Bioinformatics Foundation]], a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community.
 
-We gratefully accept sponsorships from relevant private companies. These sponsorships enable us to offer free registration to some BOSC speakers to help increase diversity at our meeting.
+{|
+| [[File:Thehyve-logo-small.png|200px|center|The Hyve logo|link=http://thehyve.nl/]]
+| &nbsp;
+| [[File:MSLLogo_small.png|220px|center|Mozilla Science Lab logo|link=https://science.mozilla.org/]]
+|}
+
+We are grateful to and welcome [http://thehyve.nl/ The Hyve] (who offer Open source solutions for bioinformatics) and [https://science.mozilla.org/ Mozilla Science Lab] (a community of researchers, developers, and librarians making research open and accessible), as new sponsors for BOSC 2017.
 
 If you would like to be a sponsor of BOSC, please contact us at bosc@open-bio.org.
 
