@@ -14,10 +14,13 @@ Dr. Field is credited with introducing the concept of a biological code, or “b
 
 Dr. Field's advocacy for open data and interoperability is epitomized by her past leadership of the Genomics Standards Consortium ([http://gensc.org/about-gsc/ GSC]), which aims to facilitate genomic data integration, discovery and comparison through international community-driven standards.
 
+The title of Dr. Field's keynote talk is "Understanding the Biocode: Global Sharing of Data."
+
 ----
 
 
 [[Image:NickLoman.jpg|210px|left|Nick Loman]]
+
 === Nick Loman ===
 
 [http://lab.loman.net/about/ Nick Loman] is known as a vocal proponent of open genomic data in healthcare. A Professor of Microbial Genomics and Bioinformatics at the University of Birmingham, Dr. Loman explores the use of cutting-edge genomics and metagenomics approaches to human pathogens. He promotes the use of open data to facilitate the surveillance and treatment of infectious disease.
