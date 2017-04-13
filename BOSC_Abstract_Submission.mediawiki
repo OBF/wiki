@@ -7,9 +7,9 @@ __NOTOC__
 == Click [https://easychair.org/conferences/?conf=bosc2017 here] to submit your abstract! ==
 Abstract submission is via [https://easychair.org/conferences/?conf=bosc2017 EasyChair].  You will need to register for an account on EasyChair in order to submit your abstract.   
 
-The official deadline for submitting abstracts for full BOSC talks is '''April 13, 2017.'''
+The official deadline for submitting abstracts for full BOSC talks is '''April 13, 2017''' (at the end of the day).
 
-There will also be a later deadline (May 15) for submitting abstracts for late-breaking lightning talks or posters.
+There will also be a later deadline ( June 5) for submitting abstracts for late-breaking lightning talks or posters.
 
 == Important Dates ==
 
@@ -17,7 +17,7 @@ There will also be a later deadline (May 15) for submitting abstracts for late-b
 * April 15, 2017: Deadline for applying for [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md OBF travel fellowship]
 * May 11, 2017: Acceptance notification
 * May 17, 2017: Deadline for authors to respond to May 11 notification
-* June 5, 2017: Deadline for submitting abstracts for late-breaking lightning talks and/or late posters ([https://www.iscb.org/ismbeccb2017/2930#new ISMB late poster fee] applies)
+* June 5, 2017: Deadline for submitting abstracts for late-breaking lightning talks and/or late posters ([https://www.iscb.org/ismbeccb2017/2930#new ISMB late poster fee] applies to posters)
 * June 12, 2017: Late lightning talk/poster acceptance notification
 * July 22-23, 2017: BOSC 2017, Prague
 * July 21-25: Combined [https://www.iscb.org/ismbeccb2017 ISMB/EECB/COSI meeting]
