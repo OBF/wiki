@@ -4,12 +4,10 @@ title: BOSC Abstract Submission
 
 __NOTOC__
 [[File:Pear.png‎|100px|left|BOSC logo|link=BOSC_2017]]
-== Click [https://easychair.org/conferences/?conf=bosc2017 here] to submit your abstract! ==
-Abstract submission is via [https://easychair.org/conferences/?conf=bosc2017 EasyChair].  You will need to register for an account on EasyChair in order to submit your abstract.   
 
-The official deadline for submitting abstracts for full BOSC talks is '''April 13, 2017''' (at the end of the day).
+The deadline for submitting abstracts for full BOSC talks was '''April 13, 2017'''.
 
-There will also be a later deadline ( June 5) for submitting abstracts for late-breaking lightning talks or posters.
+There will also be a later deadline ( June 5) for submitting abstracts for late-breaking lightning talks or posters. Abstract submission for those will open in the middle of May.
 
 == Important Dates ==
 
@@ -68,7 +66,5 @@ The OBF Travel Fellowship program is aimed at increasing diverse participation a
 In March 2015, ISMB published a [http://www.iscb.org/ismbeccb2015-general-info/ismbeccb2015-coc Code of Conduct] that applies to SIGs (including BOSC) as well as the main ISMB/ECCB meeting.
 
 <hr>
-
-=== * * * Click [https://easychair.org/conferences/?conf=bosc2017 here] to submit your abstract! * * * ===
 
 [[BOSC_2017|Back to BOSC 2017 home page]]
