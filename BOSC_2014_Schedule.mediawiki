@@ -31,7 +31,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |Nomi Harris and/or Peter Cock (Chairs, BOSC 2014)
 |-
 | 9:15-10:15
-| [[BOSC_2014_Keynote_Speakers|Keynote: A History of Bioinformatics (in the Year 2039)]] ([http://video.open-bio.org/video/1/a-history-of-bioinformatics-in-the-year-2039 video], [http://www.slideshare.net/c.titus.brown/2014-bosckeynote slideshare], [http://ivory.idyll.org/blog/2014-bosc-keynote.html notes])
+| [[BOSC_2014_Keynote_Speakers|Keynote: A History of Bioinformatics (in the Year 2039)]] ([https://youtu.be/uwsjwMO-TEA video], [http://www.slideshare.net/c.titus.brown/2014-bosckeynote slideshare], [http://ivory.idyll.org/blog/2014-bosc-keynote.html notes])
 | C. Titus Brown
 |-
 | '''10:15-10:45'''
@@ -43,27 +43,27 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Chair: Chris Fields
 |--
 | 10:45-11:03
-| [Genome-Scale] ADAM: Fast, Scalable Genomic Analysis ([http://video.open-bio.org/video/2/adam-fast-scalable-genomic-analysis video], [http://www.open-bio.org/bosc2014/BOSC2014-Genome-01-ADAM-Nothaft.pdf slides])
+| [Genome-Scale] ADAM: Fast, Scalable Genomic Analysis ([https://youtu.be/EtAWRuvuwr8 video], [http://www.open-bio.org/bosc2014/BOSC2014-Genome-01-ADAM-Nothaft.pdf slides])
 | Frank Austin Nothaft [P1]
 |-
 | 11:03-11:21
-| [Genome-Scale] A Framework for Benchmarking RNA-seq Pipelines ([http://video.open-bio.org/video/3/a-framework-for-benchmarking-rna-seq-pipelines video], [http://www.open-bio.org/bosc2014/BOSC2014-Genome-02-Rory.pdf slides])
+| [Genome-Scale] A Framework for Benchmarking RNA-seq Pipelines ([https://youtu.be/_LTaNFY9IjM video], [http://www.open-bio.org/bosc2014/BOSC2014-Genome-02-Rory.pdf slides])
 | Rory Kirchner
 |-
 | 11:21-11:39
-| [Genome-Scale] New Frontiers of Genome Assembly with SPAdes 3.1 ([http://video.open-bio.org/video/4/new-frontiers-of-genome-assembly-with-spades-31 video], [http://www.open-bio.org/bosc2014/BOSC2014-Genome-03-SPAdes-Prjibelski.pdf slides])
+| [Genome-Scale] New Frontiers of Genome Assembly with SPAdes 3.1 ([https://youtu.be/vFA7BGzNMss video], [http://www.open-bio.org/bosc2014/BOSC2014-Genome-03-SPAdes-Prjibelski.pdf slides])
 | Andrey Prjibelski [P2]
 |-
 | 11:39-11:57
-| [Genome-Scale] SigSeeker: An Ensemble for Analysis of Epigenetic Data ([http://video.open-bio.org/video/5/sigseeker-an-ensemble-for-analysis-of-epigenetic video], [http://www.open-bio.org/bosc2014/BOSC2014-Genome-04-SigSeeker-Lichtenberg.pdf slides])
+| [Genome-Scale] SigSeeker: An Ensemble for Analysis of Epigenetic Data ([https://youtu.be/3gTEoyVNA6Q video], [http://www.open-bio.org/bosc2014/BOSC2014-Genome-04-SigSeeker-Lichtenberg.pdf slides])
 | Jens Lichtenberg [P3]
 |-
 | 11:57-12:15
-| [Genome-Scale]  Galaxy as an Extensible Job Execution Platform ([http://video.open-bio.org/video/6/galaxy-as-an-extensible-job-execution-platform video], [https://docs.google.com/presentation/d/1uQmmC2Cl5gpPe9cBwjl0cdKno1tsRKz2XNZg9NOMwdI/edit#slide=id.p slides])
+| [Genome-Scale]  Galaxy as an Extensible Job Execution Platform ([https://youtu.be/XLh_Q4Q0YBE video], [https://docs.google.com/presentation/d/1uQmmC2Cl5gpPe9cBwjl0cdKno1tsRKz2XNZg9NOMwdI/edit#slide=id.p slides])
 | John Chilton
 |-
 | 12:15-12:30
-| [http://www.open-bio.org/wiki/Main_Page Open Bioinformatics Foundation (OBF) update] ([http://video.open-bio.org/video/7/open-bioinformatics-foundation-obf-update video])
+| [http://www.open-bio.org/wiki/Main_Page Open Bioinformatics Foundation (OBF) update] ([https://youtu.be/1oSTb8ZAxec video])
 | Hilmar Lapp (OBF President)
 |-
 | '''12:30-13:30'''
