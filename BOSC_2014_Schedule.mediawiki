@@ -79,23 +79,23 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Chair: Rob Davey
 |-
 | 14:00-14:18
-| [Visualization] WormGUIDES: an Interactive Informatic Developmental Atlas at Subcellular Resolution ([http://video.open-bio.org/video/8/wormguides-an-interactive-informatic-development video], [http://www.open-bio.org/bosc2014/BOSC2014-Viz-01-WormGUIDES-Santella.pdf slides])
+| [Visualization] WormGUIDES: an Interactive Informatic Developmental Atlas at Subcellular Resolution ([https://youtu.be/uxPnmyGydW4 video], [http://www.open-bio.org/bosc2014/BOSC2014-Viz-01-WormGUIDES-Santella.pdf slides])
 | Anthony Santella [P4]
 |-
 | 14:18-14:36
-| [Visualization] BioJS: an Open Source Standard for Biological Visualisation ([http://video.open-bio.org/video/9/biojs-an-open-source-standard-for-biological-vis video])
+| [Visualization] BioJS: an Open Source Standard for Biological Visualisation ([https://youtu.be/aHtXNW-I2U0 video])
 | Manuel Corpas [P5]
 |-
 | 14:36-14:54
-| [Visualization] Biodalliance: a Fast, Extensible Genome Browser ([http://video.open-bio.org/video/10/biodalliance-a-fast-extensible-genome-browser video])
+| [Visualization] Biodalliance: a Fast, Extensible Genome Browser ([https://youtu.be/l4Z7wsppCaM video])
 | Thomas Down
 |-
 | 14:54-15:12
-| [Visualization] TGAC Browser: Visualisation Solutions for Big Data in the Genomic Era ([http://video.open-bio.org/video/11/tgac-browser-visualisation-solutions-for-big-dat video], [http://www.open-bio.org/bosc2014/BOSC2014-Viz-04-TGAC_Browser-Anil.pdf slides])
+| [Visualization] TGAC Browser: Visualisation Solutions for Big Data in the Genomic Era ([https://youtu.be/yKx8lE2WQzI video], [http://www.open-bio.org/bosc2014/BOSC2014-Viz-04-TGAC_Browser-Anil.pdf slides])
 | Anil S. Thanki [P6]
 |-
 | 15:12-15:30
-| [Visualization] Explore, Analyze, and Share Genomic Data Using Integrated Genome Browser ([http://video.open-bio.org/video/12/explore-analyze-and-share-genomic-data-using-in video], [http://www.open-bio.org/bosc2014/BOSC2014-Viz-05-IGB-Ann_Loraine.pdf slides])
+| [Visualization] Explore, Analyze, and Share Genomic Data Using Integrated Genome Browser ([https://youtu.be/b7O9rN2i0GM video], [http://www.open-bio.org/bosc2014/BOSC2014-Viz-05-IGB-Ann_Loraine.pdf slides])
 | Ann Loraine
 |-
 | '''15:30-16:00'''
@@ -107,23 +107,23 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Chair: Peter Cock
 |-
 | 16:00-16:12
-| [Updates] BioMart 0.9 – Introducing Tools for Data Analysis and Visualisation ([http://video.open-bio.org/video/13/biomart-09-introducing-tools-for-data-analysis video], [http://www.open-bio.org/bosc2014/BOSC2014-Updates-01-BioMart.pdf slides])
+| [Updates] BioMart 0.9 – Introducing Tools for Data Analysis and Visualisation ([https://youtu.be/XJmyC1sfFeg video], [http://www.open-bio.org/bosc2014/BOSC2014-Updates-01-BioMart.pdf slides])
 | Arek Kasprzyk
 |-
 | 16:12-16:24
-| [Updates] Biocaml: The OCaml Bioinformatics Library ([http://video.open-bio.org/video/14/biocaml-the-ocaml-bioinformatics-library video], [http://www.open-bio.org/bosc2014/BOSC2014-Updates-02-Biocaml-Agarwal.pdf slides])
+| [Updates] Biocaml: The OCaml Bioinformatics Library ([https://youtu.be/0lDWzyhdyP8 video], [http://www.open-bio.org/bosc2014/BOSC2014-Updates-02-Biocaml-Agarwal.pdf slides])
 | Ashish Agarwal
 |-
 | 16:24-16:36
-| [Updates] BioRuby and Distributed Development ([http://video.open-bio.org/video/15/bioruby-and-distributed-development video], [https://github.com/pjotrp/biogems.info/blob/master/doc/abstracts/BOSC2014_BioRuby_dev.md abstract], [http://www.open-bio.org/bosc2014/BOSC2014-Updates-03-BioRuby-Pjotr.pdf slides])
+| [Updates] BioRuby and Distributed Development ([https://youtu.be/tRpxLmu4w3w video], [https://github.com/pjotrp/biogems.info/blob/master/doc/abstracts/BOSC2014_BioRuby_dev.md abstract], [http://www.open-bio.org/bosc2014/BOSC2014-Updates-03-BioRuby-Pjotr.pdf slides])
 | Pjotr Prins
 |-
 | 16:36-16:48
-| [Updates] Biopython Project Update ([http://video.open-bio.org/video/16/biopython-project-update video], [http://www.open-bio.org/bosc2014/BOSC2014-Updates-04-Biopython-Arindrarto.pdf slides])
+| [Updates] Biopython Project Update ([https://youtu.be/bJ5OcCYq-G4 video], [http://www.open-bio.org/bosc2014/BOSC2014-Updates-04-Biopython-Arindrarto.pdf slides])
 | Wibowo Arindrarto
 |-
 | 16:48-17:00
-| [Updates] Shared Bioinformatics Databases Within Unipro UGENE ([http://video.open-bio.org/video/17/shared-bioinformatics-database-within-unipro-ugen video], [http://www.open-bio.org/bosc2014/BOSC2014-Updates-05-UGENE-Protsyuk.pdf slides])
+| [Updates] Shared Bioinformatics Databases Within Unipro UGENE ([https://youtu.be/tS57J2JeL-Y video], [http://www.open-bio.org/bosc2014/BOSC2014-Updates-05-UGENE-Protsyuk.pdf slides])
 | Ivan Protsyuk [P7]
 |-
 | ''17:00-17:30''
@@ -131,19 +131,19 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Chair: Peter Cock
 |-
 | 17:00-17:05
-| [Lightning] Fostering the Next Generation of Data-driven Open Science with R ([http://video.open-bio.org/video/18/fostering-the-next-generation-of-data-driven-open video], [http://karthik.github.io/BOSC/ slides])
+| [Lightning] Fostering the Next Generation of Data-driven Open Science with R ([https://youtu.be/p4hbpb3d6v8 video], [http://karthik.github.io/BOSC/ slides])
 | Karthik Ram
 |-
 | 17:07-17:12
-| [Lightning] Tripal: an Open Source Toolkit for Building Genomic and Genetic Data Websites and Databases ([http://video.open-bio.org/video/46/tripal-an-open-source-toolkit-for-building-genom-0 video], [http://www.open-bio.org/bosc2014/BOSC2014-Lightning-2-Tripal-Staton.pdf slides])
+| [Lightning] Tripal: an Open Source Toolkit for Building Genomic and Genetic Data Websites and Databases ([https://youtu.be/-IUr8Tghvsw video], [http://www.open-bio.org/bosc2014/BOSC2014-Lightning-2-Tripal-Staton.pdf slides])
 | Margaret Staton
 |-
 | 17:14-17:19
-| [Lightning] PLUTo: Phyloinformatic Literature Unlocking Tools ([http://video.open-bio.org/video/20/pluto-phyloinformatic-literature-unlocking-tools video], [http://www.open-bio.org/bosc2014/BOSC2014-Lightning-3-PLUTo-Mounce.pdf slides])
+| [Lightning] PLUTo: Phyloinformatic Literature Unlocking Tools ([https://youtu.be/qX0ocTMc8MY video], [http://www.open-bio.org/bosc2014/BOSC2014-Lightning-3-PLUTo-Mounce.pdf slides])
 | Ross Mounce
 |-
 | 17:21-17:26
-| [Lightning] A Publication Model that Aligns with the Key Open Source Software Principles ([http://video.open-bio.org/video/21/a-publication-model-that-aligns-with-the-key-open video], [http://www.open-bio.org/bosc2014/BOSC2014-Lightning-4-F1000-Markie.pdf slides])
+| [Lightning] A Publication Model that Aligns with the Key Open Source Software Principles ([https://youtu.be/iWQXfyFtRUU video], [http://www.open-bio.org/bosc2014/BOSC2014-Lightning-4-F1000-Markie.pdf slides])
 | Michael L. Markie [P8]
 |-
 | 17:27-17:30
