@@ -23,7 +23,7 @@ There were over 2000 tweets about #BOSC2015, and a number of articles and blog p
 
 * [https://storify.com/bmpvieira/dublin-conferences Bruno Vieira's Storify] about Codefest, BOSC, and ISMB/ECCB 2015
 
-* [http://blogs.biomedcentral.com/gigablog/2015/07/12/open-bioinformatics-irish-free-software-state/ GigaScience blog post]
+* [http://gigasciencejournal.com/blog/open-bioinformatics-irish-free-software-state/ Scott Edmunds' GigaScience blog post]
 
 * [http://www.flax.co.uk/blog/2015/07/13/biosolr-at-bosc-2015-open-source-search-for-bioinformatics/ Matt Pearce's blog post about BOSC and BioSolr]
 
