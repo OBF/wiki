@@ -176,11 +176,11 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Peter Cock and/or Nomi Harris (Chairs, BOSC 2014)
 |-
 | 9:00-9:15
-| [[Codefest_2014 | Codefest 2014 Report]] ([http://video.open-bio.org/video/22/codefest-2014-report video], [https://docs.google.com/presentation/d/114yvrK0Veasc_ns_rg484j2xxRi1h7wNlU2XKONuUqY/edit?usp=sharing slides])
+| [[Codefest_2014 | Codefest 2014 Report]] ([https://youtu.be/EuWgm6V9DgI video], [https://docs.google.com/presentation/d/114yvrK0Veasc_ns_rg484j2xxRi1h7wNlU2XKONuUqY/edit?usp=sharing slides])
 | Brad Chapman
 |-
 | 9:15-10:15
-| | [[BOSC_2014_Keynote_Speakers|Keynote: Biomedical Research as an Open Digital Enterprise]] ([http://video.open-bio.org/video/23/biomedical-research-as-an-open-digital-enterprise video], [http://www.slideshare.net/pebourne/bosc2014 slidesshare])
+| | [[BOSC_2014_Keynote_Speakers|Keynote: Biomedical Research as an Open Digital Enterprise]] ([https://youtu.be/VmRNkdHKJgA video], [http://www.slideshare.net/pebourne/bosc2014 slidesshare])
 | Philip Bourne 
 |-
 | '''10:15-10:45'''
@@ -192,23 +192,23 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Chair: Raoul Bonnal
 |-
 | 10:45-11:03
-| [Interoperability] Pathview: an R/Bioconductor Package for Pathway-based Data Integration and Visualization ([http://video.open-bio.org/video/24/pathview-an-rbioconductor-package-for-pathway-b video], [http://www.open-bio.org/bosc2014/BOSC2014-InterOp-01-Pathview-Weijun.pdf slides])
+| [Interoperability] Pathview: an R/Bioconductor Package for Pathway-based Data Integration and Visualization ([https://youtu.be/sne_Nb9au20 video], [http://www.open-bio.org/bosc2014/BOSC2014-InterOp-01-Pathview-Weijun.pdf slides])
 | Weijun Luo [P9]
 |-
 | 11:03-11:21
-| [Interoperability] Use of Semantically Annotated Resources in the Mobyle2 Web Framework ([http://video.open-bio.org/video/25/use-of-semantically-annotated-resources-in-the-mo video], [http://www.open-bio.org/bosc2014/BOSC2014-InterOp-02-Mobyle2_EDAM-Ménager.pdf slides])
+| [Interoperability] Use of Semantically Annotated Resources in the Mobyle2 Web Framework ([https://youtu.be/5sYUuoXOBiE video], [http://www.open-bio.org/bosc2014/BOSC2014-InterOp-02-Mobyle2_EDAM-Ménager.pdf slides])
 | Hervé Ménager
 |-
 | 11:21-11:39
-| [Interoperability] Towards Ubiquitous OWL Computing: Simplifying Programmatic Authoring of and Querying with OWL Axioms ([http://video.open-bio.org/video/26/towards-ubiquitous-owl-computing-simplifying-pro video], [http://www.open-bio.org/bosc2014/BOSC2014-InterOp-03-Ubiquitous_OWL-Hilmar.pdf slides])
+| [Interoperability] Towards Ubiquitous OWL Computing: Simplifying Programmatic Authoring of and Querying with OWL Axioms ([https://youtu.be/K0SlYwMyn-A video], [http://www.open-bio.org/bosc2014/BOSC2014-InterOp-03-Ubiquitous_OWL-Hilmar.pdf slides])
 | Hilmar Lapp
 |-
 | 11:39-11:57
-| [Interoperability] Integrating Taverna Player into Scratchpads ([http://video.open-bio.org/video/27/integrating-taverna-player-into-scratchpads video], [http://www.slideshare.net/roberthaines/tp-scratchtalk-36957762 slideshare], [https://zenodo.org/record/10871 poster])
+| [Interoperability] Integrating Taverna Player into Scratchpads ([https://youtu.be/iL-rMaFtYdM video], [http://www.slideshare.net/roberthaines/tp-scratchtalk-36957762 slideshare], [https://zenodo.org/record/10871 poster])
 | Robert Haines [P10]
 |-
 | 11:57-12:15
-| [Interoperability] Small Tools for Bioinformatics ([http://video.open-bio.org/video/28/small-tools-for-bioinformatics video], [http://www.open-bio.org/bosc2014/BOSC2014-InterOp-05-small_tools_Pjotr.pdf slides], [https://github.com/pjotrp/bioinformatics abstract], [https://github.com/pjotrp/bioinformatics manifesto])
+| [Interoperability] Small Tools for Bioinformatics ([http://youtu.be/8jHbvClB1i8 video], [http://www.open-bio.org/bosc2014/BOSC2014-InterOp-05-small_tools_Pjotr.pdf slides], [https://github.com/pjotrp/bioinformatics abstract], [https://github.com/pjotrp/bioinformatics manifesto])
 | Pjotr Prins
 |-
 | '''12:30-13:30'''
@@ -225,15 +225,15 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |-
 
 | 14:00-14:18
-| [Open Science] SEEK for Science: A Data Management Platform which Supports Open and Reproducible Science ([http://video.open-bio.org/video/29/seek-for-science-a-data-management-platform-whic video], [http://www.slideshare.net/carolegoble/bosc-seek2014goble slideshare])
+| [Open Science] SEEK for Science: A Data Management Platform which Supports Open and Reproducible Science ([https://youtu.be/g8b98kJwT60 video], [http://www.slideshare.net/carolegoble/bosc-seek2014goble slideshare])
 | Carole Goble [P11]
 |-
 | 14:18-14:36
-| [Open Science] Arvados: Achieving Computational Reproducibility and Data Provenance in Large-Scale Genomic Analyses ([http://video.open-bio.org/video/30/arvados-achieving-computational-reproducibility video], [http://www.open-bio.org/bosc2014/BOSC2014-OpenScience-02-Arvados-Brett_Smith.pdf slides])
+| [Open Science] Arvados: Achieving Computational Reproducibility and Data Provenance in Large-Scale Genomic Analyses ([https://youtu.be/ZFAaJfzwxW4 video], [http://www.open-bio.org/bosc2014/BOSC2014-OpenScience-02-Arvados-Brett_Smith.pdf slides])
 | Brett Smith
 |-
 | 14:36-14:54
-| [Open Science] Enhancing the Galaxy Experience through Community Involvement ([http://video.open-bio.org/video/31/enhancing-the-galaxy-experience-through-community video], [http://www.open-bio.org/bosc2014/BOSC2014-OpenScience-03-Galaxy-Blankenberg.pdf slides])
+| [Open Science] Enhancing the Galaxy Experience through Community Involvement ([https://youtu.be/z-Z1cuOO4ts video], [http://www.open-bio.org/bosc2014/BOSC2014-OpenScience-03-Galaxy-Blankenberg.pdf slides])
 | Daniel Blankenberg
 |-
 | 14:54-15:12
@@ -241,7 +241,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 | Brad Chapman
 |-
 | 15:12-15:30
-| [Open Science] 'Open' as a Strategy for Durability, Reproducibility and Scalability ([http://video.open-bio.org/video/33/open-as-a-strategy-for-durability-reproducibilit video], [http://www.open-bio.org/bosc2014/BOSC2014-OpenScience-05-Open_as_a_strategy-Rees.pdf slides])
+| [Open Science] 'Open' as a Strategy for Durability, Reproducibility and Scalability ([https://youtu.be/TMzWRQUbO4U video], [http://www.open-bio.org/bosc2014/BOSC2014-OpenScience-05-Open_as_a_strategy-Rees.pdf slides])
 | Jonathan Rees
 |-
 | '''15:30-16:00'''
@@ -249,7 +249,7 @@ See [[Codefest_2014 | Codefest 2014]] for details.
 |
 |-
 | 16:00-17:00
-| '''Panel''': Reproducibility: Rewards and Challenges ([http://video.open-bio.org/video/34/panel-reproducibility-rewards-and-challenges video])
+| '''Panel''': Reproducibility: Rewards and Challenges ([https://youtu.be/65Rx89eZWpU video])
 | Moderator: Brad Chapman;
 Panelists: Phil Bourne, Titus Brown, Varsha Khodiyar, Kaitlin Thaney
 |-
