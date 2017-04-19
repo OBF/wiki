@@ -80,17 +80,17 @@ Codefest is kindly hosted by [https://brmlab.cz/ Brmlab], a non-profit, communit
 
 We plan to have lunch and coffee available for everyone attending. The rough schedule for the two days is:
 
-* Wednesday July 6th 9am: Meet at Brmlab, coffee, introductions and organization into projects.
-* Wednesday July 6th 10-1: Work in groups
-* Wednesday July 6th 1pm: Provided Lunch at Brmlab + post-lunch presentations on progress and organization
-* Wednesday July 6th 2-6: Work in groups
-* Wednesday July 6th 6pm: End of day presentations, then pay your way group dinner (location to be decided)
-* Wednesday July 6th late evening: additional work at your discretion
-* Thursday July 7th 9am: Meet at Brmlab, coffee, provide status updates and organize.
-* Thursday July 7th 10-1: Work
-* Thursday July 7th 1pm: Provided lunch at Brmlab + post-lunch presentations on progress
-* Thursday July 7th 2-6: Work
-* Thursday July 7th 6pm: Wrap up presentations and get ready for [[BOSC 2017]]
+* Thursday July 20th 9am: Meet at Brmlab, coffee, introductions and organization into projects.
+* Thursday July 20th 10-1: Work in groups
+* Thursday July 20th 1pm: Provided Lunch at Brmlab + post-lunch presentations on progress and organization
+* Thursday July 20th 2-6: Work in groups
+* Thursday July 20th 6pm: End of day presentations, then pay your way group dinner (location to be decided)
+* Thursday July 20th late evening: additional work at your discretion
+* Friday July 21st 9am: Meet at Brmlab, coffee, provide status updates and organize.
+* Friday July 21st 10-1: Work
+* Friday July 21st 1pm: Provided lunch at Brmlab + post-lunch presentations on progress
+* Friday July 21st 2-6: Work
+* Friday July 21st 6pm: Wrap up presentations and get ready for [[BOSC 2017]]
 
 This is completely flexible based on progress and needs of attendees. There is a [https://hangouts.google.com/call/u5hvj2atabchvegkzeylsu5seme Google Hangout] for remote participants that will be on when we're working in Prague. Feel free to ask in the [https://gitter.im/chapmanb/obf-codefest Gitter Chat channel] if you're wondering about the current status at any time.
 
