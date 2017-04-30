@@ -24,7 +24,7 @@ Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter
 * April 13, 2017: '''Deadline for [[BOSC_Abstract_Submission|submitting abstracts]] for full talks'''
 * April 15, 2017: Deadline for applying for [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md OBF travel fellowship]
 * May 11, 2017: Acceptance notification
-* May 17, 2017: Deadline for authors of accepted abstracts to respond to May 11 notification
+* May 16, 2017: Deadline for authors of accepted abstracts to respond to May 11 notification
 * June 5, 2017: '''Deadline for submitting abstracts for late-breaking lightning talks and/or late posters'''
 * June 12, 2017: Late lightning talk/poster acceptance notification
 * July 20-21, 2017: [[Codefest 2017]], [https://brmlab.cz/ Brmlab, Prague]  (a non-profit, community-run hackerspace)
