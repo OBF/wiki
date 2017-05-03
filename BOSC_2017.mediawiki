@@ -66,9 +66,13 @@ BOSC is organised by the [[Main_Page|Open Bioinformatics Foundation]], a non-pro
 | [[File:Thehyve-logo-small.png|200px|center|The Hyve logo|link=http://thehyve.nl/]]
 | &nbsp;
 | [[File:MSLLogo_small.png|220px|center|Mozilla Science Lab logo|link=https://science.mozilla.org/]]
+| &nbsp;
+| [[File:Repositive_logo_long.png|220px|center|Repositive Limited logo|link=https://repositive.io/]]
+| &nbsp;
+| [[File:Gigascience-07.png‎|200px|left|GigaScience|link=http://www.gigasciencejournal.com/]]
 |}
 
-We are grateful to and welcome [http://thehyve.nl/ The Hyve] (open source solutions for bioinformatics) and [https://science.mozilla.org/ Mozilla Science Lab] (a community of researchers, developers, and librarians making research open and accessible), as new sponsors for BOSC 2017.
+We are grateful to and welcome [http://thehyve.nl/ The Hyve] (open source solutions for bioinformatics), [https://science.mozilla.org/ Mozilla Science Lab] (a community of researchers, developers, and librarians making research open and accessible), and [https://repositive.io/ Repositive Limited] (who aim to speed up genetic diagnostics and research) as new sponsors for BOSC 2017, and [http://gigasciencejournal.com GigaScience] (an open access, open data, open peer-review journal) as a returning sponsor.
 
 If you would like to be a sponsor of BOSC, please contact us at bosc@open-bio.org.
 
