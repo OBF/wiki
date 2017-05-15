@@ -25,7 +25,7 @@ Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter
 * May 16, 2017: Deadline for authors of accepted abstracts to respond to May 11 notification
 * June 5, 2017: '''Deadline for submitting abstracts for late-breaking lightning talks and/or late posters'''
 * June 12, 2017: Late lightning talk/poster acceptance notification
-* June 15,, 2017: [https://www.iscb.org/ismbeccb2017-registration ISMB/ECCB online registration] early registration ends (see notes below)
+* June 15, 2017: [https://www.iscb.org/ismbeccb2017-registration ISMB/ECCB online registration] early registration ends (see notes below regarding registration)
 * July 20-21, 2017: [[Codefest 2017]], [https://brmlab.cz/ Brmlab, Prague]  (a non-profit, community-run hackerspace)
 * July 21-25: Combined [https://www.iscb.org/ismbeccb2017 ISMB/ECCB meeting]
 * '''July 22-23, 2017: BOSC 2017, Prague'''
