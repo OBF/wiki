@@ -12,12 +12,12 @@ There will also be a later deadline (June 5) for submitting abstracts for late-b
 == Important Dates ==
 
 * April 13, 2017: Deadline for [https://easychair.org/conferences/?conf=bosc2017 submitting abstracts for full talks] (there will be a later deadline for late-breaking lightning talks and posters)
-* April 15, 2017: Deadline for applying for [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md OBF travel fellowship]
 * May 11, 2017: Acceptance notification
-* May 17, 2017: Deadline for authors to respond to May 11 notification
-* June 5, 2017: Deadline for submitting abstracts for late-breaking lightning talks and/or late posters ([https://www.iscb.org/ismbeccb2017/2930#new ISMB late poster fee] applies to posters)
-* June 12, 2017: Late lightning talk/poster acceptance notification
-* July 22-23, 2017: BOSC 2017, Prague
+* May 16, 2017: Deadline for authors to respond to May 11 notification
+* June 5, 2017: Deadline for submitting abstracts for late-breaking lightning talks and/or late posters
+* June 12, 2017: Late-breaking lightning talk/poster acceptance notification
+* June 15, 2017: Deadline for authors to respond to late-breaking lightning talk/poster acceptance notification
+* '''July 22-23, 2017: BOSC 2017, Prague'''
 * July 21-25: Combined [https://www.iscb.org/ismbeccb2017 ISMB/EECB/COSI meeting]
 
 == Acceptance Criteria ==
