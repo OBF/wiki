@@ -7,7 +7,9 @@ __NOTOC__
 
 The deadline for submitting abstracts for full BOSC talks was '''April 13, 2017'''.
 
-There will also be a later deadline (June 5) for submitting abstracts for late-breaking lightning talks or posters. Abstract submission for those will open in the middle of May.
+However, you have a chance to submit an abstract to be considered for a late-breaking lightning talks or poster until '''June 5'''. Please be aware that we have very few spots available for LBLTs. LBLTs will be grouped together in one short session (it is too late to fit them into topic-centered sessions).
+
+== Click [https://easychair.org/conferences/?conf=bosc2017 here] to submit your abstract! ==
 
 == Important Dates ==
 
