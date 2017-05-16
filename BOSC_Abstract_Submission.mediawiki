@@ -9,6 +9,8 @@ The deadline for submitting abstracts for full BOSC talks was '''April 13, 2017'
 
 However, you have a chance to [https://easychair.org/conferences/?conf=bosc2017 submit an abstract to be considered for a late-breaking lightning talks or poster] until '''June 5'''. Please be aware that we have very few spots available for LBLTs. LBLTs will be grouped together in one short session (it is too late to fit them into topic-centered sessions).
 
+Note that if you already submitted an abstract in the earlier round, you will need to make a fresh submission to have your revised abstract considered for an LBLT--don’t just update your previous abstract in EasyChair.
+
 === Click [https://easychair.org/conferences/?conf=bosc2017 here] to submit your abstract for a late-breaking lightning talks or poster! ===
 
 
