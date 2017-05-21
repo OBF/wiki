@@ -19,7 +19,7 @@ __NOTOC__
 
 == Pre-BOSC: Codefest 2017  ==
 
-Codefest (a pre-BOSC hackathon) will take place July 20-21, 2017 at [https://brmlab.cz/ Brmlab, Prague]  (a non-profit, community-run hackerspace). Codefest is FREE and open to all (even if you're not attending BOSC). See [[Codefest 2017]] for details and to sign up.
+[[Codefest 2017]] (a pre-BOSC hackathon) will take place July 20-21 at [https://brmlab.cz/ Brmlab, Prague]  (a non-profit, community-run hackerspace). Codefest is FREE and open to all (even if you're not attending BOSC). See [[Codefest 2017]] for details and to sign up.
 
 == Schedule at a Glance (subject to change) ==
 
