@@ -1,0 +1,54 @@
+---
+title: BOSC 2017 Schedule
+---
+
+__NOTOC__
+[[File:Pear.png|120px|right|BOSC logo|link=BOSC_2016]]
+
+== Sponsors ==
+
+{|
+| [[File:Thehyve-logo-small.png|200px|center|The Hyve logo|link=http://thehyve.nl/]]
+| &nbsp;
+| [[File:MSLLogo_small.png|220px|center|Mozilla Science Lab logo|link=https://science.mozilla.org/]]
+| &nbsp;
+| [[File:Repositive_logo_long.png|220px|center|Repositive Limited logo|link=https://repositive.io/]]
+| &nbsp;
+| [[File:Gigascience-07.png‎|200px|center|GigaScience|link=http://www.gigasciencejournal.com/]]
+|}
+
+== Pre-BOSC: Codefest 2017  ==
+
+Codefest (a pre-BOSC hackathon) will take place July 20-21, 2017 at [https://brmlab.cz/ Brmlab, Prague]  (a non-profit, community-run hackerspace). Codefest is FREE and open to all (even if you're not attending BOSC). See [[Codefest 2017]] for details and to sign up.
+
+== Schedule at a Glance (subject to change) ==
+
+{| class="wikitable collapsible"
+! "background:#D8F781"|Day 1
+! "background:#D8F781"|
+!background:#D8F781"|
+!background:#D8F781"|Day 2
+!background:#D8F781"|
+|-
+| '''Time''' || '''Session''' ||  || '''Time''' || '''Session'''
+|-
+| 8:30-9:30 || ISMB announcements & ISMB keynote ||  || 8:30-9:30 || ISMB announcements & ISMB keynote
+|-
+| 10:00-10:15 || BOSC announcements and intro to OBF ||  || 10:00-10:15 || Codefest report
+|-
+| 10:15-12:20 || Workflows ||  || 10:15-11:45 || Community Building and Citizen Science
+|-
+|  ||  ||  || 11:45-12:20 || Late-Breaking Lightning Talks
+|-
+| 12:30-14:00 || Lunch, BoFs, Posters ||  || 12:30-14:00 || Lunch, BoFs, Posters
+|-
+| 14:00-14:30 || Data Science ||  || 14:30-15:00 || Open Data
+|-
+| 14:30-15:00 || Visualization ||  ||  || 
+|-
+| 15:00-16:00 || Keynote ||  || 15:00-16:00 || Panel
+|-
+| 16:30-17:30 || Developer tools and libraries for open science and reproducibility ||  || 16:30-17:30 || Keynote and closing remarks
+|-
+| 17:30-18:30 || BoFs ||  || 17:30-18:30 || BoFs 
+|}
