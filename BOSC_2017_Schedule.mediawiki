@@ -9,11 +9,11 @@ __NOTOC__
 
 {|
 | [[File:Thehyve-logo-small.png|200px|center|The Hyve logo|link=http://thehyve.nl/]]
-| &nbsp;
+| &nbsp;&nbsp;&nbsp;
 | [[File:MSLLogo_small.png|220px|center|Mozilla Science Lab logo|link=https://science.mozilla.org/]]
-| &nbsp;
+| &nbsp;&nbsp;&nbsp;
 | [[File:Repositive_logo_long.png|220px|center|Repositive Limited logo|link=https://repositive.io/]]
-| &nbsp;
+| &nbsp;&nbsp;&nbsp;
 | [[File:Gigascience-07.png‎|200px|center|GigaScience|link=http://www.gigasciencejournal.com/]]
 |}
 
