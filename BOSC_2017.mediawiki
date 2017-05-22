@@ -61,13 +61,13 @@ If you choose the July 22-23 option, this includes the opening ISMB reception an
 
 BOSC is organised by the [[Main_Page|Open Bioinformatics Foundation]], a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community.
 
-{|
+{{|
 | [[File:Thehyve-logo-small.png|200px|center|The Hyve logo|link=http://thehyve.nl/]]
-| &nbsp;
+| &nbsp;&nbsp;&nbsp;
 | [[File:MSLLogo_small.png|220px|center|Mozilla Science Lab logo|link=https://science.mozilla.org/]]
-| &nbsp;
+| &nbsp;&nbsp;&nbsp;
 | [[File:Repositive_logo_long.png|220px|center|Repositive Limited logo|link=https://repositive.io/]]
-| &nbsp;
+| &nbsp;&nbsp;&nbsp;
 | [[File:Gigascience-07.png‎|200px|center|GigaScience|link=http://www.gigasciencejournal.com/]]
 |}
 
