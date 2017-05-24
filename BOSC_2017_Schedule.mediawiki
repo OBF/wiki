@@ -34,21 +34,19 @@ __NOTOC__
 |-
 | 8:30-9:30 || ISMB announcements & ISMB keynote ||  || 8:30-9:30 || ISMB announcements & ISMB keynote
 |-
-| 10:00-10:15 || BOSC announcements and intro to OBF ||  || 10:00-10:15 || Codefest report
+| 10:00-10:10 || BOSC announcements  ||  || 10:00-10:05 || BOSC announcements
 |-
-| 10:15-12:20 || Workflows ||  || 10:15-11:45 || Community Building and Citizen Science
+| 10:10-10:20 || What is the Open Bioinformatics Foundation? and Codefest 2017 Report ||  ||  10:05-11:30 || Session: Community Building and Citizen Science
 |-
-|  ||  ||  || 11:45-12:20 || Late-Breaking Lightning Talks
+| 10:35-12:20 || Session: Workflows || || 11:30-12:20 || Late-Breaking Lightning Talks
 |-
 | 12:30-14:00 || Lunch, BoFs, Posters ||  || 12:30-14:00 || Lunch, BoFs, Posters
 |-
-| 14:00-14:30 || Data Science ||  || 14:30-15:00 || Open Data
+| 14:00-15:00 || Session: Data Science & Visualization ||  || 14:30-15:00 || Open Data
 |-
-| 14:30-15:00 || Visualization ||  ||  || 
+| 15:00-16:00 || Keynote (Dawn Field) ||  || 15:00-16:00 || Panel: Open Data--Standards, Opportunities and Challenges
 |-
-| 15:00-16:00 || Keynote ||  || 15:00-16:00 || Panel
-|-
-| 16:30-17:30 || Developer tools and libraries for open science and reproducibility ||  || 16:30-17:30 || Keynote and closing remarks
+| 16:30-17:30 || Session: Developer tools and libraries for open science and reproducibility ||  || 16:30-17:30 || Keynote (Nick Loman) and closing remarks
 |-
 | 17:30-18:30 || BoFs ||  || 17:30-18:30 || BoFs 
 |}
