@@ -30,7 +30,7 @@ Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter
 * '''July 22-23, 2017: BOSC 2017, Prague'''
 
 == Session Topics ==
-We welcome submissions relating to all aspects of bioinformatics and open science software, including (but not limited to):
+BOSC covers all aspects of bioinformatics and open science software, including (but not limited to):
 * Open Science and Reproducible Research
 * Open Biomedical Data
 * Citizen/Participatory Science
