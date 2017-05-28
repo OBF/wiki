@@ -25,11 +25,9 @@ We are grateful to BOSC 2017 sponsors The Hyve (open source solutions for bioinf
 == Schedule at a Glance (subject to change) ==
 
 {| class="wikitable collapsible"
-! "background:#D8F781"|Day 1
-! "background:#D8F781"|
-!background:#D8F781"|
-!background:#D8F781"|Day 2
-!background:#D8F781"|
+| colspan="2" "style="background: green; color: black;" | '''Day 1 (Saturday, July 22)'''
+| &nbsp;
+| colspan="2" "style="background: green; color: black;" | '''Day 2 (Sunday, July 23)'''
 |-
 | '''Time''' || '''Session''' ||  || '''Time''' || '''Session'''
 |-
@@ -37,17 +35,17 @@ We are grateful to BOSC 2017 sponsors The Hyve (open source solutions for bioinf
 |-
 | 10:00-10:10 || BOSC announcements  ||  || 10:00-10:05 || BOSC announcements
 |-
-| 10:10-10:20 || What is the Open Bioinformatics Foundation? and Codefest 2017 Report ||  ||  10:05-11:30 || Session: Community Building and Citizen Science
+| 10:10-10:35 || Introduction to the Open Bioinformatics Foundation; Codefest 2017 Report ||  ||  10:05-11:30 || Session: Community Building and Citizen Science
 |-
 | 10:35-12:20 || Session: Workflows || || 11:30-12:20 || Late-Breaking Lightning Talks
 |-
 | 12:30-14:00 || Lunch, BoFs, Posters ||  || 12:30-14:00 || Lunch, BoFs, Posters
 |-
-| 14:00-15:00 || Session: Data Science & Visualization ||  || 14:30-15:00 || Open Data
+| 14:00-15:00 || Session: Data Science & Visualization ||  || 14:00-15:00 || Session: Open Data
 |-
-| 15:00-16:00 || Keynote (Dawn Field) ||  || 15:00-16:00 || Panel: Open Data--Standards, Opportunities and Challenges
+| 15:00-16:00 || [[BOSC_2017_Keynote_Speakers| Keynote (Dawn Field)]] ||  || 15:00-16:00 || Panel: Open Data--Standards, Opportunities and Challenges
 |-
-| 16:30-17:30 || Session: Developer tools and libraries for open science and reproducibility ||  || 16:30-17:30 || Keynote (Nick Loman) and closing remarks
+| 16:30-17:30 || Session: Developer tools and libraries for open science and reproducibility ||  || 16:30-17:30 || [[BOSC_2017_Keynote_Speakers| Keynote (Nick Loman)]] and closing remarks
 |-
 | 17:30-18:30 || BoFs ||  || 17:30-18:30 || BoFs 
 |}
