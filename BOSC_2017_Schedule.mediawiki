@@ -6,6 +6,7 @@ __NOTOC__
 [[File:Pear.png|120px|right|BOSC logo|link=BOSC_2017]]
 
 == Sponsors ==
+We are grateful to BOSC 2017 sponsors The Hyve (open source solutions for bioinformatics), Mozilla Science Lab (a community of researchers, developers, and librarians making research open and accessible), Repositive Limited (connecting the genomics community with the data they need) and GigaScience (an open access, open data, open peer-review journal). If you would like to be a sponsor of BOSC, please contact us at bosc@open-bio.org.
 
 {|
 | [[File:Thehyve-logo-small.png|200px|center|The Hyve logo|link=http://thehyve.nl/]]
