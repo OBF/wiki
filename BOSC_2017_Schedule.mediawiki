@@ -60,5 +60,409 @@ We are grateful to BOSC 2017 sponsors The Hyve (open source solutions for bioinf
 |Starttime
 |Endtime
 |-
+|BOSC opening
+|BOSC introductory remarks
+|Nomi Harris
+|10:00
+|10:10
+|-
+|BOSC opening
+|The Open Bioinformatics Foundation
+|Hilmar Lapp
+|10:10
+|10:20
+|-
+|BOSC opening
+|Codefest 2017 summary
+|Brad Chapman
+|10:20
+|10:35
+|-
+|
+|
+|
+|
+|
+|-
+|Workflows
+|Rabix Composer: an open-source integrated development environment for the Common Workflow Language
+|Ivan Batic
+|10:35
+|10:43
+|-
+|Workflows
+|Workflows: Rabix Executor: an open-source executor supporting recomputability and interoperability of workflow descriptions
+|Gaurav Kaushik
+|10:43
+|10:51
+|-
+|Workflows
+|CWL-svg: an open-source workflow visualization library for the Common Workflow Language
+|Maja Nedeljkovic
+|10:51
+|10:58
+|-
+|Workflows
+|CWL-ts: an open-source TypeScript library for building developer tools for the Common Workflow Language
+|Maja Nedeljkovic
+|10:58
+|11:05
+|-
+|Workflows
+|The GA4GH Tool Registry Service (TRS) and Dockstore - Year One
+|Denis Yuen
+|11:05
+|11:13
+|-
+|Workflows
+|The GA4GH Task Execution System (TES) and Funnel Server
+|Brian O'Connor
+|11:13
+|11:20
+|-
+|Workflows
+|The GA4GH Workflow Execution Schema (WES)
+|Brian D. O'Connor or Peter Amstutz?
+|11:20
+|11:27
+|-
+|Workflows
+|The GA4GH/DREAM Infrastructure Challenges
+|Brian D. O'Connor
+|11:27
+|11:35
+|-
+|Workflows
+|Workflows interoperability with Nextflow and Common WL
+|Kevin Sayers
+|11:35
+|11:40
+|-
+|Workflows
+|CWL Viewer: The Common Workflow Language Viewer
+|Stian Soiland-Reyes
+|11:40
+|11:45
+|-
+|Workflows
+|Screw: tools for building reproducible single-cell epigenomics workflows
+|Kieran O'Neill
+|11:45
+|11:50
+|-
+|Workflows
+|BioThings Explorer: Utilizing JSON-LD for Linking Biological APIs to Facilitate Knowledge Discovery
+|Jiwen Xin
+|11:50
+|11:55
+|-
+|Workflows
+|Discovery and visualisation of homologous genes and gene families using Galaxy
+|Anil S. Thanki
+|11:55
+|12:00
+|-
+|Workflows
+|YAMP : Yet Another Metagenomic Pipeline
+|Alessia Visconti
+|12:00
+|12:05
+|-
+|
+|
+|
+|
+|
+|-
+|BoFs
+|Birds of a Feather (BoFs)
+|
+|12:20
+|13:40
+|-
+|
+|
+|
+|
+|
+|-
+|Developer tools and libraries for open science and reproducibility
+|MultiQC: Visualising results from common bioinformatics tools
+|Phil Ewels
+|14:00
+|14:18
+|-
+|Developer tools and libraries for open science and reproducibility
+|NGL – a molecular graphics library for the web
+|Alexander S Rose
+|14:18
+|14:23
+|-
+|Developer tools and libraries for open science and reproducibility
+|GRAPHSPACE: Stimulating interdisciplinary collaborations in network biology
+|Aditya Bharadwaj
+|14:23
+|14:28
+|-
+|Developer tools and libraries for open science and reproducibility
+|Efficient detection of well-hopping duplicate reads on Illumina patterned flowcells
+|Timothy Booth
+|14:28
+|14:33
+|-
+|Developer tools and libraries for open science and reproducibility
+|An ensemble approach for gene set testing analysis with reporting capabilities
+|Monther Alhamdoosh
+|14:33
+|14:38
+|-
+|Developer tools and libraries for open science and reproducibility
+|OpenMS 2.0: a flexible open-source software platform for mass spectrometry data analysis
+|Timo Sachsenberg
+|14:38
+|14:43
+|-
+|Developer tools and libraries for open science and reproducibility
+|Interoperable, collaborative multi-platform variant calling with bcbio
+|Brad Chapman
+|14:43
+|14:48
+|-
+|Developer tools and libraries for open science and reproducibility
+|Pieter Lukasse, Fedde Schaeffer, Oleguer Plantalech Casals, Sander Tan and Sjoerd van Hagen, Gene Set Variation Analysis in cBioPortal
+|Pieter Lukasse (probably)
+|14:48
+|14:53
+|-
+|
+|
+|
+|
+|
+|-
+|Data Science & Visualization
+|The backbone of research reproducibility: sustainable and flexible tool deployment
+|Björn Grüning
+|15:00
+|15:18
+|-
+|Data Science & Visualization
+|Reproducible bioinformatics software with GNU Guix
+|Pjotr Prins
+|15:18
+|15:23
+|-
+|Data Science & Visualization
+|Reproducible and user-controlled software management in HPC with GNU Guix
+|Ricardo Wurmus
+|15:23
+|15:28
+|-
+|Data Science & Visualization
+|A Ubiquitous Approach to Reproducible Bioinformatics across Computational Platforms
+|John Chilton
+|15:28
+|15:33
+|-
+|Data Science & Visualization
+|Revitalizing a classic bioinformatics tool using modern technologies: the case of the Cytoscape Project
+|Keiichiro Ono
+|15:33
+|15:38
+|-
+|Data Science & Visualization
+|The SPOT ontology toolkit : semantics as a service
+|Olga Vrousgou
+|15:38
+|15:43
+|-
+|Data Science & Visualization
+|Biopython Project Update 2017
+|Sourav Singh
+|15:43
+|15:48
+|-
+|
+|
+|
+|
+|
+|-
+|Keynote
+|
+|Dawn Field
+|16:30
+|17:30
+|-
+|
+|
+|
+|
+|
+|-
+|BoFs
+|Birds of a Feather (BoFs)
+|
+|17:30
+|18:30
+|-
+|
+|
+|
+|
+|
+|}
+==== Day 2 (Sunday, July 23, 2017) ====
 
+{| class="wikitable collapsible"
+|Session
+|Title
+|Speaker
+|Starttime
+|Endtime
+|-
+|-
+|Day 2
+|BOSC Announcements
+|Heather Wiencko
+|10:00
+|10:05
+|-
+|
+|
+|
+|
+|
+|-
+|Community Building and Citizen Science
+|BeerDeCoded: exploring the beer metagenome
+|Jonathan Sobel
+|10:05
+|10:23
+|-
+|Community Building and Citizen Science
+|Supporting curation communities & collecting technical dividends
+|Monica Munoz-Torres
+|10:23
+|10:41
+|-
+|Community Building and Citizen Science
+|Journal of Open Source Software (JOSS)
+|Pjotr Prins
+|10:41
+|10:59
+|-
+|Community Building and Citizen Science
+|Software and social strategies for community sourced biological networks and ontologies
+|Dexter Pratt
+|10:59
+|11:04
+|-
+|Community Building and Citizen Science
+|Building an open, collaborative, online infrastructure for bioinformatics training
+|Bérénice Batut
+|11:04
+|11:22
+|-
+|Community Building and Citizen Science
+|Distance-based, online bioinformatics training in Africa: the H3ABioNet experience
+|Kim Gurwitz
+|11:22
+|11:27
+|-
+|
+|
+|
+|
+|
+|-
+|Late-Breaking Lightning Talks--TBA
+|
+|
+|11:30
+|12:20
+|-
+|
+|
+|
+|
+|
+|-
+|BoFs
+|Birds of a Feather (BoFs)
+|
+|12:20
+|13:40
+|-
+|
+|
+|
+|
+|
+|-
+|Open Data
+|RADAR-CNS - Research Infrastructure for processing wearable data to improve health
+|Nivethika Mahasivam
+|14:00
+|14:18
+|-
+|Open Data
+|Using Wikidata as an open, community-maintained database of biomedical knowledge
+|Andrew Su
+|14:18
+|14:36
+|-
+|Open Data
+|Emerging public databases of clinical genetic test results: Implications for large scale deployment of precision medicine
+|Stephen Lincoln
+|14:36
+|14:41
+|-
+|Open Data
+|Discovering datasets with DATS in DataMed
+|Alejandra Gonzalez-Beltran (or colleague)
+|14:41
+|14:46
+|-
+|Open Data
+|Bioschemas for life science data
+|Carole Goble
+|14:46
+|14:51
+|-
+|Open Data
+|Introducing the Brassica Information Portal: Towards integrating genotypic and phenotypic Brassica crop data
+|Annemarie Eckes
+|14:51
+|14:56
+|-
+|
+|
+|
+|
+|
+|-
+|Panel
+|Panel: Open Data--Standards, Opportunities and Challenges
+|
+|15:00
+|16:00
+|-
+|Keynote
+|
+|Nick Loman
+|16:30
+|17:30
+|-
+|
+|
+|
+|
+|
+|-
+|BoFs
+|Birds of a Feather (BoFs)
+|
+|17:30
+|18:30
 |}
