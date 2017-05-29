@@ -22,7 +22,7 @@ We are grateful to BOSC 2017 sponsors The Hyve (open source solutions for bioinf
 
 [[Codefest 2017]] (a pre-BOSC hackathon) will take place July 20-21 at [https://brmlab.cz/ Brmlab, Prague]  (a non-profit, community-run hackerspace). Codefest is FREE and open to all (even if you're not attending BOSC). See [[Codefest 2017]] for details and to sign up.
 
-== Schedule at a Glance (subject to change) ==
+== Schedule at a glance (subject to change) ==
 
 {| class="wikitable collapsible"
 | colspan="2" "style="background: green; color: black;" | '''Day 1 (Saturday, July 22)'''
@@ -48,4 +48,17 @@ We are grateful to BOSC 2017 sponsors The Hyve (open source solutions for bioinf
 | 16:30-17:30 || Session: Developer tools and libraries for open science and reproducibility ||  || 16:30-17:30 || [[BOSC_2017_Keynote_Speakers| Keynote (Nick Loman)]] and closing remarks
 |-
 | 17:30-18:30 || BoFs ||  || 17:30-18:30 || BoFs 
+|}
+
+== Complete schedule of talks (subject to change) ==
+(Converted from Google Sheets to mediawiki by http://marianogappa.github.io/mediawiki-table-utility/)
+
+{| class="wikitable collapsible"
+|Session
+|Title
+|Speaker
+|Starttime
+|Endtime
+|-
+
 |}
