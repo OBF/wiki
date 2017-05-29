@@ -17,8 +17,6 @@ Note that if you already submitted an abstract in the earlier round, you will ne
 == Important Dates ==
 
 * April 13, 2017: Deadline for submitting abstracts for full talks
-* May 11, 2017: Acceptance notification
-* May 16, 2017: Deadline for authors to respond to May 11 notification
 * June 5, 2017: Deadline for [https://easychair.org/conferences/?conf=bosc2017 submitting abstracts for late-breaking lightning talks and/or late posters]
 * June 12, 2017: Late-breaking lightning talk/poster acceptance notification
 * June 15, 2017: Deadline for authors to respond to late-breaking lightning talk/poster acceptance notification
