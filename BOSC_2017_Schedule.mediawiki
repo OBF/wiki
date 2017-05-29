@@ -53,6 +53,7 @@ We are grateful to BOSC 2017 sponsors The Hyve (open source solutions for bioinf
 == Complete schedule of talks (subject to change) ==
 (Converted from Google Sheets to mediawiki by http://marianogappa.github.io/mediawiki-table-utility/)
 
+==== Day 2 (Sunday, July 23, 2017) ====
 {| class="wikitable collapsible"
 |Session
 |Title
