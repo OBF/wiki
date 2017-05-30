@@ -86,27 +86,27 @@ We are grateful to BOSC 2017 sponsors The Hyve (open source solutions for bioinf
 |
 |-
 |Workflows
-|Rabix Composer: an open-source integrated development environment for the Common Workflow Language
-|Ivan Batic
+|Rabix Executor: an open-source executor supporting recomputability and interoperability of workflow descriptions
+|Janko Simonovic
 |10:35
-|10:43
+|10:47
 |-
 |Workflows
-|Workflows: Rabix Executor: an open-source executor supporting recomputability and interoperability of workflow descriptions
-|Gaurav Kaushik
-|10:43
-|10:51
+|Rabix Composer: an open-source integrated development environment for the Common Workflow Language
+|Ivan Batic
+|10:47
+|10:57
 |-
 |Workflows
 |CWL-svg: an open-source workflow visualization library for the Common Workflow Language
 |Maja Nedeljkovic
-|10:51
-|10:58
+|10:57
+|11:00
 |-
 |Workflows
 |CWL-ts: an open-source TypeScript library for building developer tools for the Common Workflow Language
 |Maja Nedeljkovic
-|10:58
+|11:00
 |11:05
 |-
 |Workflows
@@ -313,6 +313,7 @@ We are grateful to BOSC 2017 sponsors The Hyve (open source solutions for bioinf
 |
 |
 |}
+
 ==== Day 2 (Sunday, July 23, 2017) ====
 
 {| class="wikitable collapsible"
