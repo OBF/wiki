@@ -52,7 +52,7 @@ We are grateful to BOSC 2017 sponsors The Hyve (open source solutions for bioinf
 
 == Complete schedule of talks (subject to change) ==
 
-==== Day 2 (Sunday, July 23, 2017) ====
+==== Day 1 (Saturday, July 22, 2017) ====
 {| class="wikitable collapsible"
 |Session
 |Title
