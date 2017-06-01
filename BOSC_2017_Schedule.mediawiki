@@ -469,3 +469,9 @@ Peter Amstutz
 |}
 
 (Schedule converted from Google Sheets to mediawiki by http://marianogappa.github.io/mediawiki-table-utility/)
+
+
+== Return to [[BOSC 2017]] main page ==
+
+[[Category:BOSC]] [[Category:Conferences]]
+[[Category:BOSC Conferences]]
