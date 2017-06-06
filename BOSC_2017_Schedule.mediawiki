@@ -122,7 +122,7 @@ We are grateful to BOSC 2017 sponsors The Hyve (open source solutions for bioinf
 |-
 |Workflows
 |The GA4GH Workflow Execution Schema (WES)
-Peter Amstutz
+|Peter Amstutz
 |11:20
 |11:27
 |-
