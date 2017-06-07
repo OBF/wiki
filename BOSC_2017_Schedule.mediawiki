@@ -316,12 +316,13 @@ We are grateful to BOSC 2017 sponsors The Hyve (open source solutions for bioinf
 
 ==== Day 2 (Sunday, July 23, 2017) ====
 
-{| class="wikitable collapsible"
-|Session
-|Title
-|Speaker
-|Starttime
-|Endtime
+{| border="1" cellspacing="0" cellpadding="7"
+|- style="background:#D8F781"
+!'''Session'''
+!'''Title'''
+! style="width: 15%" | '''Speaker (or Session Chair)'''
+! style="width: 5em" |'''Start Time'''
+! style="width: 5em" |'''End Time'''
 |-
 |-
 |Day 2
@@ -470,7 +471,6 @@ We are grateful to BOSC 2017 sponsors The Hyve (open source solutions for bioinf
 |}
 
 (Schedule converted from Google Sheets to mediawiki by http://marianogappa.github.io/mediawiki-table-utility/)
-
 
 == Return to [[BOSC 2017]] main page ==
 
