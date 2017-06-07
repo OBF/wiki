@@ -58,8 +58,8 @@ We are grateful to BOSC 2017 sponsors The Hyve (open source solutions for bioinf
 !'''Session'''
 !'''Title'''
 ! style="width: 25%" | '''Speaker (or Session Chair)'''
-! style="width: 6em" |'''Start Time'''
-! style="width: 6em" |'''End Time'''
+! style="width: 5em" |'''Start Time'''
+! style="width: 5em" |'''End Time'''
 |-
 |BOSC opening
 |BOSC introductory remarks
