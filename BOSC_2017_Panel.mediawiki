@@ -1,0 +1,34 @@
+---
+title: BOSC 2017 Panel
+---
+
+[[File:Pear.png|120px|right|BOSC logo|link=BOSC_2017]]
+== Open Data: Standards, Opportunities and Challenges ==
+
+Every year, BOSC includes a panel discussion that offers attendees the chance to engage in conversation with the panelists and each other. This year, our panel discussion will focus on open data: how it can help to catalyze scientific and preserve knowledge, standards for sharing data, and the challenges (for example, protecting privacy of human health data).
+
+{| border="0" cellspacing="0" cellpadding="5"
+
+|[[File:monica-munoz-torres.jpg|120px|left|Mónica Muñoz-Torres]]
+|Panel chair '''Mónica Muñoz-Torres''' ([https://twitter.com/monimunozto @monimunozto]) is the biocuration lead for Berkeley Bioinformatics Open-Source Projects (BBOP) at Lawrence Berkeley National Laboratory. She is part of the development teams for Apollo (a web-based annotation editor designed to support community-based curation of genomes) and the tools of the Gene Ontology (GO) Consortium. She leads the Community Curation group within the global initiative to sequence and annotate the genomes of 5,000 arthropods (i5K Initiative). She chairs the International Society for Biocuration (ISB).
+|-
+|[[File:NickLoman.jpg|120px|left|Nick Loman]]
+|'''[http://lab.loman.net/about/ Nick Loman]''' is known as a vocal proponent of open genomic data in healthcare. A Professor of Microbial Genomics and Bioinformatics at the University of Birmingham, Dr. Loman explores the use of cutting-edge genomics and metagenomics approaches to human pathogens. He promotes the use of open data to facilitate the surveillance and treatment of infectious disease.
+|-
+|[[File:andrew-su.jpg|120px|left|Andrew Su]]
+|'''Andrew Su''' is an Associate Professor at the Scripps Research Institute in the Department of Molecular and Experimental Medicine (MEM). His research focuses on building and applying bioinformatics infrastructure for biomedical discovery, with a particular emphasis on leveraging crowdsourcing for genetics and genomics. His projects include the Gene Wiki, BioGPS, MyGene.Info, and Mark2Cure, each of which engages “the crowd” to help organize biomedical knowledge. 
+|-
+|[[File:carole-goble.jpg|120px|left|Carole Goble]]
+|'''Carole Goble''' is a full professor in the School of Computer Science at the University of Manchester, UK, where she co-leads the Information Management Group. In 2010 she was elected a Fellow of the Royal Academy of Engineering for her contributions to e-Science. Goble was appointed Commander of the Order of the British Empire (CBE) in 2014 for services to science.
+|-
+|[[File:Madeleine-Ball.jpg|120px|left|Madeleine Ball]]
+|'''Madeleine Ball'''  is the Executive Director and co-founder of Open Humans, an organization dedicated to enabling individuals to access their data and share it with research studies. She is also PI of the Open Humans Public Data Sharing study. In recognition of her vision for opening human health data, Madeleine was recently awarded a Shuttleworth Foundation Fellowship.
+
+|}
+
+----
+
+== Return to [[BOSC 2017]] main page ==
+
+[[Category:BOSC]] [[Category:Conferences]]
+[[Category:BOSC Conferences]]
