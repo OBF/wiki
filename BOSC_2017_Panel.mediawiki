@@ -10,7 +10,7 @@ Every year, BOSC includes a panel discussion that offers attendees the chance to
 {| border="0" cellspacing="0" cellpadding="5"
 
 |[[File:monica-munoz-torres.jpg|120px|left|Mónica Muñoz-Torres]]
-|Panel chair '''Mónica Muñoz-Torres''' ([https://twitter.com/monimunozto @monimunozto]) is the biocuration lead for Berkeley Bioinformatics Open-Source Projects (BBOP) at Lawrence Berkeley National Laboratory. She is part of the development teams for Apollo (a web-based annotation editor designed to support community-based curation of genomes) and the tools of the Gene Ontology (GO) Consortium. She leads the Community Curation group within the global initiative to sequence and annotate the genomes of 5,000 arthropods (i5K Initiative). She chairs the International Society for Biocuration (ISB).
+|Panel chair '''Mónica Muñoz-Torres''' ([https://twitter.com/monimunozto @monimunozto]) is the biocuration lead for Berkeley Bioinformatics Open-Source Projects (BBOP) at Lawrence Berkeley National Laboratory. She leads the Community Curation group within the global initiative to sequence and annotate the genomes of 5,000 arthropods (i5K Initiative) and is the chair of the International Society for Biocuration (ISB).
 |-
 |[[File:NickLoman.jpg|120px|left|Nick Loman]]
 |'''[http://lab.loman.net/about/ Nick Loman]''' is known as a vocal proponent of open genomic data in healthcare. A Professor of Microbial Genomics and Bioinformatics at the University of Birmingham, Dr. Loman explores the use of cutting-edge genomics and metagenomics approaches to human pathogens. He promotes the use of open data to facilitate the surveillance and treatment of infectious disease.
