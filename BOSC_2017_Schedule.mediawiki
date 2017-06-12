@@ -76,7 +76,7 @@ If you would like to be a sponsor of BOSC, please contact us at bosc@open-bio.or
 |Hilmar Lapp
 |10:10
 |10:20
--
+|-
 |BOSC opening
 |OBF in the Google Summer of Code. Wrapping up 2016 and presenting the 2017 projects
 |Kai Blin
