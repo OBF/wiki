@@ -98,9 +98,12 @@ This is completely flexible based on progress and needs of attendees. There is a
 
 {|
 | [[File:Repositive_logo_long.png|220px|center|Repositive Limited logo|link=https://repositive.io/]]
+| &nbsp;&nbsp;&nbsp;
+| [[File:SB_logo_navy.png‎|220px|center|Seven Bridges|link=https://www.sevenbridges.com/]]
 |}
 
-We are grateful to and welcome [https://repositive.io/ Repositive Limited] (connecting the genomics community with the data they need) as new sponsors for the Codefest and BOSC 2017.
+
+We are grateful to and welcome [https://repositive.io/ Repositive Limited] (connecting the genomics community with the data they need) and  [https://www.sevenbridges.com/ Seven Bridges Genomics] (connecting genomic data assets, computational infrastructure, algorithms and teams) as new sponsors for the Codefest and BOSC 2017.
 
 We're looking for sponsors interested in being involved with the open source community. Sponsorship money helps provide food and drink for the Codefest and [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md Open Bioinformatics Foundation Travel Fellowships] for BOSC and Codefest. If interested, please get in touch with [https://github.com/chapmanb Brad] (Codefest) or the [mailto:bosc@open-bio.org BOSC committee] (general).
 
