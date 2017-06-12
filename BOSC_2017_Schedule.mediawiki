@@ -76,12 +76,18 @@ If you would like to be a sponsor of BOSC, please contact us at bosc@open-bio.or
 |Hilmar Lapp
 |10:10
 |10:20
+-
+|BOSC opening
+|OBF in the Google Summer of Code. Wrapping up 2016 and presenting the 2017 projects
+|Kai Blin
+|10:20
+|10:30
 |-
 |BOSC opening
 |Codefest 2017 summary
 |Brad Chapman
-|10:20
-|10:35
+|10:30
+|10:45
 |-
 |
 |
@@ -92,8 +98,8 @@ If you would like to be a sponsor of BOSC, please contact us at bosc@open-bio.or
 |Workflows
 |Rabix Executor: an open-source executor supporting recomputability and interoperability of workflow descriptions
 |Janko Simonovic
-|10:35
-|10:47
+|TIME TO BE ADJUSTED
+| 
 |-
 |Workflows
 |Rabix Composer: an open-source integrated development environment for the Common Workflow Language
