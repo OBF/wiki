@@ -6,7 +6,9 @@ __NOTOC__
 [[File:Pear.png|120px|right|BOSC logo|link=BOSC_2017]]
 
 == Sponsors ==
-We are grateful to BOSC 2017 sponsors The Hyve (open source solutions for bioinformatics), Mozilla Science Lab (a community of researchers, developers, and librarians making research open and accessible), Repositive Limited (connecting the genomics community with the data they need) and GigaScience (an open access, open data, open peer-review journal). If you would like to be a sponsor of BOSC, please contact us at bosc@open-bio.org.
+We are grateful to and welcome [http://thehyve.nl/ The Hyve] (open source solutions for bioinformatics), [https://science.mozilla.org/ Mozilla Science Lab] (a community of researchers, developers, and librarians making research open and accessible), [https://repositive.io/ Repositive Limited] (connecting the genomics community with the data they need), [https://www.sevenbridges.com/ Seven Bridges] (the Biomedical Data Analysis Platform) as new sponsors for BOSC 2017, and [http://gigasciencejournal.com GigaScience] (an open access, open data, open peer-review journal) as a returning sponsor.
+
+If you would like to be a sponsor of BOSC, please contact us at bosc@open-bio.org.
 
 {|
 | [[File:Thehyve-logo-small.png|200px|center|The Hyve logo|link=http://thehyve.nl/]]
@@ -16,6 +18,8 @@ We are grateful to BOSC 2017 sponsors The Hyve (open source solutions for bioinf
 | [[File:Repositive_logo_long.png|220px|center|Repositive Limited logo|link=https://repositive.io/]]
 | &nbsp;&nbsp;&nbsp;
 | [[File:Gigascience-07.png‎|200px|center|GigaScience|link=http://www.gigasciencejournal.com/]]
+| &nbsp;&nbsp;&nbsp;
+| [[File:SB_logo_navy.png‎|220px|center|Seven Bridges|link=https://www.sevenbridges.com/]]
 |}
 
 == Pre-BOSC: Codefest 2017  ==
