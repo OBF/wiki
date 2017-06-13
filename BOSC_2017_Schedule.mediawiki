@@ -437,7 +437,7 @@ __NOTOC__
 |
 |- style="background:#CCCCFF"
 |Panel
-|Panel: Open Data--Standards, Opportunities and Challenges
+|[[BOSC_2017_Panel| Panel: Open Data--Standards, Opportunities and Challenges]]
 |'''''Moderator''''': Mónica Muñoz-Torres
 
 '''''Panelists''''': 
