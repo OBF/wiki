@@ -42,7 +42,7 @@ __NOTOC__
 
 ==== Day 1 (Saturday, July 22, 2017) ====
 {| border="1" cellspacing="0" cellpadding="7"
-|- style="background:#D8F781"
+|- style="background:#D0F781"
 !'''Session'''
 !'''Title'''
 ! style="width: 15%" | '''Speaker (or Session Chair)'''
