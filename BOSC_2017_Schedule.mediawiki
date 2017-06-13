@@ -289,7 +289,7 @@ __NOTOC__
 |- style="background:#EFFBFB"
 |Keynote
 | Understanding the Biocode: Global Sharing of Data
-|Dawn Field
+| [[BOSC_2017_Keynote_Speakers| Dawn Field]] 
 |16:30
 |17:30
 |- style="background:#FFFFCC"
