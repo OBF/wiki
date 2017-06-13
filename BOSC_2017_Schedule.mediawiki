@@ -311,7 +311,7 @@ __NOTOC__
 ==== Day 2 (Sunday, July 23, 2017) ====
 
 {| border="1" cellspacing="0" cellpadding="7"
-|- style="background:#D8F781"
+|- style="background:#FFFF80"
 !'''Session'''
 !'''Title'''
 ! style="width: 15%" | '''Speaker (or Session Chair)'''
