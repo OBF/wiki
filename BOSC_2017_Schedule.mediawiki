@@ -50,8 +50,8 @@ __NOTOC__
 ! style="width: 5em" |'''End Time'''
 |-
 |BOSC opening
-|BOSC introductory remarks
-|Nomi Harris
+|Introduction and welcome
+|Nomi Harris (Chair, BOSC 2017)
 |10:00
 |10:10
 |-
@@ -72,12 +72,12 @@ __NOTOC__
 |Brad Chapman
 |10:30
 |10:45
-|-
+|- style="background:#E6E6E6"
+| 
+| Session: Workflows
 |
-|
-|
-|
-|
+| 10:45
+| 12:20
 |-
 |Workflows
 |Rabix Executor: an open-source executor supporting recomputability and interoperability of workflow descriptions
@@ -174,12 +174,12 @@ __NOTOC__
 |
 |12:20
 |13:40
-|-
+|- style="background:#F7F8E0"
+| 
+| Lunch
 |
-|
-|
-|
-|
+| 12:30
+| 14:00
 |-
 |Developer tools and libraries for open science and reproducibility
 |MultiQC: Visualising results from common bioinformatics tools
@@ -276,24 +276,18 @@ __NOTOC__
 |Sourav Singh
 |15:43
 |15:48
-|-
-|
-|
-|
-|
-|
-|-
+|- style="background:#FAF4EE"
+| 
+| Coffee Break
+| 
+| 16:00
+| 16:30
+|- style="background:#EFFBFB"
 |Keynote
 | Understanding the Biocode: Global Sharing of Data
 |Dawn Field
 |16:30
 |17:30
-|-
-|
-|
-|
-|
-|
 |-
 |BoFs
 |Birds of a Feather (BoFs)
