@@ -178,50 +178,56 @@ __NOTOC__
 | colspan="3" | '''Lunch'''
 | 12:30
 | 14:00
-|-
-|Developer tools and libraries for open science and reproducibility
+|- style="background:#E6E6E6"
+| 
+| '''Session: Developer tools and libraries for open science and reproducibility'''
+|
+| 10:45
+| 12:20
+|- 
+|Developer tools / reproducibility
 |MultiQC: Visualising results from common bioinformatics tools
 |Phil Ewels
 |14:00
 |14:18
 |-
-|Developer tools and libraries for open science and reproducibility
+|Developer tools / reproducibility
 |NGL – a molecular graphics library for the web
 |Alexander S Rose
 |14:18
 |14:23
 |-
-|Developer tools and libraries for open science and reproducibility
+|Developer tools / reproducibility
 |GRAPHSPACE: Stimulating interdisciplinary collaborations in network biology
 |Aditya Bharadwaj
 |14:23
 |14:28
 |-
-|Developer tools and libraries for open science and reproducibility
+|Developer tools / reproducibility
 |Efficient detection of well-hopping duplicate reads on Illumina patterned flowcells
 |Timothy Booth
 |14:28
 |14:33
 |-
-|Developer tools and libraries for open science and reproducibility
+|Developer tools / reproducibility
 |An ensemble approach for gene set testing analysis with reporting capabilities
 |Monther Alhamdoosh
 |14:33
 |14:38
 |-
-|Developer tools and libraries for open science and reproducibility
+|Developer tools / reproducibility
 |OpenMS 2.0: a flexible open-source software platform for mass spectrometry data analysis
 |Timo Sachsenberg
 |14:38
 |14:43
 |-
-|Developer tools and libraries for open science and reproducibility
+|Developer tools / reproducibility
 |Interoperable, collaborative multi-platform variant calling with bcbio
 |Brad Chapman
 |14:43
 |14:48
 |-
-|Developer tools and libraries for open science and reproducibility
+|Developer tools / reproducibility
 |Pieter Lukasse, Fedde Schaeffer, Oleguer Plantalech Casals, Sander Tan and Sjoerd van Hagen, Gene Set Variation Analysis in cBioPortal
 |Kees van Bochove
 |14:48
