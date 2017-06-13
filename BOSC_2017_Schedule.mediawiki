@@ -168,10 +168,10 @@ __NOTOC__
 |
 |
 |
-|-
+|-  style="background:#FFFFCC"
 |BoFs
 |Birds of a Feather (BoFs)
-|
+| Feel free to organize one!
 |12:20
 |13:40
 |- style="background:#F7F8E0"
@@ -288,10 +288,10 @@ __NOTOC__
 |Dawn Field
 |16:30
 |17:30
-|-
+|- style="background:#FFFFCC"
 |BoFs
 |Birds of a Feather (BoFs)
-|
+| Feel free to organize one!
 |17:30
 |18:30
 |-
@@ -315,15 +315,15 @@ __NOTOC__
 |-
 |Day 2
 |BOSC Announcements
-|Heather Wiencko
+|Heather Wiencko (Co-Chair, BOSC 2017)
 |10:00
 |10:05
-|-
+|- style="background:#E6E6E6"
 |
+| '''Session: Community Building and Citizen Science'''
 |
-|
-|
-|
+| 10:05
+| 11:30
 |-
 |Community Building and Citizen Science
 |BeerDeCoded: exploring the beer metagenome
@@ -360,12 +360,12 @@ __NOTOC__
 |Kim Gurwitz
 |11:22
 |11:27
-|-
+|- style="background:#E6E6E6"
+| Session: Late-Breaking Lightning Talks
 |
 |
-|
-|
-|
+| 11:30
+| 12:20
 |-
 |Late-Breaking Lightning Talks--TBA
 |
@@ -378,10 +378,10 @@ __NOTOC__
 |
 |
 |
-|-
+|- style="background:#FFFFCC"
 |BoFs
 |Birds of a Feather (BoFs)
-|
+| Feel free to organize one!
 |12:20
 |13:40
 |-
@@ -452,10 +452,10 @@ __NOTOC__
 |
 |
 |
-|-
+|- style="background:#FFFFCC"
 |BoFs
 |Birds of a Feather (BoFs)
-|
+| Feel free to organize one!
 |17:30
 |18:30
 |-
