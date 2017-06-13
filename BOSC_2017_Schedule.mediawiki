@@ -370,18 +370,16 @@ __NOTOC__
 |
 |11:30
 |12:20
-|-
-|
-|
-|
-|
-|
 |- style="background:#FFFFCC"
 | Birds of a Feather (BoFs)
 | Feel free to organize one! 
 | 
 |12:20
 |13:40
+|- style="background:#cce5ff"
+| colspan="3" | '''Lunch'''
+| 12:30
+| 14:00
 |- style="background:#E6E6E6"
 | 
 | '''Session: Open Data'''
@@ -430,7 +428,7 @@ __NOTOC__
 |
 |
 |
-|- style="background:#EFFBFB"
+|- style="background:#CCCCFF"
 |Panel
 |Panel: Open Data--Standards, Opportunities and Challenges
 |'''''Moderator''''': Mónica Muñoz-Torres
@@ -438,7 +436,7 @@ __NOTOC__
 '''''Panelists''''': 
 |15:00
 |16:00
-|-
+|- style="background:#CCFFFF"
 |Keynote
 | TBA
 |Nick Loman
