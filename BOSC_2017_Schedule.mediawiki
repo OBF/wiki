@@ -9,20 +9,21 @@ __NOTOC__
 
 [[Codefest 2017]] (a pre-BOSC hackathon) will take place July 20-21 at [https://brmlab.cz/ Brmlab, Prague]  (a non-profit, community-run hackerspace). Codefest is FREE and open to all (even if you're not attending BOSC). See [[Codefest 2017]] for details and to sign up.
 
-== Schedule at a glance (subject to change) ==
+== Schedule at a glance ==
 
-{| class="wikitable collapsible"
-| colspan="2" "style="background: green; color: black;" | '''Day 1 (Saturday, July 22)'''
+{| border="1" cellspacing="0" cellpadding="7"
+|- 
+| style="background:#D8F781" colspan="2" | '''Day 1 (Saturday, July 22)'''
 | &nbsp;
-| colspan="2" "style="background: green; color: black;" | '''Day 2 (Sunday, July 23)'''
+| style="background:#FFFF80" colspan="2"  | '''Day 2 (Sunday, July 23)'''
 |-
 | '''Time''' || '''Session''' ||  || '''Time''' || '''Session'''
 |-
-| 8:30-9:30 || ISMB announcements & ISMB keynote ||  || 8:30-9:30 || ISMB announcements & ISMB keynote
+| 8:30-9:30 || (ISMB announcements & ISMB keynote) ||  || 8:30-9:30 || (ISMB announcements & ISMB keynote)
 |-
 | 10:00-10:10 || BOSC announcements  ||  || 10:00-10:05 || BOSC announcements
 |-
-| 10:10-10:35 || Introduction to the Open Bioinformatics Foundation; Codefest 2017 Report ||  ||  10:05-11:30 || Session: Community Building and Citizen Science
+| 10:10-10:35 || Introduction to the Open Bioinformatics Foundation; OBF in the Google Summer of Code; Codefest 2017 Report ||  ||  10:05-11:30 || Session: Community Building and Citizen Science
 |-
 | 10:35-12:20 || Session: Workflows || || 11:30-12:20 || Late-Breaking Lightning Talks
 |-
@@ -283,7 +284,7 @@ __NOTOC__
 |
 |-
 |Keynote
-|
+| Understanding the Biocode: Global Sharing of Data
 |Dawn Field
 |16:30
 |17:30
@@ -300,10 +301,10 @@ __NOTOC__
 |17:30
 |18:30
 |-
+| Dinner
+| Optional pay-your-own-way dinner (must RSVP in advance--space limited)
 |
-|
-|
-|
+| 19:30
 |
 |}
 
@@ -461,6 +462,12 @@ __NOTOC__
 |
 |17:30
 |18:30
+|-
+| Dinner
+| Optional pay-your-own-way dinner (must RSVP in advance--space limited)
+|
+| 19:30
+|
 |}
 
 (Schedule converted from Google Sheets to mediawiki by http://marianogappa.github.io/mediawiki-table-utility/)
