@@ -182,8 +182,8 @@ __NOTOC__
 | 
 | '''Session: Developer tools and libraries for open science and reproducibility'''
 |
-| 10:45
-| 12:20
+| 14:00
+| 15:00
 |- 
 |Developer tools / reproducibility
 |MultiQC: Visualising results from common bioinformatics tools
