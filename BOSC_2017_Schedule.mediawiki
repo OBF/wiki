@@ -432,15 +432,17 @@ __NOTOC__
 |
 |
 |
-|-
+|- style="background:#EFFBFB"
 |Panel
 |Panel: Open Data--Standards, Opportunities and Challenges
-|
+|'''''Moderator''''': Mónica Muñoz-Torres
+
+'''''Panelists''''': 
 |15:00
 |16:00
 |-
 |Keynote
-|
+| TBA
 |Nick Loman
 |16:30
 |17:30
