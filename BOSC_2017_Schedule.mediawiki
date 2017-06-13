@@ -13,7 +13,7 @@ __NOTOC__
 
 {| border="1" cellspacing="0" cellpadding="7"
 |- 
-| style="background:#D8F781" colspan="2" | '''Day 1 (Saturday, July 22)'''
+| style="background:#D0F781" colspan="2" | '''Day 1 (Saturday, July 22)'''
 | &nbsp;
 | style="background:#FFFF80" colspan="2"  | '''Day 2 (Sunday, July 23)'''
 |-
