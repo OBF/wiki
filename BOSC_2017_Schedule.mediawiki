@@ -281,9 +281,7 @@ __NOTOC__
 |15:43
 |15:48
 |- style="background:#FAF4EE"
-| 
-| Coffee Break
-| 
+| colspan="3" | Coffee Break
 | 16:00
 | 16:30
 |- style="background:#EFFBFB"
@@ -305,7 +303,6 @@ __NOTOC__
 | 19:30
 |
 |}
-
 
 ==== Day 2 (Sunday, July 23, 2017) ====
 
