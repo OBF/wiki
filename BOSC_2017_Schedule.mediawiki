@@ -394,7 +394,7 @@ __NOTOC__
 |11:50
 |-
 |LBLTs
-|BioThings SDK: a toolkit for building high-performance data APIs in biology [for LBLT]
+|BioThings SDK: a toolkit for building high-performance data APIs in biology
 |Chunlei Wu
 |11:50
 |12:00
