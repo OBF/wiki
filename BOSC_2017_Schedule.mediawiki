@@ -500,6 +500,10 @@ __NOTOC__
 '''''Panelists''''': 
 |15:00
 |16:00
+|- style="background:#FAF4EE"
+| colspan="3" | Coffee Break
+| 16:00
+| 16:30
 |- style="background:#CCFFFF"
 |Keynote
 | Why I Love Open Data
