@@ -228,7 +228,7 @@ __NOTOC__
 |14:48
 |-
 |Developer tools / reproducibility
-|Pieter Lukasse, Fedde Schaeffer, Oleguer Plantalech Casals, Sander Tan and Sjoerd van Hagen, Gene Set Variation Analysis in cBioPortal
+|Gene Set Variation Analysis in cBioPortal
 |Kees van Bochove
 |14:48
 |14:53
