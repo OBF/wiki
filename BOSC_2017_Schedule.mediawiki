@@ -82,86 +82,86 @@ __NOTOC__
 |Workflows
 |Rabix Executor: an open-source executor supporting recomputability and interoperability of workflow descriptions
 |Janko Simonovic
-|TIME TO BE ADJUSTED
-| 
+|10:45
+|10:57
 |-
 |Workflows
 |Rabix Composer: an open-source integrated development environment for the Common Workflow Language
 |Ivan Batic
-|10:47
 |10:57
+|11:07
 |-
 |Workflows
 |CWL-svg: an open-source workflow visualization library for the Common Workflow Language
 |Maja Nedeljkovic
-|10:57
-|11:00
+|11:07
+|11:10
 |-
 |Workflows
 |CWL-ts: an open-source TypeScript library for building developer tools for the Common Workflow Language
 |Maja Nedeljkovic
-|11:00
-|11:05
+|11:10
+|11:15
 |-
 |Workflows
 |The GA4GH Tool Registry Service (TRS) and Dockstore - Year One
 |Denis Yuen
-|11:05
-|11:13
+|11:15
+|11:23
 |-
 |Workflows
 |The GA4GH Task Execution System (TES) and Funnel Server
 |Brian O'Connor
-|11:13
-|11:20
+|11:23
+|11:30
 |-
 |Workflows
 |The GA4GH Workflow Execution Schema (WES)
 |Peter Amstutz
-|11:20
-|11:27
+|11:30
+|11:37
 |-
 |Workflows
 |The GA4GH/DREAM Infrastructure Challenges
 |Brian D. O'Connor
-|11:27
-|11:35
+|11:37
+|11:45
 |-
 |Workflows
 |Workflows interoperability with Nextflow and Common WL
 |Kevin Sayers
-|11:35
-|11:40
+|11:45
+|11:50
 |-
 |Workflows
 |CWL Viewer: The Common Workflow Language Viewer
 |Stian Soiland-Reyes
-|11:40
-|11:45
+|11:50
+|11:55
 |-
 |Workflows
 |Screw: tools for building reproducible single-cell epigenomics workflows
 |Kieran O'Neill
-|11:45
-|11:50
+|11:55
+|12:00
 |-
 |Workflows
 |BioThings Explorer: Utilizing JSON-LD for Linking Biological APIs to Facilitate Knowledge Discovery
 |Jiwen Xin
-|11:50
-|11:55
+|12:00
+|12:05
 |-
 |Workflows
 |Discovery and visualisation of homologous genes and gene families using Galaxy
 |Anil S. Thanki
-|11:55
-|12:00
+|12:05
+|12:10
 |-
 |Workflows
 |YAMP : Yet Another Metagenomic Pipeline
 |Alessia Visconti
-|12:00
-|12:05
+|12:10
+|12:15
 |-
 |
 |
