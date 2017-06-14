@@ -370,18 +370,78 @@ __NOTOC__
 | '''Session: Late-Breaking Lightning Talks'''
 |
 | 11:30
-| 12:20
+| 12:30
 |-
-|Late-Breaking Lightning Talks--TBA
-|
-|
+|LBLTs
+|Recent object formation in the core of Galaxy
+|Martin Cech
 |11:30
+|11:35
+|-
+|LBLTs
+|Reproducibility of computational workflows is automated using continuous analysis
+|Brett Beaulieu-Jones
+|11:35
+|11:40
+|-
+|LBLTs
+|Full-stack genomics pipelining with GATK4 + WDL + Cromwell
+|Kate Voss
+|11:40
+|11:45
+|-
+|LBLTs
+|ToolDog - generating tool descriptors from the ELIXIR tool registry
+|Kenzo-Hugo Hillion
+|11:45
+|11:50
+|-
+|LBLTs
+|BioThings SDK: a toolkit for building high-performance data APIs in biology [for LBLT]
+|Chunlei Wu
+|11:50
+|12:00
+|-
+|LBLTs
+|(Q&A for first 5 LBLTs)
+|
+|12:00
+|12:05
+|-
+|LBLTs
+|Integrating cloud storage providers for genomic analyses
+|Ted Liefeld
+|12:05
+|12:10
+|-
+|LBLTs
+|Open Humans: Opening human health data
+|Madeleine Ball
+|12:10
+|12:15
+|-
+|LBLTs
+|Fighting Superbugs with Open Source Software
+|Kai Blin
+|12:15
 |12:20
+|-
+|LBLTs
+|Users, Communication, and a Light Application-Level API: A Request for Comments
+|Seth Carbon
+|12:20
+|12:25
+|-
+|LBLTs
+|(Q&A for last 4 LBLTs)
+|
+|12:25
+|12:30
 |- style="background:#FFFFCC"
 | Birds of a Feather (BoFs)
 | Feel free to organize one! 
 | 
-|12:20
+|12:30
 |13:40
 |- style="background:#cce5ff"
 | colspan="3" | '''Lunch'''
