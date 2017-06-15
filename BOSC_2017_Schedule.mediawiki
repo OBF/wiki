@@ -495,9 +495,9 @@ __NOTOC__
 |- style="background:#CCCCFF"
 |Panel
 |[[BOSC_2017_Panel| Panel: Open Data--Standards, Opportunities and Challenges]]
-|'''''Moderator''''': Mónica Muñoz-Torres
+||[[BOSC_2017_Panel| '''''Moderator''''': Mónica Muñoz-Torres.
 
-'''''Panelists''''': Madeleine Ball, Carole Goble, Nick Loman, Andrew Su
+'''''Panelists''''': Madeleine Ball, Carole Goble, Nick Loman, Andrew Su]]
 |15:00
 |16:00
 |- style="background:#FAF4EE"
