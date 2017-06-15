@@ -233,8 +233,8 @@ __NOTOC__
 |14:48
 |14:53
 |- style="background:#E6E6E6"
-| '''Session: Data Science & Visualization'''
-|
+| 
+|'''Session: Data Science & Visualization'''
 |
 | 15:00
 | 16:00
