@@ -169,7 +169,7 @@ __NOTOC__
 |
 |
 |-  style="background:#FFFFCC"
-| Birds of a Feather (BoFs)
+| [https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing Birds of a Feature discussions (BoFs)]
 | Feel free to organize one! 
 | 
 |12:20
@@ -291,7 +291,7 @@ __NOTOC__
 |16:30
 |17:30
 |- style="background:#FFFFCC"
-| Birds of a Feather (BoFs)
+| [https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing Birds of a Feature discussions (BoFs)]
 | Feel free to organize one! 
 | 
 |17:30
@@ -435,7 +435,7 @@ __NOTOC__
 |12:25
 |12:30
 |- style="background:#FFFFCC"
-| Birds of a Feather (BoFs)
+| [https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing Birds of a Feature discussions (BoFs)]
 | Feel free to organize one! 
 | 
 |12:30
@@ -517,7 +517,7 @@ __NOTOC__
 |
 |
 |- style="background:#FFFFCC"
-| Birds of a Feather (BoFs)
+| [https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing Birds of a Feature discussions (BoFs)]
 | Feel free to organize one! 
 | 
 |17:30
