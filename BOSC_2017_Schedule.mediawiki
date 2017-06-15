@@ -359,7 +359,7 @@ __NOTOC__
 |-
 |Community Building and Citizen Science
 |Distance-based, online bioinformatics training in Africa: the H3ABioNet experience
-|Kim Gurwitz
+|Nicola Mulder
 |11:22
 |11:27
 |- style="background:#E6E6E6"
