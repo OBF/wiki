@@ -27,7 +27,7 @@ __NOTOC__
 |-
 | 10:35-12:20 || Session: Workflows || || 11:30-12:20 || Late-Breaking Lightning Talks
 |-
-| 12:30-14:00 || Lunch, Posters, [https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing Birds of a Feature discussions (BoFs)] ||  || 12:30-14:00 || Lunch, Posters, [https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing Birds of a Feature discussions (BoFs)]
+| 12:30-14:00 || Lunch, Posters, [https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing Birds of a Feather discussions (BoFs)] ||  || 12:30-14:00 || Lunch, Posters, [https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing Birds of a Feather discussions (BoFs)]
 |-
 | 14:00-15:00 || Session: Data Science & Visualization ||  || 14:00-15:00 || Session: Open Data
 |-
@@ -35,7 +35,7 @@ __NOTOC__
 |-
 | 16:30-17:30 || Session: Developer tools and libraries for open science and reproducibility ||  || 16:30-17:30 || [[BOSC_2017_Keynote_Speakers| Keynote (Nick Loman)]] and closing remarks
 |-
-| 17:30-18:30 || [https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing Birds of a Feature discussions (BoFs)] ||  || 17:30-18:30 || [https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing Birds of a Feature discussions (BoFs)] 
+| 17:30-18:30 || [https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing Birds of a Feather discussions (BoFs)] ||  || 17:30-18:30 || [https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing Birds of a Feather discussions (BoFs)] 
 |}
 
 == Complete schedule of talks (subject to change) ==
