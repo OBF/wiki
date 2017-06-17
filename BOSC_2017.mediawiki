@@ -38,7 +38,7 @@ BOSC covers all aspects of bioinformatics and open science software, including (
 * Medical and Translational Bioinformatics
 * Developer Tools and Libraries
 * Bioinformatics Open Source Project Progress Reports
-* PANEL: Open Data--Standards, Opportunities and Challenges
+* [[BOSC_2017_Panel|PANEL: Open Data--Standards, Opportunities and Challenges]]
 
 == Keynote Speakers ==
 
