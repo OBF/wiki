@@ -75,7 +75,7 @@ __NOTOC__
 |- style="background:#E6E6E6"
 | 
 | '''Session: Workflows'''
-|
+| Chair: Brad Chapman
 | 10:45
 | 12:20
 |-
@@ -181,7 +181,7 @@ __NOTOC__
 |- style="background:#E6E6E6"
 | 
 | '''Session: Developer tools and libraries for open science and reproducibility'''
-|
+| Chair: Hilmar Lapp
 | 14:00
 | 15:00
 |- 
@@ -235,7 +235,7 @@ __NOTOC__
 |- style="background:#E6E6E6"
 | 
 |'''Session: Data Science & Visualization'''
-|
+| Chair: Karsten Hokamp
 | 15:00
 | 16:00
 |-
@@ -323,7 +323,7 @@ __NOTOC__
 |- style="background:#E6E6E6"
 |
 | '''Session: Community Building and Citizen Science'''
-|
+| Chair: Peter Cock
 | 10:05
 | 11:30
 |-
@@ -365,7 +365,7 @@ __NOTOC__
 |- style="background:#E6E6E6"
 | 
 | '''Session: Late-Breaking Lightning Talks'''
-|
+| Chair: Nomi Harris
 | 11:30
 | 12:30
 |-
@@ -447,9 +447,9 @@ __NOTOC__
 |- style="background:#E6E6E6"
 | 
 | '''Session: Open Data'''
-|
-|
-|
+| Chair: Bastian Greshake
+| 14:00
+| 15:00
 |-
 |Open Data
 |RADAR-CNS - Research Infrastructure for processing wearable data to improve health
