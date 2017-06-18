@@ -559,6 +559,9 @@ __NOTOC__
 
 (Schedule converted from Google Sheets to mediawiki by http://marianogappa.github.io/mediawiki-table-utility/)
 
+== Posters ==
+[[BOSC_2017_Posters|List of posters]]
+
 == Sponsors ==
 We are grateful to and welcome [http://thehyve.nl/ The Hyve] (open source solutions for bioinformatics), [https://science.mozilla.org/ Mozilla Science Lab] (a community of researchers, developers, and librarians making research open and accessible), [https://repositive.io/ Repositive Limited] (connecting the genomics community with the data they need), [https://www.sevenbridges.com/ Seven Bridges] (the Biomedical Data Analysis Platform) and [https://elifesciences.org/ eLife Sciences Publications] as new sponsors for BOSC 2017, and [http://gigasciencejournal.com GigaScience] (an open access, open data, open peer-review journal) as a returning sponsor.
 
