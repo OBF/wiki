@@ -58,22 +58,25 @@ If you choose the July 22-23 option, this includes the opening ISMB reception an
 
 BOSC is organised by the [[Main_Page|Open Bioinformatics Foundation]], a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community.
 
+<center>
 {|
 | [[File:Thehyve-logo-small.png|200px|center|The Hyve logo|link=http://thehyve.nl/]]
 | &nbsp;&nbsp;&nbsp;
 | [[File:MSLLogo_small.png|220px|center|Mozilla Science Lab logo|link=https://science.mozilla.org/]]
 | &nbsp;&nbsp;&nbsp;
 | [[File:Repositive_logo_long.png|220px|center|Repositive Limited logo|link=https://repositive.io/]]
-| &nbsp;&nbsp;&nbsp;
-| [[File:SB_logo_navy.png‎|220px|center|Seven Bridges|link=https://www.sevenbridges.com/]]
+|}
+{|
 | &nbsp;&nbsp;&nbsp;
 | [[File:Gigascience-07.png‎|200px|center|GigaScience|link=http://www.gigasciencejournal.com/]]
 | &nbsp;&nbsp;&nbsp;
+| [[File:SB_logo_navy.png‎|220px|center|Seven Bridges|link=https://www.sevenbridges.com/]]
+| &nbsp;&nbsp;&nbsp;
 | [[File:eLife.png‎|200px|center|eLife|link=http://www.elifesciences.org/]]
 |}
+</center>
 
-
-We are grateful to and welcome [http://thehyve.nl/ The Hyve] (open source solutions for bioinformatics), [https://science.mozilla.org/ Mozilla Science Lab] (a community of researchers, developers, and librarians making research open and accessible), [https://repositive.io/ Repositive Limited] (connecting the genomics community with the data they need), [https://www.sevenbridges.com/ Seven Bridges] (the Biomedical Data Analysis Platform) and [https://elifesciences.org/}eLife Sciences Publications] as new sponsors for BOSC 2017, and [http://gigasciencejournal.com GigaScience] (an open access, open data, open peer-review journal) as a returning sponsor.
+We are grateful to and welcome [http://thehyve.nl/ The Hyve] (open source solutions for bioinformatics), [https://science.mozilla.org/ Mozilla Science Lab] (a community of researchers, developers, and librarians making research open and accessible), [https://repositive.io/ Repositive Limited] (connecting the genomics community with the data they need), [https://www.sevenbridges.com/ Seven Bridges] (the Biomedical Data Analysis Platform) and [https://elifesciences.org/ eLife Sciences Publications] as new sponsors for BOSC 2017, and [http://gigasciencejournal.com GigaScience] (an open access, open data, open peer-review journal) as a returning sponsor.
 
 If you would like to be a sponsor of BOSC, please contact us at bosc@open-bio.org.
 
