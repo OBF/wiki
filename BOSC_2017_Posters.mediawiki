@@ -6,6 +6,8 @@ All BOSC posters will be displayed for the two days of BOSC (July 22-23).  ISMB 
 
 Poster abstracts can be found in the complete program (available soon).
 
+PLEASE NOTE: Some late-round posters have not yet been added to this table. They will appear here soon.
+
 {| border="1" cellspacing="0" cellpadding="7"
 |- style="background:#D0F781"
 !'''Poster #'''
