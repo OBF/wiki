@@ -194,7 +194,7 @@ Poster abstracts can be found in the complete program (available soon).
 |-
 |46
 |Steffen Möller
-|Workflow-ready bioinformatics packages for Debian-based distributions and this Linux distributionís infrastructure for low-friction reproducible research
+|Workflow-ready bioinformatics packages for Debian-based distributions and this Linux distribution's infrastructure for low-friction reproducible research
 |-
 |47
 |Kevin Sayers
