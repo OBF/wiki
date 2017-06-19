@@ -12,3 +12,13 @@ Poster abstracts can be found in the complete program (available soon).
 !'''Title'''
 ! '''Presenter'''
 |-
+
+|1
+|Name of poster presenter
+Abstract title
+|-
+
+|2
+|Rishi Nag
+Bio::DB::HTS - accessing HTSlib from Perl
+|-
