@@ -76,7 +76,7 @@ BOSC is organised by the [[Main_Page|Open Bioinformatics Foundation]], a non-pro
 |}
 </center>
 
-We are grateful to and welcome [http://thehyve.nl/ The Hyve] (open source solutions for bioinformatics), [https://science.mozilla.org/ Mozilla Science Lab] (a community of researchers, developers, and librarians making research open and accessible), [https://repositive.io/ Repositive Limited] (connecting the genomics community with the data they need), [https://www.sevenbridges.com/ Seven Bridges] (the Biomedical Data Analysis Platform) and [https://elifesciences.org/ eLife Sciences Publications] as new sponsors for BOSC 2017, and [http://gigasciencejournal.com GigaScience] (an open access, open data, open peer-review journal) as a returning sponsor.
+We are grateful to and welcome [http://thehyve.nl/ The Hyve] (open source solutions for bioinformatics), [https://science.mozilla.org/ Mozilla Science Lab] (a community of researchers, developers, and librarians making research open and accessible), [https://repositive.io/ Repositive Limited] (connecting the genomics community with the data they need), [https://www.sevenbridges.com/ Seven Bridges] (the Biomedical Data Analysis Platform) and [https://elifesciences.org/ eLife] (cutting-edge technology for cutting-edge research) as new sponsors for BOSC 2017, and [http://gigasciencejournal.com GigaScience] (an open access, open data, open peer-review journal) as a returning sponsor.
 
 If you would like to be a sponsor of BOSC, please contact us at bosc@open-bio.org.
 
