@@ -22,7 +22,7 @@ Poster abstracts can be found in the complete program (available soon).
 |-
 |3
 |Rishi Nag
-|Bio::DB::HTS ñ accessing HTSlib from Perl
+|Bio::DB::HTS - accessing HTSlib from Perl
 |-
 |4
 |John Fonner
@@ -45,12 +45,12 @@ Poster abstracts can be found in the complete program (available soon).
 |BioThings SDK: a toolkit for building high-performance data APIs in biology
 |-
 |9
-|Mat˙ö Kalaö
+|Matúš Kalaš
 |BioXSD | BioJSON | BioYAML - Towards unified formats for sequences, alignments, features, and annotations"
 |-
 |10
 |Felix Shaw
-|Collaborative Open Plant Omics: A platform for ìFAIRî data for plant science
+|Collaborative Open Plant Omics: A platform for "FAIR" data for plant science
 |-
 |11
 |Daria Iakovishina
@@ -129,7 +129,7 @@ Poster abstracts can be found in the complete program (available soon).
 |Microsatellite instability profiling of TCGA colorectal adenocarcinomas using a Common Workflow Language pipeline
 |-
 |30
-|Rickard HammarÈn
+|Rickard Hammarén
 |NGI-RNAseq - a best practice analysis pipeline in Nextflow
 |-
 |31
@@ -193,7 +193,7 @@ Poster abstracts can be found in the complete program (available soon).
 |Workflow for processing standard bioinformatics formats with SciClone to infer tumor heterogeneity
 |-
 |46
-|Steffen Mˆller
+|Steffen Möller
 |Workflow-ready bioinformatics packages for Debian-based distributions and this Linux distributionís infrastructure for low-friction reproducible research
 |-
 |47
