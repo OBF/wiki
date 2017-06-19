@@ -191,10 +191,10 @@ __NOTOC__
 |12:15
 |-
 |
+| (Q&A for previous 6  lightning talks)
 |
-|
-|
-|
+|12:15
+|12:20
 |-  style="background:#FFFFCC"
 | [https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing Birds of a Feather discussions (BoFs)]
 | [https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing Feel free to organize one!] 
