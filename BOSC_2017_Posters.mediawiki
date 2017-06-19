@@ -41,162 +41,158 @@ Poster abstracts can be found in the complete program (available soon).
 |BioThings SDK: a toolkit for building high-performance data APIs in biology
 |-
 |8
-|Chunlei Wu
-|BioThings SDK: a toolkit for building high-performance data APIs in biology
-|-
-|9
 |Matúš Kalaš
 |BioXSD | BioJSON | BioYAML - Towards unified formats for sequences, alignments, features, and annotations"
 |-
-|10
+|9
 |Felix Shaw
 |Collaborative Open Plant Omics: A platform for "FAIR" data for plant science
 |-
-|11
+|10
 |Daria Iakovishina
 |CueSea: quality control tool for Illumina genotyping microarray data, with correction on intensity, clusterization and biological specificity."
 |-
-|12
+|11
 |Stian Soiland-Reyes
 |CWL Viewer: The Common Workflow Language Viewer
 |-
-|13
+|12
 |Farah Khan
 |CWL+Research Object == Complete Provenance
 |-
-|14
+|13
 |Alberto Riva
 |DAMON, an open source framework for reliable and reproducible analysis pipelines"
 |-
-|15
+|14
 |Tazro Ohta
 |Databases to support reanalysis of public high-throughput DNA sequencing data
 |-
-|16
+|15
 |Phillippe Rocca-Serra
 |Discovering datasets with DATS in DataMed
 |-
-|17
+|16
 |Anil S. Thanki
 |Discovery and visualisation of homologous genes and gene families using Galaxy
 |-
-|18
+|17
 |Herve Menager
 |EDAM - The ontology of bioinformatics operations, types of data, topics, and data formats (2017 update)"
 |-
-|19
+|18
 |Stephen Lincoln
 |Emerging public databases of clinical genetic test results: Implications for large scale deployment of precision medicine
 |-
-|20
+|19
 |Stefan A. POPA
 |Enabling the optimization of open-source biological computational tools with scripting languages
 |-
-|21
+|20
 |Yo Yehudi
 |Forever in BlueGenes: a next-generation genomic data interface powered by InterMine
 |-
-|22
+|21
 |Kate Voss
 |Full-stack genomics pipelining with GATK4 + WDL + Cromwell
 |-
-|23
+|22
 |Kees van Bochove
 |Gene Set Variation Analysis in cBioPortal
 |-
-|24
+|23
 |Ismail Moghul
 |GeoDiver: Differential Gene Expression Analysis & Gene-Set Analysis for GEO Datasets
 |-
-|25
+|24
 |Silvia Di Giorgio
 |GRADitude: A computational tool for the analysis of Grad-seq data
 |-
-|26
+|25
 |Aditya Bharadwaj
 |GRAPHSPACE: Stimulating interdisciplinary collaborations in network biology
 |-
-|27
+|26
 |Ted Liefeld
 |Integrating cloud storage providers for genomic analyses
 |-
-|28
+|27
 |Wiktor Jurkowski
 |Introducing the Brassica Information Portal: Towards integrating genotypic and phenotypic Brassica crop data
 |-
-|29
+|28
 |Nikola Tesic
 |Microsatellite instability profiling of TCGA colorectal adenocarcinomas using a Common Workflow Language pipeline
 |-
-|30
+|29
 |Rickard Hammarén
 |NGI-RNAseq - a best practice analysis pipeline in Nextflow
 |-
-|31
+|30
 |Alexander S Rose
 |NGL - a molecular graphics library for the web
 |-
-|32
+|31
 |Luis Pedro Coelho
 |NGLESS: Perfectly understandable and reproducible metagenomics pipelines using a domain-specific language
 |-
-|33
+|32
 |Madeleine Ball
 |Open Humans: Opening human health data
 |-
-|34
+|33
 |Ngoc-Vinh Tran
 |PhyloProfile: an interactive and dynamic visualization tool for multi-layered phylogenetic profiles
 |-
-|35
+|34
 |Rabie Saidi
 |Protein Inpainter: a Message-Passing-based Predictor using Spark GraphX
 |-
-|36
+|35
 |Nivethika Mahasivam
 |RADAR-CNS - Research Infrastructure for processing wearable data to improve health
 |-
-|37
+|36
 |Ricardo Wurmus
 |Reproducible and user-controlled software management in HPC with GNU Guix
 |-
-|38
+|37
 |Evanthia Kaimaklioti
 |Reproducing computational experiments in situ as an interactive figure in a journal article.
 |-
-|39
+|38
 |Keiichiro Ono
 |Revitalizing a classic bioinformatics tool using modern technologies: the case of the Cytoscape Project
 |-
-|40
+|39
 |Kieran O'Neill
 |Screw: tools for building reproducible single-cell epigenomics workflows
 |-
-|41
+|40
 |thomas cokelaer
 |Sequana: a set of flexible genomic pipelines for processing and reporting NGS analysis
 |-
-|42
+|41
 |Denis Yuen
 |The GA4GH Tool Registry Service (TRS) and Dockstore - Year One
 |-
-|43
+|42
 |Olga Vrousgou
 |The SPOT ontology toolkit : semantics as a service
 |-
-|44
+|43
 |Kenzo-Hugo Hillion
 |ToolDog - generating tool descriptors from the ELIXIR tool registry
 |-
-|45
+|44
 |Uros Sipeitc
 |Workflow for processing standard bioinformatics formats with SciClone to infer tumor heterogeneity
 |-
-|46
+|45
 |Steffen Möller
 |Workflow-ready bioinformatics packages for Debian-based distributions and this Linux distribution's infrastructure for low-friction reproducible research
 |-
-|47
+|46
 |Kevin Sayers
 |Workflows interoperability with Nextflow and Common WL
 |-
