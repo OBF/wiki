@@ -12,13 +12,191 @@ Poster abstracts can be found in the complete program (available soon).
 !'''Title'''
 ! '''Presenter'''
 |-
-
 |1
-|Name of poster presenter
-Abstract title
-|-
-
-|2
 |Rishi Nag
-Bio::DB::HTS - accessing HTSlib from Perl
+|Bio::DB::HTS - accessing HTSlib from Perl
+|-
+|2
+|Ricardo Wurmus
+|Reproducible and user-controlled software management in HPC with GNU Guix
+|-
+|3
+|Rickard Hammarén
+|NGI-RNAseq - a best practice analysis pipeline in Nextflow
+|-
+|4
+|Daria Iakovishina
+|CueSea: quality control tool for Illumina genotyping microarray data, with correction on intensity, clusterization and biological specificity."
+|-
+|5
+|Monther Alhamdoosh
+|An ensemble approach for gene set testing analysis with reporting capabilities
+|-
+|6
+|thomas cokelaer
+|Sequana: a set of flexible genomic pipelines for processing and reporting NGS analysis
+|-
+|7
+|Jiwen Xin
+|BioThings Explorer: Utilizing JSON-LD for Linking Biological APIs to Facilitate Knowledge Discovery
+|-
+|8
+|Luis Pedro Coelho
+|NGLESS: Perfectly understandable and reproducible metagenomics pipelines using a domain-specific language
+|-
+|9
+|Nivethika Mahasivam
+|RADAR-CNS - Research Infrastructure for processing wearable data to improve health
+|-
+|10
+|Ngoc-Vinh Tran
+|PhyloProfile: an interactive and dynamic visualization tool for multi-layered phylogenetic profiles
+|-
+|11
+|Kevin Sayers
+|Workflows interoperability with Nextflow and Common WL
+|-
+|12
+|Stian Soiland-Reyes
+|CWL Viewer: The Common Workflow Language Viewer
+|-
+|13
+|Kees van Bochove
+|Gene Set Variation Analysis in cBioPortal
+|-
+|14
+|Carole Goble
+|Bioschemas for life science data
+|-
+|15
+|Denis Yuen
+|The GA4GH Tool Registry Service (TRS) and Dockstore - Year One
+|-
+|16
+|Stefan A. POPA
+|Enabling the optimization of open-source biological computational tools with scripting languages
+|-
+|17
+|Wiktor Jurkowski
+|Introducing the Brassica Information Portal: Towards integrating genotypic and phenotypic Brassica crop data
+|-
+|18
+|Anil S. Thanki
+|Discovery and visualisation of homologous genes and gene families using Galaxy
+|-
+|19
+|Olga Vrousgou
+|The SPOT ontology toolkit : semantics as a service
+|-
+|20
+|Tazro Ohta
+|Databases to support reanalysis of public high-throughput DNA sequencing data
+|-
+|21
+|Phillippe Rocca-Serra
+|Discovering datasets with DATS in DataMed
+|-
+|22
+|Chunlei Wu
+|BioThings SDK: a toolkit for building high-performance data APIs in biology
+|-
+|23
+|Evanthia Kaimaklioti
+|Reproducing computational experiments in situ as an interactive figure in a journal article.
+|-
+|24
+|Aditya Bharadwaj
+|GRAPHSPACE: Stimulating interdisciplinary collaborations in network biology
+|-
+|25
+|Keiichiro Ono
+|Revitalizing a classic bioinformatics tool using modern technologies: the case of the Cytoscape Project
+|-
+|26
+|Kieran O'Neill
+|Screw: tools for building reproducible single-cell epigenomics workflows
+|-
+|27
+|Stephen Lincoln
+|Emerging public databases of clinical genetic test results: Implications for large scale deployment of precision medicine
+|-
+|28
+|Alexander S Rose
+|NGL - a molecular graphics library for the web
+|-
+|29
+|Matúš Kalaš
+|BioXSD | BioJSON | BioYAML - Towards unified formats for sequences, alignments, features, and annotations"
+|-
+|30
+|Herve Menager
+|EDAM - The ontology of bioinformatics operations, types of data, topics, and data formats (2017 update)"
+|-
+|31
+|Chunlei Wu
+|BioThings SDK: a toolkit for building high-performance data APIs in biology
+|-
+|32
+|Kenzo-Hugo Hillion
+|ToolDog - generating tool descriptors from the ELIXIR tool registry
+|-
+|33
+|Uros Sipeitc
+|Workflow for processing standard bioinformatics formats with SciClone to infer tumor heterogeneity
+|-
+|34
+|Ismail Moghul
+|GeoDiver: Differential Gene Expression Analysis & Gene-Set Analysis for GEO Datasets
+|-
+|35
+|Wei Wang
+|Aztec: Automated Biomedical Tool Index with Improved Information Retrieval System
+|-
+|36
+|Nikola Tesic
+|Microsatellite instability profiling of TCGA colorectal adenocarcinomas using a Common Workflow Language pipeline
+|-
+|37
+|Alberto Riva
+|DAMON, an open source framework for reliable and reproducible analysis pipelines"
+|-
+|38
+|Yo Yehudi
+|Forever in BlueGenes: a next-generation genomic data interface powered by InterMine
+|-
+|39
+|Ted Liefeld
+|Integrating cloud storage providers for genomic analyses
+|-
+|40
+|Silvia Di Giorgio
+|GRADitude: A computational tool for the analysis of Grad-seq data
+|-
+|41
+|Farah Khan
+|CWL+Research Object == Complete Provenance
+|-
+|42
+|Steffen Möller
+|Workflow-ready bioinformatics packages for Debian-based distributions and this Linux distributionís infrastructure for low-friction reproducible research
+|-
+|43
+|Madeleine Ball
+|Open Humans: Opening human health data
+|-
+|44
+|Kate Voss
+|Full-stack genomics pipelining with GATK4 + WDL + Cromwell
+|-
+|45
+|John Fonner
+|BioContainers for supercomputers: 2,000+ accessible, discoverable Singularity apps"
+|-
+|46
+|Rabie Saidi
+|Protein Inpainter: a Message-Passing-based Predictor using Spark GraphX
+|-
+|47
+|Felix Shaw
+|Collaborative Open Plant Omics: A platform for "FAIR" data for plant science
 |-
