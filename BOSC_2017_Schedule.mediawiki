@@ -190,7 +190,7 @@ __NOTOC__
 |12:10
 |12:15
 |-
-|
+|Workflows
 | (Q&A for previous 6  lightning talks)
 |
 |12:15
@@ -259,6 +259,12 @@ __NOTOC__
 |Kees van Bochove
 |14:48
 |14:53
+|-
+|Developer tools / reproducibility
+| (Q&A for previous 7  lightning talks)
+|
+|14:53
+|15:00
 |- style="background:#E6E6E6"
 | 
 |'''Session: Data Science & Visualization'''
@@ -307,6 +313,12 @@ __NOTOC__
 |Sourav Singh
 |15:43
 |15:48
+|-
+|Data Science & Visualization
+| (Q&A for previous 6  lightning talks)
+|
+|15:48
+|15:54
 |- style="background:#FAF4EE"
 | colspan="3" | Coffee Break
 | 16:00
@@ -389,6 +401,13 @@ __NOTOC__
 |Nicola Mulder
 |11:22
 |11:27
+|1
+|-
+|Community Building and Citizen Science
+| (Q&A for previous 3 lightning talks)
+|
+|11:27
+|11:30
 |- style="background:#E6E6E6"
 | 
 | '''Session: Late-Breaking Lightning Talks'''
@@ -427,7 +446,7 @@ __NOTOC__
 |12:00
 |-
 |LBLTs
-|(Q&A for first 5 LBLTs)
+| (Q&A for first 5 LBLTs)
 |
 |12:00
 |12:05
@@ -457,7 +476,7 @@ __NOTOC__
 |12:25
 |-
 |LBLTs
-|(Q&A for last 4 LBLTs)
+| (Q&A for last 4 LBLTs)
 |
 |12:25
 |12:30
@@ -514,11 +533,11 @@ __NOTOC__
 |14:51
 |14:56
 |-
+|Open Data
+| (Q&A for previous 4  lightning talks)
 |
-|
-|
-|
-|
+|14:56
+|15:00
 |- style="background:#CCCCFF"
 |Panel
 |[[BOSC_2017_Panel| Panel: Open Data--Standards, Opportunities and Challenges]]
