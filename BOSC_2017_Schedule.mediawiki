@@ -242,7 +242,7 @@ __NOTOC__
 |14:28
 |14:33
 |-
-|Workflows
+|Developer tools / reproducibility
 | (Q&A for first 3  lightning talks)
 |
 |14:33
@@ -308,7 +308,7 @@ __NOTOC__
 |15:28
 |15:33
 |-
-|Workflows
+|Data Science & Visualization
 | (Q&A for first 3  lightning talks)
 |
 |15:33
