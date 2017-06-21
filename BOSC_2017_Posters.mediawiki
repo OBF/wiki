@@ -198,3 +198,23 @@ PLEASE NOTE: Some late-round posters have not yet been added to this table. They
 |Kevin Sayers
 |Workflows interoperability with Nextflow and Common WL
 |-
+|}
+
+'''Late posters:'''
+{| {| border="1" cellspacing="0" cellpadding="7"
+|-
+|Malvika Sharan
+|Building a local bioinformatics community: challenges and efforts
+|-
+|Laura Huerta
+|Expression Atlas: exploring gene expression results across species under different biological conditions
+|-
+|Jorge Boucas
+|Microservices in data, code, and project management
+|-
+|Aleksandra Gruca
+|CHARME - harmonising standardisation strategies to increase efficiency and competitiveness of European life-science research
+|-
+|Wei Wang
+|Aztec: Automated Biomedical Tool Index with Improved Information Retrieval System
+|}
