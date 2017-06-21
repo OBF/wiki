@@ -173,27 +173,33 @@ __NOTOC__
 |12:00
 |-
 |Workflows
+| (Q&A for first 3  lightning talks)
+|
+|12:00
+|12:03
+|-
+|Workflows
 |BioThings Explorer: Utilizing JSON-LD for Linking Biological APIs to Facilitate Knowledge Discovery
 |Jiwen Xin
-|12:00
-|12:05
+|12:03
+|12:08
 |-
 |Workflows
 |Discovery and visualisation of homologous genes and gene families using Galaxy
 |Anil S. Thanki
-|12:05
-|12:10
+|12:08
+|12:13
 |-
 |Workflows
 |YAMP : Yet Another Metagenomic Pipeline
 |Alessia Visconti
-|12:10
-|12:15
+|12:13
+|12:18
 |-
 |Workflows
-| (Q&A for previous 6  lightning talks)
+| (Q&A for last 3  lightning talks)
 |
-|12:15
+|12:18
 |12:20
 |-  style="background:#FFFFCC"
 | [https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing Birds of a Feather discussions (BoFs)]
@@ -236,34 +242,40 @@ __NOTOC__
 |14:28
 |14:33
 |-
+|Workflows
+| (Q&A for first 3  lightning talks)
+|
+|14:33
+|14:36
+|-
 |Developer tools / reproducibility
 |An ensemble approach for gene set testing analysis with reporting capabilities
 |Monther Alhamdoosh
-|14:33
-|14:38
+|14:36
+|14:41
 |-
 |Developer tools / reproducibility
 |OpenMS 2.0: a flexible open-source software platform for mass spectrometry data analysis
 |Timo Sachsenberg
-|14:38
-|14:43
+|14:41
+|14:46
 |-
 |Developer tools / reproducibility
 |Interoperable, collaborative multi-platform variant calling with bcbio
 |Brad Chapman
-|14:43
-|14:48
+|14:46
+|14:51
 |-
 |Developer tools / reproducibility
 |Gene Set Variation Analysis in cBioPortal
 |Kees van Bochove
-|14:48
-|14:53
+|14:51
+|14:56
 |-
 |Developer tools / reproducibility
-| (Q&A for previous 7  lightning talks)
+| (Q&A for last 4  lightning talks)
 |
-|14:53
+|14:56
 |15:00
 |- style="background:#E6E6E6"
 | 
@@ -296,28 +308,34 @@ __NOTOC__
 |15:28
 |15:33
 |-
+|Workflows
+| (Q&A for first 3  lightning talks)
+|
+|15:33
+|15:36
+|-
 |Data Science & Visualization
 |Revitalizing a classic bioinformatics tool using modern technologies: the case of the Cytoscape Project
 |Keiichiro Ono
-|15:33
-|15:38
+|15:36
+|15:41
 |-
 |Data Science & Visualization
 |The SPOT ontology toolkit : semantics as a service
 |Olga Vrousgou
-|15:38
-|15:43
+|15:41
+|15:46
 |-
 |Data Science & Visualization
 |Biopython Project Update 2017
 |Sourav Singh
-|15:43
-|15:48
+|15:46
+|15:51
 |-
 |Data Science & Visualization
-| (Q&A for previous 6  lightning talks)
+| (Q&A for last 3  lightning talks)
 |
-|15:48
+|15:51
 |15:54
 |- style="background:#FAF4EE"
 | colspan="3" | Coffee Break
@@ -385,16 +403,17 @@ __NOTOC__
 |10:59
 |-
 |Community Building and Citizen Science
-|Software and social strategies for community sourced biological networks and ontologies
-|Dexter Pratt
-|10:59
-|11:04
-|-
-|Community Building and Citizen Science
 |Building an open, collaborative, online infrastructure for bioinformatics training
 |Bérénice Batut
-|11:04
+|11:59
+|11:17
+|-
+|Community Building and Citizen Science
+|Software and social strategies for community sourced biological networks and ontologies
+|Dexter Pratt
+|11:17
 |11:22
+
 |-
 |Community Building and Citizen Science
 |Distance-based, online bioinformatics training in Africa: the H3ABioNet experience
@@ -404,7 +423,7 @@ __NOTOC__
 |1
 |-
 |Community Building and Citizen Science
-| (Q&A for previous 3 lightning talks)
+| (Q&A for previous 2 lightning talks)
 |
 |11:27
 |11:30
@@ -443,43 +462,43 @@ __NOTOC__
 |BioThings SDK: a toolkit for building high-performance data APIs in biology
 |Chunlei Wu
 |11:50
-|12:00
+|11:55
 |-
 |LBLTs
 | (Q&A for first 5 LBLTs)
 |
+|11:55
 |12:00
-|12:05
 |-
 |LBLTs
 |Integrating cloud storage providers for genomic analyses
 |Ted Liefeld
+|12:00
 |12:05
-|12:10
 |-
 |LBLTs
 |Open Humans: Opening human health data
 |Madeleine Ball
+|12:05
 |12:10
-|12:15
 |-
 |LBLTs
 |Fighting Superbugs with Open Source Software
 |Kai Blin
+|12:10
 |12:15
-|12:20
 |-
 |LBLTs
 |Users, Communication, and a Light Application-Level API: A Request for Comments
 |Seth Carbon
+|12:15
 |12:20
-|12:25
 |-
 |LBLTs
 | (Q&A for last 4 LBLTs)
 |
+|12:20
 |12:25
-|12:30
 |- style="background:#FFFFCC"
 | [https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing Birds of a Feather discussions (BoFs)]
 | [https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing Feel free to organize one!] 
