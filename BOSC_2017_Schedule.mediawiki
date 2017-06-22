@@ -432,7 +432,6 @@ __NOTOC__
 |Nicola Mulder
 |11:22
 |11:27
-|1
 |-
 |Community Building and Citizen Science
 | (Q&A for previous 2 lightning talks)
