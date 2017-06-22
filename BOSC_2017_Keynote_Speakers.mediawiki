@@ -27,5 +27,9 @@ The title of Dr. Field's keynote talk is "Understanding the Biocode: Global Shar
 
 Dr. Loman helped establish real-time genomic surveillance of Ebola in Guinea and Zika in Brazil (via the [http://www.zibraproject.org/ ZiBRA project], which states that "Data will be subject to open release as it is generated"). In another recent project, real-time genomic data was used to analyze a small outbreak of Salmonella enteritidis in the UK. Through this sharing of genomic datasets, researchers were able to confirm that the cases were linked to a larger, national-scale outbreak. Dr. Loman is one of the authors of [https://poretools.readthedocs.io/ Poretools], and he regularly shares cutting-edge Nanopore data and protocols for using it. In collaboration with Lex Nederbragt, Dr. Loman is developing an open-source repository of sequencing and bioinformatics benchmarking datasets called [http://lab.loman.net/high-throughput%20sequencing/e.%20coli%20o104%20h4/genomics/2012/10/09/seqbench-a-useful-meta-resource-of-e-coli-sequence-reads/ Seqbench].
 
+Dr. Loman's talk title is "Open data meets ubiquitous sequencing: challenges and opportunities."
+
+Dr. Loman will also be one of the panelists for our panel on [[BOSC_2017_Panel| Open Data--Standards, Opportunities and Challenges]].
+
 ----
 [[BOSC_2017|Back to BOSC 2017 home page]]
