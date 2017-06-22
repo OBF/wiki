@@ -405,7 +405,7 @@ __NOTOC__
 |Community Building and Citizen Science
 |Building an open, collaborative, online infrastructure for bioinformatics training
 |Bérénice Batut
-|11:59
+|10:59
 |11:17
 |-
 |Community Building and Citizen Science
