@@ -571,7 +571,7 @@ __NOTOC__
 | 16:30
 |- style="background:#CCFFFF"
 |Keynote
-| Why I Love Open Data
+| Open data meets ubiquitous sequencing: challenges and opportunities
 || [[BOSC_2017_Keynote_Speakers| Nick Loman]] 
 |16:30
 |17:30
