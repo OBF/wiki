@@ -3,8 +3,8 @@ title: BOSC 2018
 ---
 
 [https://gccbosc2018.sched.com/ BOSC 2018] will be June 25-30, 2018 in Portland,
-Oregon as part of [https://gccbosc2018.sched.com/ a bioinformatics community
-conference] co-hosted with the Galaxy Community Conference. More details will be
+Oregon as part of [https://gccbosc2018.sched.com/ a bioinformatics community conference] 
+co-hosted with the Galaxy Community Conference. More details will be
 forthcoming after [http://www.open-bio.org/wiki/BOSC_2017 BOSC 2017].
 
 BOSC has been a part of ISMB since its inception, and we greatly value our
@@ -14,9 +14,8 @@ looking forward to [http://www.open-bio.org/wiki/BOSC_2017 BOSC 2017] at
 exciting and successful meeting.
 
 Because of our continuing focus on
-[https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md broadening
-and deepening the BOSC community], we've been exploring ways to reach those in
-the bioinformatics community who aren’t already part of the audience attracted
+[https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md broadening and deepening the BOSC community],
+we've been exploring ways to reach those in the bioinformatics community who aren’t already part of the audience attracted
 by ISMB. As part of
 that exploration, we have looked at other organizations and conferences that
 have been successful at establishing a strong and growing community of
@@ -27,26 +26,26 @@ After much discussion and planning, we'll be helping organize a
 that includes both GCC and BOSC. We hope this will help serve the open
 bioinformatics community in a few ways:
 
-- It creates a conference with an explicit focus on development, support and
+* It creates a conference with an explicit focus on development, support and
   maintenance of the interoperable software tools and libraries that enable
   modern scientific research. We believe the only sustainable way to provide the
   infrastructure needed for high throughput analyses is to build cooperating,
   open, diverse communities of programmers and biologists. This conference is
   where we hope to build and deepen this community.
 
-- It includes two dedicated training days by members from both the
+* It includes two dedicated training days by members from both the
   [https://www.open-bio.org/wiki/Main_Page Open Bioinformatics Foundation] and
   Galaxy communities. This enables focused training on useful tools and approaches,
   making the conference attractive to anyone who wants to expand their skills.
 
-- There will be two integrated days of collaboration following the conference,
+* There will be two integrated days of collaboration following the conference,
   merging [https://www.open-bio.org/wiki/Codefest_2017 BOSC Codefest] and
   [https://gcc2017.sciencesconf.org/resource/page/id/10 Galaxy's Developer and User Hackathon Days].
   We hope the integrated collaboration days following training and the
   conference talks will allow new and existing members of the community to
   attend and build working relationships.
 
-- We're hosted at a great venue in Portland, Reed College,
+* We're hosted at a great venue in Portland, Reed College,
   providing an affordable and fun experience for anyone who wants to attend.
 
 We would like to emphasize that this is an experiment for us and we aren’t looking
