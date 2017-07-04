@@ -35,6 +35,12 @@ Since 2010, people from the OBF project communities have regularly organized or 
 
 == Other hackathons involving OBF projects ==
 
+* [http://2016.biohackathon.org/ BioHackathon 2016]
+** September, 2016, in Tsuruoka, Japan. Sponsored by the National Bioscience Database Center (NBCD) and Database Center for Life Science (DBCLS).
+* [http://2015.biohackathon.org/ BioHackathon 2015]
+** September, 2015, in Nagasaki, Japan. Sponsored by the National Bioscience Database Center (NBCD) and Database Center for Life Science (DBCLS).
+* [http://2014.biohackathon.org/ BioHackathon 2014]
+** November, 2014, in Matsushima, Japan. Sponsored by the National Bioscience Database Center (NBCD) and Database Center for Life Science (DBCLS).
 * [http://2013.biohackathon.org/ BioHackathon 2013]
 ** June, 2013, in Tokyo, Japan. Sponsored by the National Bioscience Database Center (NBCD) and Database Center for Life Science (DBCLS).
 * [http://2012.biohackathon.org/ BioHackathon 2012]
