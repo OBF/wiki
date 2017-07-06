@@ -6,15 +6,9 @@ title: BOSC 2017 Keynote Speakers
 
 [[Image:DawnFieldy.jpg|240px|right|Dawn Field]]
 
-=== Dawn Field ===
+=== Madeleine Ball ===
 
-Dawn Field is a Lamberg International Guest Professor at Göteborg University’s Department of Marine Sciences. Previously she was a senior research fellow at the NERC Centre for Ecology and Hydrology, Head of the Molecular Evolution and Bioinformatics Group at the Centre for Ecology and Hydrology in Wallingford, UK, and a research associate at the Smithsonian Institution. She is also a founder of the Genomic Standards Consortium, the Genomic Observatories Network and Ocean Sampling Day.
-
-Dr. Field is credited with introducing the concept of a biological code, or “biocode"--the sum of all DNA on earth. In their book [https://global.oup.com/academic/product/biocode-9780199687756 Biocode: The New Age of Genomics], she and coauthor Neil Davies describe the rapid rise of genomics, how it is revealing the scale and diversity of life on Earth, and future possibilities and implications. 
-
-Dr. Field's advocacy for open data and interoperability is epitomized by her past leadership of the Genomics Standards Consortium ([http://gensc.org/about-gsc/ GSC]), which aims to facilitate genomic data integration, discovery and comparison through international community-driven standards.
-
-The title of Dr. Field's keynote talk is "Understanding the Biocode: Global Sharing of Data."
+Madeleine Ball is the Executive Director and co-founder of Open Humans, an organization dedicated to enabling individuals to access their data and share it with research studies. She is also PI of the Open Humans Public Data Sharing study. In recognition of her vision for opening human health data, Madeleine was recently awarded a Shuttleworth Foundation Fellowship.
 
 ----
 
