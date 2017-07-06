@@ -31,11 +31,13 @@ __NOTOC__
 |-
 | 14:00-15:00 || Session: Data Science & Visualization
 |-
-| 15:00-16:00 || [[BOSC_2017_Keynote_Speakers| Keynote (Dawn Field)]]
+| 15:00-16:00 || [[BOSC_2017_Keynote_Speakers| Keynote]]
 |-
 | 16:30-17:30 || Session: Developer tools and libraries for open science and reproducibility 
 |-
 | 17:30-18:30 || [https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing Birds of a Feather discussions (BoFs)]
+|-
+| 18:00-19:00 || [https://www.iscb.org/cms_addon/conferences/ismbeccb2017/posterlist.php?cat=B Posters]
 |}
 | style="border: none" |
 | style="width: 49%; vertical-align: top;" |
@@ -62,6 +64,8 @@ __NOTOC__
 | 16:30-17:30 || [[BOSC_2017_Keynote_Speakers| Keynote (Nick Loman)]] and closing remarks
 |-
 |  17:30-18:30 || [https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing Birds of a Feather discussions (BoFs)] 
+|-
+| 18:00-19:00 || [https://www.iscb.org/cms_addon/conferences/ismbeccb2017/posterlist.php?cat=B Posters]
 |}
 |}
 
