@@ -359,8 +359,8 @@ __NOTOC__
 | 16:30
 |- style="background:#EFFBFB"
 |Keynote
-| Understanding the Biocode: Global Sharing of Data
-| [[BOSC_2017_Keynote_Speakers| Dawn Field]] 
+| 
+| [[BOSC_2017_Keynote_Speakers| Madeleine Ball]] 
 |16:30
 |17:30
 |- style="background:#FFFFCC"
