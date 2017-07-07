@@ -41,7 +41,7 @@ BOSC covers all aspects of bioinformatics and open science software, including (
 
 == Keynote Speakers ==
 
-This year's keynote speakers will be Dawn Field (Göteborg University), known for her work on open data and interoperability, and Nick Loman (University of Birmingham), a vocal proponent of open genomic data in healthcare who heads the Zibra project.
+This year's keynote speakers will be Nick Loman (University of Birmingham), a vocal proponent of open genomic data in healthcare who heads the Zibra project, and Madeleine Ball (Open Humans), who is dedicated to opening human health data.
 
 '''[[BOSC_2017_Keynote_Speakers|More information about BOSC 2017 Keynote Speakers]]'''
 
