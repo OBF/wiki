@@ -492,12 +492,6 @@ __NOTOC__
 |12:05
 |-
 |LBLTs
-|Open Humans: Opening human health data
-|Madeleine Ball
-|12:05
-|12:10
-|-
-|LBLTs
 |Fighting Superbugs with Open Source Software
 |Kai Blin
 |12:10
