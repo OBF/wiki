@@ -363,13 +363,17 @@ __NOTOC__
 | [[BOSC_2017_Keynote_Speakers| Madeleine Ball]] 
 |16:30
 |17:30
-|- style="background:#FFFFCC"
+|- style="background:#E6E6FF"
 | [https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing Birds of a Feather discussions (BoFs)]
 | [https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing Feel free to organize one!] 
 | 
 |17:30
 |18:30
-|-
+|- style="background:#FFFFCC"
+| colspan="3" |[https://www.iscb.org/cms_addon/conferences/ismbeccb2017/posterlist.php?cat=B Posters] (odd-numbered posters present)
+| 18:00
+| 19:00
+|- style="background:#FFE6FF"
 | Dinner
 | Optional pay-your-own-way dinner (must RSVP in advance--space limited)
 |
