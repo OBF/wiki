@@ -578,7 +578,7 @@ __NOTOC__
 '''''Panelists''''': Madeleine Ball, Carole Goble, Nick Loman, Andrew Su]]
 |15:00
 |16:00
-|- style="background:#FAF4EE"
+|- style="background:#CCFFCC"
 | colspan="3" | Coffee Break
 | 16:00
 | 16:30
