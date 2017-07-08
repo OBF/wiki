@@ -570,7 +570,7 @@ __NOTOC__
 |
 |14:56
 |15:00
-|- style="background:#CCCCFF"
+|- style="background:#CCF2FF"
 |Panel
 |[[BOSC_2017_Panel| Panel: Open Data--Standards, Opportunities and Challenges]]
 ||[[BOSC_2017_Panel| '''''Moderator''''': Mónica Muñoz-Torres.
@@ -578,11 +578,11 @@ __NOTOC__
 '''''Panelists''''': Madeleine Ball, Carole Goble, Nick Loman, Andrew Su]]
 |15:00
 |16:00
-|- style="background:#CCFFCC"
+|- style="background:#F2E6D9"
 | colspan="3" | Coffee Break
 | 16:00
 | 16:30
-|- style="background:#CCFFFF"
+|- style="background:#CCFFCC"
 |Keynote
 | Open data meets ubiquitous sequencing: challenges and opportunities
 || [[BOSC_2017_Keynote_Speakers| Nick Loman]] 
