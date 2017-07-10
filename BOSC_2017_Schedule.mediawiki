@@ -31,7 +31,7 @@ __NOTOC__
 |-
 | 14:00-15:00 || Session: Data Science & Visualization
 |-
-| 15:00-16:00 || [[BOSC_2017_Keynote_Speakers| Keynote]]
+| 15:00-16:00 || [[BOSC_2017_Keynote_Speakers| Keynote: Madeleine Ball]]
 |-
 | 16:30-17:30 || Session: Developer tools and libraries for open science and reproducibility 
 |-
