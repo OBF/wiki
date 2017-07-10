@@ -12,9 +12,12 @@ title: BOSC 2017 Keynote Speakers
 
 [https://www.openhumans.org/ Open Humans] is an open source online platform and community, created through funding support from the Robert Wood Johnson Foundation and the John S. and James L. Knight Foundation. Open Humans enables members to connect data from a variety of sources, including genome, microbiome, activity tracking, and GPS data – and then invites members to share their data with projects and work with research studies. By using an individual-centered approach, Open Humans enables new research opportunities, including: data sharing by individuals, cohort sharing across studies, anonymous engagement with studies, and citizen-led projects.
 
-Dr. Ball is also supported by a [https://shuttleworthfoundation.org/about/ Shuttleworth Foundation Fellowship], supporting her continued vision for new approaches to openness in human health research and data sharing. Previously, Dr. Ball was Director of Research at the [http://www.personalgenomes.org/harvard/ Harvard Personal Genome Project]. Through the Personal Genome Project and Open Humans, Dr. Ball works with colleagues in diverse fields, including genomics, human-computer interaction, diabetes, health behavior research, and citizen science. Through this work, she has extensive experience with human subjects research, data sharing, participatory research, technology solutions, and associated ethical and regulatory issues.
+Dr. Ball is also supported by a [https://shuttleworthfoundation.org/about/ Shuttleworth Foundation Fellowship], supporting her continued vision for new approaches to openness in human health research and data sharing. Previously, Dr. Ball was Director of Research at the [http://www.personalgenomes.org/harvard/ Harvard Personal Genome Project].
 
 Dr. Ball's keynote talk topic is "Open Sourcing Ourselves."
+
+Dr. Ball will also be one of the panelists for our panel on [[BOSC_2017_Panel| Open Data--Standards, Opportunities and Challenges]].
+
 ----
 
 
