@@ -8,8 +8,13 @@ title: BOSC 2017 Keynote Speakers
 
 === Madeleine Ball ===
 
-Madeleine Ball is the Executive Director and co-founder of Open Humans, an organization dedicated to enabling individuals to access their data and share it with research studies. She is also PI of the Open Humans Public Data Sharing study. In recognition of her vision for opening human health data, Madeleine was recently awarded a Shuttleworth Foundation Fellowship.
+[http://www.madeleineball.net/ Madeleine Ball] is Executive Director of Open Humans Foundation and co-founder of Open Humans, a nonprofit project enabling individuals to engage studies and share data.
 
+[https://www.openhumans.org/ Open Humans] is an open source online platform and community, created through funding support from the Robert Wood Johnson Foundation and the John S. and James L. Knight Foundation. Open Humans enables members to connect data from a variety of sources, including genome, microbiome, activity tracking, and GPS data – and then invites members to share their data with projects and work with research studies. By using an individual-centered approach, Open Humans enables new research opportunities, including: data sharing by individuals, cohort sharing across studies, anonymous engagement with studies, and citizen-led projects.
+
+Dr. Ball is also supported by a [https://shuttleworthfoundation.org/about/ Shuttleworth Foundation Fellowship], supporting her continued vision for new approaches to openness in human health research and data sharing. Previously, Dr. Ball was Director of Research at the [http://www.personalgenomes.org/harvard/ Harvard Personal Genome Project]. Through the Personal Genome Project and Open Humans, Dr. Ball works with colleagues in diverse fields, including genomics, human-computer interaction, diabetes, health behavior research, and citizen science. Through this work, she has extensive experience with human subjects research, data sharing, participatory research, technology solutions, and associated ethical and regulatory issues.
+
+Dr. Ball's keynote talk topic is "Open Sourcing Ourselves."
 ----
 
 
