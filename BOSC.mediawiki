@@ -37,7 +37,7 @@ Other conferences
 
 == BOSC-related channels and links ==
 
-* [http://f1000research.com/channels/BOSC BOSC F1000 Research Channel] (BOSC reports, posters, slides)
+* [http://f1000research.com/collections/BOSC BOSC F1000 Research Collection] (BOSC reports, posters, slides)
 * [http://twitter.com/OBF_BOSC/ @OBF_BOSC on Twitter]
 * [http://youtube.com/c/OBFBOSC OBF BOSC on YouTube]
 * [http://google.com/+OBFBOSC OBF BOSC on Google+]
