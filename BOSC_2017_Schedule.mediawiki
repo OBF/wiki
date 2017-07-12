@@ -595,7 +595,7 @@ __NOTOC__
 |17:30
 |18:30
 |- style="background:#E6E6FF"
-| colspan="3" |[https://www.iscb.org/cms_addon/conferences/ismbeccb2017/posterlist.php?cat=B Posters] (odd-numbered posters present)
+| colspan="3" |[https://www.iscb.org/cms_addon/conferences/ismbeccb2017/posterlist.php?cat=B Posters] (even-numbered posters present)
 | 18:00
 | 19:00
 |- style="background:#FFE6FF"
