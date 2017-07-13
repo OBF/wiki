@@ -6,7 +6,7 @@ OpenBio Codefest 2017 is July 20th and 21st, 2017 (the Thursday and Friday befor
 
 This is an opportunity for anyone interested in open science, biology and programming to meet, discuss and work collaboratively. Everyone is welcome to attend. We will have a mix of experienced developers, newcomers to bioinformatics and everything in between.
 
-This is the eight annual pre-[[BOSC]] [[Codefest]]. Previous fun and successful events were [[Codefest 2010]] in
+This is the 8th annual pre-[[BOSC]] [[Codefest]]. Previous fun and successful events were [[Codefest 2010]] in
 Boston, [[Codefest 2011]] in Vienna, [[Codefest 2012]] in Los Angeles, [[Codefest 2013]] in Berlin,
 and [[Codefest 2014]] in Boston, [[Codefest 2015]] in Dublin and [[Codefest 2016]] in Orlando.
 
