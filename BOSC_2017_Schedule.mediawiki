@@ -23,17 +23,17 @@ __NOTOC__
 |-
 | 10:00-10:10 || BOSC announcements 
 |-
-| 10:10-10:35 || Introduction to the Open Bioinformatics Foundation; OBF in the Google Summer of Code; Codefest 2017 Report
+| 10:10-10:45 || Introduction to the Open Bioinformatics Foundation; OBF in the Google Summer of Code; Codefest 2017 Report
 |-
-| 10:35-12:20 || Session: Workflows 
+| 10:45-12:20 || Session: Workflows 
 |-
 | 12:30-14:00 || Lunch, Posters, [https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing Birds of a Feather discussions (BoFs)]
 |-
-| 14:00-15:00 || Session: Data Science & Visualization
+| 14:00-15:00 || Session: Developer tools and libraries for open science and reproducibility
 |-
-| 15:00-16:00 || [[BOSC_2017_Keynote_Speakers| Keynote: Madeleine Ball]]
+| 15:00-16:00 ||  Session: Data Science & Visualization
 |-
-| 16:30-17:30 || Session: Developer tools and libraries for open science and reproducibility 
+| 16:30-17:30 || [[BOSC_2017_Keynote_Speakers| Keynote: Madeleine Ball]]
 |-
 | 17:30-18:30 || [https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing Birds of a Feather discussions (BoFs)]
 |-
