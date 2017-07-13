@@ -5,6 +5,12 @@ title: BOSC 2017 Schedule
 __NOTOC__
 [[File:Pear.png|120px|right|BOSC logo|link=BOSC_2017]]
 
+== Complete Program  ==
+
+- [https://www.open-bio.org/w/images/4/42/BOSC2017-complete-program-compressed.pdf Download the complete program as a PDF]
+
+- [https://www.iscb.org/cms_addon/conferences/ismbeccb2017/bosc.php ISMB/ECCB schedule for BOSC, including brief descriptions of each talk topic]
+
 == Pre-BOSC: Codefest 2017  ==
 
 [[Codefest 2017]] (a pre-BOSC hackathon) will take place July 20-21 at [https://brmlab.cz/ Brmlab, Prague]  (a non-profit, community-run hackerspace). Codefest is FREE and open to all (even if you're not attending BOSC). See [[Codefest 2017]] for details and to sign up.
