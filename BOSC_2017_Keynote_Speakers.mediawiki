@@ -35,3 +35,5 @@ Dr. Loman will also be one of the panelists for our panel on [[BOSC_2017_Panel| 
 
 ----
 [[BOSC_2017|Back to BOSC 2017 home page]]
+
+[[BOSC_2017_schedule|BOSC 2017 schedule]]
