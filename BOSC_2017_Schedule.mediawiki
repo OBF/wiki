@@ -375,8 +375,8 @@ __NOTOC__
 | 19:00
 |- style="background:#FFE6FF"
 | Dinner
-| Optional pay-your-own-way dinner (must RSVP in advance--space limited)
-|
+| Optional pay-your-own-way dinner (must [https://beta.doodle.com/poll/74kp3m6si5pne3mt RSVP] in advance--space limited)
+| 
 | 19:30
 |
 |}
