@@ -7,9 +7,9 @@ __NOTOC__
 
 == Complete Program  ==
 
-- [https://www.open-bio.org/w/images/4/42/BOSC2017-complete-program-compressed.pdf Download the complete program (including all talk and poster abstracts) as a PDF]
+* [https://www.open-bio.org/w/images/4/42/BOSC2017-complete-program-compressed.pdf Download the complete program (including all talk and poster abstracts) as a PDF]
 
-- [https://www.iscb.org/cms_addon/conferences/ismbeccb2017/bosc.php ISMB/ECCB schedule for BOSC, including brief descriptions of each talk topic]
+* [https://www.iscb.org/cms_addon/conferences/ismbeccb2017/bosc.php ISMB/ECCB schedule for BOSC, including brief descriptions of each talk topic]
 
 == Pre-BOSC: Codefest 2017  ==
 
