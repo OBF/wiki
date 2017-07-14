@@ -620,9 +620,9 @@ __NOTOC__
 - [https://www.iscb.org/cms_addon/conferences/ismbeccb2017/bosc.php ISMB/ECCB schedule for BOSC, including brief descriptions of each talk topic]
 
 == Posters ==
-[https://www.iscb.org/cms_addon/conferences/ismbeccb2017/posterlist.php?cat=B BOSC posters at ISMB/ECCB 2017]
+* [https://www.iscb.org/cms_addon/conferences/ismbeccb2017/posterlist.php?cat=B BOSC posters at ISMB/ECCB 2017]
 
-[https://www.open-bio.org/w/images/8/82/BOSC2017-PosterOverview.pdf PDF poster list]
+* [https://www.open-bio.org/w/images/8/82/BOSC2017-PosterOverview.pdf PDF poster list]
 
 == Sponsors ==
 We are grateful to and welcome [http://thehyve.nl/ The Hyve] (open source solutions for bioinformatics), [https://science.mozilla.org/ Mozilla Science Lab] (a community of researchers, developers, and librarians making research open and accessible), [https://repositive.io/ Repositive Limited] (connecting the genomics community with the data they need), [https://www.sevenbridges.com/ Seven Bridges] (the Biomedical Data Analysis Platform) and [https://elifesciences.org/labs eLife] (cutting-edge technology for cutting-edge research) as new sponsors for BOSC 2017, and [http://gigasciencejournal.com GigaScience] (an open access, open data, open peer-review journal) as a returning sponsor.
