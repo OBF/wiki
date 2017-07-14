@@ -615,6 +615,7 @@ __NOTOC__
 
 == Posters ==
 [https://www.iscb.org/cms_addon/conferences/ismbeccb2017/posterlist.php?cat=B BOSC posters at ISMB/ECCB 2017]
+
 [https://www.open-bio.org/w/images/8/82/BOSC2017-PosterOverview.pdf PDF poster list]
 
 == Sponsors ==
