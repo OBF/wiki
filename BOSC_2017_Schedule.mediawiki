@@ -508,13 +508,7 @@ __NOTOC__
 |12:15
 |-
 |LBLTs
-|Users, Communication, and a Light Application-Level API: A Request for Comments
-|Seth Carbon
-|12:15
-|12:20
-|-
-|LBLTs
-| (Q&A for last 4 LBLTs)
+| (Q&A for last 2 LBLTs)
 |
 |12:20
 |12:25
