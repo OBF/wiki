@@ -76,7 +76,7 @@ Codefest is kindly hosted by [https://brmlab.cz/ Brmlab], a non-profit, communit
 | [[File: Brmlab.png|400px|left|Brmlab|link=http://brmlab.cz]]
 |}
 
-* [https://groups.google.com/forum/#!topic/openbio-codefest-2017/MliuaDBdo_o Arrival tips
+* [https://groups.google.com/forum/#!topic/openbio-codefest-2017/MliuaDBdo_o Arrival tips]
 * [https://drive.google.com/open?id=1N9qWaOreNLstmAejjDQOhpKFZ0c&usp=sharing Google Map of Codefest/BOSC locations of interest in Prague]
 
 We plan to have lunch and coffee available for everyone attending. The rough schedule for the two days is:
