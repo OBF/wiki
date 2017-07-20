@@ -82,23 +82,51 @@ Codefest is kindly hosted by [https://brmlab.cz/ Brmlab], a non-profit, communit
 
 We plan to have lunch and coffee available for everyone attending. The rough schedule for the two days is:
 
-* Thursday July 20th 9am: Meet at Brmlab, coffee, introductions and organization into projects.
+* Thursday July 20th 9am: Meet at Brmlab, introductions and organization into projects, coffee (from [http://www.oukydouky.cz Ouky Douky café])
 * Thursday July 20th 10-1: Work in groups
 * Thursday July 20th 1pm: Provided Lunch at Brmlab ([http://www.pizzaletna.cz/en/ Pizza Letná]] + post-lunch presentations on progress and organization
 * Thursday July 20th 2-6: Work in groups
-* Thursday July 20th 6pm: End of day presentations, then pay your way group dinner (location to be decided)
-* Thursday July 20th late evening: additional work at your discretion
-* Friday July 21st 9am: Meet at Brmlab, coffee, provide status updates and organize.
+* Thursday July 20th 6pm: End of day presentations
+* Thursday July 20th 7pm: Pay-your-way group dinner in [www.crossclub.cz/en Cross Club]. SEE [https://www.open-bio.org/wiki/Codefest_2017#Dinner DIRECTIONS]
+
+* Thursday July 20th late evening: Additional work at your discretion
+
+* Friday July 21st 9am: Meet at Brmlab, provide status updates and organize, coffee (from [http://www.oukydouky.cz Ouky Douky café])
 * Friday July 21st 10-1: Work
-* Friday July 21st 1pm: Provided lunch at Brmlab ([http://www.rozvoz-pizzy-praha.cz/ Pizzeria Fabbricia]) + post-lunch presentations on progress
+* Friday July 21st 1pm: Provided lunch at Brmlab ([http://www.pizzaletna.cz/en/ Pizza Letná]] + post-lunch presentations on progress
 * Friday July 21st 2-6: Work
-* Friday July 21st 6pm: Wrap up presentations, pay your own way group dinner, and get ready for [[BOSC 2017]]
+* Friday July 21st 6pm: Wrap up presentations, pay-your-own-way group dinner, and get ready for [[BOSC 2017]]
 
 This is completely flexible based on progress and needs of attendees. Some resources while the hackathon is ongoing:
 
 * [https://hangouts.google.com/call/5vqcefziwnhi3kcz6u4kxdytkey Google Hangout] for remote participants that will be on when we're working in Prague. 
 * Feel free to ask in the [https://gitter.im/chapmanb/obf-codefest Gitter Chat channel] if you're wondering about the current status at any time.
 * [https://docs.google.com/document/d/1PHN1qAWq1a2zM91oPYBy0DP2KKq5MbT6mdEQpH_kjbQ/edit?usp=sharing Google document with documentation of on-going Codefest work]
+
+
+== Dinner ==
+
+On the first evening, Thursday July 20th, we're having a group dinner in [www.crossclub.cz/en Cross Club]. Directions:
+
+* Option one: [https://www.google.com/maps/dir/brmlab,+Bubensk%C3%A1+1477%2F1,+170+00+Praha+7-Hole%C5%A1ovice,+Czechia/Cross+Club+Kav%C3%A1rna,+Plyn%C3%A1rn%C3%AD+1096%2F23,+170+00+Praha+7-Hole%C5%A1ovice,+%C4%8Cesko/@50.1032505,14.4306477,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x470b94b80ce899d9:0xcc81f00a71b39b29!2m2!1d14.4359171!2d50.0984431!1m5!1m1!1s0x470b94b5151af143:0x2d943b3cb67afc96!2m2!1d14.4432531!2d50.1081792!3e3?hl=en One stop with the underground] (alternatively a couple of stops with a tram, see [https://www.google.com/maps/dir/brmlab,+Bubensk%C3%A1+1477%2F1,+170+00+Praha+7-Hole%C5%A1ovice,+Czechia/Cross+Club+Kav%C3%A1rna,+Plyn%C3%A1rn%C3%AD+1096%2F23,+170+00+Praha+7-Hole%C5%A1ovice,+%C4%8Cesko/@50.1032505,14.4306477,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x470b94b80ce899d9:0xcc81f00a71b39b29!2m2!1d14.4359171!2d50.0984431!1m5!1m1!1s0x470b94b5151af143:0x2d943b3cb67afc96!2m2!1d14.4432531!2d50.1081792!3e3?hl=en Google Maps])
+
+{|
+| &nbsp;&nbsp;
+| [[File:Crossclubmetro.png|620px|center|Brmlab to Cross Club by transport|link=https://www.google.com/maps/dir/brmlab,+Bubensk%C3%A1+1477%2F1,+170+00+Praha+7-Hole%C5%A1ovice,+Czechia/Cross+Club+Kav%C3%A1rna,+Plyn%C3%A1rn%C3%AD+1096%2F23,+170+00+Praha+7-Hole%C5%A1ovice,+%C4%8Cesko/@50.1032505,14.4306477,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x470b94b80ce899d9:0xcc81f00a71b39b29!2m2!1d14.4359171!2d50.0984431!1m5!1m1!1s0x470b94b5151af143:0x2d943b3cb67afc96!2m2!1d14.4432531!2d50.1081792!3e3?hl=en]]
+| &nbsp;&nbsp;
+|}
+
+* Option two: 20 minutes [https://www.google.com/maps/dir/brmlab,+Bubensk%C3%A1+1477%2F1,+170+00+Praha+7-Hole%C5%A1ovice,+Czechia/Cross+Club+Kav%C3%A1rna,+Plyn%C3%A1rn%C3%AD+1096%2F23,+170+00+Praha+7-Hole%C5%A1ovice,+%C4%8Cesko/@50.1032505,14.4306477,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x470b94b80ce899d9:0xcc81f00a71b39b29!2m2!1d14.4359171!2d50.0984431!1m5!1m1!1s0x470b94b5151af143:0x2d943b3cb67afc96!2m2!1d14.4432531!2d50.1081792!3e2?hl=en walk]
+
+{|
+| &nbsp;&nbsp;
+| [[File:Crossclubwalk.png|620px|center|Brmlab to Cross Club by foot|link=https://www.google.com/maps/dir/brmlab,+Bubensk%C3%A1+1477%2F1,+170+00+Praha+7-Hole%C5%A1ovice,+Czechia/Cross+Club+Kav%C3%A1rna,+Plyn%C3%A1rn%C3%AD+1096%2F23,+170+00+Praha+7-Hole%C5%A1ovice,+%C4%8Cesko/@50.1032505,14.4306477,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x470b94b80ce899d9:0xcc81f00a71b39b29!2m2!1d14.4359171!2d50.0984431!1m5!1m1!1s0x470b94b5151af143:0x2d943b3cb67afc96!2m2!1d14.4432531!2d50.1081792!3e2?hl=en]]
+| &nbsp;&nbsp;
+|}
+
+Please try to be there before 7.30pm, otherwise we'll loose our table reservations.
+
+
 
 == Sponsors ==
 
@@ -116,5 +144,5 @@ We're looking for sponsors interested in being involved with the open source com
 == Organizers ==
 
 * [http://github.com/chapmanb Brad Chapman]
-* [https://twitter.com/matuskalas Matúš Kalaš]
+* [https://twitter.com/matuskalas Matúš Kalaš] (If in trouble at Brmlab, find Matúš or call him at +421905868848)
 * [https://twitter.com/HLWiencko Heather Wiencko]
