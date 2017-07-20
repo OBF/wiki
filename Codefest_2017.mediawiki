@@ -82,7 +82,7 @@ Codefest is kindly hosted by [https://brmlab.cz/ Brmlab], a non-profit, communit
 
 We plan to have lunch and coffee available for everyone attending. The rough schedule for the two days is:
 
-* Thursday July 20th 9am: Meet at Brmlab, introductions and organization into projects, coffee (from [http://www.oukydouky.cz Ouky Douky café])
+* Thursday July 20th 9am: Meet at Brmlab, introductions and organization into projects, coffee (from [http://www.oukydouky.cz Ouky Douky café]), local fruits & pastries (from the [http://holesovickytrh.cz/ farmers' market])
 * Thursday July 20th 10-1: Work in groups
 * Thursday July 20th 1pm: Provided Lunch at Brmlab ([http://www.pizzaletna.cz/en/ Pizza Letná]] + post-lunch presentations on progress and organization
 * Thursday July 20th 2-6: Work in groups
@@ -91,7 +91,7 @@ We plan to have lunch and coffee available for everyone attending. The rough sch
 
 * Thursday July 20th late evening: Additional work at your discretion
 
-* Friday July 21st 9am: Meet at Brmlab, provide status updates and organize, coffee (from [http://www.oukydouky.cz Ouky Douky café])
+* Friday July 21st 9am: Meet at Brmlab, provide status updates and organize, coffee (from [http://www.oukydouky.cz Ouky Douky café]), local fruits & pastries (from the [http://holesovickytrh.cz/ farmers' market])
 * Friday July 21st 10-1: Work
 * Friday July 21st 1pm: Provided lunch at Brmlab ([http://www.pizzaletna.cz/en/ Pizza Letná]] + post-lunch presentations on progress
 * Friday July 21st 2-6: Work
@@ -137,7 +137,7 @@ Please try to be there before 7.30pm, otherwise we'll loose our table reservatio
 |}
 
 
-We are grateful to and welcome [https://repositive.io/ Repositive Limited] (connecting the genomics community with the data they need) and  [https://www.sevenbridges.com/ Seven Bridges] (the Biomedical Data Analysis Platform) as new sponsors for the Codefest and BOSC 2017. We also thank the [http://www.uochb.cz/web/structure/31.html Institute of Organic Chemistry and Biochemistry] for lending us practical coffee equipment.
+We are grateful to and welcome [https://repositive.io/ Repositive Limited] (connecting the genomics community with the data they need) and  [https://www.sevenbridges.com/ Seven Bridges] (the Biomedical Data Analysis Platform) as new sponsors for the Codefest and BOSC 2017. We thank the gorgeous [https://brmlab.cz Brmlab] and its members for providing us their great space, equipment, and help. We also thank the [http://www.uochb.cz/web/structure/31.html Institute of Organic Chemistry and Biochemistry] for lending us additional equipment.
 
 We're looking for sponsors interested in being involved with the open source community. Sponsorship money helps provide food and drink for the Codefest and [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md Open Bioinformatics Foundation Travel Fellowships] for BOSC and Codefest. If interested, please get in touch with [https://github.com/chapmanb Brad] (Codefest) or the [mailto:bosc@open-bio.org BOSC committee] (general).
 
