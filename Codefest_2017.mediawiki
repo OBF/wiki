@@ -101,8 +101,8 @@ This is completely flexible based on progress and needs of attendees. Some resou
 
 * [https://hangouts.google.com/call/5vqcefziwnhi3kcz6u4kxdytkey Google Hangout] for remote participants that will be on when we're working in Prague. 
 * Feel free to ask in the [https://gitter.im/chapmanb/obf-codefest Gitter Chat channel] if you're wondering about the current status at any time.
+* [https://docs.google.com/presentation/d/1f81Aj5-AzKrsRdMk8bvZqSrZ88bQVSMsQA9X4jZe0GE/edit?usp=sharing Summary slides for presentation at BOSC]
 * [https://docs.google.com/document/d/1PHN1qAWq1a2zM91oPYBy0DP2KKq5MbT6mdEQpH_kjbQ/edit?usp=sharing Google document with documentation of on-going Codefest work]
-
 
 == Dinner ==
 
