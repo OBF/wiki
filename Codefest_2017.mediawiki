@@ -99,9 +99,10 @@ We plan to have lunch and coffee available for everyone attending. The rough sch
 
 * Friday July 21st 9am: Meet at Brmlab, provide status updates and organize, coffee (from [http://www.oukydouky.cz Ouky Douky café]), local fruits & pastries (from the [http://holesovickytrh.cz/ farmers' market])
 * Friday July 21st 10-1: Work
-* Friday July 21st 1pm: Provided lunch at Brmlab ([http://www.pizzaletna.cz/en/ Pizza Letná]] + post-lunch presentations on progress
+* Friday July 21st 1pm: Provided lunch at Brmlab ([http://www.pizzaletna.cz/en/ Pizza Letná]) + post-lunch presentations on progress
 * Friday July 21st 2-6: Work
-* Friday July 21st 6pm: Wrap up presentations, pay-your-own-way group dinner, and get ready for [[BOSC 2017]]
+* Friday July 21st 6pm: Wrap up presentations + clean-up of Brmlab, and get ready for [[BOSC 2017]]
+* Friday July 21st 7.30pm: Pay-your-own-way group beer + optional pub food (not vegan) at [http://www.zlycasy.eu/ Zlý Časy]. SEE [https://www.open-bio.org/wiki/Codefest_2017#Beer DIRECTIONS]
 
 This is completely flexible based on progress and needs of attendees. Some resources while the hackathon is ongoing:
 
@@ -112,25 +113,26 @@ This is completely flexible based on progress and needs of attendees. Some resou
 
 == Dinner ==
 
-On the first evening, Thursday July 20th, we're having a group dinner in [http://www.crossclub.cz/en Cross Club] at 7pm. Directions:
+On the first evening, '''Thursday July 20th''', we're having a group dinner in [http://www.crossclub.cz/en Cross Club] at 7pm. Directions:
 
 * Option one: [https://www.google.com/maps/dir/brmlab,+Bubensk%C3%A1+1477%2F1,+170+00+Praha+7-Hole%C5%A1ovice,+Czechia/Cross+Club+Kav%C3%A1rna,+Plyn%C3%A1rn%C3%AD+1096%2F23,+170+00+Praha+7-Hole%C5%A1ovice,+%C4%8Cesko/@50.1032505,14.4306477,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x470b94b80ce899d9:0xcc81f00a71b39b29!2m2!1d14.4359171!2d50.0984431!1m5!1m1!1s0x470b94b5151af143:0x2d943b3cb67afc96!2m2!1d14.4432531!2d50.1081792!3e3?hl=en One stop with the underground] (alternatively a couple of stops with a tram, see [https://www.google.com/maps/dir/brmlab,+Bubensk%C3%A1+1477%2F1,+170+00+Praha+7-Hole%C5%A1ovice,+Czechia/Cross+Club+Kav%C3%A1rna,+Plyn%C3%A1rn%C3%AD+1096%2F23,+170+00+Praha+7-Hole%C5%A1ovice,+%C4%8Cesko/@50.1032505,14.4306477,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x470b94b80ce899d9:0xcc81f00a71b39b29!2m2!1d14.4359171!2d50.0984431!1m5!1m1!1s0x470b94b5151af143:0x2d943b3cb67afc96!2m2!1d14.4432531!2d50.1081792!3e3?hl=en Google Maps])
 
-{|
-| &nbsp;&nbsp;
-| [[File:Crossclubmetro.png|620px|center|Brmlab to Cross Club by transport|link=https://www.google.com/maps/dir/brmlab,+Bubensk%C3%A1+1477%2F1,+170+00+Praha+7-Hole%C5%A1ovice,+Czechia/Cross+Club+Kav%C3%A1rna,+Plyn%C3%A1rn%C3%AD+1096%2F23,+170+00+Praha+7-Hole%C5%A1ovice,+%C4%8Cesko/@50.1032505,14.4306477,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x470b94b80ce899d9:0xcc81f00a71b39b29!2m2!1d14.4359171!2d50.0984431!1m5!1m1!1s0x470b94b5151af143:0x2d943b3cb67afc96!2m2!1d14.4432531!2d50.1081792!3e3?hl=en]]
-| &nbsp;&nbsp;
-|}
-
 * Option two: 20 minutes [https://www.google.com/maps/dir/brmlab,+Bubensk%C3%A1+1477%2F1,+170+00+Praha+7-Hole%C5%A1ovice,+Czechia/Cross+Club+Kav%C3%A1rna,+Plyn%C3%A1rn%C3%AD+1096%2F23,+170+00+Praha+7-Hole%C5%A1ovice,+%C4%8Cesko/@50.1032505,14.4306477,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x470b94b80ce899d9:0xcc81f00a71b39b29!2m2!1d14.4359171!2d50.0984431!1m5!1m1!1s0x470b94b5151af143:0x2d943b3cb67afc96!2m2!1d14.4432531!2d50.1081792!3e2?hl=en walk]
 
+Please try to be there before 7.30pm, otherwise we'll loose our table reservations.
+
+
+== Beer ==
+
+On the second evening, '''Friday July 21st,''' we're having a group beer at [http://zlycasy.eu Zlý Časy] at '''7.30pm'''. They have some traditional pub food, too (no vegan and no gastro but authentic). The vegetarian options are various cheese dishes. The vegan option is eating elsewhere beforehand.
+
+It's a walking distance from the red C line, exactly from the '''stop at the congress center (Vyšehrad)'''. Coming from the ISMB/ECCB keynote|registration|reception is thus very possible! [https://www.google.com/maps/dir/brmlab,+Bubenská,+Holešovice,+Praha-Praha+7,+Česko/Zlý+Časy,+Čestmírova,+Praha,+Česko/@50.0816251,14.4333811,14z/data=!4m16!4m15!1m5!1m1!1s0x470b94b80ce899d9:0xcc81f00a71b39b29!2m2!1d14.4359171!2d50.0984431!1m5!1m1!1s0x470b947e932889db:0xe7fd48b92656f255!2m2!1d14.4420491!2d50.0643445!2m1!5e1!3e3?hl=en Directions:]
+
 {|
 | &nbsp;&nbsp;
-| [[File:Crossclubwalk.png|620px|center|Brmlab to Cross Club by foot|link=https://www.google.com/maps/dir/brmlab,+Bubensk%C3%A1+1477%2F1,+170+00+Praha+7-Hole%C5%A1ovice,+Czechia/Cross+Club+Kav%C3%A1rna,+Plyn%C3%A1rn%C3%AD+1096%2F23,+170+00+Praha+7-Hole%C5%A1ovice,+%C4%8Cesko/@50.1032505,14.4306477,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x470b94b80ce899d9:0xcc81f00a71b39b29!2m2!1d14.4359171!2d50.0984431!1m5!1m1!1s0x470b94b5151af143:0x2d943b3cb67afc96!2m2!1d14.4432531!2d50.1081792!3e2?hl=en]]
+| [[File:Zlycasy.png|467px|center|Brmlab to Zlý Časy (optionally via ISMB)|link=https://www.google.com/maps/dir/brmlab,+Bubensk%C3%A1,+Hole%C5%A1ovice,+Praha-Praha+7,+%C4%8Cesko/Zl%C3%BD+%C4%8Casy,+%C4%8Cestm%C3%ADrova,+Praha,+%C4%8Cesko/@50.0816251,14.4333811,14z/data=!4m16!4m15!1m5!1m1!1s0x470b94b80ce899d9:0xcc81f00a71b39b29!2m2!1d14.4359171!2d50.0984431!1m5!1m1!1s0x470b947e932889db:0xe7fd48b92656f255!2m2!1d14.4420491!2d50.0643445!2m1!5e1!3e3?hl=en]]
 | &nbsp;&nbsp;
 |}
-
-Please try to be there before 7.30pm, otherwise we'll loose our table reservations.
 
 == Sponsors ==
 
