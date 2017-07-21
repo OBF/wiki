@@ -23,12 +23,12 @@ The board can be contacted via email at [mailto:board@open-bio.org board@open-bi
 :; <span class="plainlinks">[https://twitter.com/hlwiencko Heather Wiencko]</span> : Senior bioinformatician, R&D team lead at [https://twitter.com/HLWiencko Plusvital].
 
 === Past Board Members ===
-; [[bp:Ewan Birney|Ewan Birney]] : ''Former OBF President''.  [[bp:BioPerl|BioPerl]] core developer.  Coordinator of the [http://www.ebi.ac.uk EBI] half of the [http://www.ensembl.org Ensembl] genome annotation project.
+; [[bp:Ewan Birney|Ewan Birney]] : ''Former OBF President''.  [[bp:BioPerl|BioPerl]] core developer.  Currently Co-Director of the [http://www.ebi.ac.uk EBI].
 ; Andrew Dalke : ''Former Secretary''. Represented [http://www.biopython.org Biopython] & [http://www.dalkescientific.com Dalke Scientific].
 ; [[bp:Steven Brenner|Steven E. Brenner]] : ''Former At-large member''. [http://compbio.berkeley.edu Professor] at University of California, Berkeley.
 ; [[User:Kdahlquist|Kam Dahlquist]] : ''Former At-large Member''. [http://myweb.lmu.edu/kdahlqui/ Associate Professor] at Loyola Marymount University, Los Angeles.
 ; [[bp:Chris Dagdigian|Chris Dagdigian]] : ''Former Treasurer''. [[bp:BioPerl|BioPerl]] co-founder & OBF sysadmin. Employed by [http://www.bioteam.net the BioTeam].
-; [[bp:Jason Stajich|Jason Stajich]] : ''Former OBF President. [[bp:BioPerl|BioPerl]] core developer. [http://stajichlab.fungalgenomes.org Assistant Professor] at [http://www.ucr.edu/ University of California, Riverside].
+; [[bp:Jason Stajich|Jason Stajich]] : ''Former OBF President. [[bp:BioPerl|BioPerl]] core developer. Currently [http://stajichlab.fungalgenomes.org Professor] at [http://www.ucr.edu/ University of California, Riverside].
 
 == Board of Directors Meetings ==
 
