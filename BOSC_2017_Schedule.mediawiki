@@ -241,7 +241,7 @@ __NOTOC__
 | 15:00
 |- 
 |Developer tools / reproducibility
-|MultiQC: Visualising results from common bioinformatics tools
+|MultiQC: Visualising results from common bioinformatics tools ([https://f1000research.com/slides/6-1177 slides])
 |Phil Ewels
 |14:00
 |14:18
