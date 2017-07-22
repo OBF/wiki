@@ -349,7 +349,7 @@ __NOTOC__
 |15:46
 |-
 |Data Science & Visualization
-|Biopython Project Update 2017
+|Biopython Project Update 2017 ([https://twitter.com/yoyehudi/status/888758604291080192 slides])
 |Sourav Singh
 |15:46
 |15:51
