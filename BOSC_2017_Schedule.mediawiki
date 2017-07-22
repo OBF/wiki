@@ -183,7 +183,7 @@ __NOTOC__
 |11:50
 |-
 |Workflows
-|CWL Viewer: The Common Workflow Language Viewer
+|CWL Viewer: The Common Workflow Language Viewer ([http://slides.com/markrobinson/cwlviewer#/ slides])
 |Stian Soiland-Reyes
 |11:50
 |11:55
