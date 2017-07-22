@@ -150,5 +150,5 @@ We're looking for sponsors interested in being involved with the open source com
 == Organizers ==
 
 * [http://github.com/chapmanb Brad Chapman]
-* [https://twitter.com/matuskalas Matúš Kalaš] (If in trouble at Brmlab, find Matúš or call him at +421905868848)
+* [https://twitter.com/matuskalas Matúš Kalaš]
 * [https://twitter.com/HLWiencko Heather Wiencko]
