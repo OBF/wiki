@@ -325,7 +325,7 @@ __NOTOC__
 |15:28
 |-
 |Data Science & Visualization
-|A Ubiquitous Approach to Reproducible Bioinformatics across Computational Platforms
+|A Ubiquitous Approach to Reproducible Bioinformatics across Computational Platforms ([http://jmchilton.github.io/writing/bosc2017slides/biocontainers.html#1 slides])
 |John Chilton
 |15:28
 |15:33
