@@ -201,7 +201,7 @@ __NOTOC__
 |12:03
 |-
 |Workflows
-|BioThings Explorer: Utilizing JSON-LD for Linking Biological APIs to Facilitate Knowledge Discovery
+|BioThings Explorer: Utilizing JSON-LD for Linking Biological APIs to Facilitate Knowledge Discovery ([https://f1000research.com/slides/6-1176 slides])
 |Jiwen Xin
 |12:03
 |12:08
