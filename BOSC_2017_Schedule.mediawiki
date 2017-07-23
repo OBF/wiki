@@ -502,7 +502,7 @@ __NOTOC__
 |12:05
 |-
 |LBLTs
-|Fighting Superbugs with Open Source Software
+|Fighting Superbugs with Open Source Software ([http://kblin.org/talks/eccb2017/blin_superbugs.pdf slides])
 |Kai Blin
 |12:10
 |12:15
