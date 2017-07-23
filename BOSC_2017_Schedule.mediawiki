@@ -423,7 +423,7 @@ __NOTOC__
 |10:41
 |-
 |Community Building and Citizen Science
-|Journal of Open Source Software (JOSS)
+|Journal of Open Source Software (JOSS) ([http://biogems.info/slides.pdf slides])
 |Pjotr Prins
 |10:41
 |10:59
