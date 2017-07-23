@@ -411,7 +411,7 @@ __NOTOC__
 | 11:30
 |-
 |Community Building and Citizen Science
-|BeerDeCoded: exploring the beer metagenome
+|BeerDeCoded: exploring the beer metagenome ([https://www.slideshare.net/JonathanSobel/beer-decoded-boscpresentation slides])
 |Jonathan Sobel
 |10:05
 |10:23
