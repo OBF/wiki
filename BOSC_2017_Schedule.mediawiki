@@ -213,7 +213,7 @@ __NOTOC__
 |12:13
 |-
 |Workflows
-|YAMP : Yet Another Metagenomic Pipeline
+|YAMP : Yet Another Metagenomic Pipeline ([https://f1000research.com/slides/6-1185 slides])
 |Alessia Visconti
 |12:13
 |12:18
