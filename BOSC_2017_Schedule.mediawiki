@@ -429,7 +429,7 @@ __NOTOC__
 |10:59
 |-
 |Community Building and Citizen Science
-|Building an open, collaborative, online infrastructure for bioinformatics training
+|Building an open, collaborative, online infrastructure for bioinformatics training ([https://bebatut-slides.github.io/bosc_07_17/#/1 slides])
 |Bérénice Batut
 |10:59
 |11:17
