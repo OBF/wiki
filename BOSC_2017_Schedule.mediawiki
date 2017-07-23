@@ -460,7 +460,7 @@ __NOTOC__
 | 12:30
 |-
 |LBLTs
-|Recent object formation in the core of Galaxy
+|Recent object formation in the core of Galaxy ([https://docs.google.com/presentation/d/1Zx8LhPEDNTYFEGUg9bw1OZMPR4BGG_jYv2nWzcmkt1I/edit#slide=id.g233c3a35a0_0_5 slides])
 |Martin Cech
 |11:30
 |11:35
