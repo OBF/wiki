@@ -85,7 +85,7 @@ If you would like to be a sponsor of BOSC, please contact us at bosc@open-bio.or
 * Nomi L. Harris (Lawrence Berkeley National Laboratory)
 
 '''Co-Chair'''
-* Heather Wiencko
+* Heather Wiencko ([https://www.hostedgraphite.com Hosted Graphite], Dublin Ireland)
 
 '''Organizing Committee Members'''
 * Karsten Hokamp (Smurfit Institute of Genetics, Trinity College Dublin, Ireland)
