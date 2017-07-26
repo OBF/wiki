@@ -99,7 +99,7 @@ __NOTOC__
 |10:20
 |-
 |BOSC opening
-|OBF in the Google Summer of Code. Wrapping up 2016 and presenting the 2017 projects
+|OBF in the Google Summer of Code. Wrapping up 2016 and presenting the 2017 projects ([https://f1000research.com/slides/6-1232 slides])
 |Kai Blin
 |10:20
 |10:30
@@ -307,7 +307,7 @@ __NOTOC__
 | 16:00
 |-
 |Data Science & Visualization
-|The backbone of research reproducibility: sustainable and flexible tool deployment
+|The backbone of research reproducibility: sustainable and flexible tool deployment ([https://f1000research.com/slides/6-1203 slides])
 |Björn Grüning
 |15:00
 |15:18
@@ -337,7 +337,7 @@ __NOTOC__
 |15:36
 |-
 |Data Science & Visualization
-|Revitalizing a classic bioinformatics tool using modern technologies: the case of the Cytoscape Project
+|Revitalizing a classic bioinformatics tool using modern technologies: the case of the Cytoscape Project ([https://f1000research.com/slides/6-1172 slides])
 |Keiichiro Ono
 |15:36
 |15:41
@@ -423,7 +423,7 @@ __NOTOC__
 |10:41
 |-
 |Community Building and Citizen Science
-|Journal of Open Source Software (JOSS) ([http://biogems.info/slides.pdf slides])
+|Journal of Open Source Software (JOSS) ([https://f1000research.com/slides/6-1206 slides])
 |Pjotr Prins
 |10:41
 |10:59
@@ -502,7 +502,7 @@ __NOTOC__
 |12:05
 |-
 |LBLTs
-|Fighting Superbugs with Open Source Software ([http://kblin.org/talks/eccb2017/blin_superbugs.pdf slides])
+|Fighting Superbugs with Open Source Software ([https://f1000research.com/slides/6-1233 slides])
 |Kai Blin
 |12:10
 |12:15
