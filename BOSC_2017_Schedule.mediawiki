@@ -105,7 +105,7 @@ __NOTOC__
 |10:30
 |-
 |BOSC opening
-|Codefest 2017 summary
+|Codefest 2017 summary ([https://f1000research.com/slides/6-1187 slides])
 |Brad Chapman
 |10:30
 |10:45
@@ -183,7 +183,7 @@ __NOTOC__
 |11:50
 |-
 |Workflows
-|CWL Viewer: The Common Workflow Language Viewer ([http://slides.com/markrobinson/cwlviewer#/ slides])
+|CWL Viewer: The Common Workflow Language Viewer ([https://f1000research.com/slides/6-1175 slides], [http://slides.com/markrobinson/cwlviewer#/ slides.com])
 |Stian Soiland-Reyes
 |11:50
 |11:55
@@ -207,7 +207,7 @@ __NOTOC__
 |12:08
 |-
 |Workflows
-|Discovery and visualisation of homologous genes and gene families using Galaxy
+|Discovery and visualisation of homologous genes and gene families using Galaxy ([https://f1000research.com/slides/6-1189 slides])
 |Anil S. Thanki
 |12:08
 |12:13
@@ -283,7 +283,7 @@ __NOTOC__
 |14:46
 |-
 |Developer tools / reproducibility
-|Interoperable, collaborative multi-platform variant calling with bcbio
+|Interoperable, collaborative multi-platform variant calling with bcbio [https://f1000research.com/slides/6-1188 slides]
 |Brad Chapman
 |14:46
 |14:51
@@ -542,7 +542,7 @@ __NOTOC__
 |14:36
 |-
 |Open Data
-|Emerging public databases of clinical genetic test results: Implications for large scale deployment of precision medicine
+|Emerging public databases of clinical genetic test results: Implications for large scale deployment of precision medicine ([https://f1000research.com/slides/6-1192 slides])
 |Stephen Lincoln
 |14:36
 |14:41
