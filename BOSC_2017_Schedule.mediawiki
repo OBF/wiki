@@ -429,7 +429,7 @@ __NOTOC__
 |10:59
 |-
 |Community Building and Citizen Science
-|Building an open, collaborative, online infrastructure for bioinformatics training ([https://bebatut-slides.github.io/bosc_07_17/#/1 slides])
+|Building an open, collaborative, online infrastructure for bioinformatics training ([https://bebatut-slides.github.io/bosc_07_17/#/1 slides], [https://f1000research.com/posters/6-1218 poster])
 |Bérénice Batut
 |10:59
 |11:17
@@ -478,7 +478,7 @@ __NOTOC__
 |11:45
 |-
 |LBLTs
-|ToolDog - generating tool descriptors from the ELIXIR tool registry
+|ToolDog - generating tool descriptors from the ELIXIR tool registry ([https://f1000research.com/slides/6-1194 slides], [https://f1000research.com/posters/6-1193 poster])
 |Kenzo-Hugo Hillion
 |11:45
 |11:50
@@ -554,7 +554,7 @@ __NOTOC__
 |14:46
 |-
 |Open Data
-|Bioschemas for life science data
+|Bioschemas for life science data ([https://f1000research.com/slides/6-1227 slides], [https://f1000research.com/posters/6-1226 poster])
 |Carole Goble
 |14:46
 |14:51
