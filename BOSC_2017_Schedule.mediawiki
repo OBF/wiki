@@ -183,7 +183,7 @@ __NOTOC__
 |11:50
 |-
 |Workflows
-|CWL Viewer: The Common Workflow Language Viewer ([https://f1000research.com/slides/6-1175 slides], [http://slides.com/markrobinson/cwlviewer#/ slides.com])
+|CWL Viewer: The Common Workflow Language Viewer ([https://f1000research.com/slides/6-1175 slides], [http://slides.com/markrobinson/cwlviewer#/ slides.com], [https://f1000research.com/posters/6-1075 poster])
 |Stian Soiland-Reyes
 |11:50
 |11:55
@@ -337,7 +337,7 @@ __NOTOC__
 |15:36
 |-
 |Data Science & Visualization
-|Revitalizing a classic bioinformatics tool using modern technologies: the case of the Cytoscape Project ([https://f1000research.com/slides/6-1172 slides])
+|Revitalizing a classic bioinformatics tool using modern technologies: the case of the Cytoscape Project ([https://f1000research.com/slides/6-1172 slides], [https://f1000research.com/posters/6-1171 poster])
 |Keiichiro Ono
 |15:36
 |15:41
