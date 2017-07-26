@@ -16,6 +16,15 @@ We also organize a [[Codefest]], a two-day community development session, usuall
 
 Please spread the word about BOSC--all are welcome. On Twitter, [https://twitter.com/OBF_BOSC follow @OBF_BOSC] and use [https://twitter.com/search?q=%23BOSC2017 hash tag #bosc2017].
 
+== Summaries of BOSC 2016 ==
+
+There were thousands of tweets about BOSC 2017 by participants, and a number of blog posts, including:
+
+* Peter Cock's Storify of BOSC tweets: [https://storify.com/pjacock/bosc-2017-day-one part one], [https://storify.com/pjacock/bosc-2017-day-two part two]
+* Yo Yehudi's blog posts: [https://medium.com/plos-comp-biol-field-reports-2016/bosc-2017-day-1-fbe73f01de2e Day 1], [https://medium.com/plos-comp-biol-field-reports-2016/bosc-2017-day-2-part-1-bosc2017-ismbeccb-9d4d8fda000c Day 2 (Part 1)], [https://medium.com/plos-comp-biol-field-reports-2016/bosc-2017-day-2-part-2-bosc2017-ismbeccb-af4bf4a63a84 Day 2 (Part 2)]
+* Brad Chapman's excellent summaries: [https://github.com/chapmanb/bcbb/blob/master/posts/conferences/bosc2017_day1a.md Day 1 (morning)], [https://github.com/chapmanb/bcbb/blob/master/posts/conferences/bosc2017_day1b.md Day 1 (afternoon)], [https://github.com/chapmanb/bcbb/blob/master/posts/conferences/bosc2017_day2a.md Day 2 (morning)]
+* Robin Andeer's [http://www.robinandeer.com/blog/2017/07/24/Codefest-and-BOSC-2017/ Codefest and BOSC 2017 blog post]
+
 == Important Dates ==
 
 * April 13, 2017: Deadline for [[BOSC_Abstract_Submission|submitting abstracts]] for full talks
