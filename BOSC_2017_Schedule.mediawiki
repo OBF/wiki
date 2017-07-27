@@ -417,7 +417,7 @@ __NOTOC__
 |10:23
 |-
 |Community Building and Citizen Science
-|Supporting curation communities & collecting technical dividends
+|Supporting curation communities & collecting technical dividends ([https://f1000research.com/slides/6-1240 slides])
 |Monica Munoz-Torres
 |10:23
 |10:41
