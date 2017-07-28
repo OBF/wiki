@@ -365,7 +365,7 @@ __NOTOC__
 | 16:30
 |- style="background:#EFFBFB"
 |Keynote
-| Open Sourcing Ourselves
+| Open Sourcing Ourselves ([https://f1000research.com/slides/6-1255 slides])
 | [[BOSC_2017_Keynote_Speakers| Madeleine Ball]] 
 |16:30
 |17:30
