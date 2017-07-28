@@ -23,7 +23,8 @@ There were thousands of tweets about BOSC 2017 by participants, and a number of 
 * Peter Cock's Storify of BOSC tweets: [https://storify.com/pjacock/bosc-2017-day-one part one], [https://storify.com/pjacock/bosc-2017-day-two part two]
 * Yo Yehudi's blog posts: [https://medium.com/plos-comp-biol-field-reports-2016/bosc-2017-day-1-fbe73f01de2e Day 1], [https://medium.com/plos-comp-biol-field-reports-2016/bosc-2017-day-2-part-1-bosc2017-ismbeccb-9d4d8fda000c Day 2 (Part 1)], [https://medium.com/plos-comp-biol-field-reports-2016/bosc-2017-day-2-part-2-bosc2017-ismbeccb-af4bf4a63a84 Day 2 (Part 2)]
 * Brad Chapman's excellent summaries: [https://github.com/chapmanb/bcbb/blob/master/posts/conferences/bosc2017_day1a.md Day 1 (morning)], [https://github.com/chapmanb/bcbb/blob/master/posts/conferences/bosc2017_day1b.md Day 1 (afternoon)], [https://github.com/chapmanb/bcbb/blob/master/posts/conferences/bosc2017_day2a.md Day 2 (morning)]
-* Robin Andeer's [http://www.robinandeer.com/blog/2017/07/24/Codefest-and-BOSC-2017/ Codefest and BOSC 2017 blog post]
+* [http://www.robinandeer.com/blog/2017/07/24/Codefest-and-BOSC-2017/ Robin Andeer's Codefest and BOSC 2017 blog post]
+* [https://jonathansobel1.wordpress.com/2017/07/27/bosc-session-of-the-eccbismb-2017/ Jonathan Sobel's blog post] (received an [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md OBF Travel Fellowship])
 
 == Important Dates ==
 
