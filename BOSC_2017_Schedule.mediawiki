@@ -89,25 +89,25 @@ This page has links to all the publicly available talk slides, videos and poster
 ! style="width: 5em" |'''End Time'''
 |-
 |BOSC opening
-|Introduction and welcome
+|Introduction and welcome ([https://youtu.be/tV6hAWreTSY video])
 |Nomi Harris (Chair, BOSC 2017)
 |10:00
 |10:10
 |-
 |BOSC opening
-|The Open Bioinformatics Foundation
+|The Open Bioinformatics Foundation ([https://youtu.be/DeDRLIpuWJg video])
 |Hilmar Lapp
 |10:10
 |10:20
 |-
 |BOSC opening
-|OBF in the Google Summer of Code. Wrapping up 2016 and presenting the 2017 projects ([https://f1000research.com/slides/6-1232 slides])
+|OBF in the Google Summer of Code. Wrapping up 2016 and presenting the 2017 projects ([https://f1000research.com/slides/6-1232 slides], [https://youtu.be/CKlF0eSbRjQ video])
 |Kai Blin
 |10:20
 |10:30
 |-
 |BOSC opening
-|Codefest 2017 summary ([https://f1000research.com/slides/6-1187 slides])
+|Codefest 2017 summary ([https://f1000research.com/slides/6-1187 slides], [https://youtu.be/CoSQwExrF8M video])
 |Brad Chapman
 |10:30
 |10:45
