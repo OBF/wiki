@@ -536,7 +536,7 @@ __NOTOC__
 |14:18
 |-
 |Open Data
-|Using Wikidata as an open, community-maintained database of biomedical knowledge
+|Using Wikidata as an open, community-maintained database of biomedical knowledge ([https://www.slideshare.net/andrewsu/bosc2017-using-wikidata-as-an-open-communitymaintained-database-of-biomedical-knowledge slides])
 |Andrew Su
 |14:18
 |14:36
