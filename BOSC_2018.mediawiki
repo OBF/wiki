@@ -8,9 +8,9 @@ co-hosted with the Galaxy Community Conference. More details will be
 forthcoming after [http://www.open-bio.org/wiki/BOSC_2017 BOSC 2017].
 
 BOSC has been a part of ISMB since its inception, and we greatly value our
-relationships with the ISCB management and the ISMB community. We are very much
-looking forward to [http://www.open-bio.org/wiki/BOSC_2017 BOSC 2017] at
-[https://www.iscb.org/ismbeccb2017 ISMB/ECCB], which is shaping up to be an
+relationships with the ISCB management and the ISMB community.
+[http://www.open-bio.org/wiki/BOSC_2017 BOSC 2017] as part of
+[https://www.iscb.org/ismbeccb2017 ISMB/ECCB 2017] in Prague, was an
 exciting and successful meeting.
 
 Because of our continuing focus on
@@ -22,7 +22,7 @@ have been successful at establishing a strong and growing community of
 participants. One such conference is the [https://gcc2017.sciencesconf.org/ Galaxy Community Conference (GCC)].
 
 After much discussion and planning, we'll be helping organize a
-[https://gccbosc2018.sched.com/ a bioinformatics community conference] in 2018
+[https://gccbosc2018.sched.com/ bioinformatics community conference] in 2018
 that includes both GCC and BOSC. We hope this will help serve the open
 bioinformatics community in a few ways:
 
