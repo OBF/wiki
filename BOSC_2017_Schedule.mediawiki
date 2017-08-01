@@ -7,6 +7,8 @@ __NOTOC__
 
 == Complete Program  ==
 
+This page has links to all the publicly available talk slides, videos and posters. Most of the slides and posters are on our [http://f1000research.com/collections/BOSC BOSC F1000 Research Collection] (others are on SlideShare and FigShare), while the videos are on the [https://www.youtube.com/watch?v=tV6hAWreTSY&list=PLir-OOQiOhXZX_2zmUJz0fx8RLALi3tkK BOSC 2017 YouTube playlist].
+
 * [https://www.open-bio.org/w/images/4/42/BOSC2017-complete-program-compressed.pdf Download the complete program (including all talk and poster abstracts) as a PDF]
 
 * [https://www.iscb.org/cms_addon/conferences/ismbeccb2017/bosc.php ISMB/ECCB schedule for BOSC, including brief descriptions of each talk topic]
