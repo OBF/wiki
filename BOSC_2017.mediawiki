@@ -26,7 +26,7 @@ There were lots of [https://twitter.com/search?f=tweets&vertical=default&q=%23BO
 * Recap by Jonathan Sobel (of [http://www.genome.beer/ BeerDeCoded] fame): [https://jonathansobel1.wordpress.com/2017/07/27/bosc-session-of-the-eccbismb-2017/ Jonathan's report]. (Jonathan received an [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md OBF Travel Fellowship])
 * Robin Andeer's [http://www.robinandeer.com/blog/2017/07/24/Codefest-and-BOSC-2017/ Codefest and BOSC 2017 blog post]
 * Bérénice Batut's [https://www.flickr.com/photos/134305289@N03/35287392054/in/album-72157684042963763/ photos]
-* Neil Saunders' [https://github.com/neilfws/Twitter/tree/master/bosc2017 BOSC2017 Twitter analysis] and [https://github.com/neilfws/Twitter/tree/master/ismbeccb2017 ISMB/ECCB 2017 Twitter analysis]
+* Neil Saunders' [https://nsaunders.wordpress.com/2017/07/25/twitter-coverage-of-the-bioinformatics-open-source-conference-2017/ BOSC2017 Twitter analysis] and [https://nsaunders.wordpress.com/2017/08/02/twitter-coverage-of-the-ismbeccb-conference-2017/ ISMB/ECCB 2017 Twitter analysis]
 
 == Important Dates ==
 
