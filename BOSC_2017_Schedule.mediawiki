@@ -315,7 +315,7 @@ This page has links to all the publicly available talk slides, videos and poster
 |15:18
 |-
 |Data Science & Visualization
-|Reproducible bioinformatics software with GNU Guix ([ video])
+|Reproducible bioinformatics software with GNU Guix
 |Pjotr Prins
 |15:18
 |15:23
