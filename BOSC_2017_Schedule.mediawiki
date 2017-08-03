@@ -119,19 +119,19 @@ This page has links to all the publicly available talk slides, videos and poster
 | 12:20
 |-
 |Workflows
-|Rabix Executor: an open-source executor supporting recomputability and interoperability of workflow descriptions
+|Rabix Executor: an open-source executor supporting recomputability and interoperability of workflow descriptions ([https://youtu.be/iTgZZnT0D6A video])
 |Janko Simonovic
 |10:45
 |10:56
 |-
 |Workflows
-|Rabix Composer: an open-source integrated development environment for the Common Workflow Language
+|Rabix Composer: an open-source integrated development environment for the Common Workflow Language ([https://youtu.be/xXaKZl1334M video])
 |Ivan Batic
 |10:56
 |11:05
 |-
 |Workflows
-|CWL-svg: an open-source workflow visualization library for the Common Workflow Language
+|CWL-svg: an open-source workflow visualization library for the Common Workflow Language ([https://youtu.be/wAkagL8PWc0 video])
 |Maja Nedeljkovic
 |11:05
 |11:07
@@ -149,25 +149,25 @@ This page has links to all the publicly available talk slides, videos and poster
 |11:15
 |-
 |Workflows
-|The GA4GH Tool Registry Service (TRS) and Dockstore - Year One
+|The GA4GH Tool Registry Service (TRS) and Dockstore - Year One ([https://youtu.be/SuwONuO8LoA video])
 |Denis Yuen
 |11:15
 |11:22
 |-
 |Workflows
-|The GA4GH Task Execution System (TES) and Funnel Server
+|The GA4GH Task Execution System (TES) and Funnel Server ([https://youtu.be/tTCyhxyFZfo video])
 |Brian O'Connor
 |11:22
 |11:28
 |-
 |Workflows
-|The GA4GH Workflow Execution Schema (WES)
+|The GA4GH Workflow Execution Schema (WES) ([https://youtu.be/VFpNBcA_y5g video])
 |Peter Amstutz
 |11:28
 |11:34
 |-
 |Workflows
-|The GA4GH/DREAM Infrastructure Challenges
+|The GA4GH/DREAM Infrastructure Challenges ([https://youtu.be/CFc7bG0vzpU video])
 |Brian D. O'Connor
 |11:34
 |11:41
@@ -179,19 +179,19 @@ This page has links to all the publicly available talk slides, videos and poster
 |11:45
 |-
 |Workflows
-|Workflows interoperability with Nextflow and Common WL
+|Workflows interoperability with Nextflow and Common WL ([https://youtu.be/RlsLzMXmIfk video])
 |Kevin Sayers
 |11:45
 |11:50
 |-
 |Workflows
-|CWL Viewer: The Common Workflow Language Viewer ([https://f1000research.com/slides/6-1175 slides], [http://slides.com/markrobinson/cwlviewer#/ slides.com], [https://f1000research.com/posters/6-1075 poster])
+|CWL Viewer: The Common Workflow Language Viewer ([https://f1000research.com/slides/6-1175 slides], [http://slides.com/markrobinson/cwlviewer#/ slides.com], [https://f1000research.com/posters/6-1075 poster], [https://youtu.be/iB_0l-Bm4nA video])
 |Stian Soiland-Reyes
 |11:50
 |11:55
 |-
 |Workflows
-|Screw: tools for building reproducible single-cell epigenomics workflows
+|Screw: tools for building reproducible single-cell epigenomics workflows ([https://youtu.be/L9ljkoOGGL4 video])
 |Kieran O'Neill
 |11:55
 |12:00
@@ -203,7 +203,7 @@ This page has links to all the publicly available talk slides, videos and poster
 |12:03
 |-
 |Workflows
-|BioThings Explorer: Utilizing JSON-LD for Linking Biological APIs to Facilitate Knowledge Discovery ([https://f1000research.com/slides/6-1176 slides])
+|BioThings Explorer: Utilizing JSON-LD for Linking Biological APIs to Facilitate Knowledge Discovery ([https://f1000research.com/slides/6-1176 slides], [https://youtu.be/u7r_EI5dIRI video])
 |Jiwen Xin
 |12:03
 |12:08
@@ -215,7 +215,7 @@ This page has links to all the publicly available talk slides, videos and poster
 |12:13
 |-
 |Workflows
-|YAMP : Yet Another Metagenomic Pipeline ([https://f1000research.com/slides/6-1185 slides])
+|YAMP : Yet Another Metagenomic Pipeline ([https://f1000research.com/slides/6-1185 slides], [https://youtu.be/boQA4RrHeUk video])
 |Alessia Visconti
 |12:13
 |12:18
@@ -243,25 +243,25 @@ This page has links to all the publicly available talk slides, videos and poster
 | 15:00
 |- 
 |Developer tools / reproducibility
-|MultiQC: Visualising results from common bioinformatics tools ([https://f1000research.com/slides/6-1177 slides])
+|MultiQC: Visualising results from common bioinformatics tools ([https://f1000research.com/slides/6-1177 slides], [https://youtu.be/JNklyA8KfpE video])
 |Phil Ewels
 |14:00
 |14:18
 |-
 |Developer tools / reproducibility
-|NGL – a molecular graphics library for the web
+|NGL – a molecular graphics library for the web ([https://youtu.be/e-QQd7uyMNQ video])
 |Alexander S Rose
 |14:18
 |14:23
 |-
 |Developer tools / reproducibility
-|GRAPHSPACE: Stimulating interdisciplinary collaborations in network biology
+|GRAPHSPACE: Stimulating interdisciplinary collaborations in network biology ([https://youtu.be/knaG9MLn6NA video])
 |Aditya Bharadwaj
 |14:23
 |14:28
 |-
 |Developer tools / reproducibility
-|Efficient detection of well-hopping duplicate reads on Illumina patterned flowcells
+|Efficient detection of well-hopping duplicate reads on Illumina patterned flowcells ([https://youtu.be/JKrzRM2viZ8 video])
 |Timothy Booth
 |14:28
 |14:33
@@ -273,7 +273,7 @@ This page has links to all the publicly available talk slides, videos and poster
 |14:36
 |-
 |Developer tools / reproducibility
-|An ensemble approach for gene set testing analysis with reporting capabilities
+|An ensemble approach for gene set testing analysis with reporting capabilities ([https://youtu.be/tCwKSAlyY3k video])
 |Monther Alhamdoosh
 |14:36
 |14:41
@@ -285,13 +285,13 @@ This page has links to all the publicly available talk slides, videos and poster
 |14:46
 |-
 |Developer tools / reproducibility
-|Interoperable, collaborative multi-platform variant calling with bcbio [https://f1000research.com/slides/6-1188 slides]
+|Interoperable, collaborative multi-platform variant calling with bcbio ([https://f1000research.com/slides/6-1188 slides], [https://youtu.be/S7bu17GQHqk video])
 |Brad Chapman
 |14:46
 |14:51
 |-
 |Developer tools / reproducibility
-|Gene Set Variation Analysis in cBioPortal
+|Gene Set Variation Analysis in cBioPortal ([https://youtu.be/uC6yCx8Ebig video])
 |Kees van Bochove
 |14:51
 |14:56
@@ -315,13 +315,13 @@ This page has links to all the publicly available talk slides, videos and poster
 |15:18
 |-
 |Data Science & Visualization
-|Reproducible bioinformatics software with GNU Guix
+|Reproducible bioinformatics software with GNU Guix ([ video])
 |Pjotr Prins
 |15:18
 |15:23
 |-
 |Data Science & Visualization
-|Reproducible and user-controlled software management in HPC with GNU Guix
+|Reproducible and user-controlled software management in HPC with GNU Guix ([https://youtu.be/cH6wCL6GeOQ video])
 |Ricardo Wurmus
 |15:23
 |15:28
@@ -339,20 +339,20 @@ This page has links to all the publicly available talk slides, videos and poster
 |15:36
 |-
 |Data Science & Visualization
-|Revitalizing a classic bioinformatics tool using modern technologies: the case of the Cytoscape Project ([https://f1000research.com/slides/6-1172 slides], [https://f1000research.com/posters/6-1171 poster])
+|Revitalizing a classic bioinformatics tool using modern technologies: the case of the Cytoscape Project ([https://f1000research.com/slides/6-1172 slides], [https://f1000research.com/posters/6-1171 poster], [https://youtu.be/kYesuPFL6pQ video])
 |Keiichiro Ono
 |15:36
 |15:41
 |-
 |Data Science & Visualization
-|The SPOT ontology toolkit : semantics as a service
+|The SPOT ontology toolkit : semantics as a service ([https://youtu.be/Yf3z1TFqxDc video])
 |Olga Vrousgou
 |15:41
 |15:46
 |-
 |Data Science & Visualization
-|Biopython Project Update 2017 ([https://github.com/cbrueffer/talks/blob/master/2017_BOSC/presentation/presentation.pdf slides])
-|Sourav Singh
+|Biopython Project Update 2017 ([https://github.com/cbrueffer/talks/blob/master/2017_BOSC/presentation/presentation.pdf slides], [https://youtu.be/tYD9P0aE8tA video])
+|Christian Brueffer
 |15:46
 |15:51
 |-
@@ -413,19 +413,19 @@ This page has links to all the publicly available talk slides, videos and poster
 | 11:30
 |-
 |Community Building and Citizen Science
-|BeerDeCoded: exploring the beer metagenome ([https://www.slideshare.net/JonathanSobel/beer-decoded-boscpresentation slides])
+|BeerDeCoded: exploring the beer metagenome ([https://www.slideshare.net/JonathanSobel/beer-decoded-boscpresentation slides], [https://youtu.be/aiIiFaocaxM video])
 |Jonathan Sobel
 |10:05
 |10:23
 |-
 |Community Building and Citizen Science
-|Supporting curation communities & collecting technical dividends ([https://f1000research.com/slides/6-1240 slides])
+|Supporting curation communities & collecting technical dividends ([https://f1000research.com/slides/6-1240 slides], [https://youtu.be/SqUF5t1nGko video])
 |Monica Munoz-Torres
 |10:23
 |10:41
 |-
 |Community Building and Citizen Science
-|Journal of Open Source Software (JOSS) ([https://f1000research.com/slides/6-1206 slides])
+|Journal of Open Source Software (JOSS) ([https://f1000research.com/slides/6-1206 slides], [https://youtu.be/orG9P0JtlSA video])
 |Pjotr Prins
 |10:41
 |10:59
@@ -437,14 +437,14 @@ This page has links to all the publicly available talk slides, videos and poster
 |11:17
 |-
 |Community Building and Citizen Science
-|Software and social strategies for community sourced biological networks and ontologies
+|Software and social strategies for community sourced biological networks and ontologies ([https://youtu.be/Qsi09ZBIMwQ video])
 |Dexter Pratt
 |11:17
 |11:22
 
 |-
 |Community Building and Citizen Science
-|Distance-based, online bioinformatics training in Africa: the H3ABioNet experience
+|Distance-based, online bioinformatics training in Africa: the H3ABioNet experience ([https://youtu.be/1PTG-FJ288g video])
 |Nicola Mulder
 |11:22
 |11:27
@@ -468,25 +468,25 @@ This page has links to all the publicly available talk slides, videos and poster
 |11:35
 |-
 |LBLTs
-|Reproducibility of computational workflows is automated using continuous analysis
+|Reproducibility of computational workflows is automated using continuous analysis ([https://youtu.be/Cd3RfcWY8lU video])
 |Brett Beaulieu-Jones
 |11:35
 |11:40
 |-
 |LBLTs
-|Full-stack genomics pipelining with GATK4 + WDL + Cromwell
+|Full-stack genomics pipelining with GATK4 + WDL + Cromwell ([https://youtu.be/ng7LjJanVd8 video])
 |Kate Voss
 |11:40
 |11:45
 |-
 |LBLTs
-|ToolDog - generating tool descriptors from the ELIXIR tool registry ([https://f1000research.com/slides/6-1194 slides], [https://youtu.be/_CXeyTsBfWg video], [https://f1000research.com/posters/6-1193 poster])
+|ToolDog - generating tool descriptors from the ELIXIR tool registry ([https://f1000research.com/slides/6-1194 slides], [https://youtu.be/_CXeyTsBfWg video], [https://f1000research.com/posters/6-1193 poster], [https://youtu.be/_CXeyTsBfWg video])
 |Kenzo-Hugo Hillion
 |11:45
 |11:50
 |-
 |LBLTs
-|BioThings SDK: a toolkit for building high-performance data APIs in biology
+|BioThings SDK: a toolkit for building high-performance data APIs in biology ([https://youtu.be/R1-qKZvXk-I video])
 |Chunlei Wu
 |11:50
 |11:55
@@ -498,13 +498,13 @@ This page has links to all the publicly available talk slides, videos and poster
 |12:00
 |-
 |LBLTs
-|Integrating cloud storage providers for genomic analyses
+|Integrating cloud storage providers for genomic analyses ([https://youtu.be/2gKYkxqk5AU video])
 |Ted Liefeld
 |12:00
 |12:05
 |-
 |LBLTs
-|Fighting Superbugs with Open Source Software ([https://f1000research.com/slides/6-1233 slides])
+|Fighting Superbugs with Open Source Software ([https://f1000research.com/slides/6-1233 slides], [https://youtu.be/ZWUnCJ3Qlsc video])
 |Kai Blin
 |12:10
 |12:15
@@ -532,37 +532,37 @@ This page has links to all the publicly available talk slides, videos and poster
 | 15:00
 |-
 |Open Data
-|RADAR-CNS - Research Infrastructure for processing wearable data to improve health
+|RADAR-CNS - Research Infrastructure for processing wearable data to improve health ([https://youtu.be/XeMdYeJfVUE video])
 |Nivethika Mahasivam
 |14:00
 |14:18
 |-
 |Open Data
-|Using Wikidata as an open, community-maintained database of biomedical knowledge ([https://www.slideshare.net/andrewsu/bosc2017-using-wikidata-as-an-open-communitymaintained-database-of-biomedical-knowledge slides])
+|Using Wikidata as an open, community-maintained database of biomedical knowledge ([https://www.slideshare.net/andrewsu/bosc2017-using-wikidata-as-an-open-communitymaintained-database-of-biomedical-knowledge slides], [https://youtu.be/Q16Df78iFZc video])
 |Andrew Su
 |14:18
 |14:36
 |-
 |Open Data
-|Emerging public databases of clinical genetic test results: Implications for large scale deployment of precision medicine ([https://f1000research.com/slides/6-1192 slides])
+|Emerging public databases of clinical genetic test results: Implications for large scale deployment of precision medicine ([https://f1000research.com/slides/6-1192 slides], [https://youtu.be/V1U874_DztM video])
 |Stephen Lincoln
 |14:36
 |14:41
 |-
 |Open Data
-|Discovering datasets with DATS in DataMed
+|Discovering datasets with DATS in DataMed ([https://youtu.be/ui_V-5dZEA0 video])
 |Philippe Rocca-Serra
 |14:41
 |14:46
 |-
 |Open Data
-|Bioschemas for life science data ([https://f1000research.com/slides/6-1227 slides], [https://f1000research.com/posters/6-1226 poster])
+|Bioschemas for life science data ([https://f1000research.com/slides/6-1227 slides], [https://f1000research.com/posters/6-1226 poster], [https://youtu.be/ag_wLjYQsfw video])
 |Carole Goble
 |14:46
 |14:51
 |-
 |Open Data
-|Introducing the Brassica Information Portal: Towards integrating genotypic and phenotypic Brassica crop data
+|Introducing the Brassica Information Portal: Towards integrating genotypic and phenotypic Brassica crop data ([https://youtu.be/vexoknJ8LMs video])
 |Annemarie Eckes
 |14:51
 |14:56
@@ -586,7 +586,7 @@ This page has links to all the publicly available talk slides, videos and poster
 | 16:30
 |- style="background:#CCFFCC"
 |Keynote
-| Open data meets ubiquitous sequencing: challenges and opportunities ([https://f1000research.com/slides/6-1266 slides])
+| Open data meets ubiquitous sequencing: challenges and opportunities ([https://f1000research.com/slides/6-1266 slides],  [https://youtu.be/6QmITGqDvjQ video]))
 || [[BOSC_2017_Keynote_Speakers| Nick Loman]] 
 |16:30
 |17:30
