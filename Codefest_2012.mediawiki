@@ -22,7 +22,7 @@ and discuss:
 
 == Location and Time ==
 
-We are being hosted by the [http://cse.lmu.edu/departments/math.htm math department at LMU].
+We are being hosted by the [http://cse.lmu.edu/department/math/ math department at LMU].
 
 * The Math Department at LMU is in University Hall Suite 2700.  We will have several rooms and a lounge area to spread out and work in.
 * Kam will be there at 9:00 AM on Wednesday to make sure the rooms are open and to greet people.
