@@ -367,7 +367,7 @@ This page has links to all the publicly available talk slides, videos and poster
 | 16:30
 |- style="background:#EFFBFB"
 |Keynote
-| Open Sourcing Ourselves ([https://f1000research.com/slides/6-1255 slides], [https://www.youtube.com/watch?v=PXBxZCfvMXI video])
+| Open Sourcing Ourselves ([https://f1000research.com/slides/6-1255 slides], [https://youtu.be/PXBxZCfvMXI video])
 | [[BOSC_2017_Keynote_Speakers| Madeleine Ball]] 
 |16:30
 |17:30
