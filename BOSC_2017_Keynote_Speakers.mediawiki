@@ -14,7 +14,7 @@ title: BOSC 2017 Keynote Speakers
 
 Dr. Ball is also supported by a [https://shuttleworthfoundation.org/about/ Shuttleworth Foundation Fellowship], supporting her continued vision for new approaches to openness in human health research and data sharing. Previously, Dr. Ball was Director of Research at the [http://www.personalgenomes.org/harvard/ Harvard Personal Genome Project].
 
-Dr. Ball's keynote talk topic is "''Open Sourcing Ourselves''" ([https://f1000research.com/slides/6-1255 slides], [https://youtu.be/CegpG10VPvM video]).
+Dr. Ball's keynote talk topic is "''Open Sourcing Ourselves''" ([https://f1000research.com/slides/6-1255 slides], [https://youtu.be/PXBxZCfvMXI video]).
 
 Dr. Ball will also be one of the panelists for our panel on [[BOSC_2017_Panel| Open Data--Standards, Opportunities and Challenges]].
 
