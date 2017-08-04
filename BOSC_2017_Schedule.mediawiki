@@ -107,7 +107,7 @@ This page has links to all the publicly available talk slides, videos and poster
 |10:30
 |-
 |BOSC opening
-|Codefest 2017 summary ([https://f1000research.com/slides/6-1187 slides], [https://youtu.be/CoSQwExrF8M video])
+|[[Codefest 2017]] summary ([https://f1000research.com/slides/6-1187 slides], [https://youtu.be/CoSQwExrF8M video])
 |Brad Chapman
 |10:30
 |10:45
