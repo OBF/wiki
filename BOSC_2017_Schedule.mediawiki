@@ -131,13 +131,13 @@ This page has links to all the publicly available talk slides, videos and poster
 |11:05
 |-
 |Workflows
-|CWL-svg: an open-source workflow visualization library for the Common Workflow Language ([https://youtu.be/wAkagL8PWc0 video])
+|CWL-svg: an open-source workflow visualization library for the Common Workflow Language ([https://youtu.be/wAkagL8PWc0 video with next talk])
 |Maja Nedeljkovic
 |11:05
 |11:07
 |-
 |Workflows
-|CWL-ts: an open-source TypeScript library for building developer tools for the Common Workflow Language
+|CWL-ts: an open-source TypeScript library for building developer tools for the Common Workflow Language ([https://youtu.be/wAkagL8PWc0 video with previous talk])
 |Maja Nedeljkovic
 |11:07
 |11:11
