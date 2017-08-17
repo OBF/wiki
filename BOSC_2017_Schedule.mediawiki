@@ -474,7 +474,7 @@ This page has links to all the publicly available talk slides, videos and poster
 |11:40
 |-
 |LBLTs
-|Full-stack genomics pipelining with GATK4 + WDL + Cromwell ([https://youtu.be/ng7LjJanVd8 video])
+|Full-stack genomics pipelining with GATK4 + WDL + Cromwell ([https://f1000research.com/slides/6-1381 slides], [https://youtu.be/ng7LjJanVd8 video])
 |Kate Voss
 |11:40
 |11:45
