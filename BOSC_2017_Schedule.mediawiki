@@ -273,7 +273,7 @@ This page has links to all the publicly available talk slides, videos and poster
 |14:36
 |-
 |Developer tools / reproducibility
-|An ensemble approach for gene set testing analysis with reporting capabilities ([https://youtu.be/tCwKSAlyY3k video])
+|An ensemble approach for gene set testing analysis with reporting capabilities ([https://f1000research.com/slides/6-1320 slides], [https://youtu.be/tCwKSAlyY3k video])
 |Monther Alhamdoosh
 |14:36
 |14:41
