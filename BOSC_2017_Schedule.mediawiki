@@ -620,6 +620,226 @@ This page has links to all the publicly available talk slides, videos and poster
 
 * [https://www.open-bio.org/w/images/8/82/BOSC2017-PosterOverview.pdf PDF poster list]
 
+{|  border="1" cellspacing="0" cellpadding="7"
+|- style="background:#D0F781"
+! Poster
+! Title
+! Authors
+|-
+| A-107
+| GeoDiver: Differential Gene Expression Analysis & Gene-Set Analysis for GEO Datasets
+| Ismail Moghul, Suresh Hewapathirana, Nazrath Nawaz, Anisatu Rashid, Marian Priebe, Bruno Vieira, Fabrizio Smeraldi and Conrad Bessant
+|-
+| A-108
+| DAMON, an open source framework for reliable and reproducible analysis pipelines ([https://f1000research.com/posters/6-1387 poster])
+| Alberto Riva, Richard L Bennett and Jonathan D Licht
+|-
+| A-109
+| Workflow for processing standard bioinformatics formats with SciClone to infer tumor heterogeneity
+| Uros Sipetic
+|-
+| A-110
+| Microsatellite instability profiling of TCGA colorectal adenocarcinomas using a Common Workflow Language pipeline
+| Nikola Tesic and Marko Kalinic
+|-
+| A-111
+| GeneValidator: identify problems with protein-coding gene predictions
+| Monica-Andreea Dr_gan, Ismail Moghul, Anurag Priyam, Claudio Bustos and Yannick Wurm
+|-
+| A-112
+| Somatic Variant Calling Benchmarking
+| Sanja Mijalkovic, Milan Domazet
+|-
+| A-114
+| Aztec: Automated Biomedical Tool Index with Improved Information Retrieval System ([https://f1000research.com/posters/6-1450 poster])
+| Wei Wang, Yichao Zhou, Patrick Tan, Vincent Kyi, Xinxin Huang, Chelsea Ju, Justin Wood and Peipei Ping
+|-
+| A-115
+| Building a local bioinformatics community: challenges and efforts
+| Malvika Sharan, Toby Hodges, Julia Ritzerfeld and Georg Zeller
+|-
+| A-116
+| CHARME - harmonising standardisation strategies to increase efficiency and competitiveness of European life-science research ([https://f1000research.com/posters/6-1449 poster])
+| Aleksandra Gruca
+|-
+| A-117
+| High Content Screening data storage and analysis platform - An open source solution
+| Vincenzo Belcastro, Stephane Cano, Diego Marescotti, Carine Poussin, Ignacio Gonzales-Suarez, Florian Martin, Filipe Bonjour, Nikolai Ivanov, Julia Hoeng
+|-
+| A-118
+| Expression Atlas: exploring gene expression results across species under different biological conditions
+| Laura Huerta, Elisabet Barrera, Wojciech Bazant, Nuno A. Fonseca, Anja Fullgrabe, Maria Keays, Suhaib Mohammed, Alfonso Munoz-Pomer Fuentes, Amy Tang, Irene Papatheodorou, Robert Petryszak, Ugis Sarkans and Alvis Brazma
+|-
+| A-119
+| Microservices in data, code, and project management.
+| Jorge Miguel Martins Boucas
+|-
+| A-120
+| Gene Set Variation Analysis in cBioPortal
+| Pieter Lukasse, Fedde Schaeffer, Oleguer Plantalech Casals, Sander Tan and Sjoerd van Hagen
+|-
+| A-121
+| Databases to support reanalysis of public high-throughput DNA sequencing data ([https://f1000research.com/posters/6-1312 poster])
+| Tazro Ohta
+|-
+| A-122
+| BioThings SDK: a toolkit for building high-performance data APIs in biology ([https://f1000research.com/posters/6-1348 poster])
+| Chunlei Wu, Cyrus Afrasiabi, Sebastien Lelong, Jiwen Xin, Ginger Tsueng and Andrew I. Su
+|-
+| A-123
+| Reproducing computational experiments in situ as an interactive figure in a journal article
+| Evanthia Kaimaklioti, Robert P Davey and Ian Mulvany
+|-
+| A-124
+| CWL Viewer: The Common Workflow Language Viewer ([https://f1000research.com/posters/6-1075 poster])
+| Mark Robinson, Stian Soiland-Reyes, Michael Crusoe and Carole Goble
+|-
+| A-125
+| Sequanix: a standalone application to expose Snakemake pipelines to end-users ([https://f1000research.com/posters/6-1174 poster])
+| Thomas Cokelaer, Dimitri Desvillechabrol, Rachel Legendre and M&eacute;lissa Cardon
+|-
+| A-126
+| NGI-RNAseq - a best practice analysis pipeline in Nextflow
+| Rickard Hammar&eacute;n, Philip Ewels and Max K&auml;ller
+|-
+| A-127
+| PhyloProfile: an interactive and dynamic visualization tool for multi-layered phylogenetic profiles
+| Ngoc-Vinh Tran, Bastian Greshake and Ingo Ebersberger
+|-
+| A-128
+| CueSea: quality control tool for Illumina genotyping microarray data, with correction on intensity, clusterization and biological specificity.
+| Nikita Moshkov, Daria Iakovishina and Dimitri Nikogosov
+|-
+| A-129
+| Bio::DB::HTS - accessing HTSlib from Perl
+| Rishi Nag
+|-
+| A-130
+| NGLESS: Perfectly understandable and reproducible metagenomics pipelines using a domain-specific language
+| Luis Pedro Coelho, Paulo Monteiro, Renato Alves, A.T. Freitas and Peer Bork
+|-
+| A-131
+| CGP as a Service (CGPaaS) - From data submission to results using your web-browser
+| Keiran Raine, Adam Butler, Peter Clapham, Jon Teague, Peter Campbell
+|-
+| A-132
+| Large-scale genotypic and phenotypic data support for Tripal: Chado optimization by utilizing modern PostgreSQL functionality
+| Lacey-Anne Sanderson, Reynold Tan, Carolyn Caron, Kirstin Bett
+|-
+| A-133
+| GenePattern Notebooks: An integrative analytical environment for genomics research ([https://f1000research.com/posters/5-1900 poster])
+| Michael Reich, Thorin Tabor, Helga Thorvaldsd&oacute;ttir, Barbara Hill, Ted Liefeld, Jill Mesirov, Pablo Tamayo
+|-
+| A-134
+| BioContainers for supercomputers: 2,000+ accessible, discoverable Singularity apps
+| John Fonner, Rion Dooley, Jacquelyn Turcinovic and Matthew Vaughn
+|-
+| A-135
+| Collaborative Open Plant Omics: A platform for "FAIR" data for plant science
+| Felix Shaw, Anthony Etuk, Rob Davey, Alejandra Gonzalez-Beltran, David Johnson, Phillipe Rocca-Serra and Susanna Sansone
+|-
+| A-136
+| CWL+Research Object == Complete Provenance
+| Farah Khan, Andrew Lonie, Richard Sinnott and Stian Soiland-Reyes
+|-
+| A-137
+| Workflow-ready bioinformatics packages for Debian-based distributions and this Linux distribution's infrastructure for low-friction reproducible research ([https://f1000research.com/posters/6-1190 poster])
+| Steffen Moeller
+|-
+| A-138
+| Forever in BlueGenes: a next-generation genomic data interface powered by InterMine ([https://f1000research.com/posters/6-1289 poster])
+| Yo Yehudi, Daniela Butano, Matthew Chadwick, Justin Clark-Casey, Sergio Contrino, Josh Heimbach, Rachel Lyne, Julie Sullivan and Gos Micklem
+|-
+| A-139
+| GRADitude: A computational tool for the analysis of Grad-seq data
+| Silvia Di Giorgio and Konrad F&ouml;rstner Dr.
+|-
+| A-140
+| Enabling the optimization of open-source biological computational tools with scripting languages
+| Stefan Popa and Radu Dobrescu
+|-
+| A-141
+| Protein Inpainter: a Message-Passing-based Predictor using Spark GraphX
+| Rabie Saidi, Hanna Papkova, Tunca Dogan and Maria Martin
+|-
+| A-142
+| Reproducible and user-controlled software management in HPC with GNU Guix
+| Ricardo Wurmus and Altuna Akalin
+|-
+| A-143
+| An ensemble approach for gene set testing analysis with reporting capabilities ([https://f1000research.com/posters/6-1310 poster])
+| Monther Alhamdoosh, Milica Ng and Matthew Ritchie
+|-
+| A-144
+| RADAR-CNS - Research Infrastructure for processing wearable data to improve health
+| Julia Kurps, Maxim Moinat, Joris Borgdorff, Fanscesco Nobilia, Maximilian Kerz, Nivethika Mahasivam, Irina Pulyakhina, Matthias D&uuml;mpelmann, Herculano Campos, Mark Begale, Richard Dobson and Amos Folarin
+|-
+| A-145
+| Workflows interoperability with Nextflow and Common WL
+| Kevin Sayers, Paolo Di Tommaso, Maria Chatzou, Evan Floden and Cedric Notredame
+|-
+| A-146
+| Bioschemas for life science data ([https://f1000research.com/posters/6-1226 poster])
+| Carole Goble, Rafael Jimenez, Alasdair Gray, Niall Beard, Giuseppe Profiti and Norman Morrison
+|-
+| A-147
+| The GA4GH Tool Registry Service (TRS) and Dockstore - Year One
+| Denis Yuen, Brian O'Connor, Andrew Duncan, Solomon Shorser, Vincent Chung, Xiang Kun Liu, Janice Patricia, Han Yuan Cao, Gary Luu, Vincent Ferretti and Lincoln Stein
+|-
+| A-148
+| Introducing the Brassica Information Portal: Towards integrating genotypic and phenotypic Brassica crop data
+| Annemarie H. Eckes, Tomasz Guba_a, Piotr Nowakowski, Tomasz Szymczyszyn, Rachel Wells, Judith A. Irwin, Carlos Horro, John M. Hancock, Graham King, Sarah C. Dyer and Wiktor Jurkowski
+|-
+| A-149
+| Discovery and visualisation of homologous genes and gene families using Galaxy
+| Anil S. Thanki, Nicola Soranzo, Wilfried Haerty and Robert P. Davey
+|-
+| A-150
+| The SPOT ontology toolkit : semantics as a service
+| Olga Vrousgou, Simon Jupp, Thomas Liener, Tony Burdett and Helen Parkinson
+|-
+| A-151
+| GRAPHSPACE: Stimulating interdisciplinary collaborations in network biology ([https://f1000research.com/posters/6-1390 poster])
+| Aditya Bharadwaj, Divit P. Singh, Anna Ritz, Allison N. Tegge, Christopher L. Poirel, Pavel Kraikivski, Neil Adames, Kurt Luther, Shiv D. Kale, Jean Peccoud, John J. Tyson and T. M. Murali
+|-
+| A-152
+| Revitalizing a classic bioinformatics tool using modern technologies: the case of the Cytoscape Project ([https://f1000research.com/posters/6-1171 poster])
+| Keiichiro Ono, Eric Sage and Barry Demchak
+|-
+| A-153
+| Screw: tools for building reproducible single-cell epigenomics workflows ([https://f1000research.com/posters/6-1411 poster])
+| Kieran O'Neill, Benjamin Decato, Alexander Goncearenco, Azhar Khandekar, Benjamin Busby and Aly Karsan
+|-
+| A-154
+| Emerging public databases of clinical genetic test results: Implications for large scale deployment of precision medicine
+| Stephen Lincoln, Shan Yang, Benedict Paten, Melissa Cline, Yuya Kobayashi, Scott Topper, Can Zhang, David Haussler and Robert Nussbaum
+|-
+| A-155
+| NGL - a molecular graphics library for the web ([https://f1000research.com/posters/6-1409 poster])
+| Alexander S. Rose and Stephen K. Burley
+|-
+| A-156
+| ToolDog - generating tool descriptors from the ELIXIR tool registry ([https://f1000research.com/posters/6-1193 poster])
+| Kenzo-Hugo Hillion, Ivan Kuzmin, Hedi Peterson, Jon Ison and Herv&eacute; M&eacute;nager
+|-
+| A-157
+| Integrating cloud storage providers for genomic analyses
+| Ted Liefeld, Marco Ocana, Michael Reich, Helga Thorvaldsdottir and Jill P Mesirov
+|-
+| A-159
+| Full-stack genomics pipelining with GATK4 + WDL + Cromwell
+| Kate Voss, Jeff Gentry and Geraldine Van der Auwera
+|-
+| A-160
+| BioXSD | BioJSON | BioYAML - Towards unified formats for sequences, alignments, features, and annotations ([https://f1000research.com/posters/6-1179 poster])
+| Mat&uacute;&#353; Kala&#353;, Sveinung Gundersen, L&aacute;szl&oacute; Kaj&aacute;n, Herv&eacute; M&eacute;nager, Jon Ison, Steve Pettifer, Christophe Blanchet, Rodrigo Lopez, Kristoffer Rapacki and Inge Jonassen
+|-
+| A-161
+| EDAM - The ontology of bioinformatics operations, types of data, topics, and data formats (2017 lightning update) ([https://f1000research.com/posters/6-1181 poster])
+| Mat&uacute;&#353; Kala&#353;, Herv&eacute; M&eacute;nager, Veit Schw&auml;mmle, Jon Ison and Edam Contributors
+|-
+|}
+
 == Sponsors ==
 We are grateful to and welcome [http://thehyve.nl/ The Hyve] (open source solutions for bioinformatics), [https://science.mozilla.org/ Mozilla Science Lab] (a community of researchers, developers, and librarians making research open and accessible), [https://repositive.io/ Repositive Limited] (connecting the genomics community with the data they need), [https://www.sevenbridges.com/ Seven Bridges] (the Biomedical Data Analysis Platform) and [https://elifesciences.org/labs eLife] (cutting-edge technology for cutting-edge research) as new sponsors for BOSC 2017, and [http://gigasciencejournal.com GigaScience] (an open access, open data, open peer-review journal) as a returning sponsor.
 
