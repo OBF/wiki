@@ -107,6 +107,12 @@ If you would like to be a sponsor of BOSC, please contact us at bosc@open-bio.or
 * [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp] (Center for Genomic and Computational Biology (GCB), Duke University)
 * [http://berkeleybop.org/people/monica-munoz-torres/ Mónica Muñoz-Torres]  ([http://berkeleybop.org/ Berkeley Bioinformatics Open Source Projects])
 
+== Review Committee == 
+
+Kai Blin*, Christian Brueffer*, Scott Cain*, Jacqueline Campbell, Brad Chapman*, John Chilton, Peter Cock*, Karen Cranston, Anamaria Crisan, Michael Crusoe, Philip Ewels, Christopher Fields*, Konrad Förstner*, George Githinji, Bastian Greshake*, Björn Grüning, Nomi Harris*, Michael Heuer*, Karsten Hokamp*, Hans-Rudolf Hotz*, Shaun Jackman, Hilmar Lapp, Jessica Maia, Scott Markel*, Hervé Ménager, Monica Munoz-Torres, Frank Nothaft, Konstantin Okonechnikov, Kieran O'Neill*, Lorena Pantano*, Michael Reich, Surya Saha*, Gianluca Della Vedova*, Heather Wiencko*, Jason Williams
+
+&lowast; Also reviewed Late-Breaking Lightning Talk abstracts
+
 == Previous BOSCs ==
 
 * BOSC has been held yearly since 2000.
