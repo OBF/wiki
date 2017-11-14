@@ -3,7 +3,7 @@ title: Board
 ---
 
 == Board of Directors ==
-The board can be contacted via email at [mailto:board@open-bio.org board@open-bio.org] (or in case of mailing list problems, try [mailto:obf-board@googlegroups.com obf-board@googlegroups.com] as a fall back).
+The board can be contacted via email at [mailto:board@open-bio.org board@open-bio.org] (or in case of mailing list problems, try [mailto:obf-board@googlegroups.com obf-board@googlegroups.com] as a fall back), and can be reached via [https://twitter.com/OBF_news Twitter @OBF_News].
 
 '''President'''
 :; [http://lappland.io/ Hilmar Lapp] : Representing [[bp:BioPerl|BioPerl]], Director of Informatics at the [http://genome.duke.edu/ Center for Genomic and Computational Biology] (GCB) at Duke University.
