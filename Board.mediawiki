@@ -12,7 +12,7 @@ The board can be contacted via email at [mailto:board@open-bio.org board@open-bi
 :; <span class="plainlinks">[http://www.hutton.ac.uk/staff/peter-cock Peter Cock]</span> : [[bp:Biopython|Biopython]] core developer, bioinformatician at the [http://www.hutton.ac.uk/ James Hutton Institute]. [[BOSC 2016]] co-chair.
 
 '''Secretary'''
-:; [http://hpcbio.illinois.edu/people Chris Fields] : [http://bioperl.org BioPerl] core developer, Associate Director of HPCBio, the [http://www.igb.uiuc.edu/ Institute for Genomic Biology] at the [http://www.uiuc.edu/ University of Illinois at Urbana-Champaign].
+:; [http://hpcbio.illinois.edu/people Chris Fields] : [http://bioperl.org BioPerl] core developer, Associate Director of HPCBio, Carver Biotechnology Center and The [http://www.igb.illinois.edu/ Institute for Genomic Biology] at the [http://www.uiuc.edu/ University of Illinois at Urbana-Champaign].
 
 '''At-large members'''
 
