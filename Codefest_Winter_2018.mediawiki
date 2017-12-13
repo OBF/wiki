@@ -6,7 +6,7 @@ OpenBio Winter Codefest 2018 is Thursday Jan 18th and Friday Jan 19th in Boston,
 
 This is an opportunity for anyone interested in open science, biology and programming to meet, discuss and work collaboratively. Everyone is welcome to attend. We will have a mix of experienced developers, newcomers to bioinformatics and everything in between.
 
-Please register by adding your name to [https://docs.google.com/spreadsheets/d/1o4xDUgl2iu_CgFuDpB1swtG8XVZK3aifvKlhh5qagyI/edit?usp=sharing the participants list].
+'''Register''': [https://docs.google.com/spreadsheets/d/1o4xDUgl2iu_CgFuDpB1swtG8XVZK3aifvKlhh5qagyI/edit?usp=sharing add your name to the participants list].
 
 If you're interested in learning more about Codefest, previous fun and successful events were [[Codefest 2010]] in Boston, [[Codefest 2011]] in Vienna, [[Codefest 2012]] in Los Angeles, [[Codefest 2013]] in Berlin, and [[Codefest 2014]] in Boston, [[Codefest 2015]] in Dublin, [[Codefest 2016]] in Orlando and [[Codefest 2017]] in Prague.
 
