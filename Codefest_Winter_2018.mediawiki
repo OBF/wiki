@@ -2,9 +2,11 @@
 title: Codefest Winter 2018
 ---
 
-OpenBio Winter Codefest 2018 is Thursday Jan 18th and Friday Jan 19th in Boston, MA. This is a standalone event aimed at getting community members together. Depending on the number of registrants it will either be held at the Boston Open Science Laboratory (BosLab) in Somerville, MA or Harvard Medical School in the Longwood Medical area in Boston.
+OpenBio Winter Codefest 2018 is Thursday Jan 18th and Friday Jan 19th in Boston, MA. This is a standalone event aimed at getting interested bioinformatics open source community members together before the [https://gccbosc2018.sched.com/ GCC/BOSC bioinformatics community conference in Portland in June]. Depending on the number of registrants it will either be held at the Boston Open Science Laboratory (BosLab) in Somerville, MA or Harvard Medical School in the Longwood Medical area in Boston.
 
 This is an opportunity for anyone interested in open science, biology and programming to meet, discuss and work collaboratively. Everyone is welcome to attend. We will have a mix of experienced developers, newcomers to bioinformatics and everything in between.
+
+Please register by adding your name to [https://docs.google.com/spreadsheets/d/1o-eIxURNdYoCsrpMRYtzXygM8wMj96WN8zYTTpLhkSU/edit#gid=0 the participants list].
 
 If you're interested in learning more about Codefest, previous fun and successful events were [[Codefest 2010]] in Boston, [[Codefest 2011]] in Vienna, [[Codefest 2012]] in Los Angeles, [[Codefest 2013]] in Berlin, and [[Codefest 2014]] in Boston, [[Codefest 2015]] in Dublin, [[Codefest 2016]] in Orlando and [[Codefest 2017]] in Prague.
 
@@ -12,57 +14,11 @@ If you're interested in learning more about Codefest, previous fun and successfu
 
 The goal of Codefest is to bring open source bioinformatics programmers together to have an enjoyable and productive two days. Practically this results in a number of useful outcomes:
 
-* Improving and expanding existing open source code, documentation and infrastructure (see the summaries from [https://www.open-bio.org/wiki/Codefest_2016#Outcomes Codefest 2016], [https://www.open-bio.org/wiki/Codefest_2015#Outcomes Codefest 2015], [https://docs.google.com/presentation/d/114yvrK0Veasc_ns_rg484j2xxRi1h7wNlU2XKONuUqY/edit Codefest 2014] and [http://bcb.io/2013/07/18/summary-from-bioinformatics-open-science-codefest-2013-tools-infrastructure-standards-and-visualization/ Codefest 2013] for examples of work accomplished in previous years).
+* Improving and expanding existing open source code, documentation and infrastructure. See the summaries from [https://www.open-bio.org/wiki/Codefest_2017#Outcomes Codefest 2017], [https://www.open-bio.org/wiki/Codefest_2016#Outcomes Codefest 2016], [https://www.open-bio.org/wiki/Codefest_2015#Outcomes Codefest 2015], [https://docs.google.com/presentation/d/114yvrK0Veasc_ns_rg484j2xxRi1h7wNlU2XKONuUqY/edit Codefest 2014] and [http://bcb.io/2013/07/18/summary-from-bioinformatics-open-science-codefest-2013-tools-infrastructure-standards-and-visualization/ Codefest 2013] for examples of work accomplished in previous years).
 
 * Developing new communities working on shared problems. For example, the [https://groups.google.com/forum/#!forum/common-workflow-language Common Workflow Language] developed from discussions at Codefest 2014.
 
 * Establishing new friendships, helping to expand the open source bioinformatics community.
-
-* Preparing and publishing [http://www.biomedcentral.com/1471-2105/15/S14/S7 papers about the work accomplished].
-
-== Why attend ==
-
-* For new members of the community: meet and learn with other open source programmers. There are [https://docs.google.com/document/d/16OKzgx11VLLvvxzXlhDr8yPQ8gFYg61bfbes79qPJE8/edit?usp=sharing projects specifically for new attendees, or add your own ideas]. 
-
-* For current community members: expand your network and strengthen existing relationships. Teach and learn from new community members. Focus on open source work without interruptions. Discuss questions and problems in real time. 
-
-* For everyone: discuss and learn from the community. Teach others what you know. Build new friendships and collaborations.
-
-If you have any questions or thoughts, please get in touch with [https://github.com/chapmanb Brad] directly, in the [https://gitter.im/chapmanb/obf-codefest Gitter chat room] or on the [https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2017 Codefest 2017 mailing list].
-
-== What to expect ==
-
-The OpenBio Codefest is a collaborative two day working session. The only
-requirement for attendance is that you have an interest in open source software
-and solving scientific problems. We will have contributors to open source
-bioinformatics tools present to collaboratively work with, and we welcome new
-attendees who want to learn and contribute to open source code or documentation.
-
-The rough structure of the two days is:
-
-* Start with introductions from everyone attending about their goals and plans for the two days.
-
-* Assemble into working groups based on shared interests like programming languages, open source projects or biological questions. We use the [https://docs.google.com/document/d/16OKzgx11VLLvvxzXlhDr8yPQ8gFYg61bfbes79qPJE8/edit?usp=sharing collaboratively brainstormed Google document] as the basis for setting up groups. Attendees determine the goals for the two days. If you have an idea for a project, please add it before the event. Any and all suggestions are welcome.
-
-* Work and discuss. Enjoy the productive time.
-
-* We'll have regular breaks where each group can deliver short reports on their progress.
-
-* We have informal lunches, dinners and drinks as a way for everyone to get to know each other better.
-
-Please feel free to get in touch with any of the organizers with questions. You
-are very welcome at Codefest.
-
-== Attending ==
-
-You are very welcome to attend. There is no cost, we only ask you to register to help organize numbers. Please add yourself if you are
-interested to [https://docs.google.com/spreadsheets/d/1o-eIxURNdYoCsrpMRYtzXygM8wMj96WN8zYTTpLhkSU/edit#gid=0 this Google spreadsheet]
-We'll coordinate through the [https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2017 Codefest 2017 mailing list],
-so please sign up to discuss and receive updates.
-
-If you're not able to physically attend, we're still more than happy to have you participate in Codefest. Please sign up on the [https://docs.google.com/spreadsheets/d/1o-eIxURNdYoCsrpMRYtzXygM8wMj96WN8zYTTpLhkSU/edit#gid=0 the Google spreadsheet] and list yourself as remote only. We have a [https://gitter.im/chapmanb/obf-codefest Gitter chat room] we can use to coordinate and discuss in real time and will have an open Google Hangout to make it easier to be part of Codefest remotely.
-
-Add your [https://docs.google.com/document/d/16OKzgx11VLLvvxzXlhDr8yPQ8gFYg61bfbes79qPJE8/edit?usp=sharing project ideas to the shared google document]. The ideas include smaller focused projects and larger work. We want suggestions from everyone and will organize into groups around these during Codefest.
 
 == Logistics ==
 
@@ -76,31 +32,71 @@ or:
 [https://www.countway.harvard.edu/ Harvard Medical School Countway Library]
 [https://goo.gl/maps/u5wZ91orBWB2 403 Computer Lab, 10 Shattuck St, Boston MA]
 
-The final location will depend on numbers. BosLab can support ~20 attendees, while we can fit more in the HMS Countway library. Both locations are accessible by public transport (the T) but in different parts of the city so we'll finalize a location as soon as we know numbers.
-
+The final location will depend on numbers. BosLab can support ~20 attendees, while we can fit more in the HMS Countway library. Both locations are accessible by public transport (the T) but are in different parts of the city so we'll finalize a location as soon as we know numbers.
 
 We plan to have lunch and coffee available for everyone attending. The rough schedule for the two days is:
 
 * Thursday Jan 18th 9am: Meet, introductions, coffee
 * Thursday Jan 18th 10-1: Work in groups
-* Thursday July 20th 1pm: Provided Lunch
-* Thursday July 20th 2-6: Work in groups
-* Thursday July 20th 6pm: End of day presentations
-* Thursday July 20th 7pm: Pay your way group dinner
+* Thursday Jan 18th 1pm: Provided Lunch
+* Thursday Jan 18th 2-6: Work in groups
+* Thursday Jan 18th 6pm: End of day presentations
+* Thursday Jan 18th 7pm: Pay your way group dinner
 
-* Thursday July 20th late evening: Additional work at your discretion
-
-* Friday July 21st 9am: Meet at Brmlab, provide status updates and organize, coffee (from [http://www.oukydouky.cz Ouky Douky café]), local fruits & pastries (from the [http://holesovickytrh.cz/ farmers' market])
-* Friday July 21st 10-1: Work
-* Friday July 21st 1pm: Provided lunch at Brmlab ([http://www.pizzaletna.cz/en/ Pizza Letná]) + post-lunch presentations on progress
-* Friday July 21st 2-6: Work
-* Friday July 21st 6pm: Wrap up presentations + clean-up of Brmlab, and get ready for [[BOSC 2017]]
-* Friday July 21st 7.30pm: Pay-your-own-way group beer + optional pub food (not vegan) at [http://www.zlycasy.eu/ Zlý Časy]. SEE [https://www.open-bio.org/wiki/Codefest_2017#Beer DIRECTIONS]
+* Friday Jan 19th 9am: Meet at Brmlab, provide status updates and organize, coffee
+* Friday Jan 19th 10-1: Work
+* Friday Jan 19th 1pm: Provided lunch
+* Friday Jan 19th 2-6: Work
+* Friday Jan 19th 6pm: Wrap up presentations
+* Friday Jan 19th 7pm: Pay your way group dinner
 
 This is completely flexible based on progress and needs of attendees. Some resources while the hackathon is ongoing:
 
 * Feel free to ask in the [https://gitter.im/chapmanb/obf-codefest Gitter Chat channel] if you're wondering about the current status at any time.
 
+== Attending ==
+
+You are very welcome to attend. There is no cost, we only ask you to register to help organize numbers. Please add yourself if you are
+interested to [https://docs.google.com/spreadsheets/d/1o4xDUgl2iu_CgFuDpB1swtG8XVZK3aifvKlhh5qagyI/edit#gid=0 this Google spreadsheet]
+We'll coordinate through the [https://groups.google.com/forum/#!aboutgroup/biohackathon Biohackathon mailing list],
+so please sign up to discuss and receive updates.
+
+If you're not able to physically attend, we're still more than happy to have you participate in Codefest. Please sign up on the [https://docs.google.com/spreadsheets/d/1o4xDUgl2iu_CgFuDpB1swtG8XVZK3aifvKlhh5qagyI/edit#gid=0 the Google spreadsheet] and list yourself as remote only. We have a [https://gitter.im/chapmanb/obf-codefest Gitter chat room] we can use to coordinate and discuss in real time and will have an open Google Hangout to make it easier to be part of Codefest remotely.
+
+Add your [https://docs.google.com/document/d/1RlDUWRFqMcy4V2vvkA1_ENsVo6TXge2wIO_Nf73Itk0/edit?usp=sharing project ideas to the shared google document]. The ideas include smaller focused projects and larger work. We want suggestions from everyone and will organize into groups around these during Codefest.
+
+== Why attend ==
+
+* For new members of the community: meet and learn with other open source programmers. There are [https://docs.google.com/document/d/1RlDUWRFqMcy4V2vvkA1_ENsVo6TXge2wIO_Nf73Itk0/edit?usp=sharing projects specifically for new attendees, or add your own ideas]. 
+
+* For current community members: expand your network and strengthen existing relationships. Teach and learn from new community members. Focus on open source work without interruptions. Discuss questions and problems in real time. 
+
+* For everyone: discuss and learn from the community. Teach others what you know. Build new friendships and collaborations.
+
+If you have any questions or thoughts, please get in touch with [https://github.com/chapmanb Brad] directly, in the [https://gitter.im/chapmanb/obf-codefest Gitter chat room] or on the [https://groups.google.com/forum/#!aboutgroup/biohackathon Biohackathon mailing list].
+
+== What to expect ==
+
+The OpenBio Codefest is a collaborative two day working session. The only
+requirement for attendance is that you have an interest in open source software
+and solving scientific problems. We will have contributors to open source
+bioinformatics tools present to collaboratively work with, and we welcome new
+attendees who want to learn and contribute to open source code or documentation.
+
+The rough structure of the two days is:
+
+* Start with introductions from everyone attending about their goals and plans for the two days.
+
+* Assemble into working groups based on shared interests like programming languages, open source projects or biological questions. We use the [https://docs.google.com/document/d/1RlDUWRFqMcy4V2vvkA1_ENsVo6TXge2wIO_Nf73Itk0/edit?usp=sharing collaboratively brainstormed Google document] as the basis for setting up groups. Attendees determine the goals for the two days. If you have an idea for a project, please add it before the event. Any and all suggestions are welcome.
+
+* Work and discuss. Enjoy the productive time.
+
+* We'll have regular breaks where each group can deliver short reports on their progress.
+
+* We have informal lunches, dinners and drinks as a way for everyone to get to know each other better.
+
+Please feel free to get in touch with any of the organizers with questions. You
+are very welcome at Codefest.
 
 == Sponsors ==
 
