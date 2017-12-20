@@ -8,6 +8,8 @@ The 18th Annual Bioinformatics Open Source Conference (BOSC 2017) was held '''Ju
 
 === Check out the [[BOSC 2017 Schedule]], including [https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit self-organizing Birds-of-a-feather groups (BOFs)!] ===
 
+For 2018, we are trying something different and holding BOSC along with the Galaxy Community Conference in a new unified event ([https://gccbosc2018.sched.com/ GCC BOSC 2018]), which will take place in Portland, Oregon, June 25-30. 
+
 == Overview ==
 
 The Bioinformatics Open Source Conference (BOSC) is organized by the [https://www.open-bio.org/wiki/Main_Page Open Bioinformatics Foundation (OBF)], a non-profit group dedicated to promoting the practice and philosophy of open source software development and open science within the biological research community. Since its inception in 2000, BOSC has provided a forum for developers and users to interact and share research results and ideas in open source bioinformatics. BOSC’s broad spectrum of topics includes practical techniques for solving bioinformatics problems; software development practices; standards and ontologies; approaches that promote open science and sharing of data, results and software; and ways to grow open source communities while promoting diversity within them.
