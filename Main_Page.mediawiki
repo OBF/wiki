@@ -39,7 +39,8 @@ OBF grew out of the volunteer projects [[BioPerl]], [[BioJava]] and [[Biopython]
 In 2012, we decided to give up our own incorporation to associate ourselves with [http://spi-inc.org/ Software In The Public Interest, Inc.], a fiscal sponsorship organization that we felt aligned well with our own values and culture. The bylaws [https://github.com/OBF/obf-docs/pull/8 underwent a series of changes], in part to better reflect our current practices, and in part to pave the way for joining SPI. The changes [[Minutes:2012_Sep_ConfCall| were approved on Sep 11, 2012]], [http://vote.heliosvoting.org/helios/e/OBFjoiningSPI our membership overwhelmingly approved of associating with SPI], and as of October 12, 2012, OBF is a SPI-associated project.
 
 == BOSC ==
-The [[BOSC|Bioinformatics Open Source Conference (BOSC)]] is held annually in conjunction with [http://www.iscb.org ISCB's] meeting, ISMB.
-We typically run an informal [[Codefest]] programmers' meeting before each BOSC.
+The [[BOSC|Bioinformatics Open Source Conference (BOSC)]] has been held annually in conjunction with [http://www.iscb.org ISCB's] meeting, ISMB, for the past 20 years. [[BOSC 2017]] took place in July 2017, right before [https://www.iscb.org/ismbeccb2017 ISMB 2017] in Prague, Czech Republic.
 
-[[BOSC 2017]] will take place July 2017, right before [https://www.iscb.org/ismbeccb2017 ISMB 2017] in Prague, Czech Republic.
+For 2018, we are trying something different and holding BOSC along with the Galaxy Community Conference in a new unified event ([https://gccbosc2018.sched.com/ GCC BOSC 2018]), which will take place in Portland, Oregon, June 25-30. 
+
+We typically run an informal [[Codefest]] collaborative meeting before each BOSC.
