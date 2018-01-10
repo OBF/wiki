@@ -2,7 +2,7 @@
 title: Codefest Winter 2018
 ---
 
-OpenBio Winter Codefest 2018 is Thursday Jan 18th and Friday Jan 19th in Boston, MA. This is a standalone event aimed at getting interested bioinformatics open source community members together before the [https://gccbosc2018.sched.com/ GCC/BOSC bioinformatics community conference in Portland in June]. Depending on the number of registrants it will either be held at the Boston Open Science Laboratory (BosLab) in Somerville, MA or Harvard Medical School in the Longwood Medical area in Boston.
+OpenBio Winter Codefest 2018 is Thursday Jan 18th and Friday Jan 19th in Boston, MA. This is a standalone event aimed at getting interested bioinformatics open source community members together before the [https://gccbosc2018.sched.com/ GCC/BOSC bioinformatics community conference in Portland in June]. It will be held at Harvard Medical School in the Longwood Medical area in Boston.
 
 This is an opportunity for anyone interested in open science, biology and programming to meet, discuss and work collaboratively. Everyone is welcome to attend. We will have a mix of experienced developers, newcomers to bioinformatics and everything in between.
 
@@ -22,19 +22,20 @@ The goal of Codefest is to bring open source bioinformatics programmers together
 
 == Logistics ==
 
-Codefest will either be hosted at:
-
-[https://www.boslab.org/ The Boston Open Science Lab (BosLab)]
-[https://www.google.com/maps/place/339+Summer+St,+Somerville,+MA+02144/@42.3935081,-71.1208852,17z/data=!3m1!4b1!4m5!3m4!1s0x89e3772257d61369:0x86eb46324b30c8b5!8m2!3d42.3935081!4d-71.1186965 339r Summer Street, Somerville MA]
-
-or:
+Codefest is kindly hosted in the Longwood Medical area of Boston at:
 
 [https://www.countway.harvard.edu/ Harvard Medical School Countway Library]
 [https://goo.gl/maps/u5wZ91orBWB2 403 Computer Lab, 10 Shattuck St, Boston MA]
 
-The final location will depend on numbers. BosLab can support ~20 attendees, while we can fit more in the HMS Countway library. Both locations are accessible by public transport (the T) but are in different parts of the city so we'll finalize a location as soon as we know numbers.
+For people coming from outside of Boston and orienting themselves, the venue is easily accessible via [https://mbta.com/ public transport (the T)] on the E Green Line Subway (towards Heath Street/VA Medical center). Get off at the Longwood Medical Area stop. When taking the train from the city be sure to get on an E line as there are three other Green Line options (B, C, D) which go to different parts of the city.
 
-We plan to have lunch and coffee available for everyone attending. The rough schedule for the two days is:
+Some housing options:
+
+* [http://bit.ly/2CUVcHT Nearby AirBnb options] within walking distance
+* Some hotels ~15 minute walk away: [https://www.hotels.com/ho407440/?q-check-out=2018-01-20&FPQ=3&q-check-in=2018-01-17&WOE=6&WOD=3&q-room-0-children=0&tab=description&JHR=4&q-room-0-adults=1&YGF=7&MGT=3&ZSX=0&SYE=3 enVision Hotel Boston Longwood] and [https://www.hotels.com/ho623267648/?q-check-out=2018-01-20&FPQ=2&q-check-in=2018-01-17&WOE=6&WOD=3&q-room-0-children=0&tab=description&JHR=3&q-room-0-adults=1&YGF=7&MGT=3&ZSX=0&SYE=3 Global Luxury Suites at Longwood]
+* Any hotel on the Green Line Train nearer to the city where you can take the T out to Longwood (15 minute ride): [https://www.hotels.com/ho115097/?q-check-out=2018-01-20&FPQ=2&q-check-in=2018-01-17&WOE=6&WOD=3&q-room-0-children=0&tab=description&JHR=3&q-room-0-adults=1&YGF=7&MGT=3&ZSX=0&SYE=3 Midway Hotel], [https://www.hotels.com/ho114172/?q-check-out=2018-01-20&FPQ=3&q-check-in=2018-01-17&WOE=6&WOD=3&q-room-0-children=0&tab=description&JHR=5&q-room-0-adults=1&YGF=7&MGT=3&ZSX=0&SYE=3 Copley Square Hotel]
+
+We plan to have lunch and coffee available for everyone attending thanks to our wonderful sponsorts. The rough schedule for the two days is:
 
 * Thursday Jan 18th 9am: Meet, introductions, coffee
 * Thursday Jan 18th 10-1: Work in groups
