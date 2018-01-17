@@ -29,11 +29,10 @@ Codefest is kindly hosted in the Longwood Medical area of Boston at:
 
 For people coming from outside of Boston and orienting themselves, the venue is easily accessible via [https://mbta.com/ public transport (the T)] on the E Green Line Subway (towards Heath Street/VA Medical center). Get off at the Longwood Medical Area stop. When taking the train from the city be sure to get on an E line as there are three other Green Line options (B, C, D) which go to different parts of the city.
 
-Some housing options:
+Resources for remote (and local) attendees while the hackathon is ongoing:
 
-* [http://bit.ly/2CUVcHT Nearby AirBnb options] within walking distance
-* Any hotel on the Green Line Train nearer to the city where you can take the T out to Longwood (15 minute ride): [https://www.hotels.com/ho115097/?q-check-out=2018-01-20&FPQ=2&q-check-in=2018-01-17&WOE=6&WOD=3&q-room-0-children=0&tab=description&JHR=3&q-room-0-adults=1&YGF=7&MGT=3&ZSX=0&SYE=3 Midway Hotel], [https://www.hotels.com/ho114172/?q-check-out=2018-01-20&FPQ=3&q-check-in=2018-01-17&WOE=6&WOD=3&q-room-0-children=0&tab=description&JHR=5&q-room-0-adults=1&YGF=7&MGT=3&ZSX=0&SYE=3 Copley Square Hotel]
-* Some hotels ~15 minute walk away: [https://www.hotels.com/ho407440/?q-check-out=2018-01-20&FPQ=3&q-check-in=2018-01-17&WOE=6&WOD=3&q-room-0-children=0&tab=description&JHR=4&q-room-0-adults=1&YGF=7&MGT=3&ZSX=0&SYE=3 enVision Hotel Boston Longwood] and [https://www.hotels.com/ho623267648/?q-check-out=2018-01-20&FPQ=2&q-check-in=2018-01-17&WOE=6&WOD=3&q-room-0-children=0&tab=description&JHR=3&q-room-0-adults=1&YGF=7&MGT=3&ZSX=0&SYE=3 Global Luxury Suites at Longwood]
+* An open Zoom conference room, join online https://zoom.us/j/492788307 or call in using [https://zoom.us/zoomconference?m=Nu1peoDtE_k9lyG8sZeQrdeeHXXiEbag a call in number] and Meeting ID: 492 788 307
+* Feel free to ask in the [https://gitter.im/chapmanb/obf-codefest Gitter Chat channel] if you're wondering about the current status at any time.
 
 We plan to have lunch and coffee available for everyone attending thanks to our wonderful sponsorts. The rough schedule for the two days is:
 
@@ -51,9 +50,13 @@ We plan to have lunch and coffee available for everyone attending thanks to our 
 * Friday Jan 19th 6pm: Wrap up presentations
 * Friday Jan 19th 7pm: Pay your way group dinner
 
-This is completely flexible based on progress and needs of attendees. Some resources while the hackathon is ongoing:
+This is completely flexible based on progress and needs of attendees. 
 
-* Feel free to ask in the [https://gitter.im/chapmanb/obf-codefest Gitter Chat channel] if you're wondering about the current status at any time.
+Some housing options:
+
+* [http://bit.ly/2CUVcHT Nearby AirBnb options] within walking distance
+* Any hotel on the Green Line Train nearer to the city where you can take the T out to Longwood (15 minute ride): [https://www.hotels.com/ho115097/?q-check-out=2018-01-20&FPQ=2&q-check-in=2018-01-17&WOE=6&WOD=3&q-room-0-children=0&tab=description&JHR=3&q-room-0-adults=1&YGF=7&MGT=3&ZSX=0&SYE=3 Midway Hotel], [https://www.hotels.com/ho114172/?q-check-out=2018-01-20&FPQ=3&q-check-in=2018-01-17&WOE=6&WOD=3&q-room-0-children=0&tab=description&JHR=5&q-room-0-adults=1&YGF=7&MGT=3&ZSX=0&SYE=3 Copley Square Hotel]
+* Some hotels ~15 minute walk away: [https://www.hotels.com/ho407440/?q-check-out=2018-01-20&FPQ=3&q-check-in=2018-01-17&WOE=6&WOD=3&q-room-0-children=0&tab=description&JHR=4&q-room-0-adults=1&YGF=7&MGT=3&ZSX=0&SYE=3 enVision Hotel Boston Longwood] and [https://www.hotels.com/ho623267648/?q-check-out=2018-01-20&FPQ=2&q-check-in=2018-01-17&WOE=6&WOD=3&q-room-0-children=0&tab=description&JHR=3&q-room-0-adults=1&YGF=7&MGT=3&ZSX=0&SYE=3 Global Luxury Suites at Longwood]
 
 == Attending ==
 
