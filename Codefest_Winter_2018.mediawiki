@@ -33,8 +33,10 @@ Resources for remote (and local) attendees while the hackathon is ongoing:
 
 * An open Zoom conference room, join online https://zoom.us/j/492788307 or call in using [https://zoom.us/zoomconference?m=Nu1peoDtE_k9lyG8sZeQrdeeHXXiEbag a call in number] and Meeting ID: 492 788 307
 * Feel free to ask in the [https://gitter.im/chapmanb/obf-codefest Gitter Chat channel] if you're wondering about the current status at any time.
+* [https://docs.google.com/document/d/1RlDUWRFqMcy4V2vvkA1_ENsVo6TXge2wIO_Nf73Itk0/edit?usp=sharing Project ideas and progress in a shared google document]
+* Contact Brad directly either via phone or WhatsApp (1-617-447-8586)
 
-We plan to have lunch and coffee available for everyone attending thanks to our wonderful sponsorts. The rough schedule for the two days is:
+We plan to have lunch and coffee available for everyone attending thanks to our wonderful sponsors. The rough schedule for the two days is:
 
 * Thursday Jan 18th 9am: Meet, introductions, coffee
 * Thursday Jan 18th 10-1: Work in groups
