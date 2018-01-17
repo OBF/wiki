@@ -22,10 +22,11 @@ The goal of Codefest is to bring open source bioinformatics programmers together
 
 == Logistics ==
 
-Codefest is kindly hosted in the Longwood Medical area of Boston at:
+Codefest is kindly hosted in the Longwood Medical area of Boston. For both venues enter the Courtyard from Longwood Avenue at the Intersection of Avenue Louis Pasteur:
 
-[https://www.countway.harvard.edu/ Harvard Medical School Countway Library]
-[https://goo.gl/maps/u5wZ91orBWB2 403 Computer Lab, 10 Shattuck St, Boston MA]
+* Thursday -- Jeffery Modell Immunology Center, Armenise Building, 100A Fred S. Rosen Lecture Hall [https://goo.gl/maps/KJst8xVDF5o 210 Longwood Avenue, Boston MA] -- enter from the left side of the courtyard if walking from Longwood. The building says 210 Longwood Avenue, Armenise Building, Alpert Building, Courtyard Cafe outside the door. There is security immediately in front as you enter. They'll have a list of participants but tell them you're going to Codefest and go to the left. There is a lecture hall, atrium area and smaller classroom space. We'll be in the classroom space and atrium. 
+* Friday -- [https://www.countway.harvard.edu/ Harvard Medical School Countway Library]
+[https://goo.gl/maps/u5wZ91orBWB2 403 Computer Lab, 10 Shattuck St, Boston MA] -- enter through the far end of the quad. There will be security; tell them you're going to Codefest and they'll have a list of participants. Take the elevators on the left side up to the 4th floor.
 
 For people coming from outside of Boston and orienting themselves, the venue is easily accessible via [https://mbta.com/ public transport (the T)] on the E Green Line Subway (towards Heath Street/VA Medical center). Get off at the Longwood Medical Area stop. When taking the train from the city be sure to get on an E line as there are three other Green Line options (B, C, D) which go to different parts of the city.
 
