@@ -9,6 +9,7 @@ __NOTOC__
 Oregon as part of [https://gccbosc2018.sched.com/ a bioinformatics community conference] 
 co-hosted with the Galaxy Community Conference.'''
 
+== Why is BOSC parterning with GCC in 2018? == 
 BOSC has been a part of ISMB since its inception, and we greatly value our
 relationships with the ISCB management and the ISMB community.
 [http://www.open-bio.org/wiki/BOSC_2017 BOSC 2017] as part of
