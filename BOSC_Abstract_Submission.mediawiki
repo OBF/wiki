@@ -3,25 +3,14 @@ title: BOSC Abstract Submission
 ---
 
 __NOTOC__
-[[File:Pear.png‎|100px|left|BOSC logo|link=BOSC_2017]]
+[[File:Pear.png‎|100px|left|BOSC logo|link=BOSC_2018]]
 
-The deadline for submitting abstracts for full BOSC talks was '''April 13, 2017'''.
-
-However, you have a chance to [https://easychair.org/conferences/?conf=bosc2017 submit an abstract to be considered for a late-breaking lightning talks or poster] until '''June 5'''. Please be aware that we have very few spots available for LBLTs. LBLTs will be grouped together in one short session (it is too late to fit them into topic-centered sessions).
-
-Note that if you already submitted an abstract in the earlier round, you will need to make a fresh submission to have your revised abstract considered for an LBLT--don’t just update your previous abstract in EasyChair.
-
-=== Click [https://easychair.org/conferences/?conf=bosc2017 here] to submit your abstract for a late-breaking lightning talks or poster! ===
-
-
+The call for abstracts for [https://gccbosc2018.sched.com/|GCC BOSC 2018] will open soon!
+<br/><br/>
 == Important Dates ==
-
-* April 13, 2017: Deadline for submitting abstracts for full talks
-* June 5, 2017: Deadline for [https://easychair.org/conferences/?conf=bosc2017 submitting abstracts for late-breaking lightning talks and/or late posters]
-* June 12, 2017: Late-breaking lightning talk/poster acceptance notification
-* June 15, 2017: Deadline for authors to respond to late-breaking lightning talk/poster acceptance notification
-* '''July 22-23, 2017: BOSC 2017, Prague'''
-* July 21-25: Combined [https://www.iscb.org/ismbeccb2017 ISMB/EECB/COSI meeting]
+* March 16, 2018: Deadline for submitting one-page abstracts for full talks
+* April 10, 2018: Authors notified
+* '''June 25-30, 2018: [https://gccbosc2018.sched.com/|GCC BOSC 2018 (Portland, OR)]'''
 
 == Acceptance Criteria ==
 
@@ -63,11 +52,11 @@ See the following websites for further information:
 
 == Open Bioinformatics Foundation Travel Fellowships ==
 
-The OBF Travel Fellowship program is aimed at increasing diverse participation at events promoting open source bioinformatics software development and open science in the biological research community. The fellowship can be used to cover airfare, hotel and / or conference registration fees up to a value of USD 1,000. BOSC speakers are welcome to [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md apply for a fellowship]. The deadline for applying is April 15 (two days after the BOSC abstract deadline).
+The OBF Travel Fellowship program is aimed at increasing diverse participation at events promoting open source bioinformatics software development and open science in the biological research community. The fellowship can be used to cover airfare, hotel and / or conference registration fees up to a value of USD 1,000. BOSC speakers are welcome to [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md apply for a fellowship]. The deadline for applying is April 15, 2018.
 
 == Code of Conduct ==
 In March 2015, ISMB published a [http://www.iscb.org/ismbeccb2015-general-info/ismbeccb2015-coc Code of Conduct] that applies to SIGs (including BOSC) as well as the main ISMB/ECCB meeting.
 
 <hr>
 
-[[BOSC_2017|Back to BOSC 2017 home page]]
+[[BOSC_2018|Back to BOSC 2018 home page]]
