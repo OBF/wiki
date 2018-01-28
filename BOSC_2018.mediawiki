@@ -2,10 +2,12 @@
 title: BOSC 2018
 ---
 
-[https://gccbosc2018.sched.com/ BOSC 2018] will be June 25-30, 2018 in Portland,
+__NOTOC__
+<div style="float:left; maxwidth: 180px; margin-left:25px; margin-right:15px; background-color: #FFFFFF">[[Image:Pear.png|left|The Bosc Pear]]</div>
+
+'''[https://gccbosc2018.sched.com/ BOSC 2018] will be June 25-30, 2018 at Reed College in Portland,
 Oregon as part of [https://gccbosc2018.sched.com/ a bioinformatics community conference] 
-co-hosted with the Galaxy Community Conference. More details will be
-forthcoming after [http://www.open-bio.org/wiki/BOSC_2017 BOSC 2017].
+co-hosted with the Galaxy Community Conference.'''
 
 BOSC has been a part of ISMB since its inception, and we greatly value our
 relationships with the ISCB management and the ISMB community.
@@ -43,6 +45,7 @@ thoughts and plans.
 
 * '''March 16, 2018''': Deadline for [[BOSC_Abstract_Submission|submitting abstracts]] for full talks
 * April 10, 2018: Authors notified
+* (Registration deadlines to be announced)
 * '''June 25-30, 2018''': [https://gccbosc2018.sched.com/|GCC BOSC 2018], Reed College, Portland
 * June 29,30, July 1,2: Collaborative codeing
 
@@ -53,12 +56,11 @@ BOSC covers all aspects of bioinformatics and open science software, including (
 * Citizen/Participatory Science
 * Standards and Interoperability
 * Data Science
-* Workflows
+* Workflows (note that talks about Open Source projects relating to 
 * Visualization
 * Medical and Translational Bioinformatics
 * Developer Tools and Libraries
 * Bioinformatics Open Source Project Progress Reports
-* [[BOSC_2017_Panel|PANEL: Open Data--Standards, Opportunities and Challenges]]
 
 == Organizing Committee ==
 
