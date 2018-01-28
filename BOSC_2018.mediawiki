@@ -21,7 +21,7 @@ that exploration, we have looked at other organizations and conferences that
 have been successful at establishing a strong and growing community of
 participants. One such conference is the [https://gcc2017.sciencesconf.org/ Galaxy Community Conference (GCC)].
 
-After much discussion and planning, we'll be helping organize a
+After much discussion and planning, we'll be participating in a
 [https://gccbosc2018.sched.com/ bioinformatics community conference] in 2018
 that includes both GCC and BOSC. We hope this will help serve the open
 bioinformatics community in a few ways:
@@ -32,9 +32,62 @@ bioinformatics community in a few ways:
 
 * There will be two integrated days of collaboration following the conference, merging [https://www.open-bio.org/wiki/Codefest_2017 BOSC Codefest] and [https://gcc2017.sciencesconf.org/resource/page/id/10 Galaxy's Developer and User Hackathon Days]. We hope the integrated collaboration days following training and the conference talks will allow new and existing members of the community to attend and build working relationships.
 
-* We're hosted at a great venue in Portland, Reed College, providing an affordable and fun experience for anyone who wants to attend.
+* The meeting will be held at a great venue in Portland--Reed College--providing an affordable and fun experience for anyone who wants to attend.
 
 We would like to emphasize that this is an experiment for us and we aren’t looking
 to sever our strong ties with ISMB. We're planning to evaluate the combined GCC
 and BOSC experience in 2018 and welcome community feedback on all of these
 thoughts and plans.
+
+== Important Dates ==
+
+* '''March 16, 2018''': Deadline for [[BOSC_Abstract_Submission|submitting abstracts]] for full talks
+* April 10, 2018: Authors notified
+* '''June 25-30, 2018''': [https://gccbosc2018.sched.com/|GCC BOSC 2018], Reed College, Portland
+* June 29,30, July 1,2: Collaborative codeing
+
+== Session Topics ==
+BOSC covers all aspects of bioinformatics and open science software, including (but not limited to):
+* Open Science and Reproducible Research
+* Open Biomedical Data
+* Citizen/Participatory Science
+* Standards and Interoperability
+* Data Science
+* Workflows
+* Visualization
+* Medical and Translational Bioinformatics
+* Developer Tools and Libraries
+* Bioinformatics Open Source Project Progress Reports
+* [[BOSC_2017_Panel|PANEL: Open Data--Standards, Opportunities and Challenges]]
+
+== Organizing Committee ==
+
+'''Chair'''
+* Nomi L. Harris (Lawrence Berkeley National Laboratory)
+
+'''Co-Chairs'''
+* Heather Wiencko ([https://www.hostedgraphite.com Hosted Graphite], Dublin Ireland)
+* [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer]; [http://compbio.sph.harvard.edu/chb/ Harvard School of Public Health])
+
+'''Organizing Committee Members'''
+* Karsten Hokamp (Smurfit Institute of Genetics, Trinity College Dublin, Ireland)
+* [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; [http://www.hutton.ac.uk James Hutton Institute])
+* Christopher Fields (National Center for Supercomputing Applications)
+* Bastian Greshake (OpenSNP)
+* [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp] (Center for Genomic and Computational Biology (GCB), Duke University)
+* [https://twitter.com/monimunozto Mónica Muñoz-Torres]  Phoenix Bioinformatics Corporation
+
+== Previous BOSCs ==
+
+* BOSC has been held yearly since 2000.
+* [[BOSC 2017]] was held July 22-23, 2017 in Prague as part of the  [https://www.iscb.org/ismbeccb2017 ISMB/ECCB meeting].
+* [[Past BOSC conferences | Information about the first 17 BOSC conferences]]
+
+== Contact Us ==
+
+* [https://twitter.com/OBF_BOSC Follow BOSC on Twitter]: @OBF_BOSC, #gccbosc
+* If you'd like to join the mailing list for BOSC-related announcements, including the call for abstracts and deadline reminders, please subscribe to [http://lists.open-bio.org/mailman/listinfo/bosc-announce bosc-announce].  This list has low traffic, and your address will be kept private.
+* If you have questions about the conference, or would like to volunteer to help out, please contact the organizers at [mailto:obf-bosc@googlegroups.com obf-bosc@googlegroups.com].
+
+[[Category:BOSC]] [[Category:Conferences]]
+[[Category:BOSC Conferences]]
