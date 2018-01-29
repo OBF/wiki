@@ -83,8 +83,11 @@ BOSC covers all aspects of bioinformatics and open science software, including (
 == Previous BOSCs ==
 
 * BOSC has been held yearly since 2000.
-* [[BOSC 2017]] was held July 22-23, 2017 in Prague as part of the  [https://www.iscb.org/ismbeccb2017 ISMB/ECCB meeting].
+* [[BOSC 2017]] was held July 22-23, 2017 in Prague as part of the [https://www.iscb.org/ismbeccb2017 ISMB/ECCB meeting].
 * [[Past BOSC conferences | Information about the first 17 BOSC conferences]]
+
+== Code of Conduct ==
+The GCC BOSC 2018 Code of Conduct can be found [https://galaxyproject.org/events/gccbosc2018/code-of-conduct/ here].
 
 == Contact Us ==
 
