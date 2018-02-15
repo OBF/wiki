@@ -5,7 +5,7 @@ title: BOSC Abstract Submission
 __NOTOC__
 [[File:Pear.png‎|100px|left|BOSC logo|link=BOSC_2018]]
 
-The call for abstracts for [https://gccbosc2018.sched.com/|GCC BOSC 2018] will open soon!
+For 2018, the Galaxy Community Conference (GCC2018) and Bioinformatics Open Source Conference (BOSC 2018) are joining together for a unified event ([https://gccbosc2018.sched.com/ GCC BOSC 2018]) to be held in Portland, Oregon, United States, June 25-30, 2018.  Abstract submission will open soon! When you go to the submission portal (EasyChair), you will be able to choose whether to submit your abstract to BOSC or GCC.
 <br/><br/>
 == Important Dates ==
 * March 16, 2018: Deadline for submitting one-page abstracts for full talks
