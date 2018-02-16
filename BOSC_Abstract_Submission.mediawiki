@@ -18,6 +18,8 @@ BOSC covers all aspects of open source bioinformatics software and open biomedic
 
 We are happy to consider abstracts describing work that has already been published or presented elsewhere, but we ask you to mention that on the submission form. Work that has been presented at a recent BOSC will need to demonstrate significant progress in order to be eligible for a talk at BOSC 2018.
 
+Please note: if your abstract PRIMARILY concerns Galaxy, please submit your abstract to the Galaxy track. If it is accepted for a talk, BOSC and GCC will try to schedule your talk during a joint BOSC/GCC session.
+
 == Abstract Formatting Requirements ==
 Abstracts must be '''one page''' (8.5 inches by 11 inches or A4) in length and submitted '''as a PDF file'''. Your one-page abstract is welcome to include any figures or graphics that will fit; however, we cannot accept figures on additional page(s).
 
