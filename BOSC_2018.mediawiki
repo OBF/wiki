@@ -9,6 +9,15 @@ __NOTOC__
 Oregon as part of [https://gccbosc2018.sched.com/ a bioinformatics community conference] 
 co-hosted with the Galaxy Community Conference.'''
 
+== Important Dates ==
+
+* February 20, 2018: [[BOSC_Abstract_Submission|Abstract submission]] opens
+* '''March 16, 2018''': Deadline for [[BOSC_Abstract_Submission|submitting abstracts]] for full talks
+* April 10, 2018: Authors notified
+* (Registration deadlines to be announced)
+* '''June 25-30, 2018''': [https://gccbosc2018.sched.com/|GCC BOSC 2018], Reed College, Portland
+* June 29,30, July 1,2: Collaborative codeing
+
 == Why is BOSC parterning with GCC in 2018? == 
 BOSC has been a part of ISMB since its inception, and we greatly value our
 relationships with the ISCB management and the ISMB community.
@@ -42,13 +51,6 @@ to sever our strong ties with ISMB. We're planning to evaluate the combined GCC
 and BOSC experience in 2018 and welcome community feedback on all of these
 thoughts and plans.
 
-== Important Dates ==
-
-* '''March 16, 2018''': Deadline for [[BOSC_Abstract_Submission|submitting abstracts]] for full talks
-* April 10, 2018: Authors notified
-* (Registration deadlines to be announced)
-* '''June 25-30, 2018''': [https://gccbosc2018.sched.com/|GCC BOSC 2018], Reed College, Portland
-* June 29,30, July 1,2: Collaborative codeing
 
 == Session Topics ==
 BOSC covers all aspects of bioinformatics and open science software, including (but not limited to):
