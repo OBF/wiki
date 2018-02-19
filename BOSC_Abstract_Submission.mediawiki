@@ -10,7 +10,7 @@ For 2018, the Galaxy Community Conference (GCC2018) and Bioinformatics Open Sour
 == Important Dates ==
 * March 16, 2018: Deadline for submitting one-page abstracts for full talks
 * April 10, 2018: Authors notified
-* '''June 25-30, 2018: [https://gccbosc2018.sched.com/|GCC BOSC 2018 (Portland, OR)]'''
+* '''June 25-30, 2018: [https://gccbosc2018.sched.com/| GCCBOSC2018 (Portland, OR)]'''
 
 == Acceptance Criteria ==
 
