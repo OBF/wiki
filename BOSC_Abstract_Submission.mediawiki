@@ -5,10 +5,13 @@ title: BOSC Abstract Submission
 __NOTOC__
 [[File:Pear.png‎|100px|left|BOSC logo|link=BOSC_2018]]
 
-For 2018, the Galaxy Community Conference (GCC2018) and Bioinformatics Open Source Conference (BOSC 2018) are joining together for a unified event ([https://gccbosc2018.sched.com/ GCC BOSC 2018]) to be held in Portland, Oregon, United States, June 25-30, 2018.  Abstract submission will open soon! When you go to the submission portal (EasyChair), you will be able to choose whether to submit your abstract to BOSC or GCC.
+For 2018, the Galaxy Community Conference (GCC2018) and Bioinformatics Open Source Conference (BOSC 2018) are joining together for a unified event ([https://gccbosc2018.sched.com/ GCC BOSC 2018]) to be held in Portland, Oregon, United States, June 25-30, 2018.  
+
+'''[https://easychair.org/conferences/?conf=gccbosc2018 Submit your abstract now]''' (via EasyChair). When you go to the submission portal (EasyChair), you will be able to choose whether to submit your abstract to BOSC or GCC.
+
 <br/>
 == Important Dates ==
-* March 16, 2018: Deadline for submitting one-page abstracts for full talks
+* '''March 16, 2018: Deadline for submitting one-page abstracts for full talks'''
 * April 10, 2018: Authors notified
 * '''June 25-30, 2018: [https://gccbosc2018.sched.com/| GCCBOSC2018 (Portland, Oregon)]''' -- main conference June 27-28
 
@@ -39,7 +42,7 @@ Please use one of the provided templates or format your abstract as follows:
 ** Author affiliations, including the e-mail address of the presenting author.
 ** URL for the overall project web site
 ** URL for accessing the code
-** The particular Open Source License being used
+** The particular Open Source License being used (for BOSC)
 
 == BOSC Open Source License Requirement ==
 
@@ -49,6 +52,8 @@ See the following websites for further information:
 * [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
 * [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
 
+'''[https://easychair.org/conferences/?conf=gccbosc2018 Submit your abstract now!]'''
+
 == Open Bioinformatics Foundation Travel Fellowships ==
 
 The OBF Travel Fellowship program is aimed at increasing diverse participation at events promoting open source bioinformatics software development and open science in the biological research community. The fellowship can be used to cover airfare, hotel and / or conference registration fees up to a value of USD 1,000. BOSC speakers are welcome to [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md apply for a fellowship]. The deadline for applying is April 15, 2018.
@@ -57,6 +62,8 @@ The OBF Travel Fellowship program is aimed at increasing diverse participation a
 The GCCBOSC2018 Code of Conduct can be found [https://galaxyproject.org/events/gccbosc2018/code-of-conduct/ here].
 
 == Links ==
+''[https://easychair.org/conferences/?conf=gccbosc2018 Submit your abstract now!]'''
+
 [[BOSC_2018|BOSC 2018 home page]]
 
 [https://gccbosc2018.sched.com/ GCCBOSC2018 home page]
