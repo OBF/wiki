@@ -6,19 +6,19 @@ __NOTOC__
 <div style="float:left; maxwidth: 180px; margin-left:25px; margin-right:15px; background-color: #FFFFFF">[[Image:Pear.png|left|The Bosc Pear]]</div>
 
 '''[https://gccbosc2018.sched.com/ BOSC 2018] will take place June 26-27, 2018''' (with training days June 24-25 and a CollaborationFest June 28-29) at Reed College in Portland,
-Oregon as part of [https://gccbosc2018.sched.com/ the GCCBOSC2018 bioinformatics community conference] 
+Oregon as part of [https://gccbosc2018.sched.com/ the GCCBOSC 2018 bioinformatics community conference] 
 co-hosted with the Galaxy Community Conference.'''
 
-'''[[BOSC_Abstract_Submission| Submit your abstract now!]]'''
+'''[[BOSC_Abstract_Submission| Submit your abstract now!]]''' Abstracts are due March 16!
 
 == Important Dates ==
 
 * February 20, 2018: [[BOSC_Abstract_Submission|Abstract submission]] opens
-* '''March 16, 2018''': Deadline for [[BOSC_Abstract_Submission|submitting abstracts]] for full talks
+* '''March 16, 2018''': Deadline for [[BOSC_Abstract_Submission|submitting abstracts]] for talks
 * April 10, 2018: Authors notified
 * (Registration deadlines to be announced)
-* '''June 25-30, 2018''': [https://gccbosc2018.sched.com/|GCC BOSC 2018], Reed College, Portland
-* June 29,30, July 1,2: Collaborative codeing
+* '''June 25-30, 2018''': [https://gccbosc2018.sched.com/|GCCBOSC 2018], Reed College, Portland
+* June 29,30, July 1,2: Collaborative coding
 
 == Why is BOSC parterning with GCC in 2018? == 
 BOSC has been a part of ISMB since its inception, and we greatly value our
@@ -30,8 +30,7 @@ exciting and successful meeting.
 Because of our continuing focus on
 [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md broadening and deepening the BOSC community],
 we've been exploring ways to reach those in the bioinformatics community who aren’t already part of the audience attracted
-by ISMB. As part of
-that exploration, we have looked at other organizations and conferences that
+by ISMB. As part of that exploration, we have looked at other organizations and conferences that
 have been successful at establishing a strong and growing community of
 participants. One such conference is the [https://gcc2017.sciencesconf.org/ Galaxy Community Conference (GCC)].
 
@@ -66,7 +65,7 @@ BOSC covers all aspects of bioinformatics and open science software, including (
 * Developer Tools and Libraries
 * Bioinformatics Open Source Project Progress Reports
 
-== Organizing Committee ==
+== BOSC Organizing Committee ==
 
 '''Chair'''
 * Nomi L. Harris (Lawrence Berkeley National Laboratory)
@@ -90,7 +89,7 @@ BOSC covers all aspects of bioinformatics and open science software, including (
 * [[Past BOSC conferences | Information about the first 17 BOSC conferences]]
 
 == Code of Conduct ==
-The GCC BOSC 2018 Code of Conduct can be found [https://galaxyproject.org/events/gccbosc2018/code-of-conduct/ here].
+The GCCBOSC 2018 Code of Conduct can be found [https://galaxyproject.org/events/gccbosc2018/code-of-conduct/ here].
 
 == Contact Us ==
 
