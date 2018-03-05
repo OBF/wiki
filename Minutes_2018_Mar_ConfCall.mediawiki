@@ -1,0 +1,37 @@
+---
+title: Minutes:2018 Mar ConfCall
+---
+
+= Agenda =
+
+'''Venue:''' To be held by conference call on March 16, 2018, 11.00pm EDT (15:00 UTC, 16:00 CET, 8.00am PDT) ''Note that at the time of the meeting, the US will have switched already to DST, whereas Europe will not. Hence the time zone difference is an hour less than it would normally be.''<br/>
+'''Dial-in Information:''' +1-857-216-2939 PIN: 62534 http://www.uberconference.com/hlapp
+
+<ol>
+<li> Old business </li>
+ <ul>
+  <li> [[Minutes:2016_Oct_ConfCall| Oct 2016 BoD meeting minutes]]</li>
+ </ul>  
+<li>New business</li>
+<ol style="list-style-type:lower-roman">
+  <li> Term expirations and Elections for the Board <!-- ([https://vote.heliosvoting.org/helios/e/obf-2018 electronic ballot]) -->
+    <ul>
+       <li>Bastian Greshake Tsovaras, running for Board member at-large</li>
+       <li>Yo Yehudi, running for Board member at-large</li>
+    </ul>
+  </li>
+</ol>
+</ol>
+
+= Minutes =
+
+<!-- Etherpad for notes: https://etherpad.wikimedia.org/p/OBF-BoD-Meeting-Mar2018 -->
+
+'''Attending:'''
+* '''Directors''': 
+* '''Guests''': 
+
+== Old business == 
+
+
+== New business ==
