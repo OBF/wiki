@@ -20,6 +20,7 @@ title: Minutes:2018 Mar ConfCall
        <li>Yo Yehudi, running for Board member at-large</li>
     </ul>
   </li>
+  <li> Fiscal sponsor - experiences, lessons, possibilities</li>
 </ol>
 </ol>
 
