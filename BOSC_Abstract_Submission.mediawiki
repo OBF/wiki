@@ -22,8 +22,20 @@ For 2018, the Galaxy Community Conference (GCC2018) and Bioinformatics Open Sour
 
 If your abstract PRIMARILY concerns Galaxy, please submit your abstract to the Galaxy track. If it is accepted for a talk, we will try to schedule your talk during a joint GCC/BOSC session.
 
+Not sure which one to submit your abstract to? Just pick one and the chairs will work it out! 
+
 == Abstract Formatting Requirements ==
 Abstracts must be '''one page''' (8.5 inches by 11 inches or A4) in length and submitted '''as a PDF file'''. Your one-page abstract is welcome to include any figures or graphics that will fit; however, we cannot accept figures on additional page(s).
+
+Please format your abstract as follows. Abstract PDFs will be included as-is in the program, so they need to include all the relevant information on that one page.
+* Include the following pieces of information in order from the top of the page:
+** Title
+** Authors, with the presenting author's name underlined.
+** Author affiliations, including the e-mail address of the presenting author.
+** URL for the overall project web site
+** URL for accessing the code
+** The particular Open Source License being used (for BOSC)
+* Use 1 inch (2.5 cm) margins on the top, sides, and bottom of the page, and a font size of 11 or 12.
 
 You may wish to use one of these abstract templates:
 * [http://www.open-bio.org/wiki/File:BOSC2015-abstract-template.pdf PDF] (not fillable)
@@ -32,16 +44,6 @@ You may wish to use one of these abstract templates:
 * [http://www.open-bio.org/bosc2015/bosc2015-abstract-example.docx Word (.docx)]
 * [http://www.open-bio.org/bosc2015/bosc2015-abstract-example.pages Pages]
 * [https://github.com/bow/talks/blob/master/2014_bosc/abstract/abstract.tex LaTeX]
-
-Please use one of the provided templates or format your abstract as follows:
-* Use 1 inch (2.5 cm) margins on the top, sides, and bottom of the page.
-* Include the following pieces of information in order from the top of the page:
-** Title
-** Authors, with the presenting author's name underlined.
-** Author affiliations, including the e-mail address of the presenting author.
-** URL for the overall project web site
-** URL for accessing the code
-** The particular Open Source License being used (for BOSC)
 
 == BOSC Open Source License Requirement ==
 
