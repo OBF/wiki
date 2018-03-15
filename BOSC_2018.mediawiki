@@ -59,7 +59,7 @@ BOSC covers all aspects of bioinformatics and open science software, including (
 * Citizen/Participatory Science
 * Standards and Interoperability
 * Data Science
-* Workflows (note that talks about Open Source projects relating to 
+* Workflows (may be a joint session with GCC)
 * Visualization
 * Medical and Translational Bioinformatics
 * Developer Tools and Libraries
