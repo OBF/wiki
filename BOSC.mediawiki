@@ -11,6 +11,7 @@ The '''B'''ioinformatics '''O'''pen '''S'''ource '''C'''onference has been held 
 
 == BOSC meetings to date ==
 
+* [[BOSC 2018]] Portland, Oregon
 * [[BOSC 2017]] Prague, Czech Republic
 * [[BOSC 2016]] Orlando, FL, USA
 * [[BOSC 2015]] Dublin, Ireland
@@ -30,7 +31,7 @@ The '''B'''ioinformatics '''O'''pen '''S'''ource '''C'''onference has been held 
 * [[BOSC 2001]] Copenhagen, Denmark
 * [[BOSC 2000]] San Diego, CA USA
 
-In recent years the BOSC meetings have been preceded by a two day [[Codefest]], an informal developer meeting.
+In recent years the BOSC meetings have been preceded by a two day [[Codefest]], an informal developer meeting.  In 2018, the event has been renames ''[https://galaxyproject.org/events/gccbosc2018/collaboration/ CollaborationFest]'' and will be held after BOSC.
 
 Other conferences
 * A [[bp:BioPerl|BioPerl]] [[BioPerl Heidelberg 1999|workshop]] was held in conjunction with ISMB'99 in Heidelberg, Germany.
