@@ -3,9 +3,10 @@ title: BOSC Abstract Submission
 ---
 
 __NOTOC__
-[[File:Pear.png‎|100px|left|BOSC logo|link=BOSC_2018]]
 
-For 2018, the Galaxy Community Conference (GCC2018) and Bioinformatics Open Source Conference (BOSC 2018) are joining together for a unified event ([https://gccbosc2018.sched.com/ GCC BOSC 2018]) to be held in Portland, Oregon, United States, June 25-30, 2018.  
+[[File:Gcc-bosc-2018-logo_boxed_300.png|100px|left|GCCBOSC 2018|link=https://gccbosc2018.sched.com/]]
+
+For 2018, the '''[[BOSC_2018|Bioinformatics Open Source Conference (BOSC 2018)]]''' and the '''Galaxy Community Conference (GCC2018)''' are joining together for a unified event ('''[https://gccbosc2018.sched.com/ GCC BOSC 2018]''') to be held in Portland, Oregon, United States, June 25-30, 2018.  
 
 '''[https://easychair.org/conferences/?conf=gccbosc2018 Submit your abstract now]''' (via EasyChair). When you go to the submission portal (EasyChair), you will be able to choose whether to submit your abstract to BOSC or GCC.
 <br/>
