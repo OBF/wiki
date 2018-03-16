@@ -35,8 +35,8 @@ title: Minutes:2018 Mar ConfCall
 <!-- Etherpad for notes: https://etherpad.wikimedia.org/p/OBF-BoD-Meeting-Mar2018 -->
 
 '''Attending:'''
-* '''Directors''': 
-* '''Guests''': 
+* '''Directors''': Hilmar Lapp, Peter Cock, Heather Wiencko, Nomi Harris, Chris Field, Karen Cranston
+* '''Guests''': Bastian Greshake Tzovaras, Yo Yehudi
 
 == Old business == 
 
