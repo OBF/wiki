@@ -14,10 +14,10 @@ co-hosted with the Galaxy Community Conference.'''
 == Important Dates ==
 
 * February 20, 2018: [[BOSC_Abstract_Submission|Abstract submission]] opens
-* '''March 16, 2018''': Deadline for [[BOSC_Abstract_Submission|submitting abstracts]] for talks
+*  '''March 19, 2018''': Deadline for [[BOSC_Abstract_Submission|submitting abstracts]] for talks  (''Deadline Extended)''
 * April 10, 2018: Authors notified
 * (Registration deadlines to be announced)
-* '''June 25-30, 2018''': [https://gccbosc2018.sched.com/|GCCBOSC 2018], Reed College, Portland
+* '''June 25-30, 2018''': [https://gccbosc2018.sched.com/| GCCBOSC 2018], Reed College, Portland
 * June 29,30, July 1,2: Collaborative coding
 
 == Why is BOSC parterning with GCC in 2018? == 
