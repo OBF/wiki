@@ -10,7 +10,7 @@ For 2018, the Galaxy Community Conference (GCC2018) and Bioinformatics Open Sour
 '''[https://easychair.org/conferences/?conf=gccbosc2018 Submit your abstract now]''' (via EasyChair). When you go to the submission portal (EasyChair), you will be able to choose whether to submit your abstract to BOSC or GCC.
 <br/>
 == Important Dates ==
-* '''March 16, 2018: Deadline for [https://easychair.org/conferences/?conf=gccbosc2018 submitting one-page abstracts] for full talks'''
+* '''March 19, 2018 (extended from the original deadline of March 16): Deadline for [https://easychair.org/conferences/?conf=gccbosc2018 submitting one-page abstracts] for full talks'''
 * April 10, 2018: Authors notified
 * '''June 25-30, 2018: [https://gccbosc2018.sched.com/| GCCBOSC2018 (Portland, Oregon)]''' -- main conference June 27-28
 
