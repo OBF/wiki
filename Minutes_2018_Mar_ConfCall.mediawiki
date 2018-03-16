@@ -2,7 +2,7 @@
 title: Minutes:2018 Mar ConfCall
 ---
 
-= DIal-in information =
+= Dial-in information =
 
 * Dial-in Information: +1-857-216-2939
 * PIN: 62534
