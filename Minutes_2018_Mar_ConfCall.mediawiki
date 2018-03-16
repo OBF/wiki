@@ -20,7 +20,7 @@ title: Minutes:2018 Mar ConfCall
  </ul>  
 <li>New business</li>
 <ol style="list-style-type:lower-roman">
-  <li> Term expirations and Elections for the Board <!-- ([https://vote.heliosvoting.org/helios/e/obf-2018 electronic ballot]) -->
+  <li> Term expirations and Elections for the Board ([https://vote.heliosvoting.org/helios/e/obf-mar-2018 electronic ballot])
     <ul>
        <li>Bastian Greshake Tzovaras, running for Board member at-large</li>
        <li>Yo Yehudi, running for Board member at-large</li>
