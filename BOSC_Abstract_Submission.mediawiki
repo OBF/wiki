@@ -52,8 +52,6 @@ See the following websites for further information:
 * [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
 * [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
 
-'''[https://easychair.org/conferences/?conf=gccbosc2018 Submit your abstract now!]'''
-
 == Open Bioinformatics Foundation Travel Fellowships ==
 
 The OBF Travel Fellowship program is aimed at increasing diverse participation at events promoting open source bioinformatics software development and open science in the biological research community. The fellowship can be used to cover airfare, hotel and / or conference registration fees up to a value of USD 1,000. BOSC speakers are welcome to [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md apply for a fellowship]. The deadline for applying is April 15, 2018.
