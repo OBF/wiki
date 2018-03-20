@@ -18,8 +18,9 @@ co-hosted with the Galaxy Community Conference.'''
 * '''June 25-30, 2018''': [https://gccbosc2018.sched.com/ GCCBOSC 2018], Reed College, Portland
 * June 29,30, July 1,2: Collaborative coding
 
-== Why is BOSC parterning with GCC in 2018? == 
-BOSC has been a part of ISMB since its inception, and we greatly value our
+== Why is BOSC partnering with GCC in 2018? ==
+[[File:Gcc-bosc-2018-logo_boxed_300.png|100px|left|GCCBOSC 2018|link=https://gccbosc2018.sched.com/]]
+BOSC has been a part of [https://www.iscb.org/ismb2018 ISMB] since its inception, and we greatly value our
 relationships with the ISCB management and the ISMB community.
 [http://www.open-bio.org/wiki/BOSC_2017 BOSC 2017], which was part of
 [https://www.iscb.org/ismbeccb2017 ISMB/ECCB 2017] in Prague, was an
