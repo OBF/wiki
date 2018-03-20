@@ -9,14 +9,12 @@ __NOTOC__
 Oregon as part of [https://gccbosc2018.sched.com/ the GCCBOSC 2018 bioinformatics community conference] 
 co-hosted with the Galaxy Community Conference.'''
 
-'''[[BOSC_Abstract_Submission| Submit your abstract now!]]''' Talk abstracts are due March 19!
-
 == Important Dates ==
 
 * February 20, 2018: [[BOSC_Abstract_Submission|Abstract submission]] opens
-*  '''March 19, 2018''': Deadline for [[BOSC_Abstract_Submission|submitting abstracts]] for talks  (''Deadline Extended)''
+*  '''March 19, 2018''': Deadline for submitting abstracts for talks 
 * April 10, 2018: Authors notified
-* (Registration deadlines to be announced)
+* May 11, 2018: [https://galaxyproject.org/events/gccbosc2018/register/ Early registration] ends
 * '''June 25-30, 2018''': [https://gccbosc2018.sched.com/ GCCBOSC 2018], Reed College, Portland
 * June 29,30, July 1,2: Collaborative coding
 
