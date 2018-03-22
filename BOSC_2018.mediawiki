@@ -79,7 +79,6 @@ BOSC covers all aspects of bioinformatics and open science software, including (
 * Christopher Fields (National Center for Supercomputing Applications)
 * Bastian Greshake (OpenSNP)
 * [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp] (Center for Genomic and Computational Biology (GCB), Duke University)
-* [https://twitter.com/monimunozto Mónica Muñoz-Torres]  Phoenix Bioinformatics Corporation
 
 == Previous BOSCs ==
 
