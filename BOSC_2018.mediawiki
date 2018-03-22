@@ -18,6 +18,13 @@ co-hosted with the Galaxy Community Conference.'''
 * '''June 25-30, 2018''': [https://gccbosc2018.sched.com/ GCCBOSC 2018], Reed College, Portland
 * June 29,30, July 1,2: Collaborative coding
 
+
+[[File:https://www.open-bio.org/w/images/7/71/FernandoPerez.jpg|100px|left|Fernando Perez|link=https://gccbosc2018.sched.com/directory/speakers]]
+[[File:https://www.open-bio.org/w/images/8/87/TracyTeal.jpg|100px|right|Tracy K. Teal|link=https://gccbosc2018.sched.com/directory/speakers]]
+== Keynote Speakers ==
+
+The [https://gccbosc2018.sched.com/directory/speakers BOSC keynote speakers] will be [https://gccbosc2018.sched.com/speaker/fperez10 Fernando Pérez] (Berkeley Institute for Data Science, University of California Berkeley) and [https://gccbosc2018.sched.com/speaker/tkteal Tracy K. Teal] (The Carpentries). Additionally, GCC's keynote speaker is [https://gccbosc2018.sched.com/speaker/lucia.peixoto Lucia Peixoto].
+
 == Why is BOSC partnering with GCC in 2018? ==
 [[File:Gcc-bosc-2018-logo_boxed_300.png|100px|left|GCCBOSC 2018|link=https://gccbosc2018.sched.com/]]
 BOSC has been a part of [https://www.iscb.org/ismb2018 ISMB] since its inception, and we greatly value our
