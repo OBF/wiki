@@ -7,7 +7,7 @@ __NOTOC__
 For 2018, the '''[[BOSC_2018|Bioinformatics Open Source Conference (BOSC 2018)]]''' and the '''Galaxy Community Conference (GCC2018)''' are joining together for a unified event ('''[https://gccbosc2018.sched.com/ GCC BOSC 2018]''') to be held in Portland, Oregon, United States, June 25-30, 2018.  
 
 == Important Dates ==
-* March 19, 2018: Deadline for submitting one-page abstracts] for full talks
+* March 19, 2018: Deadline for submitting one-page abstracts for full talks (submission for late-breaking lightning talks / posters / demos will open soon)
 * April 10, 2018: Authors notified
 * '''June 25-30, 2018: [https://gccbosc2018.sched.com/| GCCBOSC2018 (Portland, Oregon)]''' -- main conference June 27-28
 
