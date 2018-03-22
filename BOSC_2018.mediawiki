@@ -48,7 +48,7 @@ bioinformatics community in a few ways:
 
 * It includes two dedicated training days by members from both the [https://www.open-bio.org/wiki/Main_Page Open Bioinformatics Foundation] and Galaxy communities. This enables focused training on useful tools and approaches, making the conference attractive to anyone who wants to expand their skills.
 
-* There will be two integrated days of collaboration following the conference, merging [https://www.open-bio.org/wiki/Codefest_2017 BOSC Codefest] and [https://gcc2017.sciencesconf.org/resource/page/id/10 Galaxy's Developer and User Hackathon Days]. We hope the integrated collaboration days following training and the conference talks will allow new and existing members of the community to attend and build working relationships.
+* There will be integrated collaboration days after the conference, merging [https://www.open-bio.org/wiki/Codefest_2017 BOSC Codefest] and [https://gcc2017.sciencesconf.org/resource/page/id/10 Galaxy's Developer and User Hackathon Days]. We hope the integrated collaboration days following training and the conference talks will allow new and existing members of the community to attend and build working relationships.
 
 * The meeting will be held at a great venue in Portland--Reed College--providing an affordable and fun experience for anyone who wants to attend.
 
