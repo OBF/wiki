@@ -11,15 +11,20 @@ co-hosted with the Galaxy Community Conference.'''
 
 == Important Dates ==
 
-* February 20, 2018: [[BOSC_Abstract_Submission|Abstract submission]] opens
-*  March 19, 2018: Deadline for submitting abstracts for talks 
-* April 10, 2018: Authors notified
+*  March 19, 2018: Deadline for submitting abstracts for full talks 
+* April 10, 2018: First-round authors notified
 * May 11, 2018: [https://galaxyproject.org/events/gccbosc2018/register/ Early registration] ends
+* May 17, 2018: Late-breaking lightning talk/poster/demo submission deadline
+* May 24, 2018: Late-round authors notified
 * '''June 25-30, 2018''': [https://gccbosc2018.sched.com/ GCCBOSC 2018], Reed College, Portland
-* June 29,30, July 1,2: Collaborative coding
+* June 25-26: GCCBOSC Training Days
+* June 27-28: GCCBOSC main conference
+* June 29,30, July 1,2: Collaborative coding at GCCBOSC
+
 
 [[File:FernandoPerez.jpg|100px|left|Fernando Perez|link=https://gccbosc2018.sched.com/directory/speakers]]
 [[File:TracyTeal.jpg|100px|right|Tracy K. Teal|link=https://gccbosc2018.sched.com/directory/speakers]]
+
 == Keynote Speakers ==
 
 The [https://gccbosc2018.sched.com/directory/speakers BOSC keynote speakers] will be [https://gccbosc2018.sched.com/speaker/fperez10 Fernando Pérez] (Berkeley Institute for Data Science, University of California Berkeley) and [https://gccbosc2018.sched.com/speaker/tkteal Tracy K. Teal] (The Carpentries). Additionally, GCC's keynote speaker is [https://gccbosc2018.sched.com/speaker/lucia.peixoto Lucia Peixoto].
