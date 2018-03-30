@@ -13,13 +13,13 @@ For 2018, the '''[[BOSC_2018|Bioinformatics Open Source Conference (BOSC 2018)]]
 
 == Acceptance Criteria ==
 
-'''BOSC''' welcomes submissions about all aspects of open source bioinformatics, open science and open data, including but not limited to reproducible research, citizen/participatory science, standards and interoperability, open source tools for data science and visualization, and medical and translational bioinformatics. '''Work discussed in BOSC presentations must be open source''', with a recognized open source license and an URL for accessing your code. We look for impact of the work in building or sustaining open source communities.  We are happy to consider abstracts describing work that has already been published or presented elsewhere, but we ask you to mention that on the submission form. Work that has been presented at a recent BOSC will need to demonstrate significant progress in order to be eligible for a talk at BOSC 2018.
+'''BOSC''' welcomes submissions about all aspects of open source bioinformatics, open science and open data, including but not limited to reproducible research, citizen/participatory science, standards and interoperability, open source tools for data science and visualization, and medical and translational bioinformatics. '''Work discussed in BOSC presentations must be open source''', with a recognized open source license and a URL for accessing your code. We look for impact of the work in building or sustaining open source communities.  We are happy to consider abstracts describing work that has already been published or presented elsewhere, but we ask you to mention that on the submission form. Work that has been presented at a recent BOSC will need to demonstrate significant progress in order to be eligible for a talk at BOSC 2018.
 
 '''GCC''' welcomes submissions that use, implement, or extend the Galaxy platform and ecosystem, including but not limited to integrating and analyzing large and diverse datasets in biomedical research; enhancing reproducibility in computational analyses; and fostering collaboration and communication in scientific workflow development.
 
 If your abstract PRIMARILY concerns Galaxy, please submit your abstract to the Galaxy track. If it is accepted for a talk, we will try to schedule your talk during a joint GCC/BOSC session.
 
-Not sure which one to submit your abstract to? Just pick one and the chairs will work it out! 
+Not sure which one to submit your abstract to? Just pick one and the chairs will work it out!
 
 == Abstract Formatting Requirements ==
 Abstracts must be '''one page''' (8.5 inches by 11 inches or A4) in length and submitted '''as a PDF file'''. Your one-page abstract is welcome to include any figures or graphics that will fit; however, we cannot accept figures on additional page(s).
