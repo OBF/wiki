@@ -89,7 +89,7 @@ BOSC covers all aspects of bioinformatics and open science software, including (
 * Karsten Hokamp (Smurfit Institute of Genetics, Trinity College Dublin, Ireland)
 * [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; [http://www.hutton.ac.uk James Hutton Institute])
 * Christopher Fields (National Center for Supercomputing Applications)
-* Bastian Greshake (OpenSNP)
+* Bastian Greshake ([https://www.openhumans.org/ Open Humans])
 * [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp] (Center for Genomic and Computational Biology (GCB), Duke University)
 
 == Previous BOSCs ==
