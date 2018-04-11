@@ -92,6 +92,9 @@ BOSC covers all aspects of bioinformatics and open science software, including (
 * Bastian Greshake ([https://www.openhumans.org/ Open Humans])
 * [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp] (Center for Genomic and Computational Biology (GCB), Duke University)
 
+== Review Committee ==
+Kai Blin, Christian Brueffer, Scott Cain, Brad Chapman, Peter Cock, Anamaria Crisan, Gianluca Della Vedova, Christopher Fields, Konrad Förstner, George Githinji, Bastian Greshake Tzovaras, Nomi Harris, Michael Heuer, Karsten Hokamp, Shaun Jackman, Farah Khan, Hilmar Lapp, Jessica Maia, Herve Menager, Frank Nothaft, Kieran O'Neill, Konstantin Okonechnikov, Lorena Pantano, Surya Saha, Malvika Sharan, Eric Talevich, Morgan Taschuk, Heather Wiencko, Jason Williams, Yo Yehudi
+
 == Previous BOSCs ==
 
 * BOSC has been held yearly since 2000.
