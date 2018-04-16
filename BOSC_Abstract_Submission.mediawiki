@@ -6,9 +6,10 @@ __NOTOC__
 [[File:Gcc-bosc-2018-logo_boxed_300.png|100px|right|GCCBOSC 2018|link=https://gccbosc2018.sched.com/]]
 For 2018, the '''[[BOSC_2018|Bioinformatics Open Source Conference (BOSC 2018)]]''' and the '''Galaxy Community Conference (GCC2018)''' are joining together for a unified event ('''[https://gccbosc2018.sched.com/ GCC BOSC 2018]''') to be held in Portland, Oregon, United States, June 25-30, 2018.  
 
+'''[https://easychair.org/conferences/?conf=gccbosc2018 Submit your abstract now]''' (via EasyChair). When you go to the submission portal (EasyChair), you will be able to choose whether to submit your abstract to GCC or to BOSC (Late-Breaking Lightning Talk round).
+
 == Important Dates ==
 *  March 19, 2018: Deadline for submitting abstracts for full talks 
-* April 10, 2018: First-round authors notified
 * May 11, 2018: [https://galaxyproject.org/events/gccbosc2018/register/ Early registration] ends
 * May 17, 2018: Late-breaking lightning talk/poster/demo submission deadline
 * May 24, 2018: Late-round authors notified
