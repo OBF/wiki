@@ -9,6 +9,8 @@ __NOTOC__
 Oregon as part of [https://gccbosc2018.sched.com/ the GCCBOSC 2018 bioinformatics community conference] 
 co-hosted with the Galaxy Community Conference.'''
 
+'''[[BOSC_Abstract_Submission| Submit your abstract now!]]''' to be considered for a late-breaking lightning talk, demo and/or poster! (Deadline May 17)
+
 == Important Dates ==
 
 *  March 19, 2018: Deadline for submitting abstracts for full talks 
