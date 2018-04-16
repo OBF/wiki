@@ -16,7 +16,7 @@ co-hosted with the Galaxy Community Conference.'''
 *  March 19, 2018: Deadline for submitting abstracts for full talks 
 * April 15, 2018: Deadline for spring round of [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md OBF Travel Fellowships]
 * May 11, 2018: [https://galaxyproject.org/events/gccbosc2018/register/ Early registration] ends
-* May 17, 2018: Late-breaking lightning talk/poster/demo submission deadline
+* May 17, 2018: [[BOSC_Abstract_Submission|Late-breaking lightning talk/poster/demo submission]] deadline
 * May 24, 2018: Late-round authors notified
 * '''June 25-30, 2018''': [https://gccbosc2018.sched.com/ GCCBOSC 2018], Reed College, Portland
 * June 25-26: GCCBOSC Training Days
