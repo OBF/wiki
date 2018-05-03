@@ -10,7 +10,7 @@ For 2018, the '''[[BOSC_2018|Bioinformatics Open Source Conference (BOSC 2018)]]
 
 == Important Dates ==
 *  March 19, 2018: Deadline for submitting abstracts for full talks 
-* May 11, 2018: [https://galaxyproject.org/events/gccbosc2018/register/ Early registration] ends
+* May 11, 2018: [https://galaxyproject.org/events/gccbosc2018/register/ GCCBOSC early registration] ends
 * May 17, 2018: Late-breaking lightning talk/poster/demo submission deadline
 * May 24, 2018: Late-round authors notified
 * '''June 25-30, 2018: [https://gccbosc2018.sched.com/| GCCBOSC2018 (Portland, Oregon)]''' -- main conference June 27-28
