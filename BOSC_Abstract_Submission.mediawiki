@@ -9,10 +9,9 @@ For 2018, the '''[[BOSC_2018|Bioinformatics Open Source Conference (BOSC 2018)]]
 '''[https://easychair.org/conferences/?conf=gccbosc2018 Submit your abstract now]''' (via EasyChair). When you go to the submission portal (EasyChair), you will be able to choose whether to submit your abstract to GCC or to BOSC (Late-Breaking Lightning Talk round).
 
 == Important Dates ==
-*  March 19, 2018: Deadline for submitting abstracts for full talks 
-* May 11, 2018: [https://galaxyproject.org/events/gccbosc2018/register/ GCCBOSC early registration] ends
 * May 17, 2018: Late-breaking lightning talk/poster/demo submission deadline
-* May 24, 2018: Late-round authors notified
+* June 1, 2018: Final deadline for submitting demo/poster abstracts
+* June 1, 2018: [https://galaxyproject.org/events/gccbosc2018/register/ GCCBOSC advance registration] ends
 * '''June 25-30, 2018: [https://gccbosc2018.sched.com/| GCCBOSC2018 (Portland, Oregon)]''' -- main conference June 27-28
 
 == Acceptance Criteria ==
