@@ -18,7 +18,6 @@ co-hosted with the Galaxy Community Conference.'''
 * June 1, 2018: Final deadline for submitting demo/poster abstracts
 * June 1, 2018: [https://galaxyproject.org/events/gccbosc2018/register/ GCCBOSC advance registration] ends
 * '''June 25-30, 2018: [https://gccbosc2018.sched.com/| GCCBOSC2018 (Portland, Oregon)]''' -- main conference June 27-28
-* '''June 25-30, 2018''': [https://gccbosc2018.sched.com/ GCCBOSC 2018], Reed College, Portland
 * June 25-26: GCCBOSC Training Days
 * June 27-28: GCCBOSC main conference
 * June 29,30, July 1,2: Collaborative coding at GCCBOSC
