@@ -9,7 +9,7 @@ __NOTOC__
 Oregon as part of [https://gccbosc2018.sched.com/ the GCCBOSC 2018 bioinformatics community conference] 
 co-hosted with the Galaxy Community Conference.'''
 
-''Last chance to '[[BOSC_Abstract_Submission| submit a poster/demo abstract!]]''' (deadline June 1)
+'''Last chance to [[BOSC_Abstract_Submission| submit a poster/demo abstract!]]''' (deadline June 1)
 
 [https://twitter.com/OBF_BOSC Follow BOSC on Twitter]: @OBF_BOSC, #GCCBOSC
 
