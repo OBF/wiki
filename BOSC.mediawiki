@@ -44,9 +44,11 @@ In recent years the BOSC meetings have been preceded by a two day [[Codefest]], 
 
 The Open Bioinformatics Foundation welcomes donations to help support our work and the BOSC meeting, including offering [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md Travel Fellowships] and registration fee waivers.
 
-We currently request '''USD $1000 for sponsoring BOSC''', and will include your name and logo on the conference webpage, selected publicity material including blog posts and tweets, and during the conference itself during the opening and/or closing slides. Sponsors are welcome to submit work to be presented at BOSC as a talk or poster, but this will be reviewed impartially like any other submission.
+In 2018 we held BOSC co-located with the Galaxy Community Conference, see the combined [https://gccbosc2018.sched.com/directory/sponsors GCCBOSC 2018 sponsors] and [https://galaxyproject.org/events/gccbosc2018/sponsors/ GCCBOSC 2018 sponsorship tier details] pages.
 
-We currently request '''USD $1500 for sponsoring BOSC and the Codefest''', or '''USD $500 for sponsoring the pre-BOSC Codefest only''', with similar publicity arrangements. Here some of the donation will directly fund lunch and refreshment for the Codefest participants. Sponsor's developer/technical staff are welcome to attend the Codefest.
+In 2017 we requested '''USD $1000 for sponsoring BOSC''', and would include your name and logo on the conference webpage, selected publicity material including blog posts and tweets, and during the conference itself during the opening and/or closing slides. Sponsors are welcome to submit work to be presented at BOSC as a talk or poster, but this will be reviewed impartially like any other submission.
+
+Likewise in 2017, we requested '''USD $1500 for sponsoring BOSC and the Codefest''', or '''USD $500 for sponsoring the pre-BOSC Codefest only''', with similar publicity arrangements. Here some of the donation directly funded lunch and refreshment for the Codefest participants. Sponsor's developer/technical staff are welcome to attend the Codefest.
 
 We are open to discussing specific requests, such as distributing stickers or leaflets, or earmarking the sponsorship to a specific activity.
 
