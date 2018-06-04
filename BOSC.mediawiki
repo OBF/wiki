@@ -33,9 +33,6 @@ The '''B'''ioinformatics '''O'''pen '''S'''ource '''C'''onference has been held 
 
 In recent years the BOSC meetings have been preceded by a two day [[Codefest]], an informal developer meeting.  In 2018, the event has been renamed ''[https://galaxyproject.org/events/gccbosc2018/collaboration/ CollaborationFest]'' and will be held after BOSC as part of the GCCBOSC meeting.
 
-Other conferences
-* A [[bp:BioPerl|BioPerl]] [[BioPerl Heidelberg 1999|workshop]] was held in conjunction with ISMB'99 in Heidelberg, Germany.
-
 == BOSC-related channels and links ==
 
 * [http://f1000research.com/collections/BOSC BOSC F1000 Research Collection] (BOSC reports, posters, slides)
