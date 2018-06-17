@@ -40,6 +40,38 @@ In recent years the BOSC meetings have been preceded by a two day [[Codefest]], 
 * [http://youtube.com/c/OBFBOSC OBF BOSC on YouTube]
 * [http://google.com/+OBFBOSC OBF BOSC on Google+]
 
+== Getting involved ==
+
+BOSC is the result of many people's efforts and energy, from attendees all the way up to the chairs. There are many ways to get involved with the conference: 
+
+* '''Attend''' the main meeting and/or Codefest, meet people, and tweet about your experience.
+
+There's no conference without attendees! Your presence in the community is crucial to the success of the event, and we're always happy to see new faces.
+
+* '''Submit an abstract''' and present your work.
+
+Our focus is on open source work and communities. We require your code to be open and properly licensed, or else your abstract will be passed over. If your work is more about training materials than code, we'd like your materials to be open and licensed so others can benefit from it! 
+
+In the early days of BOSC, an abstract that was basically "I wrote some bioinformatics code, and it's open source" was good enough to merit at least a short talk, but we've grown since then. Even if a project is new and doesn't yet have a community, there should be some sort of plan for building a community of users and/or developers.
+
+Even with the hard requirement of openness, we do try to provide a platform to everyone who wants to present. We have long talks, short (or "lightning") talks, posters, and demos, and we really do want to hear from everyone. 
+
+* '''Organise''' a BoF
+
+"Birds of a Feather" groups are self-organised meetings during BOSC where anyone who wants to have a conversation with the community can gather and share. Usually BoFs are submitted through the conference website, and the list of topics will be available to all attendees. These tend to happen over lunch or dinner, or in the evenings, and can be a great way to meet people in smaller more accessible groups. Past BoFs have included project introductions, sponsor demos, discussions on diversity and inclusion, and even one for people on twitter!
+
+* '''Review abstracts'''
+
+Conference abstracts are reviewed by volunteers who express their interest. We encourage reviewers to be constructive in their comments, and many sign their reviews. Most reviewers will be assigned 3-4 abstracts per call, and there are two calls per conference (the main one, and a "late breaking lightning talk" round). We acknowledge our reviewers on the conference website and in the program. If you'd like to be a reviewer, contact the organising committee at bosc@open-bio.org. 
+
+* '''Join''' the organising committee
+
+The organising committee does the heavy lifting for making sure BOSC happens every year. Committee members help wrangle reviewers, assist in drafting and sending communication to reviewers, participants, and attendees, design programs and posters, find dinner locations, chair sessions during the conference, and more! 
+
+We acknowledge committee members on the conference website and in the program, and they are entitled to complimentary conference registration if their institution/employer doesn't already support them. In addition, co-chairs can have their travel and expenses supported by OBF if they aren't covered by their institution/employer. Travel support for other committee members may be available, but is up to the discretion of the co-chairs and OBF board and may be subject to available funds. 
+
+If you'd like to join the BOSC organising committee, contact us at bosc@open-bio.org. 
+
 == Sponsors ==
 
 The Open Bioinformatics Foundation welcomes donations to help support our work and the BOSC meeting, including offering [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md Travel Fellowships] and registration fee waivers.
