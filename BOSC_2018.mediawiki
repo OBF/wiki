@@ -7,9 +7,7 @@ __NOTOC__
 
 '''[https://gccbosc2018.sched.com/ BOSC 2018] will take place June 26-27, 2018''' (with training days June 24-25 and a CollaborationFest June 28-29) at Reed College in Portland,
 Oregon as part of [https://gccbosc2018.sched.com/ the GCCBOSC 2018 bioinformatics community conference] 
-co-hosted with the Galaxy Community Conference.'''
-
-'''Last chance to [[BOSC_Abstract_Submission| submit a poster/demo abstract!]]''' (deadline June 1)
+co-hosted with the Galaxy Community Conference. Check out the [https://gccbosc2018.sched.com/ complete schedule]!'''
 
 [https://twitter.com/OBF_BOSC Follow BOSC on Twitter]: @OBF_BOSC, #GCCBOSC
 
