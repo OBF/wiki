@@ -46,9 +46,7 @@ BOSC is the result of many people's efforts and energy, from attendees all the w
 
 === Attend ===
 
-Attend the main meeting and/or Codefest, meet people, and tweet about your experience.
-
-There's no conference without attendees! Your presence in the community is crucial to the success of the event, and we're always happy to see new faces.
+There's no conference without attendees! Your presence in the community is crucial to the success of the event, and we're always happy to see new faces. We encourage everyone to attend the main meeting and/or Codefest, meet people, and tweet about their experience.
 
 === Present your work ===
 
