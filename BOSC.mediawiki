@@ -50,13 +50,11 @@ There's no conference without attendees! Your presence in the community is cruci
 
 === Present your work ===
 
-Submit an abstract and present your work.
-
 Our focus is on open source work and communities. We require your code to be open and properly licensed, or else your abstract will be passed over. If your work is more about training materials than code, we'd like your materials to be open and licensed so others can benefit from it! 
 
 In the early days of BOSC, an abstract that was basically "I wrote some bioinformatics code, and it's open source" was good enough to merit at least a short talk, but we've grown since then. Even if a project is new and therefore doesn't yet have a community, there should be some sort of plan for building a community of users and/or developers.
 
-Even with the hard requirement of openness, we do try to provide a platform to everyone who wants to present. We have long talks, short (or "lightning") talks, posters, and demos, and we really do want to hear from everyone. 
+Even with the hard requirement of openness, we do try to provide a platform to everyone who wants to present. We have long talks, short (or "lightning") talks, posters, and demos, and we really do want to hear from everyone.
 
 === Organise a BoF===
 
