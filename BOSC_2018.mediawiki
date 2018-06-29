@@ -5,18 +5,23 @@ title: BOSC 2018
 __NOTOC__
 <div style="float:right; maxwidth: 180px; margin-left:25px; margin-right:15px; background-color: #FFFFFF">[[Image:Pear.png|left|The Bosc Pear]]</div>
 
-'''[https://gccbosc2018.sched.com/ BOSC 2018] will take place June 26-27, 2018''' (with training days June 24-25 and a CollaborationFest June 28-29) at Reed College in Portland,
+'''Whether you attended GCCBOSC or not, we want to hear from you! Please fill out our [https://gccbosc2018.sched.com/info questionnaire]!'''
+
+'''[https://gccbosc2018.sched.com/ BOSC 2018] was held June 26-27, 2018''' (with training days June 24-25 and a CollaborationFest June 28-29) at Reed College in Portland,
 Oregon as part of [https://gccbosc2018.sched.com/ the GCCBOSC 2018 bioinformatics community conference] 
 co-hosted with the Galaxy Community Conference. Check out the [https://gccbosc2018.sched.com/ complete schedule]!'''
 
-[https://twitter.com/OBF_BOSC Follow BOSC on Twitter]: @OBF_BOSC, #GCCBOSC
+We thank GCC co-chairs Dave Clements and Nicole Vasilevsky for all their contributions to making GCCBOSC 2018 a success!
+
+Brad Chapman's summaries of the conference:
+* [https://github.com/chapmanb/bcbb/blob/master/posts/conferences/bosc2018_day1a.md Day 1]
+* [https://github.com/chapmanb/bcbb/blob/master/posts/conferences/bosc2018_day2.md Day 2]
+
+[https://twitter.com/OBF_BOSC Follow BOSC on Twitter]: @OBF_BOSC, [https://twitter.com/search?f=tweets&vertical=default&q=%23GCCBOSC&src=typd #GCCBOSC]
 
 == Important Dates ==
 
 *  March 19, 2018: Deadline for submitting abstracts for full talks 
-* April 15, 2018: Deadline for spring round of [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md OBF Travel Fellowships]
-* June 1, 2018: Final deadline for submitting demo/poster abstracts
-* June 1, 2018: [https://galaxyproject.org/events/gccbosc2018/register/ GCCBOSC advance registration] ends
 * '''June 25-30, 2018: [https://gccbosc2018.sched.com/| GCCBOSC2018 (Portland, Oregon)]''' -- main conference June 27-28
 * June 25-26: GCCBOSC Training Days
 * June 27-28: GCCBOSC main conference
@@ -64,6 +69,8 @@ to sever our strong ties with ISMB. We're planning to evaluate the combined GCC
 and BOSC experience in 2018 and welcome community feedback on all of these
 thoughts and plans.
 
+'''Whether you attended GCCBOSC or not, we want to hear from you! Please fill out our [https://gccbosc2018.sched.com/info questionnaire]!
+'''
 == Session Topics ==
 BOSC covers all aspects of bioinformatics and open science software, including (but not limited to):
 * Open Science and Reproducible Research
