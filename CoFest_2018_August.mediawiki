@@ -1,0 +1,25 @@
+---
+title: CoFest 2018 August
+---
+
+August 2018 CollaborationFest (CoFest) is a distributed online event on August 17th, 2018. Initiated by Bérénice Batut and Saskia Hiltemann of the Galaxy Training Network, this is a distributed online event meant to continue the work from the [https://galaxyproject.org/events/gccbosc2018/collaboration/ GCCBOSC 2018 CollaborationFest]. This is a more informal event that our larger scale events, and the first attempt at having regular online collaboration days. In Boston, we'll be working together in a room in the Longwood Medical Area if anyone wants to join. We'll have space, power, wifi and friendly people to work with.
+
+'''Register''': 
+
+* [https://docs.google.com/spreadsheets/d/18b3ewtsL1l-cIh_GLp_wtVH2XoIZ0xM1yI9wfsmslK0/edit?usp=sharing add your name to the participants list].
+* [https://docs.google.com/document/d/1_IKEw1UPF6pfSBaJB9xOl-o-oVincZdKEk95NaRf7Fo/edit?usp=sharing add your ideas to the brainstorming document]
+
+Contributing communities:
+
+* [https://galaxyproject.org/events/2018-08-gtn/ Galaxy Training Network CoFest on Metagenomics Training Material]
+
+== Logistics ==
+
+In Boston, CoFest is kindly hosted in the Longwood Medical area. Enter the Harvard Medical Courtyard from Longwood Avenue at the Intersection of Avenue Louis Pasteur:
+
+* Friday, August 17th 9-5pm -- [https://www.countway.harvard.edu/ Harvard Medical School Countway Library] [https://goo.gl/maps/u5wZ91orBWB2 403 Computer Lab, 10 Shattuck St, Boston MA] -- enter through the far end of the quad. There will be security; tell them you're going to Codefest and they'll have a list of participants. Take the elevators on the left side up to the 4th floor.
+
+== Organizers ==
+
+* [http://github.com/chapmanb Brad Chapman]
+* [https://twitter.com/rs_khetani Radhika Khetani]
