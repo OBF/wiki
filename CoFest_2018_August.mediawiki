@@ -8,7 +8,7 @@ August 2018 CollaborationFest (CoFest) is a distributed online event on August 1
 
 * [https://docs.google.com/spreadsheets/d/18b3ewtsL1l-cIh_GLp_wtVH2XoIZ0xM1yI9wfsmslK0/edit?usp=sharing add your name to the participants list].
 * [https://docs.google.com/document/d/1_IKEw1UPF6pfSBaJB9xOl-o-oVincZdKEk95NaRf7Fo/edit?usp=sharing add your ideas to the brainstorming document]
-* [https://gitter.im/cofest/Lobby Join the gitter channel for discussion]
+* [https://gitter.im/cofest/Lobby Join the gitter channel for discussion. annoucements and coordination]
 
 Contributing communities:
 
