@@ -14,6 +14,25 @@ Contributing communities:
 
 * [https://galaxyproject.org/events/2018-08-gtn/ Galaxy Training Network CoFest on Metagenomics Training Material]
 
+== What is CoFest? ==
+
+CollaborationFests (or CoFests, for short) are in person or online working sessions aimed at developing open source code, documentation, training materials and anything else useful for doing biological research and analysis on the computer. The event is no cost and everyone who has the time and interest in working collaboratively for a day is welcome, regardless of experience. We love having new community members.
+
+CoFest is structured differently than traditional conferences:
+
+* It's a working session, so there won't be formal talks or training. The day is structured around group discussion, coding and writing.
+* Community members self organize around projects of interest. Everyone is encouraged to suggest projects, and then groups form around those projects.
+* We aim to work collaboratively, you are always welcome to change groups or try and connect work happening in different groups.
+* We informally share our working goals and progress at multiple times during the day, normally morning, lunchtime and at the end of the work day. This helps community members find work on interest and connections between different groups.
+* We want your feedback, suggestions and ideas to structure the day.
+
+== Finding work to do ==
+
+We have a [https://docs.google.com/document/d/1_IKEw1UPF6pfSBaJB9xOl-o-oVincZdKEk95NaRf7Fo/edit?usp=sharing shared document with current project ideas for this CoFest]. Bring your projects and ideas, we want to hear them. You can also take inspiration from previous working groups:
+
+* GCCBOSC CollaborationFest in June 2018: [https://docs.google.com/document/d/1qbU9JcUMUzJbakaG0t1haA1_apQ5UeVhcPaYintqZaE/edit Project ideas] and [https://docs.google.com/document/d/1s69vhxVTW-2_8EhiXEQ9U92oB2dQGr4HcneIa3-cHUQ/edit Work completed]
+* [https://www.open-bio.org/wiki/Codefest_Winter_2018 Codefest in Jan 2018]
+
 == Logistics ==
 
 In Boston, CoFest is kindly hosted in the Longwood Medical area. Enter the Harvard Medical Courtyard from Longwood Avenue at the Intersection of Avenue Louis Pasteur:
