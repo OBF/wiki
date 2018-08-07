@@ -20,6 +20,8 @@ In Boston, CoFest is kindly hosted in the Longwood Medical area. Enter the Harva
 
 * Friday, August 17th 9-5pm -- [https://www.countway.harvard.edu/ Harvard Medical School Countway Library] [https://goo.gl/maps/u5wZ91orBWB2 403 Computer Lab, 10 Shattuck St, Boston MA] -- enter through the far end of the quad. There will be security; tell them you're going to Codefest and they'll have a list of participants. Take the elevators on the left side up to the 4th floor.
 
+In Freiberg, the Galaxy training team will be in the Backofen lab meeting room.
+
 == Organizers ==
 
 * [http://github.com/chapmanb Brad Chapman]
