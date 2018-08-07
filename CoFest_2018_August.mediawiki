@@ -2,12 +2,12 @@
 title: CoFest 2018 August
 ---
 
-August 2018 CollaborationFest (CoFest) is a distributed online event on August 17th, 2018. Initiated by Bérénice Batut and Saskia Hiltemann of the Galaxy Training Network, this is a distributed online event meant to continue the work from the [https://galaxyproject.org/events/gccbosc2018/collaboration/ GCCBOSC 2018 CollaborationFest]. This is a more informal event that our larger scale events, and the first attempt at having regular online collaboration days. In Boston, we'll be working together in a room in the Longwood Medical Area if anyone wants to join. We'll have space, power, wifi and friendly people to work with.
+August 2018 CollaborationFest (CoFest) is a distributed online event on August 17th, 2018. Initiated by Bérénice Batut and Saskia Hiltemann of the Galaxy Training Network, this is a distributed online event meant to continue the work from the [https://galaxyproject.org/events/gccbosc2018/collaboration/ GCCBOSC 2018 CollaborationFest]. This is a more informal event than our larger scale events, and the first attempt at having regular online collaboration days. In Boston, we'll be working together in a room in the Longwood Medical Area if anyone wants to join. We'll have space, power, wifi and friendly people to work with.
 
 '''Register''': 
 
-* [https://docs.google.com/spreadsheets/d/18b3ewtsL1l-cIh_GLp_wtVH2XoIZ0xM1yI9wfsmslK0/edit?usp=sharing add your name to the participants list].
-* [https://docs.google.com/document/d/1_IKEw1UPF6pfSBaJB9xOl-o-oVincZdKEk95NaRf7Fo/edit?usp=sharing add your ideas to the brainstorming document]
+* [https://docs.google.com/spreadsheets/d/18b3ewtsL1l-cIh_GLp_wtVH2XoIZ0xM1yI9wfsmslK0/edit?usp=sharing Add your name to the participants list].
+* [https://docs.google.com/document/d/1_IKEw1UPF6pfSBaJB9xOl-o-oVincZdKEk95NaRf7Fo/edit?usp=sharing Add your ideas to the brainstorming document]
 * [https://gitter.im/cofest/Lobby Join the gitter channel for discussion. announcements and coordination]
 
 Contributing communities:
