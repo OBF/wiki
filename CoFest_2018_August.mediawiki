@@ -59,5 +59,7 @@ In Freiberg, the Galaxy training team will be in the Backofen lab meeting room.
 
 == Organizers ==
 
+* [http://bebatut.fr/ Bérénice Batut]
 * [http://github.com/chapmanb Brad Chapman]
+* [https://twitter.com/shiltemann Saskia Hiltemann]
 * [https://twitter.com/rs_khetani Radhika Khetani]
