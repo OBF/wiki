@@ -35,6 +35,20 @@ We have a [https://docs.google.com/document/d/1_IKEw1UPF6pfSBaJB9xOl-o-oVincZdKE
 
 == Logistics ==
 
+We'll have a shared online presence in this BlueJeans room:
+
+https://bluejeans.com/106872911/
+
+That's the main place to join and discuss and we can create additional purpose specific rooms as needed. Between the 2 sites we'll have coverage online between 2am EST to 5pm EST so hopefully can overlap with most time zones for part of that. If any other groups would like to be in charge of the channel for other times outside of this, please speak up.
+
+We'll plan to have all group discussions at:
+
+* 9:30am EST (3:30pm CEST)
+* 12pm EST (6pm CEST)
+* 4:30pm EST (10:30pm CEST)
+
+And can schedule more of these if any groups want to volunteer to lead at non-EST friendly times.
+
 In Boston, CoFest is kindly hosted in the Longwood Medical area. Enter the Harvard Medical Courtyard from Longwood Avenue at the Intersection of Avenue Louis Pasteur:
 
 * Friday, August 17th 9-5pm EST -- [https://www.countway.harvard.edu/ Harvard Medical School Countway Library] [https://goo.gl/maps/u5wZ91orBWB2 403 Computer Lab, 10 Shattuck St, Boston MA] -- enter through the far end of the quad. There will be security; tell them you're going to Codefest and they'll have a list of participants. Take the elevators on the left side up to the 4th floor.
