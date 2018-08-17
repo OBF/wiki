@@ -52,7 +52,7 @@ We'll plan to have all group discussions to join:
 * 10am CEST (08:00 GMT/UTC, 4am EDT) Google Hangouts (Galaxy Training Network)
 * 9:30am EDT (13:30 GMT/UTC, 3:30pm CEST) Blue Jeans room (General)
 * 10am EDT (14:00 GMT/UTC, 4pm CEST) Google Hangouts (Galaxy Training Network)
-* 12pm EDT (16:00 GMT/UTC, 6pm CEST) Blue Jeans room (General)
+* 12:30pm EDT (16:30 GMT/UTC, 6:30pm CEST) Blue Jeans room (General)
 * 4pm EDT (20:00 GMT/UTC, 10pm CEST) Blue Jeans room (General)
 
 And can schedule more of these if any groups want to volunteer to lead at non-EST friendly times.
