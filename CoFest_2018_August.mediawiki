@@ -49,21 +49,21 @@ That's the main place to join and discuss and we can create additional purpose s
 
 We'll plan to have all group discussions to join:
 
-* 10am CEST (08:00 GMT/UTC, 4am EST) Google Hangouts (Galaxy Training Network)
-* 9:30am EST (11:30 GMT/UTC, 3:30pm CEST) Blue Jeans room (General)
-* 10am EST (14:00 GMT/UTC, 4pm CEST) Google Hangouts (Galaxy Training Network)
-* 12pm EST (16:00 GMT/UTC, 6pm CEST) Blue Jeans room (General)
-* 4pm EST (20:00 GMT/UTC, 10pm CEST) Blue Jeans room (General)
+* 10am CEST (08:00 GMT/UTC, 4am EDT) Google Hangouts (Galaxy Training Network)
+* 9:30am EDT (13:30 GMT/UTC, 3:30pm CEST) Blue Jeans room (General)
+* 10am EDT (14:00 GMT/UTC, 4pm CEST) Google Hangouts (Galaxy Training Network)
+* 12pm EDT (16:00 GMT/UTC, 6pm CEST) Blue Jeans room (General)
+* 4pm EDT (20:00 GMT/UTC, 10pm CEST) Blue Jeans room (General)
 
 And can schedule more of these if any groups want to volunteer to lead at non-EST friendly times.
 
 In Boston, CoFest is kindly hosted in the Longwood Medical area. Enter the Harvard Medical Courtyard from Longwood Avenue at the Intersection of Avenue Louis Pasteur:
 
-* Friday, August 17th 9-5pm EST -- [https://www.countway.harvard.edu/ Harvard Medical School Countway Library] [https://goo.gl/maps/u5wZ91orBWB2 403 Computer Lab, 10 Shattuck St, Boston MA] -- enter through the far end of the quad. There will be security; tell them you're going to CoFest and they'll have a list of participants. Take the elevators on the left side up to the 4th floor.
+* Friday, August 17th 9am-5pm EDT -- [https://www.countway.harvard.edu/ Harvard Medical School Countway Library] [https://goo.gl/maps/u5wZ91orBWB2 403 Computer Lab, 10 Shattuck St, Boston MA] -- enter through the far end of the quad. There will be security; tell them you're going to CoFest and they'll have a list of participants. Take the elevators on the left side up to the 4th floor.
 
-In Freiberg, the Galaxy training team will be in the Backofen lab meeting room.
+In Freiburg, the Galaxy training team will be in the Backofen lab meeting room.
 
-* Friday, August 17th 9-6pm CEST
+* Friday, August 17th 9am-6pm CEST
 
 == Organizers ==
 
