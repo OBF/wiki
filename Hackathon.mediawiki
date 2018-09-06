@@ -7,7 +7,8 @@ Hacking marathons (Hackathons) or coding festivals ([[Codefest|Codefests]]) are 
 == OBF Codefests and Hackathons ==
 
 Since 2010, people from the OBF project communities have regularly organized or co-organized short 2-3 day events preceding the [[BOSC|BOSC conference]].
-
+* [https://galaxyproject.org/events/gccbosc2018/collaboration/| CollaborationFest 2018]
+** June 25-30, Portland, Oregon, United States
 * [[Codefest 2017]]
 ** July 20-21, 2017, in Prague, Czech Republic.
 * [[Codefest 2016]]
