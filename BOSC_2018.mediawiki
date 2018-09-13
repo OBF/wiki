@@ -13,9 +13,7 @@ We thank GCC co-chairs Dave Clements and Nicole Vasilevsky for all their contrib
 
 Read our [https://f1000research.com/collections/BOSC?&selectedDomain=articles report about GCCBOSC 2018] on [https://f1000research.com/collections/BOSC?&selectedDomain=articles F1000]!
 
-Brad Chapman's summaries of the conference:
-* [https://github.com/chapmanb/bcbb/blob/master/posts/conferences/bosc2018_day1a.md Day 1]
-* [https://github.com/chapmanb/bcbb/blob/master/posts/conferences/bosc2018_day2.md Day 2]
+Brad Chapman's summaries of the conference: [https://github.com/chapmanb/bcbb/blob/master/posts/conferences/bosc2018_day1a.md Day 1], [https://github.com/chapmanb/bcbb/blob/master/posts/conferences/bosc2018_day2.md Day 2]
 
 [https://twitter.com/OBF_BOSC Follow BOSC on Twitter]: @OBF_BOSC, [https://twitter.com/search?f=tweets&vertical=default&q=%23GCCBOSC&src=typd #GCCBOSC]
 
