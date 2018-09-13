@@ -67,8 +67,6 @@ to sever our strong ties with ISMB. We're planning to evaluate the combined GCC
 and BOSC experience in 2018 and welcome community feedback on all of these
 thoughts and plans.
 
-'''Whether you attended GCCBOSC or not, we want to hear from you! Please fill out our [https://gccbosc2018.sched.com/info questionnaire]!
-'''
 == Session Topics ==
 BOSC covers all aspects of bioinformatics and open science software, including (but not limited to):
 * Open Science and Reproducible Research
@@ -117,7 +115,6 @@ The GCCBOSC 2018 Code of Conduct can be found [https://galaxyproject.org/events/
 * [https://twitter.com/OBF_BOSC Follow BOSC on Twitter]: @OBF_BOSC, #gccbosc
 * If you'd like to join the mailing list for BOSC-related announcements, including the call for abstracts and deadline reminders, please subscribe to [http://lists.open-bio.org/mailman/listinfo/bosc-announce bosc-announce].  This list has low traffic, and your address will be kept private.
 * If you have questions about the conference, or would like to volunteer to help out, please contact the organizers at [mailto:obf-bosc@googlegroups.com obf-bosc@googlegroups.com].
-* Whether you attended GCCBOSC or not, we want to hear from you! Please fill out our [https://gccbosc2018.sched.com/info questionnaire]!
 
 [[Category:BOSC]] [[Category:Conferences]]
 [[Category:BOSC Conferences]]
