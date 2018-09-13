@@ -91,7 +91,7 @@ BOSC covers all aspects of bioinformatics and open science software, including (
 
 '''Co-Chairs'''
 * Heather Wiencko ([https://www.hostedgraphite.com Hosted Graphite], Dublin Ireland)
-* [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer]; [http://compbio.sph.harvard.edu/chb/ Harvard School of Public Health])
+* [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer]; [http://compbio.sph.harvard.edu/chb/ Harvard School of Public Health])--CoFest organizer
 
 '''Organizing Committee Members'''
 * [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; [http://www.hutton.ac.uk James Hutton Institute])
