@@ -94,11 +94,11 @@ BOSC covers all aspects of bioinformatics and open science software, including (
 * [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer]; [http://compbio.sph.harvard.edu/chb/ Harvard School of Public Health])
 
 '''Organizing Committee Members'''
-* Karsten Hokamp (Smurfit Institute of Genetics, Trinity College Dublin, Ireland)
 * [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; [http://www.hutton.ac.uk James Hutton Institute])
 * Christopher Fields (National Center for Supercomputing Applications)
-* Bastian Greshake ([https://www.openhumans.org/ Open Humans])
+* Karsten Hokamp (Smurfit Institute of Genetics, Trinity College Dublin, Ireland)
 * [http://www.bioperl.org/wiki/Hilmar_Lapp Hilmar Lapp] (Center for Genomic and Computational Biology (GCB), Duke University)
+* Bastian Greshake Tzovaras ([https://www.openhumans.org/ Open Humans])
 
 == Review Committee ==
 Kai Blin*, Christian Brueffer*, Scott Cain, Brad Chapman*, Peter Cock*, Anamaria Crisan, Gianluca Della Vedova, Christopher Fields*, Konrad Förstner*, George Githinji, Bastian Greshake Tzovaras*, Nomi Harris*, Michael Heuer, Karsten Hokamp*, Shaun Jackman, Farah Khan*, Hilmar Lapp, Jessica Maia*, Hervé Ménager, Frank Nothaft, Kieran O'Neill, Konstantin Okonechnikov*, Lorena Pantano*, Surya Saha*, Malvika Sharan, Eric Talevich, Morgan Taschuk, Heather Wiencko*, Jason Williams, Yo Yehudi*
