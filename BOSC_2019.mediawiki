@@ -1,0 +1,65 @@
+---
+title: BOSC 2019
+---
+
+__NOTOC__
+<div style="float:right; maxwidth: 180px; margin-left:25px; margin-right:15px; background-color: #FFFFFF">[[Image:Pear.png|left|The Bosc Pear]]</div>
+
+https://news.open-bio.org/2018/08/02/taking-turns/
+
+https://f1000research.com/collections/BOSC?&selectedDomain=articles
+
+https://www.iscb.org/ismbeccb2019
+
+[https://twitter.com/OBF_BOSC Follow BOSC on Twitter]: @OBF_BOSC, [https://twitter.com/search?f=tweets&vertical=default&q=%23GCCBOSC&src=typd #GCCBOSC]
+
+== Important Dates ==
+
+* July 21-25, 2019: [https://www.iscb.org/ismbeccb2019 ISMB 2019]
+
+== Session Topics ==
+BOSC covers all aspects of bioinformatics and open science software. Last year's topics included:
+* Open Science and Reproducible Research
+* Open Biomedical Data
+* Citizen/Participatory Science
+* Standards and Interoperability
+* Data Science
+* Workflows
+* Visualization
+* Medical and Translational Bioinformatics
+* Developer Tools and Libraries
+* Bioinformatics Open Source Project Progress Reports
+
+== BOSC Organizing Committee ==
+
+'''Chair'''
+* Nomi L. Harris (Lawrence Berkeley National Laboratory)
+
+'''Co-Chair'''
+* Heather Wiencko ([https://www.hostedgraphite.com Hosted Graphite], Dublin Ireland)
+
+'''Organizing Committee Members'''
+* [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer]; [http://compbio.sph.harvard.edu/chb/ Harvard School of Public Health])
+* [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; [http://www.hutton.ac.uk James Hutton Institute])
+* Christopher Fields (National Center for Supercomputing Applications)
+* Karsten Hokamp (Smurfit Institute of Genetics, Trinity College Dublin, Ireland)
+* Bastian Rieck (ETH Zurich)
+* Bastian Greshake Tzovaras ([https://www.openhumans.org/ Open Humans])
+
+== Previous BOSCs ==
+
+* BOSC has been held yearly since 2000.
+* '''[https://gccbosc2018.sched.com/ BOSC 2018] was held June 26-27, 2018''' (with training days June 24-25 and a CollaborationFest June 28-29) at Reed College in Portland, Oregon as part of [https://gccbosc2018.sched.com/ the GCCBOSC 2018 bioinformatics community conference] co-hosted with the Galaxy Community Conference. Check out the [https://gccbosc2018.sched.com/ complete schedule]!'''
+* [[Past BOSC conferences | Information about the first 19 BOSC conferences]]
+
+== Code of Conduct ==
+The GCCBOSC 2018 Code of Conduct can be found [https://galaxyproject.org/events/gccbosc2018/code-of-conduct/ here]. The ISMB Code of Conduct is currently being revised; we will link to it soon.
+
+== Contact Us ==
+
+* [https://twitter.com/OBF_BOSC Follow BOSC on Twitter]: @OBF_BOSC, [https://twitter.com/search?f=tweets&vertical=default&q=%23bosc2019&src=typd #bosc2019]
+* If you'd like to join the mailing list for BOSC-related announcements, including the call for abstracts and deadline reminders, please subscribe to [http://lists.open-bio.org/mailman/listinfo/bosc-announce bosc-announce].  This list has low traffic, and your address will be kept private.
+* If you have questions about the conference, or would like to volunteer to help out, please contact the organizers at [mailto:obf-bosc@googlegroups.com obf-bosc@googlegroups.com].
+
+[[Category:BOSC]] [[Category:Conferences]]
+[[Category:BOSC Conferences]]
