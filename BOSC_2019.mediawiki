@@ -5,7 +5,7 @@ title: BOSC 2019
 __NOTOC__
 <div style="float:right; maxwidth: 180px; margin-left:25px; margin-right:15px; background-color: #FFFFFF">[[Image:Pear.png|left|The Bosc Pear]]</div>
 
-[https://f1000research.com/collections/BOSC?&selectedDomain=articles In 2018, BOSC was held jointly with GCC] as a combined [https://gccbosc2018.sched.com/ GCCBOSC] conference. In 2019, BOSC will be part of [https://www.iscb.org/ismbeccb2019 ISMB/ECCB] in Basel. We hope to partner with GCC again in 2020 or 2021. [Read more https://news.open-bio.org/2018/08/02/taking-turns/ here about why we decided to hold BOSC with GCC in 2018 and ISMB in 2019.]
+[https://f1000research.com/collections/BOSC?&selectedDomain=articles In 2018, BOSC was held jointly with GCC] as a combined [https://gccbosc2018.sched.com/ GCCBOSC] conference. In 2019, BOSC will be part of [https://www.iscb.org/ismbeccb2019 ISMB/ECCB] in Basel. We hope to partner with GCC again in 2020 or 2021. Read more [https://news.open-bio.org/2018/08/02/taking-turns/ here about why we decided to hold BOSC with GCC in 2018 and ISMB in 2019.]
 
 [https://twitter.com/OBF_BOSC Follow BOSC on Twitter]: @OBF_BOSC, [https://twitter.com/search?f=tweets&vertical=default&q=%23GCCBOSC&src=typd #GCCBOSC]
 
