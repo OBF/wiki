@@ -15,7 +15,9 @@ Read our [https://f1000research.com/collections/BOSC?&selectedDomain=articles re
 
 Brad Chapman's summaries of the conference: [https://github.com/chapmanb/bcbb/blob/master/posts/conferences/bosc2018_day1a.md Day 1], [https://github.com/chapmanb/bcbb/blob/master/posts/conferences/bosc2018_day2.md Day 2]
 
-<b>[https://www.open-bio.org/wiki/BOSC_2019 BOSC 2019] will be held with [https://www.iscb.org/ismbeccb2019 ISMB/ECCB 2019] in Basel, Switzerland, July 21-25, 2019.</b>
+14-November-2018: Videos from GCCBOSC 2018 are now available on [https://www.youtube.com/playlist?list=PLir-OOQiOhXaHvCY_KYshsOMULuXDqvh7 YouTube] and [https://vimeo.com/channels/gccbosc2018 Vimeo], and also linked from the individual events on the [https://gccbosc2018.sched.com/ GCCBOSC program].
+
+<b>[https://www.open-bio.org/wiki/BOSC_2019 BOSC 2019] will be held with [https://www.iscb.org/ismbeccb2019 ISMB/ECCB 2019] in Basel, Switzerland, 21-25 July 2019.</b> BOSC is likely to be the last two days of the conference (24-25 July), followed by Codefest.
 
 == Important Dates ==
 
