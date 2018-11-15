@@ -33,4 +33,4 @@ title: Projects
 * [http://www.fruitfly.org/chaos-xml/ Chaos-XML] - File format based on the sequence modules of the Chado relational schema
 * [http://song.sourceforge.net/ Sequence Ontology]
 * [http://geneontology.org/ Gene Ontology]
-* [http://www.fruitfly.org/~cjm/obol/ Obol]
+* [http://wiki.geneontology.org/index.php/Obol Obol]
