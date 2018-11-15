@@ -23,6 +23,9 @@ title: Projects
 * [http://wikiomics.org Wikiomics] - Bioinformatics wiki
 * [http://www.pasteur.fr/recherche/unites/sis/Pise/ Pise] - a tool to generate Web interfaces software for submitting jobs to these interfaces
 * [http://www.ebi.ac.uk/~senger/openbqs/ OpenBQS] - Bibliographic query system
+* [http://www.bioclipse.net/ BioClipse] - visual platform based on Eclipse
+* [http://bioweka.sourceforge.net/index.php/Main_Page BioWeka]
+* [http://blipkit.org BlipKit] - Chris Mungall's Prolog toolkit for Bioinformatics and BioMedical Informatics
 
 ==Ontologies and Definitions==
 * [http://nemo-cyclone.sourceforge.net Cyclone] - provides an open source Java API to the pathway tool BioCyc.
