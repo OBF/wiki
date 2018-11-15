@@ -6,8 +6,8 @@ title: Projects
 {{Main projects}}
 
 ==Affiliated projects==
-* [http://www.gmod.org/ggb Generic Genome Browser] - part of [http://www.gmod.org GMOD]
-* [http://www.gmod.org/schema/ Chado] - The GMOD DB schema
+* [http://gmod.org/wiki/GBrowse Generic Genome Browser] - part of [http://www.gmod.org GMOD]
+* [http://gmod.org/wiki/Chado Chado] - The GMOD DB schema
 
 ==Other related projects==
 
