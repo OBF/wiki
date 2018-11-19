@@ -33,3 +33,4 @@ title: Projects
 * [http://www.bioclipse.net/ BioClipse] - visual platform based on Eclipse
 * [http://bioweka.sourceforge.net/index.php/Main_Page BioWeka]
 * [http://blipkit.org BlipKit] - Chris Mungall's Prolog toolkit for Bioinformatics and BioMedical Informatics
+* [https://github.com/biolib/biolib Biolib] - cross-project/language C bindings for a shared codebase across the different Bio* projects (Pjotr Prins)
