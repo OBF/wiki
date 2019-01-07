@@ -9,7 +9,9 @@ __NOTOC__
 
 == Important Dates ==
 
-* July 21-25, 2019: [https://www.iscb.org/ismbeccb2019 ISMB 2019]
+* July 21-25, 2019: [https://www.iscb.org/ismbeccb2019 ISMB 2019], Basel, Switzerland
+* '''July 24-25, 2019: BOSC 2019''',  Basel, Switzerland
+* July 26-28, 2019: Codefest 2019, TBA
 
 == Session Topics ==
 BOSC covers all aspects of bioinformatics and open science software. Last year's topics included:
