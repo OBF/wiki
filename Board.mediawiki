@@ -31,7 +31,7 @@ The board can be contacted via email at [mailto:board@open-bio.org board@open-bi
 ; <span class="plainlinks">[http://kcranston.github.io Karen Cranston]</span>: ''Former At-large member''. Computational evolutionary biologist at the Biological Informatics Centre of Excellence at Agriculture and Agri-Food Canada. Co-founder, Open Tree of Life.
 ; [[User:Kdahlquist|Kam Dahlquist]] : ''Former At-large Member''. [http://myweb.lmu.edu/kdahlqui/ Associate Professor] at Loyola Marymount University, Los Angeles.
 ; [[bp:Chris Dagdigian|Chris Dagdigian]] : ''Former Treasurer''. [[bp:BioPerl|BioPerl]] co-founder & OBF sysadmin. Employed by [http://www.bioteam.net the BioTeam].
-; <span class="plainlinks">[http://lab.stajich.org/home/people/jason-stajich/ Jason Stajich]</span> : ''Former OBF President. [[bp:BioPerl|BioPerl]] core developer. Currently [http://stajichlab.fungalgenomes.org Professor] at [http://www.ucr.edu/ University of California, Riverside].
+; <span class="plainlinks">[http://lab.stajich.org/home/people/jason-stajich/ Jason Stajich]</span> : ''Former OBF President.'' [[bp:BioPerl|BioPerl]] core developer. Currently [http://stajichlab.fungalgenomes.org Professor] at [http://www.ucr.edu/ University of California, Riverside].
 
 == Board of Directors Meetings ==
 
