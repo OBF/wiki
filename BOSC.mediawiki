@@ -13,7 +13,7 @@ BOSC has been held annually, usually as a Special Interest Group (SIG) or later 
 
 == BOSC meetings to date ==
 
-* BOSC 2019 Basel, Switzerland (as part of ISMB/ECCB 2019)
+* [[BOSC 2019]] Basel, Switzerland (as part of ISMB/ECCB 2019)
 * [[BOSC 2018]] Portland, Oregon (colocated with the Galaxy Community Conference as part of GCCBOSC 2018)
 * [[BOSC 2017]] Prague, Czech Republic
 * [[BOSC 2016]] Orlando, FL, USA
