@@ -10,8 +10,9 @@ In 2019, BOSC will be part of [https://www.iscb.org/ismbeccb2019 ISMB/ECCB] in B
 
 == Important Dates ==
 * April 11, 2019: Talk/poster abstract submission deadline
-* May 9, 2019 Authors notified
-* May 6, 2019 (proposed by ISMB) Late poster submission deadline
+* May 9, 2019: Talk/poster authors notified
+* May 6, 2019: (proposed by ISMB) Late poster submission deadline
+* May 23, 2019: Late poster authors notified
 * '''July 24-25, 2019: BOSC 2019''',  Basel, Switzerland (as part of ISMB/ECCB 2019)
 
 == Abstract Length and Formatting Requirements ==
