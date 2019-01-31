@@ -9,9 +9,11 @@ __NOTOC__
 
 == Important Dates ==
 
+* April 11, 2019: Abstract submission deadline
+* May 9, 2019 Authors notified
 * July 21-25, 2019: [https://www.iscb.org/ismbeccb2019 ISMB/ECCB 2019], Basel, Switzerland
 * '''July 24-25, 2019: BOSC 2019''',  Basel, Switzerland
-* July 26-28, 2019: CollaborationFest 2019, TBA
+* July 26-28, 2019: CollaborationFest 2019, location TBD
 
 == Session Topics ==
 BOSC covers all aspects of bioinformatics and open science software. Last year's topics included:
