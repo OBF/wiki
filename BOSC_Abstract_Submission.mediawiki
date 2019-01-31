@@ -3,26 +3,19 @@ title: BOSC Abstract Submission
 ---
 
 __NOTOC__
-[[File:Gcc-bosc-2018-logo_boxed_300.png|100px|right|GCCBOSC 2018|link=https://gccbosc2018.sched.com/]]
-For 2018, the '''[[BOSC_2018|Bioinformatics Open Source Conference (BOSC 2018)]]''' and the '''Galaxy Community Conference (GCC2018)''' are joining together for a unified event ('''[https://gccbosc2018.sched.com/ GCC BOSC 2018]''') to be held in Portland, Oregon, United States, June 25-30, 2018.  
+[[File:Pear.png|100px|right|BOSC 2019|link=bosc_2019]]
+ In 2019, BOSC will be part of [https://www.iscb.org/ismbeccb2019 ISMB/ECCB] in Basel. We therefore need to follow ISMB's dates and procedures.
 
-'''[https://easychair.org/conferences/?conf=gccbosc2018 Submit your abstract now]''' (via EasyChair). When you go to the submission portal (EasyChair), you will be able to choose whether to submit your abstract to GCC or to BOSC (Late-Breaking Lightning Talk round).
+'''[https://easychair.org/conferences/?conf=gccbosc2018 Submit your abstract now]''' (via EasyChair). When you go to the submission portal (EasyChair), you will be able to choose which COSI to submit to.
 
 == Important Dates ==
-* May 17, 2018: Late-breaking lightning talk/poster/demo submission deadline
-* June 1, 2018: Final deadline for submitting demo/poster abstracts
-* June 1, 2018: [https://galaxyproject.org/events/gccbosc2018/register/ GCCBOSC advance registration] ends
-* '''June 25-30, 2018: [https://gccbosc2018.sched.com/| GCCBOSC2018 (Portland, Oregon)]''' -- main conference June 27-28
+* April 11, 2019: Abstract submission deadline
+* May 9, 2019 Authors notified
+* * '''July 24-25, 2019: BOSC 2019''',  Basel, Switzerland (as part of ISMB/ECCB 2019)
 
 == Acceptance Criteria ==
 
-'''BOSC''' welcomes submissions about all aspects of open source bioinformatics, open science and open data, including but not limited to reproducible research, citizen/participatory science, standards and interoperability, open source tools for data science and visualization, and medical and translational bioinformatics. '''Work discussed in BOSC presentations must be open source''', with a recognized open source license and a URL for accessing your code. We look for impact of the work in building or sustaining open source communities.  We are happy to consider abstracts describing work that has already been published or presented elsewhere, but we ask you to mention that on the submission form. Work that has been presented at a recent BOSC will need to demonstrate significant progress in order to be eligible for a talk at BOSC 2018.
-
-'''GCC''' welcomes submissions that use, implement, or extend the Galaxy platform and ecosystem, including but not limited to integrating and analyzing large and diverse datasets in biomedical research; enhancing reproducibility in computational analyses; and fostering collaboration and communication in scientific workflow development.
-
-If your abstract PRIMARILY concerns Galaxy, please submit your abstract to the Galaxy track. If it is accepted for a talk, we will try to schedule your talk during a joint GCC/BOSC session.
-
-Not sure which one to submit your abstract to? Just pick one and the chairs will work it out!
+BOSC welcomes submissions about all aspects of open source bioinformatics, open science and open data, including but not limited to reproducible research, citizen/participatory science, standards and interoperability, open source tools for data science and visualization, and medical and translational bioinformatics. '''Work discussed in BOSC presentations must be open source''', with a recognized open source license and a URL for accessing your code. We look for impact of the work in building or sustaining open source communities.  We are happy to consider abstracts describing work that has already been published or presented elsewhere, but we ask you to mention that on the submission form. Work that has been presented at a recent BOSC will need to demonstrate significant progress in order to be eligible for a talk at BOSC 2019.
 
 == Abstract Formatting Requirements ==
 Abstracts must be '''one page''' (8.5 inches by 11 inches or A4) in length and submitted '''as a PDF file'''. Your one-page abstract is welcome to include any figures or graphics that will fit; however, we cannot accept figures on additional page(s).
@@ -63,6 +56,4 @@ The GCCBOSC2018 Code of Conduct can be found [https://galaxyproject.org/events/g
 == Links ==
 '''[https://easychair.org/conferences/?conf=gccbosc2018 Submit your abstract now!]'''
 
-[[BOSC_2018|BOSC 2018 home page]]
-
-[https://gccbosc2018.sched.com/ GCCBOSC2018 home page]
+[[BOSC_2019|BOSC 2019 home page]]
