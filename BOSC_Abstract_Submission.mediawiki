@@ -23,7 +23,7 @@ Authors who hope to present a talk must *also* submit a 1-2 page PDF describing 
 
 If you are only applying to present a poster, you only need to submit a 200-word summary; submitting an additional PDF is optional.
 
-I*Length*: In the past, BOSC abstracts were limited to one page. Please do not feel compelled to use the second page unless you want to. We do hope you'll use the extra space to include examples of biological applications of your work, and a summary of the current and/or projected community aspect of your project.
+'''ILength''': In the past, BOSC abstracts were limited to one page. Please do not feel compelled to use the second page unless you want to. We do hope you'll use the extra space to include examples of biological applications of your work, and a summary of the current and/or projected community aspect of your project.
 
 == Acceptance Criteria ==
 
