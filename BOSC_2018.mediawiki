@@ -101,7 +101,7 @@ BOSC covers all aspects of bioinformatics and open science software, including (
 == Review Committee ==
 Kai Blin*, Christian Brueffer*, Scott Cain, Brad Chapman*, Peter Cock*, Anamaria Crisan, Gianluca Della Vedova, Christopher Fields*, Konrad Förstner*, George Githinji, Bastian Greshake Tzovaras*, Nomi Harris*, Michael Heuer, Karsten Hokamp*, Shaun Jackman, Farah Khan*, Hilmar Lapp, Jessica Maia*, Hervé Ménager, Frank Nothaft, Kieran O'Neill, Konstantin Okonechnikov*, Lorena Pantano*, Surya Saha*, Malvika Sharan, Eric Talevich, Morgan Taschuk, Heather Wiencko*, Jason Williams, Yo Yehudi*
 
-* Also reviewed late-breaking abstracts
+ * Also reviewed late-breaking abstracts
 
 == Previous BOSCs ==
 
