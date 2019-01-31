@@ -9,20 +9,26 @@ In 2019, BOSC will be part of [https://www.iscb.org/ismbeccb2019 ISMB/ECCB] in B
 '''[https://easychair.org/conferences/?conf=gccbosc2018 Submit your abstract now]''' (via EasyChair). When you go to the submission portal (EasyChair), you will be able to choose which COSI to submit to.
 
 == Important Dates ==
-* April 11, 2019: Abstract submission deadline
+* April 11, 2019: Talk/poster abstract submission deadline
 * May 9, 2019 Authors notified
+* May 6, 2019 (proposed by ISMB) Late poster submission deadline
 * '''July 24-25, 2019: BOSC 2019''',  Basel, Switzerland (as part of ISMB/ECCB 2019)
-
-== Acceptance Criteria ==
-
-BOSC welcomes submissions about all aspects of open source bioinformatics, open science and open data, including but not limited to reproducible research, citizen/participatory science, standards and interoperability, open source tools for data science and visualization, and medical and translational bioinformatics. '''Work discussed in BOSC presentations must be open source''', with a recognized open source license and a URL for accessing your code. We look for impact of the work in building or sustaining open source communities.  We are happy to consider abstracts describing work that has already been published or presented elsewhere, but we ask you to mention that on the submission form. Work that has been presented at a recent BOSC will need to demonstrate significant progress in order to be eligible for a talk at BOSC 2019.
 
 == Abstract Length and Formatting Requirements ==
 ISMB requires authors to submit a ''200 word'' (or less) summary of their work; this will be used for their website and app.
 
-Authors who hope to present a talk must *also* submit a 1-2 page PDF describing their work in more detail. The PDF is welcome to include any figures or graphics that will fit; however, we cannot accept figures on additional page(s). We cannot accept submissions in Word, LaTeX, or other formats. Please contact us if you are  unable to generate a PDF.
+Authors who hope to present a talk must *also* submit a 1-2 page PDF describing their work in more detail. The PDF is welcome to include any figures or graphics that will fit; however, we cannot accept figures on additional page(s). We cannot accept submissions in Word, LaTeX, or other formats.
+
+If you are only applying to present a poster, you only need to submit a 200-word summary; submitting an additional PDF is optional.
 
 In the past, BOSC abstracts were limited to one page. Please do not feel compelled to use the second page unless you want to. We do hope you'll use the extra space to include examples of biological applications of your work, and a summary of the current and/or projected community aspect of your project.
+
+== Acceptance Criteria ==
+
+BOSC welcomes submissions about all aspects of open source bioinformatics, open science and open data, including but not limited to reproducible research, citizen/participatory science, standards and interoperability, open source tools for data science and visualization, and medical and translational bioinformatics. '''Work discussed in BOSC presentations must be open source''', with a recognized open source license and a URL for accessing your code. We look for impact of the work in building or sustaining open source communities.  We are happy to consider abstracts describing work that has already been published or presented elsewhere, but we ask you to mention that on the submission form. Work that has been presented at a recent BOSC will need to demonstrate significant progress in order to be eligible for a talk at BOSC 2019.
+== Open Bioinformatics Foundation Travel Fellowships ==
+
+The [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md OBF Travel Fellowship program] is aimed at increasing diverse participation at events promoting open source bioinformatics software development and open science in the biological research community. The fellowship can be used to cover airfare, hotel and / or conference registration fees up to a value of USD 1,000. BOSC speakers are welcome to [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md apply for a fellowship]. We review applications three times a year. The next deadline for applying is April 15, 2019.
 
 == BOSC Open Source License Requirement ==
 
@@ -31,10 +37,6 @@ The [[OBF|Open Bioinformatics Foundation]], which coordinates BOSC, is dedicated
 See the following websites for further information:
 * [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
 * [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
-
-== Open Bioinformatics Foundation Travel Fellowships ==
-
-The [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md OBF Travel Fellowship program] is aimed at increasing diverse participation at events promoting open source bioinformatics software development and open science in the biological research community. The fellowship can be used to cover airfare, hotel and / or conference registration fees up to a value of USD 1,000. BOSC speakers are welcome to [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md apply for a fellowship]. We review applications three times a year. The next deadline for applying is April 15, 2019.
 
 == Code of Conduct ==
 The GCCBOSC2018 Code of Conduct can be found [https://galaxyproject.org/events/gccbosc2018/code-of-conduct/ here].
