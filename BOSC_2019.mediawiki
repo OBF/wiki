@@ -9,8 +9,9 @@ __NOTOC__
 
 == Important Dates ==
 
-* April 11, 2019: Abstract submission deadline
-* May 9, 2019 Authors notified
+* February, 2019: Abstract submission opens
+* April 11, 2019: Deadline for talk/poster abstracts
+* May 9, 2019: Authors notified
 * July 21-25, 2019: [https://www.iscb.org/ismbeccb2019 ISMB/ECCB 2019], Basel, Switzerland
 * '''July 24-25, 2019: BOSC 2019''',  Basel, Switzerland
 * July 26-28, 2019: CollaborationFest 2019, location TBD
