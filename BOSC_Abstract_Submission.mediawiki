@@ -17,26 +17,12 @@ In 2019, BOSC will be part of [https://www.iscb.org/ismbeccb2019 ISMB/ECCB] in B
 
 BOSC welcomes submissions about all aspects of open source bioinformatics, open science and open data, including but not limited to reproducible research, citizen/participatory science, standards and interoperability, open source tools for data science and visualization, and medical and translational bioinformatics. '''Work discussed in BOSC presentations must be open source''', with a recognized open source license and a URL for accessing your code. We look for impact of the work in building or sustaining open source communities.  We are happy to consider abstracts describing work that has already been published or presented elsewhere, but we ask you to mention that on the submission form. Work that has been presented at a recent BOSC will need to demonstrate significant progress in order to be eligible for a talk at BOSC 2019.
 
-== Abstract Formatting Requirements ==
-Abstracts must be '''one page''' (8.5 inches by 11 inches or A4) in length and submitted '''as a PDF file'''. Your one-page abstract is welcome to include any figures or graphics that will fit; however, we cannot accept figures on additional page(s).
+== Abstract Length and Formatting Requirements ==
+ISMB requires authors to submit a ''200 word'' (or less) summary of their work; this will be used for their website and app.
 
-Please format your abstract as follows. Abstract PDFs will be included as-is in the program, so they need to include all the relevant information on that one page.
-* Include the following pieces of information in order from the top of the page:
-** Title
-** Authors, with the presenting author's name underlined.
-** Author affiliations, including the e-mail address of the presenting author.
-** URL for the overall project web site
-** URL for accessing the code
-** The particular Open Source License being used (for BOSC)
-* Use 1 inch (2.5 cm) margins on the top, sides, and bottom of the page, and a font size of 11 or 12.
+Authors who hope to present a talk must *also* submit a 1-2 page PDF describing their work in more detail. The PDF is welcome to include any figures or graphics that will fit; however, we cannot accept figures on additional page(s). We cannot accept submissions in Word, LaTeX, or other formats. Please contact us if you are  unable to generate a PDF.
 
-You may wish to use one of these abstract templates:
-* [http://www.open-bio.org/wiki/File:BOSC2015-abstract-template.pdf PDF] (not fillable)
-* [https://s3.amazonaws.com/chapmanb/openbio/bosc_template_pandoc.tar.gz Markdown to PDF] (convert with pandoc and LaTeX)
-* [http://www.open-bio.org/bosc2015/bosc2015-abstract-example.doc Word (.doc)] 
-* [http://www.open-bio.org/bosc2015/bosc2015-abstract-example.docx Word (.docx)]
-* [http://www.open-bio.org/bosc2015/bosc2015-abstract-example.pages Pages]
-* [https://github.com/bow/talks/blob/master/2014_bosc/abstract/abstract.tex LaTeX]
+In the past, BOSC abstracts were limited to one page. Please do not feel compelled to use the second page unless you want to. We do hope you'll use the extra space to include examples of biological applications of your work, and a summary of the current and/or projected community aspect of your project.
 
 == BOSC Open Source License Requirement ==
 
