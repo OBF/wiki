@@ -4,14 +4,14 @@ title: BOSC Abstract Submission
 
 __NOTOC__
 [[File:Pear.png|100px|right|BOSC 2019|link=bosc_2019]]
- In 2019, BOSC will be part of [https://www.iscb.org/ismbeccb2019 ISMB/ECCB] in Basel. We therefore need to follow ISMB's dates and procedures.
+In 2019, BOSC will be part of [https://www.iscb.org/ismbeccb2019 ISMB/ECCB] in Basel. We therefore need to follow ISMB's dates and procedures.
 
 '''[https://easychair.org/conferences/?conf=gccbosc2018 Submit your abstract now]''' (via EasyChair). When you go to the submission portal (EasyChair), you will be able to choose which COSI to submit to.
 
 == Important Dates ==
 * April 11, 2019: Abstract submission deadline
 * May 9, 2019 Authors notified
-* * '''July 24-25, 2019: BOSC 2019''',  Basel, Switzerland (as part of ISMB/ECCB 2019)
+* '''July 24-25, 2019: BOSC 2019''',  Basel, Switzerland (as part of ISMB/ECCB 2019)
 
 == Acceptance Criteria ==
 
