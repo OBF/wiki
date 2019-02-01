@@ -52,7 +52,7 @@ BOSC covers all aspects of bioinformatics and open science software. Last year's
 * [[Past BOSC conferences | Information about the first 19 BOSC conferences]]
 
 == Code of Conduct ==
-The GCCBOSC 2018 Code of Conduct can be found [https://galaxyproject.org/events/gccbosc2018/code-of-conduct/ here]. The ISMB Code of Conduct is currently being revised; we will link to it soon.
+As part of ISMB/ECCB 2019, BOSC 2019 will be covered by [https://www.iscb.org/ismbeccb2019-general/codeofconduct ISMB's Code of Conduct.].
 
 == Contact Us ==
 
