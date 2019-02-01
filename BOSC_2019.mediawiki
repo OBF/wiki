@@ -38,12 +38,12 @@ BOSC covers all aspects of bioinformatics and open science software. Last year's
 * Heather Wiencko ([https://www.hostedgraphite.com Hosted Graphite], Dublin Ireland)
 
 '''Organizing Committee Members'''
-* [http://bcbio.wordpress.com Brad Chapman] ([http://biopython.org Biopython developer]; [http://compbio.sph.harvard.edu/chb/ Harvard School of Public Health])
 * [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; [http://www.hutton.ac.uk James Hutton Institute])
 * Christopher Fields (National Center for Supercomputing Applications)
+* Bastian Greshake Tzovaras ([https://www.openhumans.org/ Open Humans])
+* Michael Heuer (UC Berkeley)
 * Karsten Hokamp (Smurfit Institute of Genetics, Trinity College Dublin, Ireland)
 * Bastian Rieck (ETH Zurich)
-* Bastian Greshake Tzovaras ([https://www.openhumans.org/ Open Humans])
 
 == Previous BOSCs ==
 
