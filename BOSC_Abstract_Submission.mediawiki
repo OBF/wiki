@@ -6,7 +6,7 @@ __NOTOC__
 [[File:Pear.png|100px|right|BOSC 2019|link=bosc_2019]]
 In 2019, BOSC will be part of [https://www.iscb.org/ismbeccb2019 ISMB/ECCB] in Basel. We therefore need to follow ISMB's dates and procedures.
 
-'''[https://easychair.org/conferences/?conf=ismbeccb2019abstract Submit your abstract now]''' (via EasyChair). When you go to the submission portal (EasyChair), you will be able to choose which COSI to submit to.
+'''[https://easychair.org/conferences/?conf=ismbeccb2019abstract Submit your abstract now]''' (via EasyChair).
 
 == Important Dates ==
 * February 2019: Abstract submission opens
@@ -26,9 +26,11 @@ If you are only applying to present a poster, you only need to submit a 200-word
 '''Length''': In the past, BOSC abstracts were limited to one page. Please do not feel compelled to use the second page unless you want to. We do hope you'll use the extra space to include examples of biological applications of your work, and a summary of the current and/or projected community aspect of your project.
 
 == How to Submit ==
-Submissions are via [EasyChair https://easychair.org/conferences/?conf=ismbeccb2019abstract]. If you don't already have an EasyChair account, you will need to create one.
+Submissions are via [https://easychair.org/conferences/?conf=ismbeccb2019abstract EasyChair]. If you don't already have an EasyChair account, you will need to create one.
 
 Once you sign in, you will get to a screen that says "Please select the track relevant for your submission." Select BOSC (4th line down). Note that later in the submission process, you will be able to list one or two other COSIs/tracks that your abstract might also fit into.
+
+The submission form refers to the 200-word summary of your work as an "abstract", but if you are applying to give a talk, you must also upload a longer abstract (1-2 pages) as a PDF.
 
 == Acceptance Criteria ==
 
