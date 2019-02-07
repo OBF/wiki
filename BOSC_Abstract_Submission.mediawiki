@@ -28,6 +28,8 @@ If you are only applying to present a poster, you only need to submit a 200-word
 == How to Submit ==
 Submissions are via [EasyChair https://easychair.org/conferences/?conf=ismbeccb2019abstract]. If you don't already have an EasyChair account, you will need to create one.
 
+Once you sign in, you will get to a screen that says "Please select the track relevant for your submission." Select BOSC (4th line down). Note that later in the submission process, you will be able to list one or two other COSIs/tracks that your abstract might also fit into.
+
 == Acceptance Criteria ==
 
 BOSC welcomes submissions about all aspects of open source bioinformatics, open science and open data, including but not limited to reproducible research, citizen/participatory science, standards and interoperability, open source tools for data science and visualization, and medical and translational bioinformatics. '''Work discussed in BOSC presentations must be open source''', with a recognized open source license and a URL for accessing your code. We look for impact of the work in building or sustaining open source communities.  We are happy to consider abstracts describing work that has already been published or presented elsewhere, but we ask you to mention that on the submission form. Work that has been presented at a recent BOSC will need to demonstrate significant progress in order to be eligible for a talk at BOSC 2019.
