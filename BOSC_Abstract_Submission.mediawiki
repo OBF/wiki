@@ -3,7 +3,7 @@ title: BOSC Abstract Submission
 ---
 
 __NOTOC__
-[[File:Pear.png|100px|right|BOSC 2019|link=bosc_2019]]
+[[File:Pear.png|100px|right|BOSC 2019|link=BOSC_2019]]
 In 2019, BOSC will be part of [https://www.iscb.org/ismbeccb2019 ISMB/ECCB] in Basel. We therefore need to follow ISMB's dates and procedures.
 
 '''[https://easychair.org/conferences/?conf=ismbeccb2019abstract Submit your abstract now]''' (via EasyChair).
