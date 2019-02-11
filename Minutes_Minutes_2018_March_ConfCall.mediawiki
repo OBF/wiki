@@ -11,8 +11,8 @@ Original minutes posted [https://docs.google.com/document/d/1UA1jW1_JtsvKBkGn-I_
 == Old business ==
 
 * 2016 Oct ConfCall minutes approved unanimously
-** https://www.open-bio.org/wiki/Minutes:2016_Oct_ConfCall
-** https://www.open-bio.org/wiki/Minutes:2018_Mar_ConfCall
+** [[Minutes:2016 Oct ConfCall]]
+** [[Minutes:2018 Mar ConfCall]]
 
 * Oct 2016 BoD meeting minutes
 ** Approved - Hilmar raised, Peter second, approved by unanimous consent
