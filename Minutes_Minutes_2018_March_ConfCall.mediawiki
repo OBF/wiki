@@ -3,3 +3,16 @@ title: Minutes:Minutes:2018 March ConfCall
 ---
 
 Original minutes posted [https://docs.google.com/document/d/1UA1jW1_JtsvKBkGn-I_bBFuSTY4NExb2eqTOn59g82o/edit?usp=sharing here]
+
+Attending: Hilmar Lapp, Nomi Harris, Karen Cranston, Peter Cock, Heather Wiencko, Chris Fields (existing board members), Bastian Greshake Tzovaras, Yo Yehudi (candidate board members) [8 in total]
+
+Meeting called to order at 11.03am EDT, 15:03 UTC.
+
+== Old business ==
+
+* 2016 Oct ConfCall minutes approved unanimously
+** https://www.open-bio.org/wiki/Minutes:2016_Oct_ConfCall
+** https://www.open-bio.org/wiki/Minutes:2018_Mar_ConfCall
+
+* Oct 2016 BoD meeting minutes
+** Approved - Hilmar raised, Peter second, approved by unanimous consent
