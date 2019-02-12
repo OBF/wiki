@@ -9,16 +9,16 @@ The board can be contacted via email at [mailto:board@open-bio.org board@open-bi
 :; [http://lappland.io/ Hilmar Lapp] : Representing [[bp:BioPerl|BioPerl]], Director of Informatics at the [http://genome.duke.edu/ Center for Genomic and Computational Biology] (GCB) at Duke University.
 
 '''Treasurer'''
-:; <span class="plainlinks">[http://www.hutton.ac.uk/staff/peter-cock Peter Cock]</span> : [[bp:Biopython|Biopython]] core developer, bioinformatician at the [http://www.hutton.ac.uk/ James Hutton Institute]. [[BOSC 2016]] co-chair.
+:; <span class="plainlinks">[http://www.hutton.ac.uk/staff/peter-cock Peter Cock]</span> : [[bp:Biopython|Biopython]] core developer, bioinformatician at the [http://www.hutton.ac.uk/ James Hutton Institute]. [[BOSC 2015 & 2016]] co-chair.
 
 '''Secretary'''
 :; [http://hpcbio.illinois.edu/people Chris Fields] : [http://bioperl.org BioPerl] core developer, Associate Director of HPCBio, Carver Biotechnology Center and The [http://www.igb.illinois.edu/ Institute for Genomic Biology] at the [http://www.uiuc.edu/ University of Illinois at Urbana-Champaign].
 
 '''At-large members'''
 
-:; <span class="plainlinks">[http://www.linkedin.com/in/nomiharris Nomi Harris]</span> : Project Manager at the Lawrence Berkeley National Laboratory. [[BOSC 2016]] co-chair.
+:; <span class="plainlinks">[http://www.linkedin.com/in/nomiharris Nomi Harris]</span> : Project Manager at the Lawrence Berkeley National Laboratory. [[BOSC]] co-chair.
 
-:; <span class="plainlinks">[https://twitter.com/hlwiencko Heather Wiencko]</span> : Software engineer at [https://www.hostedgraphite.com Hosted Graphite].
+:; <span class="plainlinks">[https://twitter.com/hlwiencko Heather Wiencko]</span> : Software engineer at [https://www.hostedgraphite.com Hosted Graphite]. [[BOSC]] co-chair.
 
 :; <span class="plainlinks">[https://twitter.com/yoyehudi Yo Yehudi]</span> : Software engineer and community outreach for [http://intermine.org/ Intermine].
 
