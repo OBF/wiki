@@ -31,14 +31,14 @@ BOSC covers all aspects of bioinformatics and open science software. Last year's
 
 == BOSC Organizing Committee ==
 
-* Nomi L. Harris (Lawrence Berkeley National Laboratory)--Chair
+* '''Nomi L. Harris (Lawrence Berkeley National Laboratory)--Chair'''
 * [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; [http://www.hutton.ac.uk James Hutton Institute])
 * Christopher Fields (National Center for Supercomputing Applications)
 * Bastian Greshake Tzovaras ([https://www.openhumans.org/ Open Humans])
 * Michael Heuer (UC Berkeley)
 * Karsten Hokamp (Smurfit Institute of Genetics, Trinity College Dublin, Ireland)
 * Bastian Rieck (ETH Zurich)
-* Heather Wiencko ([https://www.hostedgraphite.com Hosted Graphite], Dublin Ireland)--Co-Chair
+* '''Heather Wiencko ([https://www.hostedgraphite.com Hosted Graphite], Dublin Ireland)--Co-Chair'''
 
 == Previous BOSCs ==
 
