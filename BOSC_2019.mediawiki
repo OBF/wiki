@@ -37,6 +37,7 @@ BOSC covers all aspects of bioinformatics and open science software. Last year's
 * Bastian Greshake Tzovaras ([https://www.openhumans.org/ Open Humans])
 * Michael Heuer (UC Berkeley)
 * Karsten Hokamp (Smurfit Institute of Genetics, Trinity College Dublin, Ireland)
+* Monica Munoz-Torres (Oregon State University)
 * Bastian Rieck (ETH Zurich)
 * '''Heather Wiencko ([https://www.hostedgraphite.com Hosted Graphite], Dublin Ireland)--Co-Chair'''
 
