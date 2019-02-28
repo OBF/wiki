@@ -7,6 +7,8 @@ __NOTOC__
 
 [https://f1000research.com/collections/BOSC?&selectedDomain=articles In 2018, BOSC was held jointly with GCC] as a combined [https://gccbosc2018.sched.com/ GCCBOSC] conference. In 2019, BOSC will be part of [https://www.iscb.org/ismbeccb2019 ISMB/ECCB] in Basel. We hope to partner with GCC again in 2020 or 2021. Read more [https://news.open-bio.org/2018/08/02/taking-turns/ here about why we decided to hold BOSC with GCC in 2018 and ISMB in 2019.]
 
+New: join our public Gitter channel, https://gitter.im/OBF/BOSC_community
+
 == Important Dates ==
 
 * February, 2019: [[BOSC_Abstract_Submission|Abstract submission]] opens
@@ -55,6 +57,7 @@ As part of ISMB/ECCB 2019, BOSC 2019 will be covered by [https://www.iscb.org/is
 * Follow BOSC on Twitter: [https://twitter.com/OBF_BOSC @OBF_BOSC], [https://twitter.com/search?f=tweets&vertical=default&q=%23bosc2019&src=typd #bosc2019]
 * If you'd like to join the mailing list for BOSC-related announcements, including the call for abstracts and deadline reminders, please subscribe to [http://lists.open-bio.org/mailman/listinfo/bosc-announce bosc-announce].  This list has low traffic, and your address will be kept private.
 * If you have questions about the conference, or would like to volunteer to help out, please contact the organizers at [mailto:obf-bosc@googlegroups.com obf-bosc@googlegroups.com].
+* Join our public Gitter channel, https://gitter.im/OBF/BOSC_community
 
 [[Category:BOSC]] [[Category:Conferences]]
 [[Category:BOSC Conferences]]
