@@ -19,17 +19,17 @@ New: join our public Gitter channel, https://gitter.im/OBF/BOSC_community
 * July 26-28, 2019: CollaborationFest 2019, location TBD
 
 == Session Topics ==
-BOSC covers all aspects of bioinformatics and open science software. Last year's topics included:
+BOSC covers all aspects of bioinformatics and open science software, including (but not limited to):
 * Open Science and Reproducible Research
 * Open Biomedical Data
 * Citizen/Participatory Science
 * Standards and Interoperability
 * Data Science
 * Workflows
-* Visualization
-* Medical and Translational Bioinformatics
+* Open Approaches to Translational Bioinformatics
 * Developer Tools and Libraries
-* Bioinformatics Open Source Project Progress Reports
+* Inclusion, Outreach and Training
+* Bioinformatics Open Source Project Reports (about new or existing projects)
 
 == BOSC Organizing Committee ==
 
