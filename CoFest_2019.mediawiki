@@ -20,7 +20,7 @@ CoFest's goals are much wider:
 
 == Why attend ==
 
-* For new members of the community: meet and learn with other open source programmers. There are [https://docs.google.com/document/d/16OKzgx11VLLvvxzXlhDr8yPQ8gFYg61bfbes79qPJE8/edit?usp=sharing projects specifically for new attendees, or add your own ideas]. 
+* For new members of the community: meet and learn with other open source programmers. There are [https://docs.google.com/document/d/1UaScEaOchWPCTdBei8PLCIcKLEqVdhDimOj4zFydhnk/edit?usp=sharing projects specifically for new attendees, or add your own ideas]. 
 
 * For current community members: expand your network and strengthen existing relationships. Teach and learn from new community members. Focus on open source work without interruptions. Discuss questions and problems in real time. 
 
@@ -40,7 +40,7 @@ The rough structure of the two days is:
 
 * Start with introductions from everyone attending about their goals and plans for the two days.
 
-* Assemble into working groups based on shared interests like programming languages, open source projects or biological questions. We use the [https://docs.google.com/document/d/16OKzgx11VLLvvxzXlhDr8yPQ8gFYg61bfbes79qPJE8/edit?usp=sharing collaboratively brainstormed Google document] as the basis for setting up groups. Attendees determine the goals for the two days. If you have an idea for a project, please add it before the event. Any and all suggestions are welcome.
+* Assemble into working groups based on shared interests like programming languages, open source projects or biological questions. We use the [https://docs.google.com/document/d/1UaScEaOchWPCTdBei8PLCIcKLEqVdhDimOj4zFydhnk/edit?usp=sharing collaboratively brainstormed Google document] as the basis for setting up groups. Attendees determine the goals for the two days. If you have an idea for a project, please add it before the event. Any and all suggestions are welcome.
 
 * Work and discuss. Enjoy the productive time.
 
@@ -56,13 +56,13 @@ are very welcome at CoFest.
 == Attending ==
 
 You are very welcome to attend. There is no cost, we only ask you to register to help organize numbers. Please add yourself if you are
-interested to [https://docs.google.com/spreadsheets/d/1o-eIxURNdYoCsrpMRYtzXygM8wMj96WN8zYTTpLhkSU/edit#gid=0 this Google spreadsheet]
+interested to [https://docs.google.com/spreadsheets/d/1KmUvbKo7AXwivjCLkFv3Dd-z4fhNrS2pXotMse9QGCg/edit?usp=sharing this Google spreadsheet]
 We'll coordinate through the [https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2017 CoFest 2019 mailing list],
 so please sign up to discuss and receive updates.
 
-If you're not able to physically attend, we're still more than happy to have you participate in Codefest. Please sign up on the [https://docs.google.com/spreadsheets/d/1o-eIxURNdYoCsrpMRYtzXygM8wMj96WN8zYTTpLhkSU/edit#gid=0 the Google spreadsheet] and list yourself as remote only. We have a [https://gitter.im/chapmanb/obf-codefest Gitter chat room] we can use to coordinate and discuss in real time and will have an open Google Hangout to make it easier to be part of CoFest remotely.
+If you're not able to physically attend, we're still more than happy to have you participate in Codefest. Please sign up on the [https://docs.google.com/spreadsheets/d/1KmUvbKo7AXwivjCLkFv3Dd-z4fhNrS2pXotMse9QGCg/edit?usp=sharing the Google spreadsheet] and list yourself as remote only. We have a [https://gitter.im/chapmanb/obf-codefest Gitter chat room] we can use to coordinate and discuss in real time and will have an open Google Hangout to make it easier to be part of CoFest remotely.
 
-Add your [https://docs.google.com/document/d/16OKzgx11VLLvvxzXlhDr8yPQ8gFYg61bfbes79qPJE8/edit?usp=sharing project ideas to the shared google document]. The ideas include smaller focused projects and larger work. We want suggestions from everyone and will organize into groups around these during CoFest.
+Add your [https://docs.google.com/document/d/1UaScEaOchWPCTdBei8PLCIcKLEqVdhDimOj4zFydhnk/edit?usp=sharing project ideas to the shared google document]. The ideas include smaller focused projects and larger work. We want suggestions from everyone and will organize into groups around these during CoFest.
 
 == Logistics ==
 
