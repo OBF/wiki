@@ -2,4 +2,78 @@
 title: CoFest 2019
 ---
 
-We are planning a CoFest 2019 after the BOSC general meeting on July 26 - 27th in Basel. Further details will be posted once we have a final agreement - if you have ideas on potential places/hackerspaces etc please let us know!
+Open Bioinformatics Foundation CoFest 2019 will be July 26th and 27th, 2019 (the Friday and Saturday after [[BOSC 2019]] and the ISMB/ECCB 2019 meeting) at a location in Basel, Switzerland TBD.
+
+CoFest is an opportunity for anyone interested in open science, biology and programming to meet, discuss and work collaboratively. Everyone is welcome to attend. We will have a mix of experienced developers, users, trainers, and researchers, newcomers to bioinformatics, and everything in between.
+
+This will be the 10th annual pre- or post-[[BOSC]] collaboration fest. Previous fun and successful events were [[Codefest 2010]] in Boston, [[Codefest 2011]] in Vienna, [[Codefest 2012]] in Los Angeles, [[Codefest 2013]] in Berlin, [[Codefest 2014]] in Boston, [[Codefest 2015]] in Dublin, [[Codefest 2016]] in Orlando, [[Codefest 2017]] in Prague, and [https://galaxyproject.org/events/gccbosc2018/collaboration/ GCCBOSC Collaboration Fest 2018] in Portland.
+
+== Objectives ==
+
+Anyone interested in contributing to open source bioinformatics projects is encouraged to attend. Newcomers are especially encouraged to attend. The goal of many collaborative work events is to produce code, period.
+
+CoFest's goals are much wider:
+
+* Grow and foster the contributor community for open source bioinformatics projects.
+* Extend, enhance, and otherwise improve open source bioinformatics code.
+* Create, extend, and otherwise improve non-code objects, such as documentation and training materials
+
+== Why attend ==
+
+* For new members of the community: meet and learn with other open source programmers. There are [https://docs.google.com/document/d/16OKzgx11VLLvvxzXlhDr8yPQ8gFYg61bfbes79qPJE8/edit?usp=sharing projects specifically for new attendees, or add your own ideas]. 
+
+* For current community members: expand your network and strengthen existing relationships. Teach and learn from new community members. Focus on open source work without interruptions. Discuss questions and problems in real time. 
+
+* For everyone: discuss and learn from the community. Teach others what you know. Build new friendships and collaborations.
+
+If you have any questions or thoughts, please get in touch with [https://github.com/heuermh Michael] directly, in the [https://gitter.im/chapmanb/obf-codefest Gitter chat room] or on the [https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2017 CoFest 2019 mailing list].
+
+== What to expect ==
+
+The Open Bioinformatics Foundation CoFest is a collaborative two day working session. The only
+requirement for attendance is that you have an interest in open source software
+and solving scientific problems. We will have contributors to open source
+bioinformatics tools present to collaboratively work with, and we welcome new
+attendees who want to learn and contribute to open source code or documentation.
+
+The rough structure of the two days is:
+
+* Start with introductions from everyone attending about their goals and plans for the two days.
+
+* Assemble into working groups based on shared interests like programming languages, open source projects or biological questions. We use the [https://docs.google.com/document/d/16OKzgx11VLLvvxzXlhDr8yPQ8gFYg61bfbes79qPJE8/edit?usp=sharing collaboratively brainstormed Google document] as the basis for setting up groups. Attendees determine the goals for the two days. If you have an idea for a project, please add it before the event. Any and all suggestions are welcome.
+
+* Work and discuss. Enjoy the productive time.
+
+* We'll have regular breaks where each group can deliver short reports on their progress.
+
+* We have informal lunches, dinners and drinks as a way for everyone to get to know each other better.
+
+* At the end of the two days, we summarize contributions and work accomplished in a meeting report.
+
+Please feel free to get in touch with any of the organizers with questions. You
+are very welcome at CoFest.
+
+== Attending ==
+
+You are very welcome to attend. There is no cost, we only ask you to register to help organize numbers. Please add yourself if you are
+interested to [https://docs.google.com/spreadsheets/d/1o-eIxURNdYoCsrpMRYtzXygM8wMj96WN8zYTTpLhkSU/edit#gid=0 this Google spreadsheet]
+We'll coordinate through the [https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2017 CoFest 2019 mailing list],
+so please sign up to discuss and receive updates.
+
+If you're not able to physically attend, we're still more than happy to have you participate in Codefest. Please sign up on the [https://docs.google.com/spreadsheets/d/1o-eIxURNdYoCsrpMRYtzXygM8wMj96WN8zYTTpLhkSU/edit#gid=0 the Google spreadsheet] and list yourself as remote only. We have a [https://gitter.im/chapmanb/obf-codefest Gitter chat room] we can use to coordinate and discuss in real time and will have an open Google Hangout to make it easier to be part of CoFest remotely.
+
+Add your [https://docs.google.com/document/d/16OKzgx11VLLvvxzXlhDr8yPQ8gFYg61bfbes79qPJE8/edit?usp=sharing project ideas to the shared google document]. The ideas include smaller focused projects and larger work. We want suggestions from everyone and will organize into groups around these during CoFest.
+
+== Logistics ==
+
+
+TBD
+
+
+We're looking for sponsors interested in being involved with the open source community. Sponsorship money helps provide food and drink for the CoFest and [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md Open Bioinformatics Foundation Travel Fellowships] for BOSC and CoFest. If interested, please get in touch with [https://github.com/heuermh Michael] (CoFest) or the [mailto:bosc@open-bio.org BOSC committee] (general).
+
+== Organizers ==
+
+* Alexander Peltzer
+* Peter Cock
+* [http://github.com/heuermh Michael Heuer]
