@@ -26,7 +26,6 @@ CoFest's goals are much wider:
 
 * For everyone: discuss and learn from the community. Teach others what you know. Build new friendships and collaborations.
 
-If you have any questions or thoughts, please get in touch with [https://github.com/heuermh Michael] directly, or join the [https://gitter.im/chapmanb/obf-codefest CoFest Gitter chat room] or [https://gitter.im/OBF/BOSC_community BOSC Gitter chat room].
 
 == What to expect ==
 
@@ -72,6 +71,10 @@ TBD
 == Sponsors ==
 
 We're looking for sponsors interested in being involved with the open source community. Sponsorship money helps provide food and drink for the CoFest and [https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md Open Bioinformatics Foundation Travel Fellowships] for BOSC and CoFest. If interested, please get in touch with [https://github.com/heuermh Michael] (CoFest) or the [mailto:bosc@open-bio.org BOSC committee] (general).
+
+== Questions? ==
+
+If you have any questions or thoughts, please get in touch with [https://github.com/heuermh Michael] directly, or join of the aforementioned chat rooms to ask.
 
 == Organizers ==
 
