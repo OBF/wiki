@@ -2,7 +2,7 @@
 title: CoFest 2019
 ---
 
-Open Bioinformatics Foundation CoFest 2019 will be July 26th and 27th, 2019 (the Friday and Saturday after [[BOSC 2019]] and the ISMB/ECCB 2019 meeting) at a location in Basel, Switzerland TBD.
+Open Bioinformatics Foundation Collaboration Fest (CoFest) 2019 will be July 26th and 27th, 2019 (the Friday and Saturday after [[BOSC 2019]] and the ISMB/ECCB 2019 meeting) at a location in Basel, Switzerland TBD.
 
 CoFest is an opportunity for anyone interested in open science, biology and programming to meet, discuss and work collaboratively. Everyone is welcome to attend. We will have a mix of experienced developers, users, trainers, and researchers, newcomers to bioinformatics, and everything in between.
 
@@ -26,7 +26,7 @@ CoFest's goals are much wider:
 
 * For everyone: discuss and learn from the community. Teach others what you know. Build new friendships and collaborations.
 
-If you have any questions or thoughts, please get in touch with [https://github.com/heuermh Michael] directly, in the [https://gitter.im/chapmanb/obf-codefest Gitter chat room] or on the [https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2017 CoFest 2019 mailing list].
+If you have any questions or thoughts, please get in touch with [https://github.com/heuermh Michael] directly, or join the [https://gitter.im/chapmanb/obf-codefest CoFest Gitter chat room] or [https://gitter.im/OBF/BOSC_community BOSC Gitter chat room].
 
 == What to expect ==
 
@@ -57,10 +57,10 @@ are very welcome at CoFest.
 
 You are very welcome to attend. There is no cost, we only ask you to register to help organize numbers. Please add yourself if you are
 interested to [https://docs.google.com/spreadsheets/d/1KmUvbKo7AXwivjCLkFv3Dd-z4fhNrS2pXotMse9QGCg/edit?usp=sharing this Google spreadsheet]
-We'll coordinate through the [https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2017 CoFest 2019 mailing list],
-so please sign up to discuss and receive updates.
+We'll coordinate through the [https://gitter.im/chapmanb/obf-codefest CoFest Gitter chat room] and [https://gitter.im/OBF/BOSC_community BOSC Gitter chat room],
+so please sign up and introduce yourself there.
 
-If you're not able to physically attend, we're still more than happy to have you participate in Codefest. Please sign up on the [https://docs.google.com/spreadsheets/d/1KmUvbKo7AXwivjCLkFv3Dd-z4fhNrS2pXotMse9QGCg/edit?usp=sharing the Google spreadsheet] and list yourself as remote only. We have a [https://gitter.im/chapmanb/obf-codefest Gitter chat room] we can use to coordinate and discuss in real time and will have an open Google Hangout to make it easier to be part of CoFest remotely.
+If you're not able to physically attend, we're still more than happy to have you participate in Codefest. Please sign up on the [https://docs.google.com/spreadsheets/d/1KmUvbKo7AXwivjCLkFv3Dd-z4fhNrS2pXotMse9QGCg/edit?usp=sharing the Google spreadsheet] and list yourself as remote only. We have a [https://gitter.im/chapmanb/obf-codefest CoFest Gitter chat room] we can use to coordinate and discuss in real time and will have an open Google Hangout to make it easier to be part of CoFest remotely.
 
 Add your [https://docs.google.com/document/d/1UaScEaOchWPCTdBei8PLCIcKLEqVdhDimOj4zFydhnk/edit?usp=sharing project ideas to the shared google document]. The ideas include smaller focused projects and larger work. We want suggestions from everyone and will organize into groups around these during CoFest.
 
