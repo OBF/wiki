@@ -75,6 +75,6 @@ We're looking for sponsors interested in being involved with the open source com
 
 == Organizers ==
 
-* Alexander Peltzer
-* Peter Cock
-* [http://github.com/heuermh Michael Heuer]
+* [https://github.com/apeltzer Alexander Peltzer]
+* [https://github.com/peterjc Peter Cock]
+* [https://github.com/heuermh Michael Heuer]
