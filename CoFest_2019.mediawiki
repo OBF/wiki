@@ -20,7 +20,7 @@ CoFest's goals are much wider:
 
 == Why attend ==
 
-* For new members of the community: meet and learn with other open source programmers. There are [https://docs.google.com/document/d/1UaScEaOchWPCTdBei8PLCIcKLEqVdhDimOj4zFydhnk/edit?usp=sharing projects specifically for new attendees, or add your own ideas]. 
+* For new members of the community: meet and learn with other open source programmers. 
 
 * For current community members: expand your network and strengthen existing relationships. Teach and learn from new community members. Focus on open source work without interruptions. Discuss questions and problems in real time. 
 
@@ -29,7 +29,7 @@ CoFest's goals are much wider:
 
 == What to expect ==
 
-The Open Bioinformatics Foundation CoFest is a collaborative two day working session. The only
+The Open Bioinformatics Foundation CoFest is a collaborative two-day working session. The only
 requirement for attendance is that you have an interest in open source software
 and solving scientific problems. We will have contributors to open source
 bioinformatics tools present to collaboratively work with, and we welcome new
@@ -41,11 +41,11 @@ The rough structure of the two days is:
 
 * Assemble into working groups based on shared interests like programming languages, open source projects or biological questions. We use the [https://docs.google.com/document/d/1UaScEaOchWPCTdBei8PLCIcKLEqVdhDimOj4zFydhnk/edit?usp=sharing collaboratively brainstormed Google document] as the basis for setting up groups. Attendees determine the goals for the two days. If you have an idea for a project, please add it before the event. Any and all suggestions are welcome.
 
-* Work and discuss. Enjoy the productive time.
+* Work and discuss. Enjoy a productive time.
 
 * We'll have regular breaks where each group can deliver short reports on their progress.
 
-* We have informal lunches, dinners and drinks as a way for everyone to get to know each other better.
+* We have informal lunches, dinners, and drinks as a way for everyone to get to know each other better.
 
 * At the end of the two days, we summarize contributions and work accomplished in a meeting report.
 
@@ -64,7 +64,6 @@ If you're not able to physically attend, we're still more than happy to have you
 Add your [https://docs.google.com/document/d/1UaScEaOchWPCTdBei8PLCIcKLEqVdhDimOj4zFydhnk/edit?usp=sharing project ideas to the shared google document]. The ideas include smaller focused projects and larger work. We want suggestions from everyone and will organize into groups around these during CoFest.
 
 == Logistics ==
-
 
 TBD
 
