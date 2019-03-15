@@ -10,7 +10,7 @@ In 2019, BOSC will be part of [https://www.iscb.org/ismbeccb2019 ISMB/ECCB] in B
 
 == Important Dates ==
 * February 2019: Abstract submission opens
-* April 11, 2019: Talk/poster abstract submission deadline
+* April 11, 2019: Talk/poster abstract submission deadline (for longer talks, lightning talks, posters)
 * May 9, 2019: Talk/poster authors notified
 * May 15, 2019: Late poster/late-breaking lightning talk submission deadline
 * May 23, 2019: Late round authors notified
@@ -22,6 +22,8 @@ In 2019, BOSC will be part of [https://www.iscb.org/ismbeccb2019 ISMB/ECCB] in B
 '''PDF''': Authors who hope to present a talk must *also* submit a 1-2 page PDF describing their work in more detail. The PDF is welcome to include any figures or graphics that will fit in the two pages. We cannot accept submissions in Word, LaTeX, or other formats.
 
 If you are only applying to present a poster, you only need to submit a 200-word summary ("abstract"); submitting an additional PDF is optional.
+
+Note that only first-round abstracts (submitted by April 11) are eligible for longer talks. Late-round submissions will be considered for posters and a few will be chosen for Late-Breaking Lightning Talks.
 
 '''Length''': In the past, BOSC abstracts were limited to one page. Please do not feel compelled to use the second page unless you want to. We do hope you'll use the extra space to include examples of biological applications of your work, and a summary of the current and/or projected community aspect of your project.
 
