@@ -11,7 +11,7 @@ New: join our public Gitter channel, https://gitter.im/OBF/BOSC_community
 
 == Important Dates ==
 
-* February, 2019: [[BOSC_Abstract_Submission|Abstract submission]] opens
+* March, 2019: [https://www.iscb.org/ismbeccb2019-registration Registration for ISMB] opens. You can register for just the two days of BOSC (July 24-25) or the whole conference.
 * '''April 11, 2019: Deadline for submitting talk/poster abstracts'''
 * May 9, 2019: Authors notified
 * May 15, 2019: Late poster/late-breaking lightning talk submission deadline
