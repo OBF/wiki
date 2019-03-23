@@ -9,7 +9,7 @@ BOSC 2019 will take place July 24-25 as part of [https://www.iscb.org/ismbeccb20
 
 If you are interested in giving a talk at BOSC 2019, [https://www.open-bio.org/wiki/BOSC_Abstract_Submission submit your abstract] by April 11!
 
-New: join our public Gitter channel, https://gitter.im/OBF/BOSC_community
+New: join our public [https://gitter.im/OBF/BOSC_community Gitter channel]
 
 == Important Dates ==
 
