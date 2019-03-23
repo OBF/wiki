@@ -7,8 +7,6 @@ __NOTOC__
 
 BOSC 2019 will take place July 24-25 as part of [https://www.iscb.org/ismbeccb2019 ISMB/ECCB] in Basel. 
 
-[https://f1000research.com/collections/BOSC?&selectedDomain=articles In 2018, BOSC was held jointly with GCC] as a combined [https://gccbosc2018.sched.com/ GCCBOSC] conference. We hope to partner with GCC again in 2020 or 2021. Read more [https://news.open-bio.org/2018/08/02/taking-turns/ here about why we decided to hold BOSC with GCC in 2018 and ISMB in 2019.]
-
 If you are interested in giving a talk at BOSC 2019, [https://www.open-bio.org/wiki/BOSC_Abstract_Submission submit your abstract] by April 11!
 
 New: join our public Gitter channel, https://gitter.im/OBF/BOSC_community
@@ -53,7 +51,7 @@ BOSC covers all aspects of bioinformatics and open science software, including (
 == Previous BOSCs ==
 
 * BOSC has been held yearly since 2000.
-* '''[https://gccbosc2018.sched.com/ BOSC 2018] was held June 26-27, 2018''' (with training days June 24-25 and a CollaborationFest June 28-29) at Reed College in Portland, Oregon as part of [https://gccbosc2018.sched.com/ the GCCBOSC 2018 bioinformatics community conference] co-hosted with the Galaxy Community Conference. Check out the [https://gccbosc2018.sched.com/ complete schedule]!'''
+* [https://f1000research.com/collections/BOSC?&selectedDomain=articles In 2018, BOSC was held jointly with GCC] as a combined [https://gccbosc2018.sched.com/ GCCBOSC] conference. We hope to partner with GCC again in 2020 or 2021. Read more [https://news.open-bio.org/2018/08/02/taking-turns/ here about why we decided to hold BOSC with GCC in 2018 and ISMB in 2019.]
 * [[Past BOSC conferences | Information about the first 19 BOSC conferences]]
 
 == Code of Conduct ==
