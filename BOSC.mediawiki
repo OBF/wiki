@@ -3,6 +3,8 @@ title: BOSC
 ---
 
 <div style="float:right; maxwidth: 180px; margin-left:25px; margin-right:15px; background-color: #FFFFFF">[[Image:Pear.png|lright|The Bosc Pear]]</div>
+<b>* * * Submit your abstract now for [[BOSC 2019]]! * * *</b>
+
 The '''B'''ioinformatics '''O'''pen '''S'''ource '''C'''onference promotes and facilitates the [[wp:open source|open source]] development of [[wp:bioinformatics|bioinformatics]] tools and open science.  The aims of the conferences are to: 
 # Provide developers with a forum for displaying the results of their development efforts to the wider research community; 
 # Provide a focused environment for developers and users to interact and share ideas about software development, open science, and practical techniques in bioinformatics; 
