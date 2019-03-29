@@ -20,7 +20,7 @@ New: join our public [https://gitter.im/OBF/BOSC_community Gitter channel]
 * May 23, 2019: Late round authors notified
 * July 21-25, 2019: [https://www.iscb.org/ismbeccb2019 ISMB/ECCB 2019], Basel, Switzerland
 * '''July 24-25, 2019: BOSC 2019''',  Basel, Switzerland
-* July 26-28, 2019: [[CoFest_2019 | CollaborationFest 2019]], location TBD
+* July 26-27, 2019: [[CoFest_2019 | CollaborationFest 2019]], location TBD
 
 == Session Topics ==
 BOSC covers all aspects of bioinformatics and open science software, including (but not limited to):
