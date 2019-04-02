@@ -14,7 +14,8 @@ New: join our public [https://gitter.im/OBF/BOSC_community Gitter channel]
 == Important Dates ==
 
 * March, 2019: [https://www.iscb.org/ismbeccb2019-registration Registration for ISMB] opens. You can register for just the two days of BOSC (July 24-25) or the whole conference.
-* '''April 11, 2019: Deadline for [https://www.open-bio.org/wiki/BOSC_Abstract_Submission submitting talk/poster abstracts]'''
+* '''April 11, 2019: Deadline for [https://www.open-bio.org/events/bosc/submit/ submitting talk/poster abstracts]'''
+* April 15, 2019: Deadline for applying for an [https://www.open-bio.org/travel-awards/ OBF Travel Fellowship]
 * May 9, 2019: Authors notified
 * May 15, 2019: Late poster/late-breaking lightning talk submission deadline
 * May 23, 2019: Late round authors notified
