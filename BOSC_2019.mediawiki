@@ -5,65 +5,7 @@ title: BOSC 2019
 __NOTOC__
 <div style="float:right; maxwidth: 180px; margin-left:25px; margin-right:15px; background-color: #FFFFFF">[[Image:Pear.png|left|The Bosc Pear]]</div>
 
-BOSC 2019 will take place July 24-25 as part of [https://www.iscb.org/ismbeccb2019 ISMB/ECCB] in Basel. 
+This is the OLD (soon to be retired) BOSC page!
 
-If you are interested in giving a talk at BOSC 2019, [https://www.open-bio.org/wiki/BOSC_Abstract_Submission submit your abstract] by April 11!
-
-New: join our public [https://gitter.im/OBF/BOSC_community Gitter channel]
-
-== Important Dates ==
-
-* March, 2019: [https://www.iscb.org/ismbeccb2019-registration Registration for ISMB] opens. You can register for just the two days of BOSC (July 24-25) or the whole conference.
-* '''April 11, 2019: Deadline for [https://www.open-bio.org/events/bosc/submit/ submitting talk/poster abstracts]'''
-* April 15, 2019: Deadline for applying for an [https://www.open-bio.org/travel-awards/ OBF Travel Fellowship]
-* May 9, 2019: Authors notified
-* May 15, 2019: Late poster/late-breaking lightning talk submission deadline
-* May 23, 2019: Late round authors notified
-* July 21-25, 2019: [https://www.iscb.org/ismbeccb2019 ISMB/ECCB 2019], Basel, Switzerland
-* '''July 24-25, 2019: BOSC 2019''',  Basel, Switzerland
-* July 26-27, 2019: [[CoFest_2019 | CollaborationFest 2019]], location TBD
-
-== Session Topics ==
-BOSC covers all aspects of bioinformatics and open science software, including (but not limited to):
-* Open Science and Reproducible Research
-* Open Biomedical Data
-* Citizen/Participatory Science
-* Standards and Interoperability
-* Data Science
-* Workflows
-* Open Approaches to Translational Bioinformatics
-* Developer Tools and Libraries
-* Inclusion, Outreach and Training
-* Bioinformatics Open Source Project Reports (about new or existing projects)
-
-== BOSC Organizing Committee ==
-
-* '''Nomi L. Harris (Lawrence Berkeley National Laboratory)--Chair'''
-* [http://www.scri.ac.uk/staff/petercock Peter Cock] ([http://biopython.org Biopython developer]; [http://www.hutton.ac.uk James Hutton Institute])
-* Christopher Fields (National Center for Supercomputing Applications)
-* Bastian Greshake Tzovaras ([https://www.openhumans.org/ Open Humans])
-* Michael Heuer (UC Berkeley)
-* Karsten Hokamp (Smurfit Institute of Genetics, Trinity College Dublin, Ireland)
-* Monica Munoz-Torres (Oregon State University)
-* Bastian Rieck (ETH Zurich)
-* [http://yo-yehudi.com/ Yo Yehudi] (University of Cambridge)
-* '''Heather Wiencko ([https://www.hostedgraphite.com Hosted Graphite], Dublin Ireland)--Co-Chair'''
-
-== Previous BOSCs ==
-
-* BOSC has been held yearly since 2000.
-* [https://f1000research.com/collections/BOSC?&selectedDomain=articles In 2018, BOSC was held jointly with GCC] as a combined [https://gccbosc2018.sched.com/ GCCBOSC] conference. We hope to partner with GCC again in 2020 or 2021. Read more [https://news.open-bio.org/2018/08/02/taking-turns/ here about why we decided to hold BOSC with GCC in 2018 and ISMB in 2019.]
-* [[Past BOSC conferences | Information about the first 19 BOSC conferences]]
-
-== Code of Conduct ==
-As part of ISMB/ECCB 2019, BOSC 2019 will be covered by [https://www.iscb.org/ismbeccb2019-general/codeofconduct ISMB's Code of Conduct.].
-
-== Contact Us ==
-
-* Follow BOSC on Twitter: [https://twitter.com/OBF_BOSC @OBF_BOSC], [https://twitter.com/search?f=tweets&vertical=default&q=%23bosc2019&src=typd #bosc2019]
-* If you'd like to join the mailing list for BOSC-related announcements, including the call for abstracts and deadline reminders, please subscribe to [http://lists.open-bio.org/mailman/listinfo/bosc-announce bosc-announce].  This list has low traffic, and your address will be kept private.
-* If you have questions about the conference, or would like to volunteer to help out, please contact the organizers at [mailto:obf-bosc@googlegroups.com obf-bosc@googlegroups.com].
-* Join our public Gitter channel, https://gitter.im/OBF/BOSC_community
-
-[[Category:BOSC]] [[Category:Conferences]]
-[[Category:BOSC Conferences]]
+Please go to the ***NEW*** BOSC website instead:
+[https://www.open-bio.org/events/bosc/ https://www.open-bio.org/events/bosc/]
