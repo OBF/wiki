@@ -2,7 +2,7 @@
 title: CoFest 2019
 ---
 
-Open Bioinformatics Foundation Collaboration Fest (CoFest) 2019 will be July 26th and 27th, 2019 (the Friday and Saturday after [[BOSC 2019]] and the ISMB/ECCB 2019 meeting) at a location in Basel, Switzerland TBD.
+Open Bioinformatics Foundation Collaboration Fest (CoFest) 2019 will be July 26th and 27th, 2019 (the Friday and Saturday after [[BOSC 2019]] and the ISMB/ECCB 2019 meeting) at [https://www.dayone.swiss/dayone.html The Swiss Innovation Hub for Personalized Medicine] in Basel, Switzerland.
 
 CoFest is an opportunity for anyone interested in open science, biology and programming to meet, discuss and work collaboratively. Everyone is welcome to attend. We will have a mix of experienced developers, users, trainers, and researchers, newcomers to bioinformatics, and everything in between.
 
@@ -64,7 +64,8 @@ Add your [https://docs.google.com/document/d/1UaScEaOchWPCTdBei8PLCIcKLEqVdhDimO
 
 == Logistics ==
 
-TBD
+Location is going to be at [https://www.dayone.swiss/dayone.html The Swiss Innovation Hub for Personalized Medicine] with the address: [https://goo.gl/maps/AvZkyjvsm1DQrGmL6 Hochbergerstrasse 60C, 4057 Basel, Switzerland.]
+
 
 == Sponsors ==
 
