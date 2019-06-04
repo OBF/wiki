@@ -2,6 +2,6 @@
 title: Donate
 ---
 
-You can donate to the OBF through our fiscal sponsor, [http://spi-inc.org/ Software in the Public Interest, Inc.]. [http://spi-inc.org/donations Donations can be made] by check, wire transfer, and [https://co.clickandpledge.com/advanced/default.aspx?wid=66788# online by credit card]. Donations made through SPI are 501(c)3 tax-exempt in the US. For Europe-based donors, SPI also has a charitable partner organization in Europe.
+You can donate to the OBF through our fiscal sponsor, [http://spi-inc.org/ Software in the Public Interest, Inc.]. [http://spi-inc.org/donations Donations can be made] by check, wire transfer, and [https://co.clickandpledge.com/advanced/default.aspx?wid=66788# online by credit card]. Donations made through SPI are 501(c)3 tax-exempt in the US.
 
 Your contribution helps fund a growing community of people committed to developing reusable open-source software for advancing biological research.
