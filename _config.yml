@@ -1,0 +1,11 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-redirect-from
+- jekyll-remote-theme
+
+# Setup
+title: Open Bioinformatics Foundation
+description: A conversion of our old MediaWiki to GitHub Pages (no live content)
+
+show_downloads: false
+google_analytics:
