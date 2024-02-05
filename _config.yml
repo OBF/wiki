@@ -9,3 +9,5 @@ description: A conversion of our old MediaWiki to GitHub Pages (no live content)
 
 show_downloads: false
 google_analytics:
+
+exclude: README.md
