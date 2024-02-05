@@ -19,7 +19,7 @@ revisions including files like images:
 
 ```
 $ php ~/www/w/maintenance/dumpBackup.php --conf ~/www/w/LocalSettings.php \
-  --full --include-files > obf_mediawiki_dump_2024-02-05.xml
+  --full --include-files --uploads > obf_mediawiki_dump_2024-02-05.xml
 $ bzip2 obf_mediawiki_dump_2024-02-05.xml.bz2
 ```
 
