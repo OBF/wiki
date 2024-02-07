@@ -4,6 +4,7 @@ permalink: Main_Page
 layout: wiki
 redirect_from:
  - OBF
+ - /
 ---
 
 <div style="float:right;">
