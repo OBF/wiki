@@ -80,7 +80,7 @@ BOSC is organised by the [[Main_Page|Open Bioinformatics Foundation]], a non-pro
 |}
 {|
 | &nbsp;&nbsp;&nbsp;
-| [[File:Gigascience-07.png|200px|center|GigaScience|link=http://www.gigasciencejournal.com/]]
+| [[File:gigascience-07.png|200px|center|GigaScience|link=http://www.gigasciencejournal.com/]]
 | &nbsp;&nbsp;&nbsp;
 | [[File:SB_logo_navy.png|220px|center|Seven Bridges|link=https://www.sevenbridges.com/]]
 | &nbsp;&nbsp;&nbsp;

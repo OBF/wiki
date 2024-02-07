@@ -58,7 +58,7 @@ BOSC is organised by the [[Main_Page|Open Bioinformatics Foundation]], a non-pro
 | [[File:Curoverse_logo.png|175px|center|Curoverse logo|link=http://curoverse.com]]
 |-
 | [[File:Arvados.png|150px|center|Arvados logo|link=http://arvados.org]]
-|rowspan="2"| [[File:Gigascience-07.png|200px|left|GigaScience|link=http://www.gigasciencejournal.com/]]
+|rowspan="2"| [[File:gigascience-07.png|200px|left|GigaScience|link=http://www.gigasciencejournal.com/]]
 |rowspan="2"| [[File:Bina_logo.png|200px|left|Bina|link=http://www.bina.com/]]
 |}
 

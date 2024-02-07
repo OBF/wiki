@@ -854,7 +854,7 @@ If you would like to be a sponsor of BOSC, please contact us at bosc@open-bio.or
 |}
 {|
 | &nbsp;&nbsp;&nbsp;
-| [[File:Gigascience-07.png|200px|center|GigaScience|link=http://www.gigasciencejournal.com/]]
+| [[File:gigascience-07.png|200px|center|GigaScience|link=http://www.gigasciencejournal.com/]]
 | &nbsp;&nbsp;&nbsp;
 | [[File:SB_logo_navy.png|220px|center|Seven Bridges|link=https://www.sevenbridges.com/]]
 | &nbsp;&nbsp;&nbsp;
