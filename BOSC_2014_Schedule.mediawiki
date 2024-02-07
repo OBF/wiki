@@ -343,7 +343,7 @@ If the speaker also gave a talk, any poster link will be above (posters 1 to 11)
 |rowspan="2"| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 | [[File:Curoverse.png|175px|center|Curoverse logo|link=http://curoverse.com]]
 |-
-| [[File: Arvados.png|150px|center|Arvados logo|link=http://arvados.org]]
+| [[File:Arvados.png|150px|center|Arvados logo|link=http://arvados.org]]
 |rowspan="2"| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |rowspan="2"| [[File:google-logo11w.png|205px|center|Google|link=http://www.google.com/]]
 |}

@@ -15,7 +15,7 @@ We are grateful to [http://curoverse.com Curoverse] (the team behind the open so
 {|
 | [[File:Curoverse_logo.png|175px|center|Curoverse logo|link=http://curoverse.com]]
 |-
-| [[File: Arvados.png|150px|center|Arvados logo|link=http://arvados.org]]
+| [[File:Arvados.png|150px|center|Arvados logo|link=http://arvados.org]]
 |}
 
 == Pre-BOSC: Codefest 2016  ==

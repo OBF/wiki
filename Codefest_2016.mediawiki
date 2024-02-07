@@ -79,7 +79,7 @@ Add your [https://docs.google.com/document/d/1XQr4xgVneR9PopAdyrGH-DogKju5Lzn30J
 Codefest is kindly hosted by [https://familab.org/ FamiLAB], an Orlando community space for creators.
 
 {|
-| [[File: FamiLAB-Logo3.gif|400px|left|FamiLAB|link=http://familab.org]]
+| [[File:FamiLAB-Logo3.gif|400px|left|FamiLAB|link=http://familab.org]]
 |}
 
 FamiLAB is located north of Orlando International Airport and about an hour drive from the BOSC/ISMB venue at Walt Disney World Swan and Dolphin Hotel. Participants should fill out [https://www.hellosign.com/signer/getStartedInPerson?guid=372d4680 this waiver] in order to get a temporary badge to FamiLAB.
@@ -118,7 +118,7 @@ This is completely flexible based on progress and needs of attendees. There is a
 |rowspan="2"| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |rowspan="2"| [[File:PLOS-logo_2016.png|243px|center|PLOS logo|link=https://www.plos.org/?utm_source=plos&utm_medium=logo&utm_campaign=plos-1606-cdfstsp]]
 |-
-| [[File: Arvados.png|150px|center|Arvados logo|link=http://arvados.org]]
+| [[File:Arvados.png|150px|center|Arvados logo|link=http://arvados.org]]
 |}
 
 We thank [http://curoverse.com Curoverse] for sponsoring the BOSC Codefest once again, and [https://www.plos.org/?utm_source=plos&utm_medium=logo&utm_campaign=plos-1606-cdfstsp welcome PLOS as a new Codefest 2016 sponsor].
