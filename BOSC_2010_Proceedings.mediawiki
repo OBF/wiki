@@ -23,11 +23,11 @@ The BOSC Organizing Committee is pleased to announce that this year we will be p
 
 == How to submit ==
 
-* Manuscripts must conform to BMC Bioinformatics [[Media:Instructions_for_authors_-_BMC_-_Appendix_A.pdf‎ | author guidelines and formatting]].
+* Manuscripts must conform to BMC Bioinformatics [[Media:Instructions_for_authors_-_BMC_-_Appendix_A.pdf | author guidelines and formatting]].
 ** Manuscripts are expected to take up 4-5 printed pages in the journal, approximately 2500 words, not including the abstract and references.
 ** Manuscripts may be submitted in .pdf, .doc (Microsoft Word 97-2003), or .rtf format (files can also be zipped, .zip).
 *** TeX/LaTeX - please use BioMed Central's TeX template: http://www.biomedcentral.com/info/ifora/tex and submit your file as a PDF file.
-*** MS Word - A MS Word template (http://www.biomedcentral.com/download/templates/BMC154d.dot) is available and consists of a standard set of headings that make up an article manuscript, along with dummy fragments of body text.  (Additional instructions are found in the [[Media:Instructions_for_authors_-_BMC_-_Appendix_A.pdf‎ | author guidelines and formatting]] document.)
+*** MS Word - A MS Word template (http://www.biomedcentral.com/download/templates/BMC154d.dot) is available and consists of a standard set of headings that make up an article manuscript, along with dummy fragments of body text.  (Additional instructions are found in the [[Media:Instructions_for_authors_-_BMC_-_Appendix_A.pdf | author guidelines and formatting]] document.)
 * Manuscripts must be submitted via our [http://events.open-bio.org/BOSC2010-Proceedings/openconf.php Open Conferences System BOSC Proceedings site], '''''NOT''''' through the BMC Bioinformatics submissions site.
 ** Paste the abstract for your manuscript in the Abstract form field (not your abstract from the conference). Your abstract should also be included in the main manuscript you upload.
 

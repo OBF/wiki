@@ -169,7 +169,7 @@ The BOSC Organizing Committee is pleased to announce that this year we have publ
 * Manuscripts were due after the conference on August 15, 2010 to give authors time to refine their submission based on discussion at BOSC (especially for participants in the OpenBio Solution Challenge).
 * Manuscripts for all [[BOSC 2010#Sessions | Session topics]] were considered.
 * Manuscripts were peer-reviewed (abstract acceptance to BOSC did not guarantee publication in the Proceedings).
-* Manuscripts conformed to BMC Bioinformatics [[Media:Instructions_for_authors_-_BMC_-_Appendix_A.pdf‎ | author guidelines and formatting]], although submissions were processed through BOSC, ''NOT'' the BMC Bioinformatics submission web site.
+* Manuscripts conformed to BMC Bioinformatics [[Media:Instructions_for_authors_-_BMC_-_Appendix_A.pdf | author guidelines and formatting]], although submissions were processed through BOSC, ''NOT'' the BMC Bioinformatics submission web site.
 * Authors were charged the fee of GBP 550 per article, invoiced by and paid directly to BioMed Central.  This fee was payable regardless of any BioMed Central membership arrangements, and it was the responsibility of the author to pay this sum to BioMed Central for inclusion in the Proceedings.
 
 == Organizing Committee ==

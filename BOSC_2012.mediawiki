@@ -83,7 +83,7 @@ See the following websites for further information:
 * [http://www.opensource.org/licenses/ Recognized Open Source Licenses]
 * [http://www.opensource.org/docs/definition.php Definition of the Open Source Philosophy]
 
-<div style="float:right; background-color: #FFFFFF">[[File:Eagle_logo_CMYK.jpg‎|120px|right|Eagle Genomics logo|link=http://www.eaglegenomics.com/]]</div>
+<div style="float:right; background-color: #FFFFFF">[[File:Eagle_logo_CMYK.jpg|120px|right|Eagle Genomics logo|link=http://www.eaglegenomics.com/]]</div>
 
 == Sponsors ==
 
