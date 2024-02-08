@@ -2,4 +2,4 @@
 title: GMOD
 ---
 
-#REDIRECT [[bp:GMOD|GMOD]]
+{{#externalredirect: http://gmod.org}}

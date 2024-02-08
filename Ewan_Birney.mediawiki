@@ -2,4 +2,4 @@
 title: Ewan Birney
 ---
 
-#REDIRECT [[https://ewanbirney.com/]]
+{{#externalredirect: https://ewanbirney.com}}

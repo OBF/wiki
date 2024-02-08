@@ -2,4 +2,4 @@
 title: Hilmar Lapp
 ---
 
-#REDIRECT [[https://lappland.io/]]
+{{#externalredirect: https://lappland.io}}

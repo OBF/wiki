@@ -2,4 +2,4 @@
 title: PISE
 ---
 
-#REDIRECT [[bp:PISE|PISE]]
+{{#externalredirect: https://github.com/bioperl/bioperl-pise}}

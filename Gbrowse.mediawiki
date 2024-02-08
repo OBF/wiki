@@ -2,4 +2,4 @@
 title: Gbrowse
 ---
 
-#REDIRECT [[bp:Gbrowse]]
+{{#externalredirect: http://gmod.org/wiki/Gbrowse}}

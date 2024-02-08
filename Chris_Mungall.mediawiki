@@ -2,4 +2,4 @@
 title: Chris Mungall
 ---
 
-#REDIRECT [[https://github.com/cmungall]]
+{{#externalredirect: https://github.com/cmungall}}

@@ -2,4 +2,4 @@
 title: Brian Osborne
 ---
 
-#REDIRECT [[https://github.com/bosborne]]
+{{#externalredirect: https://github.com/bosborne}}

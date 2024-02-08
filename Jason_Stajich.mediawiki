@@ -2,4 +2,4 @@
 title: Jason Stajich
 ---
 
-#REDIRECT [[https://lab.stajich.org/members/jason-stajich]]
+{{#externalredirect: https://lab.stajich.org/members/jason-stajich}}
