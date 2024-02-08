@@ -42,10 +42,10 @@ interoperability environments, e.g.
 [GenePattern](http://www.genepattern.org) and others.
 
 The myGrid team would like to discuss the interoperability of Taverna
-(http://www.taverna.org.uk), myExperiment (http://www.myexperiment.org),
-BioCatalogue (http://www.biocatalogue.org) with GenomeSpace and Galaxy
+(<http://www.taverna.org.uk>), myExperiment (<http://www.myexperiment.org>),
+BioCatalogue (<http://www.biocatalogue.org>) with GenomeSpace and Galaxy
 in particular. We would also like to add in RightField
-(http://www.rightfield.org.uk) and SEEK (http://www.seek4science.org)
+(<http://www.rightfield.org.uk>) and SEEK (<http://www.seek4science.org>)
 into the mix.
 
 From the NBIC (Netherlands BioInformatics Centre) - myGrid
