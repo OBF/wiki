@@ -2,4 +2,4 @@
 title: BioPerl
 ---
 
-#REDIRECT [[bp:BioPerl|BioPerl]]
+#REDIRECT [[https://bioperl.org|BioPerl]]

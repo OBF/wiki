@@ -10,7 +10,7 @@ Here are some newsletters sumamarizing project progress
 * [[Newsletter:2001 Winter]]
 
 ==Project specific milestones==
-===[[bp:BioPerl|BioPerl]]===
+===[[https://bioperl.org|BioPerl]]===
 * [http://bioperl.org/pipermail/bioperl-announce-l/2004-December/000220.html 2004 summary]
 * [http://news.open-bio.org/archives/2003_12.html 1.4 release (Dec 2003)]
 * [http://bioperl.org/pipermail/bioperl-announce-l/2002-December/000197.html 1.2 release (Dec 2002)]

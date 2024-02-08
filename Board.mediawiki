@@ -6,7 +6,7 @@ title: Board
 The board can be contacted via email at [mailto:board@open-bio.org board@open-bio.org] (or in case of mailing list problems, try [mailto:obf-board@googlegroups.com obf-board@googlegroups.com] as a fall back), and can be reached via [https://twitter.com/OBF_news Twitter @OBF_News].
 
 '''President'''
-:; [http://lappland.io/ Hilmar Lapp] : Representing [[bp:BioPerl|BioPerl]], Director of Informatics at the [http://genome.duke.edu/ Center for Genomic and Computational Biology] (GCB) at Duke University.
+:; [http://lappland.io/ Hilmar Lapp] : Representing [[https://bioperl.org|BioPerl]], Director of Informatics at the [http://genome.duke.edu/ Center for Genomic and Computational Biology] (GCB) at Duke University.
 
 '''Treasurer'''
 :; <span class="plainlinks">[http://www.hutton.ac.uk/staff/peter-cock Peter Cock]</span> : [[bp:Biopython|Biopython]] core developer, bioinformatician at the [http://www.hutton.ac.uk/ James Hutton Institute]. [[BOSC]] 2015 & 2016 co-chair.
@@ -30,8 +30,8 @@ The board can be contacted via email at [mailto:board@open-bio.org board@open-bi
 ; <span class="plainlinks">[http://compbio.berkeley.edu Steven E. Brenner]</span> : ''Former At-large member''. [http://compbio.berkeley.edu Professor] at University of California, Berkeley.
 ; <span class="plainlinks">[http://kcranston.github.io Karen Cranston]</span>: ''Former At-large member''. Computational evolutionary biologist at the Biological Informatics Centre of Excellence at Agriculture and Agri-Food Canada. Co-founder, Open Tree of Life.
 ; [[User:Kdahlquist|Kam Dahlquist]] : ''Former At-large Member''. [http://myweb.lmu.edu/kdahlqui/ Associate Professor] at Loyola Marymount University, Los Angeles.
-; [[bp:Chris Dagdigian|Chris Dagdigian]] : ''Former Treasurer''. [[bp:BioPerl|BioPerl]] co-founder & OBF sysadmin. Employed by [http://www.bioteam.net the BioTeam].
-; <span class="plainlinks">[http://lab.stajich.org/home/people/jason-stajich/ Jason Stajich]</span> : ''Former OBF President.'' [[bp:BioPerl|BioPerl]] core developer. Currently [http://stajichlab.fungalgenomes.org Professor] at [http://www.ucr.edu/ University of California, Riverside].
+; [[bp:Chris Dagdigian|Chris Dagdigian]] : ''Former Treasurer''. [[https://bioperl.org|BioPerl]] co-founder & OBF sysadmin. Employed by [http://www.bioteam.net the BioTeam].
+; <span class="plainlinks">[http://lab.stajich.org/home/people/jason-stajich/ Jason Stajich]</span> : ''Former OBF President.'' [[https://bioperl.org|BioPerl]] core developer. Currently [http://stajichlab.fungalgenomes.org Professor] at [http://www.ucr.edu/ University of California, Riverside].
 
 == Board of Directors Meetings ==
 
