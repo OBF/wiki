@@ -331,18 +331,18 @@ Students working on these projects will interact with both the BioJava and JSBML
 ; Mentors
 : Andreas Dräger
 
-==[[biopython:Google Summer of Code |BioPython]]==
+==[[https://biopython.org/wiki/Google_Summer_of_Code |BioPython]]==
 
-[[Image:Biopython_logo_tiny.png|right|link=biopython:Google Summer of Code]]
+[[Image:Biopython_logo_tiny.png|right|link=https://biopython.org/wiki/Google_Summer_of_Code]]
 
-* [[biopython:Mailing lists|Mailing lists]]
-* [[biopython:Contributing|Information for contributors]]
-* [[biopython:SourceCode| Source Code]]
+* [[https://biopython.org/wiki/Mailing_lists|Mailing lists]]
+* [[https://biopython.org/wiki/Contributing|Information for contributors]]
+* [[https://biopython.org/wiki/SourceCode| Source Code]]
 
 === [http://biopython.org/wiki/Google_Summer_of_Code#Indexing_.26_Lazy-loading_Sequence_Parsers Indexing & Lazy-loading Sequence Parsers] ===
 
 ;  Rationale
-: [[biopython:SeqIO|Bio.SeqIO]]'s indexing offers parsing on demand access to any sequence in a large file (or collection of files on disk) as a [[biopython:SeqRecord]] object. This works well when you have many small to medium sized sequences/genomes. However, this is not ideal for large genomes or chromosomes where only a sub-region may be needed. A lazy-loading parser would delay reading the record until requested. For example, if region ''record[3000:4000]'' is requested, then only those 1000 bases need to be loaded from disk into memory, plus any features in that region. This is how Biopython's [[biopython:BioSQL]] interface works. Tools like tabix and samtools have demonstrated efficient co-ordinate indexing which could be useful here.
+: [[https://biopython.org/wiki/SeqIO|Bio.SeqIO]]'s indexing offers parsing on demand access to any sequence in a large file (or collection of files on disk) as a [[https://biopython.org/wiki/SeqRecord]] object. This works well when you have many small to medium sized sequences/genomes. However, this is not ideal for large genomes or chromosomes where only a sub-region may be needed. A lazy-loading parser would delay reading the record until requested. For example, if region ''record[3000:4000]'' is requested, then only those 1000 bases need to be loaded from disk into memory, plus any features in that region. This is how Biopython's [[https://biopython.org/wiki/BioSQL]] interface works. Tools like tabix and samtools have demonstrated efficient co-ordinate indexing which could be useful here.
 : Aside from being used via an index for random access, lazy-loading parsers could be used when iterating over a file as well. This can ''potentially'' offer speed ups for tasks where only a fraction of the data is used. For example, if calculating the GC content of a collection of genomes from GenBank, using Bio.SeqIO.parse(...) would currently needlessly load and parse all the annotation and features. A lazy-parser would only parse the sequence information.
 ;  Approach & Goals
 : Useful features include:
@@ -453,9 +453,9 @@ This project is for intermediate to advanced programmers. You will need to be al
 <!--
 ==BioSQL==
 
-[[Image:BioSQL_logo.png|160px|right|link=biosql:Main Page]]
-; [[biosql:Main Page|BioSQL]] :
-:* [[biosql:Main Page|Project website]]
+[[Image:BioSQL_logo.png|160px|right|link=https://biosql.org]]
+; [[https://biosql.org|BioSQL]] :
+:* [[https://biosql.org|Project website]]
 :* Current [http://biosql.org/wiki/Enhancement_Requests enhancement requests] as another source for student-conceived project ideas
 :* [http://biosql.org/mailman/listinfo/biosql-l developers mailing list]
 :* [http://code.open-bio.org/svnweb/index.cgi/biosql/browse/biosql-schema/trunk source code]

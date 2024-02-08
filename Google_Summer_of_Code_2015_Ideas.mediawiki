@@ -331,9 +331,9 @@ YummyData is a system of collecting and disseminating various statistical and fu
 <!--
 ==BioSQL==
 
-[[Image:BioSQL_logo.png|160px|right|link=biosql:Main Page]]
-; [[biosql:Main Page|BioSQL]] :
-:* [[biosql:Main Page|Project website]]
+[[Image:BioSQL_logo.png|160px|right|link=https://biosql.org]]
+; [[https://biosql.org|BioSQL]] :
+:* [[https://biosql.org|Project website]]
 :* Current [http://biosql.org/wiki/Enhancement_Requests enhancement requests] as another source for student-conceived project ideas
 :* [http://biosql.org/mailman/listinfo/biosql-l developers mailing list]
 :* [http://code.open-bio.org/svnweb/index.cgi/biosql/browse/biosql-schema/trunk source code]

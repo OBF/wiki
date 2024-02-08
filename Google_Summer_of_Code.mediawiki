@@ -51,13 +51,13 @@ Our GSoC ideas from each project are collected here: http://obf.github.io/GSoC/
 :* [[bp:Mailing_lists|Mailing lists]]
 :* IRC: <code>#bioperl</code> on [http://freenode.net Freenode]
 
-[[Image:Biopython_logo_tiny.png|right|link=biopython:Google Summer of Code]]
-; [[biopython:Google Summer of Code |BioPython]] :
-:* '''[[biopython:Google Summer of Code | BioPython GSoC Page]]''' - project ideas and mentors
-:* [[biopython:Main Page|Project website]]
-:* [[biopython:Contributing|Information for contributors]]
-:* [[biopython:Mailing lists|Mailing lists]]
-:* [[biopython:SourceCode| Source Code]]
+[[Image:Biopython_logo_tiny.png|right|link=https://biopython.org/wiki/Google_Summer_of_Code]]
+; [[https://biopython.org/wiki/Google_Summer_of_Code |BioPython]] :
+:* '''[[https://biopython.org/wiki/Google_Summer_of_Code | BioPython GSoC Page]]''' - project ideas and mentors
+:* [[https://biopython.org/|Project website]]
+:* [[https://biopython.org/wiki/Contributing|Information for contributors]]
+:* [[https://biopython.org/wiki/Mailing_lists|Mailing lists]]
+:* [[https://biopython.org/wiki/SourceCode| Source Code]]
 :* No IRC channel at present
 
 [[Image:Biojava_logo_tiny.jpg|right|link=http://biojava.org/wiki/Google_Summer_of_Code]]
@@ -76,9 +76,9 @@ Our GSoC ideas from each project are collected here: http://obf.github.io/GSoC/
 :* [http://github.com/bioruby/bioruby/tree/master source code]
 :* IRC: <code>#bioruby</code> on [http://freenode.net Freenode]
 
-[[Image:BioSQL_logo.png|160px|right|link=biosql:Main Page]]
-; [[biosql:Main Page|BioSQL]] :
-:* [[biosql:Main Page|Project website]]
+[[Image:BioSQL_logo.png|160px|right|link=https://biosql.org]]
+; [[https://biosql.org|BioSQL]] :
+:* [[https://biosql.org|Project website]]
 :* Current [http://biosql.org/wiki/Enhancement_Requests enhancement requests] as another source for student-conceived project ideas
 :* [http://biosql.org/mailman/listinfo/biosql-l developers mailing list]
 :* [http://code.open-bio.org/svnweb/index.cgi/biosql/browse/biosql-schema/trunk source code]
