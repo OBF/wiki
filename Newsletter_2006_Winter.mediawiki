@@ -40,7 +40,7 @@ Each year, the O|B|F sponsors the Bioinformatics Open Source Conference ([[BOSC]
 very competitive pool of applicants; a special session on Annotation Database Systems where the leaders in the field discussed their representative projects; and 29 lightning talks.  These talks informed us of a huge range of Open Source/Open Standards bioinformatics software development and usage activities within the community, including endeavors devoted to semantically identifying life science objects, easing the process of computationally processing the ever-growing array of biological datasets, integrating disparate datasets, and validating the diverse Open Source software systems  available to the research community.   As always, attendees were given the opportunity to organize Birds of a Feather discussions devoted to a diverse array of more specialized interests after the main session each day.
 
 ====BOSC 2005====
-[[BOSC 2005]] was held in conjunction with [http://www.iscb.org/ismb2005 ISMB 2005] in [[wp:Detroit, Michigan|Detroit, Michigan]].  The meeting was very successful, with 99 people in attendance.  The meeting featured two Keynote speakers.  The first was delivered by [[bp:Jason Stajich|Jason Stajich]], one of the core developers of [http://bio.perl.org/ BioPerl].  He spoke of the challenges and rewards he has experienced in developing Open Source Bioinformatics Software, and discussed the challenges he sees facing Bioinformatics Software developers in the future.  The second Keynote address was delivered by [[bp:Hilmar Lapp|Hilmar Lapp]], Open Bio Foundation Parliamentarian.  He explained the exciting changes that the O|B|F was undergoing in transitioning to a more active not-for-profit organization, and invited BOSC attendees to become involved with the foundation in ways that were not available to them before.  Over the course of two days, attendees were provided a wealth of information from 15 excellent 20-minute presentations selected from a very competitive pool of applicants, and 17 lightning talks, speaking on a broad array of topics.  Birds of a Feather groups then formed in the afternoon around a variety of specific topics, such as the DAS2 specification, and the various Bio* tools.
+[[BOSC 2005]] was held in conjunction with [http://www.iscb.org/ismb2005 ISMB 2005] in [[wp:Detroit, Michigan|Detroit, Michigan]].  The meeting was very successful, with 99 people in attendance.  The meeting featured two Keynote speakers.  The first was delivered by [[Jason Stajich]], one of the core developers of [http://bio.perl.org/ BioPerl].  He spoke of the challenges and rewards he has experienced in developing Open Source Bioinformatics Software, and discussed the challenges he sees facing Bioinformatics Software developers in the future.  The second Keynote address was delivered by [[Hilmar Lapp]], Open Bio Foundation Parliamentarian.  He explained the exciting changes that the O|B|F was undergoing in transitioning to a more active not-for-profit organization, and invited BOSC attendees to become involved with the foundation in ways that were not available to them before.  Over the course of two days, attendees were provided a wealth of information from 15 excellent 20-minute presentations selected from a very competitive pool of applicants, and 17 lightning talks, speaking on a broad array of topics.  Birds of a Feather groups then formed in the afternoon around a variety of specific topics, such as the DAS2 specification, and the various Bio* tools.
 
 ====BOSC 2006====
 The BOSC committee is already in the process of planning [[BOSC 2006]], to be held in conjunction with [http://ismb2006.cbi.cnptia.embrapa.br/ ISMB 2006] in [[wp:Fortaleza, Brazil|Fortaleza, Brazil]].  We are looking forward to a great meeting.
@@ -147,7 +147,7 @@ or the alternate url:
 http://www.bioprolog.org
 
 ===CGL===
-''Contributed by [[bp:Mark Yandell|Mark Yandell]]''
+''Contributed by [[https://www.yandell-lab.org/|Mark Yandell]]''
 
 ====About CGL:  the Comparative Genomics Library====
 [[bp:CGL|CGL]] is an open source software library for comparative genomics using genome annotations. The library is designed to employ the contents of genome-annotation databases for purposes of large-scale inquiries into the structure, function and evolution of genes. To facilitate these analyses, CGL provides three core functionalities. First, CGL can convert the annotations of many different providers into a single standardized format (Chaos.xml); thus the software can be used to assemble very large repositories of annotations that encompass the contents of multiple genome databases. Second, the library extends the bioperl HSP objects so that information about annotated gene-structures is mapped to sequence alignments. Finally, CGL can make use of existing annotations to in extract information about gene structure from unannotated, partially assembled genomes.
@@ -158,7 +158,7 @@ Get the latest release of CGL from [http://www.yandell-lab.org/cgl www.yandell-l
 
 Have a look at the main reference for CGL:
 Large-Scale Trends in the Evolution of Gene Structures within 11 Animal Genomes
-[[bp:Mark Yandell|Mark Yandell]], [[bp:Chris Mungall|Chris J. Mungall]], Chris Smith, Simon Prochnik , Joshua Kaminker, George Hartzell, [[bp:Suzanna Lewis|Suzanna Lewis]] and Gerald M. Rubin. ''In press'' [http://compbiol.plosjournals.org PloS Computational Biology].
+[[https://www.yandell-lab.org/|Mark Yandell]], [[Chris Mungall|Chris J. Mungall]], Chris Smith, Simon Prochnik , Joshua Kaminker, George Hartzell, [[bp:Suzanna Lewis|Suzanna Lewis]] and Gerald M. Rubin. ''In press'' [http://compbiol.plosjournals.org PloS Computational Biology].
 
 ====Contact us====
 General questions and comments about CGL should be directed to [mailto:myandell_AT_fruitfly.org myandell-at-fruitfly.org].
@@ -191,4 +191,4 @@ The project is now evolving towards a rewritten version, called Mobyle. Mobyle i
 [1]  B.Neron, P. Tuffery, C.Letondal (2005) [http://www.pasteur.fr/~letondal/Mobyle/neron_nettab.pdf Mobyle: a Web portal framework for bioinformatics analyses], poster presented at NETTAB 2005.
 
 ----
-''Newsletter edited by [[bp:Jason Stajich|Jason Stajich]]''
+''Newsletter edited by [[Jason Stajich]]''

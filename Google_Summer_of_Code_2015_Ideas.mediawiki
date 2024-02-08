@@ -107,7 +107,7 @@ OBF is an umbrella organization which represents many different programming lang
 
 [[Image:BioPerl_logo_tiny.jpg|right|link=bp:Google Summer of Code]]
 
-* [[bp:Mailing_lists|Mailing lists]]
+* [[https://bioperl.org/Support|Mailing lists]]
 * IRC: <code>#bioperl</code> on [http://freenode.net Freenode]
 * [[bp:Becoming_a_developer|Information for new developers]]
 * Source code browser for [https://github.com/bioperl/bioperl-live bioperl-live] (the main BioPerl code base), and [https://github.com/bioperl all BioPerl sub-projects]

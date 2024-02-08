@@ -155,7 +155,7 @@ The organizing committee can be contacted by email at [mailto:bosc@openbio.org b
 
 === Members ===
 
-* [[bp:Hilmar Lapp|Hilmar Lapp]] (OBF, BioPerl, BioSQL, and NESCent)
+* [[Hilmar Lapp]] (OBF, BioPerl, BioSQL, and NESCent)
 * Jens Lichtenberg (Ohio University)
 ** Publications Chair (responsible for managing the EasyChair site, making the abstract program, organizing proceedings)
 * Frank Drews (Ohio University)

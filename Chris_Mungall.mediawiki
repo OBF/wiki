@@ -2,4 +2,4 @@
 title: Chris Mungall
 ---
 
-#REDIRECT [[bp:Chris Mungall]]
+#REDIRECT [[https://github.com/cmungall]]
