@@ -9,34 +9,24 @@ redirect_from:
 
 <div style="float:right;">
 <div style="width:26em; background-color: rgb(184,214,245); border: 1px solid grey; border-radius: 1em; margin: 0em 1em 0em 1em; padding: 0.6em;">
-
 <span style="font-size: larger">
-
 <center>
-
-**Please Donate**
-
+<b>Please Donate</b>
 </center>
-
 </span>
-
-Through our fiscal sponsor, [Software in the Public Interest,
-Inc.](http://spi-inc.org/donations), you can donate to the OBF,
-including [online by credit
-card](https://co.clickandpledge.com/advanced/default.aspx?wid=66788#).
+Through our fiscal sponsor, <a href="http://spi-inc.org/donations">
+Software in the Public Interest, Inc.</a>, you can donate to the OBF,
+including <a href="https://co.clickandpledge.com/advanced/default.aspx?wid=66788#">
+online by credit card</a>.
 Donations made through SPI are 501(c)3 tax-exempt in the US. (SPI also
 has a charitable partner organization in Europe.) Your contribution
 helps fund a growing community of people committed to developing
 reusable open-source software for advancing biological research.
-
 </div>
 <div style="width:26em; background-color: white; border: 1px solid grey; border-radius: 1em; margin: 1em 1em 0em 1em; padding: 0.6em;">
-
-` `<rss max="5" item-max-length="150" templatename="Rss-feed">[`http://news.open-bio.org/feed/`](http://news.open-bio.org/feed/)</rss>
-
-See also our [news page](News "wikilink"), and
-[twitter](http://twitter.com/obf_news).
-
+<rss max="5" item-max-length="150" templatename="Rss-feed">http://news.open-bio.org/feed/</rss>
+See also our <a href="News">news page</a>, and
+<a href="http://twitter.com/obf_news">Twitter</a>.
 </div>
 </div>
 
