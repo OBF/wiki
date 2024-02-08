@@ -172,7 +172,7 @@ You can also:
 | Brad Chapman
 |-
 | 9:00
-| [http://www.open-bio.org/wiki/Main_Page Open Bioinformatics Foundation:]  A Community For, By, and Of You ([http://www.slideshare.net/hlapp/obf-address-bosc2013 SlideShare] [http://www.youtube.com/watch?v=DiReTX3FoLM YouTube])
+| [[Main_Page|Open Bioinformatics Foundation]]:  A Community For, By, and Of You ([http://www.slideshare.net/hlapp/obf-address-bosc2013 SlideShare] [http://www.youtube.com/watch?v=DiReTX3FoLM YouTube])
 | Hilmar Lapp (President, Open Bioinformatics Foundation)
 |-
 | 9:15

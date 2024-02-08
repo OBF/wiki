@@ -27,7 +27,7 @@ balancing open source commitments with their day jobs and life outside of the co
 
 The objective of the Codefest is to give these talented developers a chance to
 be fully focused on the projects for a few days, interacting in real
-time. Previous [http://www.open-bio.org/wiki/Hackathon Hackathons] have been
+time. Previous [[Hackathons]] have been
 immensely successful at producing new high quality code and innovative project
 developments.
 

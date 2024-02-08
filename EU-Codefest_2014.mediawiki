@@ -8,15 +8,15 @@ This is a great opportunity for open source bioinformatics developers to meet an
 have developers from all the OpenBio, bioinformatics and scientific programming projects. Everyone is welcome to
 attend!
 
-This is the second edition of the European OBF Codefest, the [http://www.open-bio.org/wiki/EU_Codefest_2012 first one] was held in 2012 in Italy. 
+This is the second edition of the European OBF Codefest, the [[EU_Codefest_2012|first one]] was held in 2012 in Italy. 
 
 == Goals ==
 
-The EU Codefest share the same [http://www.open-bio.org/wiki/Codefest_2014#Goals goals] as the OBF Codefest, which is usually organized along with the [http://www.open-bio.org/wiki/BOSC BOSC].
+The EU Codefest share the same [http://www.open-bio.org/wiki/Codefest_2014#Goals goals] as the OBF Codefest, which is usually organized along with the [[BOSC]].
 
 Since BOSC take place alternatively in the EU and USA, the EU Codefest was born two years ago to give the chance to EU based bioinformatics developers to attend, at least once per year, to an OBF Hackathon even when the BOSC is in the USA. Bioinformatics keeps growing and expanding rapidly and we believe that meeting once every two years for EU based developers is too much time. Having the chance to meet more regularly will in turn be extremely beneficial to strengthen our community, share ideas and start collaborating on new projects.
 
-This event will be linked to the [http://www.open-bio.org/wiki/Codefest_2014 OBF Codefest], in fact we will coordinate with the group that will meet in the USA and hopefully the EU Codefest will be a continuation of the OBF Codefest work, with people having the chance to expand on existing projects and start new ones.
+This event will be linked to the [[Codefest_2014|OBF Codefest]], in fact we will coordinate with the group that will meet in the USA and hopefully the EU Codefest will be a continuation of the OBF Codefest work, with people having the chance to expand on existing projects and start new ones.
 
 == Programme ==
 

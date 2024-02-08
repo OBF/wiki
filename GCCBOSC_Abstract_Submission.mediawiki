@@ -38,7 +38,7 @@ Please format your abstract as follows. Abstract PDFs will be included as-is in 
 * Use 1 inch (2.5 cm) margins on the top, sides, and bottom of the page, and a font size of 11 or 12.
 
 You may wish to use one of these abstract templates:
-* [http://www.open-bio.org/wiki/File:BOSC2015-abstract-template.pdf PDF] (not fillable)
+* [[File:BOSC2015-abstract-template.pdf|PDF]] (not fillable)
 * [https://s3.amazonaws.com/chapmanb/openbio/bosc_template_pandoc.tar.gz Markdown to PDF] (convert with pandoc and LaTeX)
 * [http://www.open-bio.org/bosc2015/bosc2015-abstract-example.doc Word (.doc)] 
 * [http://www.open-bio.org/bosc2015/bosc2015-abstract-example.docx Word (.docx)]

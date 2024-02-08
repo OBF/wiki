@@ -42,7 +42,7 @@ Guests: Michael Heuer
 
 Meeting called to order at 17:04 UTC. Roll call yields all 6 Board members present. Quorum is therefore established.
 
-# Approval of [http://www.open-bio.org/wiki/Minutes:2013_Apr_ConfCall April 2013 Board meeting minutes]. The minutes were approved with unanimous consent.
+# Approval of [[Minutes:2013_Apr_ConfCall|April 2013 Board meeting minutes]]. The minutes were approved with unanimous consent.
 # New business.
 #* Board elections. Hilmar remarked that he wants to get aware from implicit continuation of posts, both as a way for the post-holder to explicitly express their interest, and for the board to explicitly re-endorse them.
 #** Hilmar was elected President in Dec 2011. He is standing for re-election despite having previously planned to step down as he enjoyed it more than he expected and realised there is still more that he can do.

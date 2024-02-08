@@ -7,7 +7,7 @@ OpenBio Codefest 2010 will take place July 7th and 8th, 2010 in conjunction with
 == Goals ==
 
 OpenBio projects are typically coordinated remotely, with users from all over the world contributing and organizing themselves through mailing lists and IRC chats. Additionally, contributors work on these projects in their spare time, coordinating improving the projects with their day jobs and life outside of the computer.
-The objective of the Codefest is to give these talented developers a chance to be fully focused on the projects for a few days, interacting in real time. Previous [http://www.open-bio.org/wiki/Hackathon Hackathons] have been immensely successful at producing new high quality code and innovative project developments.
+The objective of the Codefest is to give these talented developers a chance to be fully focused on the projects for a few days, interacting in real time. Previous [[Hackathons]] have been immensely successful at producing new high quality code and innovative project developments.
 
 The general aim of the Codefest is improving the accessibility, functionality and interoperability of the existing libraries. The specific goals are determined based on the interests of attending members and inputs of sponsors. Some current areas of topic discussion are:
 
