@@ -1,5 +1,0 @@
----
-title: GMOD
----
-
-{{#externalredirect: http://gmod.org}}

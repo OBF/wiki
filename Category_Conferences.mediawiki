@@ -1,5 +1,0 @@
----
-title: Category:Conferences
----
-
-Conference where open source bioinformatics types have been.

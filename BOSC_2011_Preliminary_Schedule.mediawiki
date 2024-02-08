@@ -1,7 +1,0 @@
----
-title: BOSC 2011 Preliminary Schedule
----
-
-[[BOSC_2011_Schedule | BOSC 2011 Schedule]]
-
-== Return to '''[[BOSC_2011 | BOSC 2011]]''' main page ==

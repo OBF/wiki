@@ -1,5 +1,0 @@
----
-title: Jason Stajich
----
-
-{{#externalredirect: https://lab.stajich.org/members/jason-stajich}}

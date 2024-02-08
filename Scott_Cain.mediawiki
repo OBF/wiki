@@ -1,7 +1,0 @@
----
-title: Scott Cain
----
-
-Dr Scott Cain is a coordinator for the [[GMOD]] project.
-
-[[Category:People]]

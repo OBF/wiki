@@ -1,5 +1,0 @@
----
-title: Google Summer of Code 2015
----
-
-Sadly the OBF was not accepted as a mentoring organisation in 2015.

@@ -1,5 +1,0 @@
----
-title: Hilmar Lapp
----
-
-{{#externalredirect: https://lappland.io}}

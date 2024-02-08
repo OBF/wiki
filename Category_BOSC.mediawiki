@@ -1,5 +1,0 @@
----
-title: Category:BOSC
----
-
-Bioinformatics Open Source Conference or [[BOSC]]

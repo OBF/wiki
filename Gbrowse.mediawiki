@@ -1,5 +1,0 @@
----
-title: Gbrowse
----
-
-{{#externalredirect: http://gmod.org/wiki/Gbrowse}}

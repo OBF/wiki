@@ -1,5 +1,0 @@
----
-title: Chris Mungall
----
-
-{{#externalredirect: https://github.com/cmungall}}

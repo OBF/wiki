@@ -1,5 +1,0 @@
----
-title: Brian Osborne
----
-
-{{#externalredirect: https://github.com/bosborne}}

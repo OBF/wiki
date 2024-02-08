@@ -1,5 +1,0 @@
----
-title: Minutes:2016 Nov ConfCall
----
-
-[http://etherpad.osuosl.org/p/r.f80bd11029f840db7a48fb9f7b5c206f Etherpad]

@@ -1,5 +1,0 @@
----
-title: Google Summer Code 2009
----
-
-#REDIRECT [[Google Summer of Code 2009]]

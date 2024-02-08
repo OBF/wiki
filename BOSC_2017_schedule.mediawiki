@@ -1,6 +1,0 @@
----
-title: BOSC 2017 schedule
----
-
-The BOSC 2017 schedule is at https://www.open-bio.org/wiki/BOSC_2017_Schedule
-(Thanks a lot, mediawiki, for being case-sensitive!)

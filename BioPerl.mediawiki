@@ -1,5 +1,0 @@
----
-title: BioPerl
----
-
-{{#externalredirect: https://bioperl.org}}

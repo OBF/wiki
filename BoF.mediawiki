@@ -1,5 +1,0 @@
----
-title: BoF
----
-
-[[wp:BoF|Birds of a Feather]] - Usually an informal session at a conference like [[BOSC]] around a topic.

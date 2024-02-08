@@ -1,8 +1,0 @@
----
-title: Current events
----
-
-* <nowiki>[Mar 2008]</nowiki> 
-** Preparing for [[BOSC 2008]]
-** Preparing our annual [[Newsletters|newsletter]]
-** Finalizing details for Membership in our [[Bylaws]]

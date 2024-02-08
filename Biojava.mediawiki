@@ -1,5 +1,0 @@
----
-title: Biojava
----
-
-#REDIRECT [[BioJava]]

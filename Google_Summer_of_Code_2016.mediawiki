@@ -1,5 +1,0 @@
----
-title: Google Summer of Code 2016
----
-
-See http://obf.github.io/GSoC/historic/2016-ideas/

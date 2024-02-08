@@ -1,7 +1,0 @@
----
-title: Open Source
----
-
-Open source is a development methodology,[1] which offers practical accessibility to a product's source (goods and knowledge). Some consider open source as one of various possible design approaches, while others consider it a critical strategic element of their operations. Before open source became widely adopted, developers and producers used a variety of phrases to describe the concept; the term open source gained popularity with the rise of the Internet, which provided access to diverse production models, communication paths, and interactive communities.
-
-[http://en.wikipedia.org/wiki/Open_Source Open Source on Wikipedia]

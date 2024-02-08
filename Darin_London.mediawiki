@@ -1,9 +1,0 @@
----
-title: Darin London
----
-
-[[Image:DarinLondon.jpg|300px|center]]
-
-Darin London is the chair for the [[BOSC]] conferences.  Darin is currently employed at [http://www.duke.edu Duke University]'s [http://www.genome.duke.edu Intitute for Genome Sciences &amp; Policy] after a two year term with [http://www.biomart.org BioMart] at the [http://www.ebi.ac.uk EBI].
-
-[[Category:People]]

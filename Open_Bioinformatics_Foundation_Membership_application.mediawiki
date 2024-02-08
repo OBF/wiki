@@ -1,5 +1,0 @@
----
-title: Open Bioinformatics Foundation:Membership application
----
-
-#REDIRECT [[Membership]]
