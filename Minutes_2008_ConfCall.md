@@ -23,7 +23,7 @@ many callers there will be.
 3.  [BOSC 2009](BOSC_2009 "wikilink"): planning is underway by BOSC
     committee, will discuss any input needed by BoD
 4.  [Treasurer's financial
-    report](Media:2008-OBF-Treasurer-Report_Ammended2.pdf "wikilink")
+    report](/wiki/2008-OBF-Treasurer-Report_Ammended2.pdf "wikilink")
     from summer 2008, with accounts updated to be current for
 5.  Any purchase or server hosting decisions
     - I put some thoughts regarding the OSC hosting offer on my talk

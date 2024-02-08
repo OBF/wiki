@@ -12,7 +12,7 @@ tags:
 can also:
 
 \- **[ Download schedule as
-PDF](Media:BOSC2013_schedule.pdf "wikilink")** (A4 format).
+PDF](/wiki/BOSC2013_schedule.pdf "wikilink")** (A4 format).
 
 \- **[Download the complete
 program](http://www.open-bio.org/bosc2013/BOSC2013-program.pdf)**
@@ -113,7 +113,7 @@ have shared the PDF.
 You can also:
 
 \- **[ Download schedule as
-PDF](Media:BOSC2013_schedule.pdf "wikilink")** (A4 format).
+PDF](/wiki/BOSC2013_schedule.pdf "wikilink")** (A4 format).
 
 \- **[Download the complete
 program](http://www.open-bio.org/bosc2013/BOSC2013-program.pdf)**

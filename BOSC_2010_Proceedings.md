@@ -38,7 +38,7 @@ Bioinformatics](http://www.biomedcentral.com/bmcbioinformatics/).
 ## How to submit
 
 - Manuscripts must conform to BMC Bioinformatics [ author guidelines and
-  formatting](Media:Instructions_for_authors_-_BMC_-_Appendix_A.pdf "wikilink").
+  formatting](/wiki/Instructions_for_authors_-_BMC_-_Appendix_A.pdf "wikilink").
   - Manuscripts are expected to take up 4-5 printed pages in the
     journal, approximately 2500 words, not including the abstract and
     references.
@@ -52,7 +52,7 @@ Bioinformatics](http://www.biomedcentral.com/bmcbioinformatics/).
       available and consists of a standard set of headings that make up
       an article manuscript, along with dummy fragments of body text.
       (Additional instructions are found in the [ author guidelines and
-      formatting](Media:Instructions_for_authors_-_BMC_-_Appendix_A.pdf "wikilink")
+      formatting](/wiki/Instructions_for_authors_-_BMC_-_Appendix_A.pdf "wikilink")
       document.)
 - Manuscripts must be submitted via our [Open Conferences System BOSC
   Proceedings

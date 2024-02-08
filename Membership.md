@@ -16,7 +16,7 @@ life sciences to [join the
 OBF](https://docs.google.com/forms/d/e/1FAIpQLSflxafcgc7BOLEgppy3h_yMWCIkV_9lJB3Z0a0Y2cJ63sRK-Q/viewform)
 as a member. The membership body was formally established at the [2005
 Board of Directors](Minutes:2005_BOSC_Meeting "wikilink") meeting. As
-laid out in the [OBF Bylaws](:File:OBF-Bylaws.pdf "wikilink"), officers
+laid out in the [OBF Bylaws](/wiki/OBF-Bylaws.pdf "wikilink"), officers
 in the Board of Directors will be elected by the membership among
 nominees, and candidates for future Directors will be nominated from the
 membership when seats are added or a term expires.

@@ -15,7 +15,7 @@ Participant Access Code: 279610
 
 - [ Nov 2012 BoD meeting minutes](Minutes:2012_Nov_ConfCall "wikilink")
 - [ Treasurer's 2012
-  report](Media:2012-OBF-Treasurers-Report.pdf "wikilink") (Chris
+  report](/wiki/2012-OBF-Treasurers-Report.pdf "wikilink") (Chris
   Dagdigian)
 
 <li>
@@ -50,7 +50,7 @@ Old business:
   meeting](Minutes:2012_Sep_ConfCall "wikilink") are approved by
   unanimous consent.
 - [ Treasurer's 2012
-  report](Media:2012-OBF-Treasurers-Report.pdf "wikilink"):
+  report](/wiki/2012-OBF-Treasurers-Report.pdf "wikilink"):
   - Chris D. summarizes and explains the 2012 expenses and income items,
     as well those in 2013 up to April 1st, which is when the account was
     closed in order to transfer our financial assets to SPI.

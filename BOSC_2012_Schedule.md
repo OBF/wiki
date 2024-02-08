@@ -14,7 +14,7 @@ tags:
 </figure>
 
 **[ Click here to download this schedule as
-PDF](Media:BOSC2012_schedule.pdf "wikilink")**
+PDF](/wiki/BOSC2012_schedule.pdf "wikilink")**
 
 **[Complete program as
 PDF](http://www.open-bio.org/bosc2012/BOSC2012-program.pdf)**
@@ -95,7 +95,7 @@ PDF](http://www.open-bio.org/bosc2012/BOSC2012-program.pdf)**
 |                 |                                                                                                                                                                                                                                                                                                                  |                                                                                                                  |
 
 **[ Click here to download this schedule as
-PDF](Media:BOSC2012_schedule.pdf "wikilink")**
+PDF](/wiki/BOSC2012_schedule.pdf "wikilink")**
 
 **[Click here to download the complete BOSC program as
 PDF](http://www.open-bio.org/bosc2012/BOSC2012-program.pdf)**

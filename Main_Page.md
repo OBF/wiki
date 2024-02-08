@@ -72,7 +72,7 @@ are drawn from our projects' developer communities, there is clear
 commonality of direction and purpose.
 
 The OBF is governed by a [Board of Directors](Board "wikilink"). [Our
-bylaws](media:OBF-Bylaws.pdf "wikilink") lay out how the Board is
+bylaws](/wiki/OBF-Bylaws.pdf "wikilink") lay out how the Board is
 elected, holds public meetings, and conducts its business, as well as
 the scope and role of our [membership](membership "wikilink"). OBF is an
 associated project with [Software In The Public Interest,
@@ -91,7 +91,7 @@ OBF grew out of the volunteer projects [BioPerl](BioPerl "wikilink"),
 was formally incorporated in 2001 in order to handle modest requirements
 of hardware ownership, domain name management and funding for
 conferences and workshops. In 2005, we enacted [
-bylaws](:File:OBF-Bylaws.pdf "wikilink") for the first time, and along
+bylaws](/wiki/OBF-Bylaws.pdf "wikilink") for the first time, and along
 with it created a formal membership.
 
 In 2012, we decided to give up our own incorporation to associate
