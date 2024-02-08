@@ -23,11 +23,6 @@ has a charitable partner organization in Europe.) Your contribution
 helps fund a growing community of people committed to developing
 reusable open-source software for advancing biological research.
 </div>
-<div style="width:26em; background-color: white; border: 1px solid grey; border-radius: 1em; margin: 1em 1em 0em 1em; padding: 0.6em;">
-<rss max="5" item-max-length="150" templatename="Rss-feed">http://news.open-bio.org/feed/</rss>
-See also our <a href="News">news page</a>, and
-<a href="http://twitter.com/obf_news">Twitter</a>.
-</div>
 </div>
 
 ## About Us
