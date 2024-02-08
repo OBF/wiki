@@ -126,7 +126,7 @@ The fastR project has been presented to the useR! conference 2013, and it is now
 
 ==[http://bioperl.org/wiki/Google_Summer_of_Code BioPerl]==
 
-[[Image:BioPerl_logo_tiny.jpg|right|link=bp:Google Summer of Code]]
+[[Image:BioPerl_logo_tiny.jpg|right|link=bp:Google Summer of Code|BioPerl logo]]
 
 * [[https://bioperl.org/Support|Mailing lists]]
 * IRC: <code>#bioperl</code> on [http://freenode.net Freenode]
@@ -264,7 +264,7 @@ This is an area ripe for new student project ideas.  The more focused the better
 
 ==[http://biojava.org/wiki/Google_Summer_of_Code BioJava] and JSBML==
 
-[[Image:Biojava_logo_tiny.jpg|right|link=http://biojava.org/wiki/Google_Summer_of_Code]]
+[[Image:Biojava_logo_tiny.jpg|right|link=http://biojava.org/wiki/Google_Summer_of_Code|BioJava logo]]
 
 * [http://lists.open-bio.org/mailman/listinfo/biojava-dev BioJava developer mailing list]
 * [https://groups.google.com/forum/#!forum/jsbml-development JSBML developer mailing list]
@@ -333,7 +333,7 @@ Students working on these projects will interact with both the BioJava and JSBML
 
 ==[[https://biopython.org/wiki/Google_Summer_of_Code |BioPython]]==
 
-[[Image:Biopython_logo_tiny.png|right|link=https://biopython.org/wiki/Google_Summer_of_Code]]
+[[Image:Biopython_logo_tiny.png|right|link=https://biopython.org/wiki/Google_Summer_of_Code|Biopython logo]]
 
 * [[https://biopython.org/wiki/Mailing_lists|Mailing lists]]
 * [[https://biopython.org/wiki/Contributing|Information for contributors]]
@@ -365,7 +365,7 @@ Students working on these projects will interact with both the BioJava and JSBML
 
 ==[http://bioruby.open-bio.org/wiki/Google_Summer_of_Code BioRuby]==
 
-[[Image:BioRuby_logo_tiny.png|right|link=http://bioruby.org]]
+[[Image:BioRuby_logo_tiny.png|right|link=http://bioruby.org|BioRuby logo]]
 
 * [http://lists.open-bio.org/mailman/listinfo/bioruby Developers mailing list]
 * [http://github.com/bioruby/bioruby/tree/master Source code]
@@ -453,7 +453,7 @@ This project is for intermediate to advanced programmers. You will need to be al
 <!--
 ==BioSQL==
 
-[[Image:BioSQL_logo.png|160px|right|link=https://biosql.org]]
+[[Image:BioSQL_logo.png|160px|right|link=https://biosql.org|BioSQL logo]]
 ; [[https://biosql.org|BioSQL]] :
 :* [[https://biosql.org|Project website]]
 :* Current [http://biosql.org/wiki/Enhancement_Requests enhancement requests] as another source for student-conceived project ideas

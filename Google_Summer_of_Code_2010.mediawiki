@@ -2,7 +2,7 @@
 title: Google Summer of Code 2010
 ---
 
-[[Image:Gsoc_2010_logo.jpg|right|link=http://code.google.com/soc]] 
+[[Image:Gsoc_2010_logo.jpg|right|link=http://code.google.com/soc|Google Summer of Code 2010 logo]] 
 
 The OBF was accepted into the 2010 [http://code.google.com/soc Google Summer of Code] (GSoC) program as an umbrella organization for all OBF-affiliated projects. [http://socghop.appspot.com/document/show/gsoc_program/google/gsoc2010/timeline Program Timeline].
 

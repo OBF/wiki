@@ -105,7 +105,7 @@ OBF is an umbrella organization which represents many different programming lang
 
 ==[http://bioperl.org/wiki/Google_Summer_of_Code BioPerl]==
 
-[[Image:BioPerl_logo_tiny.jpg|right|link=bp:Google Summer of Code]]
+[[Image:BioPerl_logo_tiny.jpg|right|link=bp:Google Summer of Code|BioPerl logo]]
 
 * [[https://bioperl.org/Support|Mailing lists]]
 * IRC: <code>#bioperl</code> on [http://freenode.net Freenode]
@@ -169,7 +169,7 @@ This is an area ripe for new student project ideas.  The more focused the better
 
 ==[http://biojava.org/wiki/Google_Summer_of_Code BioJava] ==
 
-[[Image:Biojava_logo_tiny.jpg|right|link=http://biojava.org/wiki/Google_Summer_of_Code]]
+[[Image:Biojava_logo_tiny.jpg|right|link=http://biojava.org/wiki/Google_Summer_of_Code|BioJava logo]]
 
 * [http://lists.open-bio.org/mailman/listinfo/biojava-dev BioJava developer mailing list]
 * [http://biojava.org/wiki/BioJava:Modules BioJava modules] as another source for student-conceived project ideas
@@ -196,7 +196,7 @@ This is an area ripe for new student project ideas.  The more focused the better
 
 ==[http://bioruby.open-bio.org/wiki/Google_Summer_of_Code BioRuby]==
 
-[[Image:BioRuby_logo_tiny.png|right|link=http://bioruby.org]]
+[[Image:BioRuby_logo_tiny.png|right|link=http://bioruby.org|BioRuby logo]]
 
 * [http://lists.open-bio.org/mailman/listinfo/bioruby Developers mailing list]
 * [http://github.com/bioruby/bioruby/tree/master Source code]
@@ -331,7 +331,7 @@ YummyData is a system of collecting and disseminating various statistical and fu
 <!--
 ==BioSQL==
 
-[[Image:BioSQL_logo.png|160px|right|link=https://biosql.org]]
+[[Image:BioSQL_logo.png|160px|right|link=https://biosql.org|BioSQL logo]]
 ; [[https://biosql.org|BioSQL]] :
 :* [[https://biosql.org|Project website]]
 :* Current [http://biosql.org/wiki/Enhancement_Requests enhancement requests] as another source for student-conceived project ideas
