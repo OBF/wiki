@@ -22,7 +22,7 @@ playlist](https://www.youtube.com/playlist?list=PLir-OOQiOhXbENjAIFF-JZ0WodnysPq
 The full program including abstracts is available
 [here](http://www.open-bio.org/bosc2015/BOSC2015-program-with-abstracts.pdf).
 The PDF of this schedule (without abstracts) is available
-[here](http://www.open-bio.org/w/images/2/2c/BOSC2015-schedule.pdf).
+[here](BOSC2015-schedule.pdf).
 
 ## Sponsors
 

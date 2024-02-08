@@ -37,7 +37,7 @@ environments like [Amazon Elastic Compute
 Cloud](http://aws.amazon.com/ec2/) and
 [Eucalyptus](http://open.eucalyptus.com/). Ntino has written up an
 excellent project proposal available for [download in pdf
-format](http://www.open-bio.org/w/images/8/85/BOSC_2010_Cloud_BioLinux.pdf).
+format](BOSC_2010_Cloud_BioLinux.pdf).
 
 Initial work has started to develop an automated build environment that
 incorporates the [Cloud
@@ -89,7 +89,7 @@ technology.
     left. When you arrive, the security guard should have your name, but
     if not, tell him you are attending the Hackathon and he will let you
     through. If you get lost use the [PDF
-    map](http://www.open-bio.org/w/images/2/25/Brigham_Circle_-_Countway_Map.pdf)
+    map](Brigham_Circle_-_Countway_Map.pdf)
     as a guide.
 
 <!-- -->

@@ -6,7 +6,7 @@ layout: wiki
 
 You may also download the entire BOSC program with the schedule and all
 abstracts as a [PDF
-file](http://www.open-bio.org/w/images/b/b6/BOSC2008_program.pdf)
+file](BOSC2008_program.pdf)
 (1971KB).
 
 Return to [ BOSC2008](BOSC_2008 "wikilink") main page.
@@ -141,7 +141,7 @@ Collaboration
 
 <span style='font-size:11.0pt'>\[cyberinfrastructure\]
 
-` Mobyle: a New Full Web Bioinformatics Framework `[`Abstract`](http://www.open-bio.org/w/images/c/c7/Menager_Mobyle_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/menager-mobyle-bosc2008/)</span>
+` Mobyle: a New Full Web Bioinformatics Framework `[`Abstract`](Menager_Mobyle_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/menager-mobyle-bosc2008/)</span>
 
 </td>
 </tr>
@@ -168,7 +168,7 @@ Collaboration
 
 <span style='font-size:11.0pt'>\[cyberinfrastructure\]
 
-` Intermine – Open Source Data Warehouse and Query Interface `[`Abstract`](http://www.open-bio.org/w/images/e/e5/Smith_R_Intermine_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/smith-inter-mine-bosc2008/)
+` Intermine – Open Source Data Warehouse and Query Interface `[`Abstract`](Smith_R_Intermine_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/smith-inter-mine-bosc2008/)
 
 </span>
 
@@ -197,7 +197,7 @@ Collaboration
 
 <span style='font-size:11.0pt'>\[cyberinfrastructure\] Bridging
 
-` Existing Bioinformatics Tools and Data into Semantic Web Services `[`Abstract`](http://www.open-bio.org/w/images/6/69/Gordon_SemanticWeb_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/gordon-semantic-web-2008/)
+` Existing Bioinformatics Tools and Data into Semantic Web Services `[`Abstract`](Gordon_SemanticWeb_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/gordon-semantic-web-2008/)
 
 </span>
 
@@ -226,7 +226,7 @@ Collaboration
 
 <span style='font-size:11.0pt'>\[cyberinfrastructure\]
 
-` Soaplab2: More Reliable Sesame Door to Bioinformatics Programs `[`Abstract`](http://www.open-bio.org/w/images/3/3c/Rice_Soaplab2_abstract.pdf)</span>
+` Soaplab2: More Reliable Sesame Door to Bioinformatics Programs `[`Abstract`](Rice_Soaplab2_abstract.pdf)</span>
 
 </td>
 </tr>
@@ -276,7 +276,7 @@ Collaboration
 <span style='font-size:11.0pt'>\[cyberinfrastructure\]
 
 ` BeeSpace:`<span style='mso-spacerun:yes'>`  `</span>`An Interactive System for`  
-` Functional Analysis `[`Abstract`](http://www.open-bio.org/w/images/2/27/Sanders_Arcoleo_BeeSpace_abstract.pdf)[`**SLIDES** (PPT)`](http://www.beespace.uiuc.edu/files/BeeSpaceBOSC2008_v3.ppt)</span>
+` Functional Analysis `[`Abstract`](Sanders_Arcoleo_BeeSpace_abstract.pdf)[`**SLIDES** (PPT)`](http://www.beespace.uiuc.edu/files/BeeSpaceBOSC2008_v3.ppt)</span>
 
 </td>
 </tr>
@@ -305,7 +305,7 @@ Collaboration
 
 <span style='font-size:11.0pt'>\[cyberinfrastructure\]
 
-` BioDas Project Update `[`Abstract`](http://www.open-bio.org/w/images/6/6c/Jenkinson_BioDas_abstract.pdf)`  `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/andy-jenkinson-bosc-das-2008/)
+` BioDas Project Update `[`Abstract`](Jenkinson_BioDas_abstract.pdf)`  `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/andy-jenkinson-bosc-das-2008/)
 
 </span>
 
@@ -335,7 +335,7 @@ Collaboration
 <span style='font-size:11.0pt'>\[visualization\] E-Cell 3D:
 3-Dimensional
 
-` Visualization of Dynamic Cell Simulation `[`Abstract`](http://www.open-bio.org/w/images/2/20/Arakawa_E-Cell3D_abstract.pdf)` `[`**SLIDES**`](http://www.g-language.org/data/gaou/presentation/BOSC08-ECell3D.pdf)</span>
+` Visualization of Dynamic Cell Simulation `[`Abstract`](Arakawa_E-Cell3D_abstract.pdf)` `[`**SLIDES**`](http://www.g-language.org/data/gaou/presentation/BOSC08-ECell3D.pdf)</span>
 
 </td>
 </tr>
@@ -362,7 +362,7 @@ Collaboration
 
 <span style='font-size:11.0pt'>\[bio\*update\] EMBOSS:
 
-` European Molecular Biology Open Software Suite `[`Abstract`](http://www.open-bio.org/w/images/c/ca/Rice_EMBOSS_abstract.pdf)</span>
+` European Molecular Biology Open Software Suite `[`Abstract`](Rice_EMBOSS_abstract.pdf)</span>
 
 </td>
 </tr>
@@ -391,7 +391,7 @@ Collaboration
 
 <span style='font-size:11.0pt'>\[bio\*update\] BioJava
 
-` Project Update `[`Abstract`](http://www.open-bio.org/w/images/1/10/Heuer_BioJava_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/heuer-bio-java-bosc2008/)
+` Project Update `[`Abstract`](Heuer_BioJava_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/heuer-bio-java-bosc2008/)
 
 </span>
 
@@ -420,7 +420,7 @@ Collaboration
 
 <span style='font-size:11.0pt'>\[lightning talk\] Use the
 
-` Make Utility for the Maintenance of Complex Bioinformatics Pipelines `[`Abstract`](http://www.open-bio.org/w/images/a/a9/Wilson_Make_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/wilson-make-bosc2008/)` `
+` Make Utility for the Maintenance of Complex Bioinformatics Pipelines `[`Abstract`](Wilson_Make_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/wilson-make-bosc2008/)` `
 
 </span>
 
@@ -449,7 +449,7 @@ Collaboration
 
 <span style='font-size:11.0pt'>\[lightning talk\] SolexaTools: An Open
 Source Sequence Analysis Framework
-[Abstract](http://www.open-bio.org/w/images/6/63/OConnor_SolexaTools_abstract.pdf)
+[Abstract](OConnor_SolexaTools_abstract.pdf)
 [\*\*SLIDES\*\*](http://www.slideshare.net/bosc_2008/o-connor-solexa-tools-bosc2008/)</span>
 
 </td>
@@ -573,7 +573,7 @@ Arial'>Schedule (Day 2)</span></b>
 
 <span style='font-size:11.0pt'>\[workflows\] Interoperability
 
-` with BioMoby – Past, Present, and Future `[`Abstract`](http://www.open-bio.org/w/images/d/da/Wilkinson_BioMoby_abstract.pdf)</span>
+` with BioMoby – Past, Present, and Future `[`Abstract`](Wilkinson_BioMoby_abstract.pdf)</span>
 
 </td>
 </tr>
@@ -601,7 +601,7 @@ Arial'>Schedule (Day 2)</span></b>
 <span style='font-size:11.0pt'>\[workflows\] Ergatis: A
 
 ` Web-based Bioinformatics Pipeline Management and Collaborative Development`  
-` System `[`Abstract`](http://www.open-bio.org/w/images/5/59/Orvis_Ergatis_abstract.pdf)</span>
+` System `[`Abstract`](Orvis_Ergatis_abstract.pdf)</span>
 
 </td>
 </tr>
@@ -628,7 +628,7 @@ Arial'>Schedule (Day 2)</span></b>
 
 <span style='font-size:11.0pt'>\[workflows\] Chipster – User
 
-` Friendly DNA Microarray Analysis Software `[`Abstract`](http://www.open-bio.org/w/images/7/7e/Kallio_Chipster_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/kallio-chipster-bosc2008/)</span>
+` Friendly DNA Microarray Analysis Software `[`Abstract`](Kallio_Chipster_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/kallio-chipster-bosc2008/)</span>
 
 </td>
 </tr>
@@ -677,7 +677,7 @@ Arial'>Schedule (Day 2)</span></b>
 
 <span style='font-size:11.0pt'>\[workflows\] myExperiment:
 
-` Social Software for Sharing Workflows `[`Abstract`](http://www.open-bio.org/w/images/7/75/Bhagat_myExperiment_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/bhagat-myexperiment-bosc2008/)</span>
+` Social Software for Sharing Workflows `[`Abstract`](Bhagat_myExperiment_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/bhagat-myexperiment-bosc2008/)</span>
 
 </td>
 </tr>
@@ -704,7 +704,7 @@ Arial'>Schedule (Day 2)</span></b>
 
 <span style='font-size:11.0pt'>\[workflows\] BioHDF: Open Binary
 
-` File Formats for Large Scale Data Management `[`Abstract`](http://www.open-bio.org/w/images/2/22/Smith_T_BioHDF_Abstract_revised.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/smith-t-bio-hdf-bosc2008/)</span>
+` File Formats for Large Scale Data Management `[`Abstract`](Smith_T_BioHDF_Abstract_revised.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/smith-t-bio-hdf-bosc2008/)</span>
 
 </td>
 </tr>
@@ -732,7 +732,7 @@ Arial'>Schedule (Day 2)</span></b>
 <span style='font-size:11.0pt'>\[open source software\] The
 
 ` Open HeliSphere`<sup>`TM`</sup>` Project: True Open Source from the Inventors of`  
-` True Single Molecule Sequencing `[`Abstract`](http://www.open-bio.org/w/images/f/fb/Kitzmiller_OpenHeliSphere_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/kitzmiller-openhelisphereproject-bosc2008/)</span>
+` True Single Molecule Sequencing `[`Abstract`](Kitzmiller_OpenHeliSphere_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/kitzmiller-openhelisphereproject-bosc2008/)</span>
 
 </td>
 </tr>
@@ -759,7 +759,7 @@ Arial'>Schedule (Day 2)</span></b>
 
 <span style='font-size:11.0pt'>\[open source software\]
 
-` Apollo: a Sequence Annotation Editor (with demonstration to follow) `[`Abstract`](http://www.open-bio.org/w/images/3/3a/Lee_Apollo_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/lee-apollo-bosc2008/)</span>
+` Apollo: a Sequence Annotation Editor (with demonstration to follow) `[`Abstract`](Lee_Apollo_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/lee-apollo-bosc2008/)</span>
 
 </td>
 </tr>
@@ -808,7 +808,7 @@ Arial'>Schedule (Day 2)</span></b>
 
 <span style='font-size:11.0pt'>\[bio\*update\] BioSQL
 
-` Reloaded: 1.0 Release, PhyloDB Module, and Future Features `[`Abstract`](http://www.open-bio.org/w/images/3/3b/Lapp_BioSQL_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/hlapp/lapp-biosql-bosc2008)</span>
+` Reloaded: 1.0 Release, PhyloDB Module, and Future Features `[`Abstract`](Lapp_BioSQL_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/hlapp/lapp-biosql-bosc2008)</span>
 
 </td>
 </tr>
@@ -837,7 +837,7 @@ Arial'>Schedule (Day 2)</span></b>
 
 <span style='font-size:11.0pt'>\[bio\*update\] EMBRACE –
 
-` BioMart Developments and Future `[`Abstract`](http://www.open-bio.org/w/images/1/10/Haider_EMBRACE_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/haider-embrace-bosc2008/)</span>
+` BioMart Developments and Future `[`Abstract`](Haider_EMBRACE_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/haider-embrace-bosc2008/)</span>
 
 </td>
 </tr>
@@ -866,7 +866,7 @@ Arial'>Schedule (Day 2)</span></b>
 
 <span style='font-size:11.0pt'>\[bio\*update\] Biopython
 
-` Project Update 2008 `[`Abstract`](http://www.open-bio.org/w/images/e/e3/Antao_Biopython_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/antao-biopython-bosc2008/)
+` Project Update 2008 `[`Abstract`](Antao_Biopython_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/antao-biopython-bosc2008/)
 
 </span>
 
