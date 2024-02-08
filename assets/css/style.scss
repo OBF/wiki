@@ -24,7 +24,7 @@ $code-text-color: #567482;
 
 // Borders
 $border-color: #dce6f0;
-$table-border-color: #e9ebec;
+$table-border-color: transparent;
 $hr-border-color: #eff0f1;
 
 @import "{{ site.theme }}";
