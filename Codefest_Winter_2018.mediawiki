@@ -109,9 +109,9 @@ are very welcome at Codefest.
 == Sponsors ==
 
 {|
-| [[File:gcp-logo.png|220px|center|Google Cloud|link=https://cloud.google.com/]]
+| [[File:gcp-logo.png|220px|center|link=https://cloud.google.com/|Google Cloud]]
 | &nbsp;&nbsp;&nbsp;
-| [[File:Veritas.png|300px|center|Veritas|link=https://www.veritasgenetics.com/]]
+| [[File:Veritas.png|300px|center|link=https://www.veritasgenetics.com/|Veritas]]
 |}
 
 We're grateful to Veritas and the Genomics and Life Sciences Team at Google Cloud for helping sponsor the winter Codefest.

@@ -3,7 +3,7 @@ title: BOSC 2017 Schedule
 ---
 
 __NOTOC__
-[[File:Pear.png|120px|right|BOSC logo|link=BOSC_2017]]
+[[File:Pear.png|120px|right|link=BOSC_2017|BOSC logo]]
 
 == Complete Program  ==
 
@@ -846,19 +846,19 @@ We are grateful to and welcome [http://thehyve.nl/ The Hyve] (open source soluti
 If you would like to be a sponsor of BOSC, please contact us at bosc@open-bio.org.
 <center>
 {|
-| [[File:Thehyve-logo-small.png|200px|center|The Hyve logo|link=http://thehyve.nl/]]
+| [[File:Thehyve-logo-small.png|200px|center|link=http://thehyve.nl/|The Hyve logo]]
 | &nbsp;&nbsp;&nbsp;
-| [[File:MSLLogo_small.png|220px|center|Mozilla Science Lab logo|link=https://science.mozilla.org/]]
+| [[File:MSLLogo_small.png|220px|center|link=https://science.mozilla.org/|Mozilla Science Lab logo]]
 | &nbsp;&nbsp;&nbsp;
-| [[File:Repositive_logo_long.png|220px|center|Repositive Limited logo|link=https://repositive.io/]]
+| [[File:Repositive_logo_long.png|220px|center|link=https://repositive.io/|Repositive Limited logo]]
 |}
 {|
 | &nbsp;&nbsp;&nbsp;
-| [[File:gigascience-07.png|200px|center|GigaScience|link=http://www.gigasciencejournal.com/]]
+| [[File:gigascience-07.png|200px|center|link=http://www.gigasciencejournal.com/|GigaScience]]
 | &nbsp;&nbsp;&nbsp;
-| [[File:SB_logo_navy.png|220px|center|Seven Bridges|link=https://www.sevenbridges.com/]]
+| [[File:SB_logo_navy.png|220px|center|link=https://www.sevenbridges.com/|Seven Bridges]]
 | &nbsp;&nbsp;&nbsp;
-| [[File:eLife.png|200px|center|eLife|link=https://elifesciences.org/labs]]
+| [[File:eLife.png|200px|center|link=https://elifesciences.org/labs|eLife]]
 |}
 </center>
 

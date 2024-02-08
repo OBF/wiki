@@ -2,7 +2,7 @@
 title: BOSC 2016 Panel
 ---
 
-[[File:Pear.png|120px|right|BOSC logo|link=BOSC_2016]]
+[[File:Pear.png|120px|right|link=BOSC_2016|BOSC logo]]
 == Growing and sustaining open source communities ==
 
 Every year, BOSC includes a panel discussion that offers attendees the chance to engage in conversation with the panelists and each other. This year, our panel discussion will focus on how to grow and sustain open source communities, new or old, with different topics, goals, organizational structures and funding models.

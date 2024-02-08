@@ -2,7 +2,7 @@
 title: BOSC 2015 Panel
 ---
 
-[[File:Pear.png|120px|right|BOSC logo|link=BOSC_2015]]
+[[File:Pear.png|120px|right|link=BOSC_2015|BOSC logo]]
 == Open Source, Open Door: increasing diversity in the bioinformatics open source community ==
 
 Every year, BOSC includes a panel discussion that offers all attendees the chance to engage in conversation with the panelists and each other. This year, our panel discussion will focus on '''increasing diversity in our community and at our conferences'''.

@@ -68,8 +68,8 @@ A few places you might want to consider eating on Thursday night:
 
 == Sponsors ==
 {|
-| [[File:Arvados.png|150px|center|Arvados logo|link=http://arvados.org]]
-[[File:curoverse_logo_2014.png|150px|center|Curoverse logo|link=http://curoverse.org]]
+| [[File:Arvados.png|150px|center|link=http://arvados.org|Arvados logo]]
+[[File:curoverse_logo_2014.png|150px|center|link=http://curoverse.org|Curoverse logo]]
 |}
 
 

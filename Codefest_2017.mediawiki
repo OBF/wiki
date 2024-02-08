@@ -79,7 +79,7 @@ Add your [https://docs.google.com/document/d/16OKzgx11VLLvvxzXlhDr8yPQ8gFYg61bfb
 Codefest is kindly hosted by [https://brmlab.cz/ Brmlab], a non-profit, community-run hackerspace in Prague.
 
 {|
-| [[File:Brmlab.png|400px|left|Brmlab|link=http://brmlab.cz]]
+| [[File:Brmlab.png|400px|left|link=http://brmlab.cz|Brmlab]]
 |}
 
 * [https://brmlab.cz/place Brmlab's own directions]
@@ -130,16 +130,16 @@ It's a walking distance from the red C line, exactly from the '''stop at the con
 
 {|
 | &nbsp;&nbsp;
-| [[File:Zlycasy.png|467px|center|Brmlab to Zlý Časy (optionally via ISMB)|link=https://www.google.com/maps/dir/brmlab,+Bubensk%C3%A1,+Hole%C5%A1ovice,+Praha-Praha+7,+%C4%8Cesko/Zl%C3%BD+%C4%8Casy,+%C4%8Cestm%C3%ADrova,+Praha,+%C4%8Cesko/@50.0816251,14.4333811,14z/data=!4m16!4m15!1m5!1m1!1s0x470b94b80ce899d9:0xcc81f00a71b39b29!2m2!1d14.4359171!2d50.0984431!1m5!1m1!1s0x470b947e932889db:0xe7fd48b92656f255!2m2!1d14.4420491!2d50.0643445!2m1!5e1!3e3?hl=en]]
+| [[File:Zlycasy.png|467px|center|link=https://www.google.com/maps/dir/brmlab,+Bubensk%C3%A1,+Hole%C5%A1ovice,+Praha-Praha+7,+%C4%8Cesko/Zl%C3%BD+%C4%8Casy,+%C4%8Cestm%C3%ADrova,+Praha,+%C4%8Cesko/@50.0816251,14.4333811,14z/data=!4m16!4m15!1m5!1m1!1s0x470b94b80ce899d9:0xcc81f00a71b39b29!2m2!1d14.4359171!2d50.0984431!1m5!1m1!1s0x470b947e932889db:0xe7fd48b92656f255!2m2!1d14.4420491!2d50.0643445!2m1!5e1!3e3?hl=en|Brmlab to Zlý Časy (optionally via ISMB)]]
 | &nbsp;&nbsp;
 |}
 
 == Sponsors ==
 
 {|
-| [[File:Repositive_logo_long.png|220px|center|Repositive Limited logo|link=https://repositive.io/]]
+| [[File:Repositive_logo_long.png|220px|center|link=https://repositive.io/|Repositive Limited logo]]
 | &nbsp;&nbsp;&nbsp;
-| [[File:SB_logo_navy.png|220px|center|Seven Bridges|link=https://www.sevenbridges.com/]]
+| [[File:SB_logo_navy.png|220px|center|link=https://www.sevenbridges.com/|Seven Bridges]]
 |}
 
 

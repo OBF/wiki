@@ -2,7 +2,7 @@
 title: BOSC 2012 Schedule
 ---
 
-[[File:Pear.png|100px|right|BOSC logo|link=BOSC_2012]]
+[[File:Pear.png|100px|right|link=BOSC_2012|BOSC logo]]
 
 '''[[Media:BOSC2012_schedule.pdf | Click here to download this schedule as PDF]]'''
 
@@ -142,7 +142,7 @@ title: BOSC 2012 Schedule
 |}
 
 <br>
-[[File:Pear.png|100px|right|BOSC logo|link=BOSC_2012]]
+[[File:Pear.png|100px|right|link=BOSC_2012|BOSC logo]]
 
 = Day 2: Saturday, July 14 =
 

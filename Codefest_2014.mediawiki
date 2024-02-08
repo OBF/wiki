@@ -55,7 +55,7 @@ so please sign up to receive updates.
 == Logistics ==
 
 {|
-| [[File:hack-reduce-logo.png|153px|right|hack/reduce logo|link=http://www.hackreduce.org/]]
+| [[File:hack-reduce-logo.png|153px|right|link=http://www.hackreduce.org/|hack/reduce logo]]
 |}
 
 [http://www.hackreduce.org/ hack/reduce], a wonderful hacker space in Cambridge,
@@ -79,12 +79,12 @@ Our recommendation for housing is to look at [https://www.airbnb.com/s/boston--m
 == Sponsors ==
 
 {|
-| [[File:Curoverse_logo.png|175px|center|Curoverse logo|link=http://curoverse.com]]
+| [[File:Curoverse_logo.png|175px|center|link=http://curoverse.com|Curoverse logo]]
 |rowspan="2"| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-|rowspan="2"| [[File:HP-logo-no-tagline.png|131px|center|Harbinger Partners logo|link=http://harbinger-partners.com/]]
-|rowspan="2"| [[File:Aws-logo.jpeg|150px|center|AWS logo|link=http://aws.amazon.com/]]
+|rowspan="2"| [[File:HP-logo-no-tagline.png|131px|center|link=http://harbinger-partners.com/|Harbinger Partners logo]]
+|rowspan="2"| [[File:Aws-logo.jpeg|150px|center|link=http://aws.amazon.com/|AWS logo]]
 |-
-| [[File:Arvados.png|150px|center|Arvados logo|link=http://arvados.org]]
+| [[File:Arvados.png|150px|center|link=http://arvados.org|Arvados logo]]
 |}
 
 We thank [http://curoverse.com Curoverse], [http://harbinger-partners.com/ Harbinger Partners, Inc.] and [http://aws.amazon.com/ Amazon Web Services] for sponsoring the BOSC CodeFest 2014.

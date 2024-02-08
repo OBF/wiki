@@ -2,7 +2,7 @@
 title: BOSC 2017 Panel
 ---
 
-[[File:Pear.png|120px|right|BOSC logo|link=BOSC_2017]]
+[[File:Pear.png|120px|right|link=BOSC_2017|BOSC logo]]
 == Open Data: Standards, Opportunities and Challenges ==
 
 Every year, BOSC includes a panel discussion that offers attendees the chance to engage in conversation with the panelists and each other. This year, our panel discussion will focus on open data: how it can help to catalyze scientific and preserve knowledge, standards for sharing data, and some of the challenges (for example, protecting privacy of human health data).

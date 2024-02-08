@@ -4,7 +4,7 @@ title: BOSC 2013 Schedule
 
 __NOTOC__
 
-[[File:Pear.png|100px|right|BOSC logo|link=BOSC_2013]]
+[[File:Pear.png|100px|right|link=BOSC_2013|BOSC logo]]
 You can also:
 
 - '''[[Media:BOSC2013_schedule.pdf | Download schedule as PDF]]''' (A4 format).
@@ -154,7 +154,7 @@ You can also:
 |}
 
 <br>
-[[File:Pear.png|100px|right|BOSC logo|link=BOSC_2013]]
+[[File:Pear.png|100px|right|link=BOSC_2013|BOSC logo]]
 
 = Day 2: Saturday, July 20 =
 

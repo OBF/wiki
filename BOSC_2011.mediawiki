@@ -28,7 +28,7 @@ Please spread the word about BOSC to interested developers; all are welcome. On 
 
 [[BOSC 2010]] was held in Boston, MA, from July 9-10.  Selected peer-reviewed papers from BOSC 2010 were published in [http://www.biomedcentral.com/1471-2105/11?issue=S12 BMC Bioinformatics] on 21 December, 2010.
 
-<div style="float:right; background-color: #FFFFFF">[[File:Eagle_logo_CMYK.jpg|120px|right|Eagle Genomics logo|link=http://www.eaglegenomics.com/]]</div>
+<div style="float:right; background-color: #FFFFFF">[[File:Eagle_logo_CMYK.jpg|120px|right|link=http://www.eaglegenomics.com/|Eagle Genomics logo]]</div>
 
 == Sponsors ==
 

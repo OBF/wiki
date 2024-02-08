@@ -28,8 +28,8 @@ Brad Chapman's summaries of the conference: [https://github.com/chapmanb/bcbb/bl
 * June 29,30, July 1,2: Collaborative coding at GCCBOSC
 
 
-[[File:FernandoPerez.jpg|100px|left|Fernando Perez|link=https://gccbosc2018.sched.com/directory/speakers]]
-[[File:TracyTeal.jpg|100px|right|Tracy K. Teal|link=https://gccbosc2018.sched.com/directory/speakers]]
+[[File:FernandoPerez.jpg|100px|left|link=https://gccbosc2018.sched.com/directory/speakers|Fernando Perez]]
+[[File:TracyTeal.jpg|100px|right|link=https://gccbosc2018.sched.com/directory/speakers|Tracy K. Teal]]
 
 == Keynote Speakers ==
 
@@ -37,7 +37,7 @@ The [https://gccbosc2018.sched.com/directory/speakers BOSC keynote speakers] wil
 
 
 == Why is BOSC partnering with GCC in 2018? ==
-[[File:Gcc-bosc-2018-logo_boxed_300.png|100px|left|GCCBOSC 2018|link=https://gccbosc2018.sched.com/]]
+[[File:Gcc-bosc-2018-logo_boxed_300.png|100px|left|link=https://gccbosc2018.sched.com/|GCCBOSC 2018]]
 BOSC has been a part of [https://www.iscb.org/ismb2018 ISMB] since its inception, and we greatly value our
 relationships with the ISCB management and the ISMB community.
 [[BOSC 2017]], which was part of
