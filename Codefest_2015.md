@@ -153,7 +153,7 @@ and discuss in real time.
 <tbody>
 <tr class="odd">
 <td>
-<img src="TCDTrimmed.png" title="Trinity College Dubline" width="320" />
+<img src="TCDTrimmed.png" title="Trinity College Dublin" width="320" />
 </td>
 </tr>
 </tbody>
