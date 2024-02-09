@@ -17,7 +17,7 @@ international bioinformatics community.
 - [CollaborationFest
   2018](https://galaxyproject.org/events/gccbosc2018/collaboration/),
   Portland, Oregon
-- [Codefest 2018 Winter](Codefest_2018_Winter "wikilink") in Boston,
+- [Codefest 2018 Winter](Codefest_Winter_2018 "wikilink") in Boston,
   Massachusetts (a standalone event)
 - [Codefest 2017](Codefest_2017 "wikilink") in Prague, Czech Republic
 - [Codefest 2016](Codefest_2016 "wikilink") in Orlando, Florida
