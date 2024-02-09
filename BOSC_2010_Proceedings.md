@@ -10,9 +10,9 @@ tags:
 
 - **[ BOSC 2010 main page](BOSC_2010 "wikilink")**
 - **[ BOSC 2010 Schedule page](BOSC_2010_Schedule "wikilink")**
-- *'ANNOUNCEMENT: the [BOSC 2010
+- ANNOUNCEMENT: the [BOSC 2010
   Proceedings](http://www.biomedcentral.com/1471-2105/11?issue=S12) has
-  been published on the*BMC Bioinformatics'' web site as of 21 December
+  been published on the *BMC Bioinformatics* web site as of 21 December
   2010.
 
 ## First-ever Published BOSC Proceedings
