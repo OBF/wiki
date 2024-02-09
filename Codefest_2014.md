@@ -122,7 +122,7 @@ transfer from Green to Red at Park Street Station downtown.
 </td>
 <td rowspan="2"><p>        </p></td>
 <td rowspan="2">
-<a href="https://harbinger-partners.com/">>
+<a href="https://harbinger-partners.com/">
 <img src="HP-logo-no-tagline.png" title="Harbinger Partners logo"
 width="131" />
 </a>
