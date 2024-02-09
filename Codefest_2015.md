@@ -209,7 +209,8 @@ please get in touch with [Brad](https://github.com/chapmanb).
 <a href="https://arvados.org/">
 <img src="Arvados.png" title="Arvados logo" width="150" />
 </a>
-</td><td>
+</td>
+<td>
 <a href="http://www.bina.org/">
 <img src="Bina_logo.png" title="Bina logo" width="200" />
 </a>

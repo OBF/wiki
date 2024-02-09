@@ -32,7 +32,7 @@ and welcome [Bina](http://bina.com/) as our newest sponsor.
 
 <table>
 <tbody>
-<tr class="odd">
+<tr>
 <td rowspan="2">
 <a href="https://www.google.com/">
 <img src="google-logo11w.png" title="Google" width="205" />
@@ -44,8 +44,14 @@ and welcome [Bina](http://bina.com/) as our newest sponsor.
 <img src="Curoverse_logo.png" title="Curoverse logo" width="175" />
 </a>
 </td>
+<td rowspan="2"><p>            </p></td>
+<td rowspan="2">
+<a href="http://www.bina.org/">
+<img src="Bina_logo.png" title="Bina logo" width="200" />
+</a>
+</td>
 </tr>
-<tr class="even">
+<tr>
 <td>
 <a href="https://arvados.org/">
 <img src="Arvados.png" title="Arvados logo" width="150" />
