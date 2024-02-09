@@ -7,10 +7,7 @@ layout: wiki
 [BOSC 2017](BOSC_2017 "wikilink") is pleased to announce the following
 keynote speakers:
 
-<figure>
 <img src="Madeleine-Ball.jpg" title="Madeleine Ball" width="240" />
-<figcaption>Madeleine Ball</figcaption>
-</figure>
 
 ### Madeleine Ball
 
@@ -47,10 +44,7 @@ Challenges](BOSC_2017_Panel "wikilink").
 
 ------------------------------------------------------------------------
 
-<figure>
 <img src="NickLoman.jpg" title="Nick Loman" width="210" />
-<figcaption>Nick Loman</figcaption>
-</figure>
 
 ### Nick Loman
 

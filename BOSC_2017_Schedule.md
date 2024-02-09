@@ -8,10 +8,7 @@ tags:
  - BOSC Conferences
 ---
 
-<figure>
 <img src="Pear.png" title="BOSC logo" width="120" />
-<figcaption>BOSC logo</figcaption>
-</figure>
 
 ## Complete Program
 
@@ -636,22 +633,19 @@ bosc@open-bio.org.
 <table>
 <tbody>
 <tr class="odd">
-<td><figure>
+<td>
 <img src="Thehyve-logo-small.png" title="The Hyve logo" width="200" />
-<figcaption>The Hyve logo</figcaption>
-</figure></td>
+</td>
 <td><p>   </p></td>
-<td><figure>
+<td>
 <img src="MSLLogo_small.png" title="Mozilla Science Lab logo"
 width="220" />
-<figcaption>Mozilla Science Lab logo</figcaption>
-</figure></td>
+</td>
 <td><p>   </p></td>
-<td><figure>
+<td>
 <img src="Repositive_logo_long.png" title="Repositive Limited logo"
 width="220" />
-<figcaption>Repositive Limited logo</figcaption>
-</figure></td>
+</td>
 </tr>
 </tbody>
 </table>
@@ -660,20 +654,17 @@ width="220" />
 <tbody>
 <tr class="odd">
 <td><p>   </p></td>
-<td><figure>
+<td>
 <img src="gigascience-07.png" title="GigaScience" width="200" />
-<figcaption>GigaScience</figcaption>
-</figure></td>
+</td>
 <td><p>   </p></td>
-<td><figure>
+<td>
 <img src="SB_logo_navy.png" title="Seven Bridges" width="220" />
-<figcaption>Seven Bridges</figcaption>
-</figure></td>
+</td>
 <td><p>   </p></td>
-<td><figure>
+<td>
 <img src="eLife.png" title="eLife" width="200" />
-<figcaption>eLife</figcaption>
-</figure></td>
+</td>
 </tr>
 </tbody>
 </table>

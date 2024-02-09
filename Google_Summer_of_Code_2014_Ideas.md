@@ -350,10 +350,7 @@ Bruno Vieira ([@bmpvieira](http://twitter.com/bmpvieira))
 
 ## [BioPerl](http://bioperl.org/wiki/Google_Summer_of_Code)
 
-<figure>
 <img src="BioPerl_logo_tiny.jpg" title="BioPerl logo" />
-<figcaption>BioPerl logo</figcaption>
-</figure>
 
 - [Mailing lists](https://bioperl.org/Support "wikilink")
 - IRC: `#bioperl` on [Freenode](http://freenode.net)
@@ -570,10 +567,7 @@ Mentors : To be determined. [Kjetil Kjernsmo](http://bioperl.org/wiki/User:Kjeti
 
 ## [BioJava](http://biojava.org/wiki/Google_Summer_of_Code) and JSBML
 
-<figure>
 <img src="Biojava_logo_tiny.jpg" title="BioJava logo" />
-<figcaption>BioJava logo</figcaption>
-</figure>
 
 - [BioJava developer mailing
   list](http://lists.open-bio.org/mailman/listinfo/biojava-dev)
@@ -712,10 +706,7 @@ Andreas Dräger
 
 ## [BioPython](https://biopython.org/wiki/Google_Summer_of_Code "wikilink")
 
-<figure>
 <img src="Biopython_logo_tiny.png" title="Biopython logo" />
-<figcaption>Biopython logo</figcaption>
-</figure>
 
 - [Mailing lists](https://biopython.org/wiki/Mailing_lists "wikilink")
 - [Information for
@@ -791,10 +782,7 @@ learning as much as the student, so others very welcome.
 
 ## [BioRuby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code)
 
-<figure>
 <img src="BioRuby_logo_tiny.png" title="BioRuby logo" />
-<figcaption>BioRuby logo</figcaption>
-</figure>
 
 - [Developers mailing
   list](http://lists.open-bio.org/mailman/listinfo/bioruby)

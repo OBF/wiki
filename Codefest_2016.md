@@ -165,10 +165,9 @@ community space for creators.
 <table>
 <tbody>
 <tr class="odd">
-<td><figure>
+<td>
 <img src="FamiLAB-Logo3.gif" title="FamiLAB" width="400" />
-<figcaption>FamiLAB</figcaption>
-</figure></td>
+</td>
 </tr>
 </tbody>
 </table>
@@ -241,21 +240,18 @@ about the current status at any time.
 <table>
 <tbody>
 <tr class="odd">
-<td><figure>
+<td>
 <img src="Curoverse_logo.png" title="Curoverse logo" width="175" />
-<figcaption>Curoverse logo</figcaption>
-</figure></td>
+</td>
 <td rowspan="2"><p>     </p></td>
-<td rowspan="2"><figure>
+<td rowspan="2">
 <img src="PLOS-logo_2016.png" title="PLOS logo" width="243" />
-<figcaption>PLOS logo</figcaption>
-</figure></td>
+</td>
 </tr>
 <tr class="even">
-<td><figure>
+<td>
 <img src="Arvados.png" title="Arvados logo" width="150" />
-<figcaption>Arvados logo</figcaption>
-</figure></td>
+</td>
 </tr>
 </tbody>
 </table>

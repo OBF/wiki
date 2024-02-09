@@ -4,10 +4,7 @@ permalink: Google_Summer_of_Code_2010
 layout: wiki
 ---
 
-<figure>
 <img src="Gsoc_2010_logo.jpg" title="Google Summer of Code 2010 logo" />
-<figcaption>Google Summer of Code 2010 logo</figcaption>
-</figure>
 
 The OBF was accepted into the 2010 [Google Summer of
 Code](http://code.google.com/soc) (GSoC) program as an umbrella

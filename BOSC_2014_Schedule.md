@@ -8,10 +8,7 @@ tags:
  - BOSC Conferences
 ---
 
-<figure>
 <img src="Pear.png" title="BOSC logo" width="100" />
-<figcaption>BOSC logo</figcaption>
-</figure>
 
 This page has links to all the publicly available talk slides, videos
 and posters. The videos are all on the [BOSC 2014 YouTube
@@ -136,27 +133,23 @@ If the speaker also gave a talk, any poster link will be above (posters
 <table>
 <tbody>
 <tr class="odd">
-<td rowspan="2"><figure>
+<td rowspan="2">
 <img src="Eagle_logo_2013.jpg" title="Eagle Genomics logo"
 width="120" />
-<figcaption>Eagle Genomics logo</figcaption>
-</figure></td>
+</td>
 <td rowspan="2"><p>            </p></td>
-<td rowspan="2"><figure>
+<td rowspan="2">
 <img src="gigascience-07.png" title="GigaScience" width="175" />
-<figcaption>GigaScience</figcaption>
-</figure></td>
+</td>
 <td rowspan="2"><p>        </p></td>
-<td><figure>
+<td>
 <img src="Curoverse.png" title="Curoverse logo" width="175" />
-<figcaption>Curoverse logo</figcaption>
-</figure></td>
+</td>
 </tr>
 <tr class="even">
-<td><figure>
+<td>
 <img src="Arvados.png" title="Arvados logo" width="150" />
-<figcaption>Arvados logo</figcaption>
-</figure></td>
+</td>
 </tr>
 </tbody>
 </table>

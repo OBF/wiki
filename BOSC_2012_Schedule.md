@@ -8,10 +8,7 @@ tags:
  - BOSC Conferences
 ---
 
-<figure>
 <img src="Pear.png" title="BOSC logo" width="100" />
-<figcaption>BOSC logo</figcaption>
-</figure>
 
 **[ Click here to download this schedule as
 PDF](/wiki/BOSC2012_schedule.pdf "wikilink")**

@@ -260,10 +260,7 @@ Pjotr Prins, Marco van Zwetselaar, Brad Chapman, Dave Thompson
 
 ## [BioPerl](http://bioperl.org/wiki/Google_Summer_of_Code)
 
-<figure>
 <img src="BioPerl_logo_tiny.jpg" title="BioPerl logo" />
-<figcaption>BioPerl logo</figcaption>
-</figure>
 
 - [Mailing lists](https://bioperl.org/Support "wikilink")
 - IRC: `#bioperl` on [Freenode](http://freenode.net)
@@ -362,10 +359,7 @@ Mentors : Hilmar Lapp, others?
 
 ## [BioJava](http://biojava.org/wiki/Google_Summer_of_Code)
 
-<figure>
 <img src="Biojava_logo_tiny.jpg" title="BioJava logo" />
-<figcaption>BioJava logo</figcaption>
-</figure>
 
 - [BioJava developer mailing
   list](http://lists.open-bio.org/mailman/listinfo/biojava-dev)
@@ -418,10 +412,7 @@ Mentors
 
 ## [BioRuby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code)
 
-<figure>
 <img src="BioRuby_logo_tiny.png" title="BioRuby logo" />
-<figcaption>BioRuby logo</figcaption>
-</figure>
 
 - [Developers mailing
   list](http://lists.open-bio.org/mailman/listinfo/bioruby)

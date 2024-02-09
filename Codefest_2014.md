@@ -65,10 +65,9 @@ so please sign up to receive updates.
 <table>
 <tbody>
 <tr class="odd">
-<td><figure>
+<td>
 <img src="hack-reduce-logo.png" title="hack/reduce logo" width="153" />
-<figcaption>hack/reduce logo</figcaption>
-</figure></td>
+</td>
 </tr>
 </tbody>
 </table>
@@ -114,26 +113,22 @@ transfer from Green to Red at Park Street Station downtown.
 <table>
 <tbody>
 <tr class="odd">
-<td><figure>
+<td>
 <img src="Curoverse_logo.png" title="Curoverse logo" width="175" />
-<figcaption>Curoverse logo</figcaption>
-</figure></td>
+</td>
 <td rowspan="2"><p>        </p></td>
-<td rowspan="2"><figure>
+<td rowspan="2">
 <img src="HP-logo-no-tagline.png" title="Harbinger Partners logo"
 width="131" />
-<figcaption>Harbinger Partners logo</figcaption>
-</figure></td>
-<td rowspan="2"><figure>
+</td>
+<td rowspan="2">
 <img src="Aws-logo.jpeg" title="AWS logo" width="150" />
-<figcaption>AWS logo</figcaption>
-</figure></td>
+</td>
 </tr>
 <tr class="even">
-<td><figure>
+<td>
 <img src="Arvados.png" title="Arvados logo" width="150" />
-<figcaption>Arvados logo</figcaption>
-</figure></td>
+</td>
 </tr>
 </tbody>
 </table>

@@ -167,10 +167,9 @@ community-run hackerspace in Prague.
 <table>
 <tbody>
 <tr class="odd">
-<td><figure>
+<td>
 <img src="Brmlab.png" title="Brmlab" width="400" />
-<figcaption>Brmlab</figcaption>
-</figure></td>
+</td>
 </tr>
 </tbody>
 </table>
@@ -268,11 +267,10 @@ keynote\|registration\|reception is thus very possible!
 <tbody>
 <tr class="odd">
 <td><p>  </p></td>
-<td><figure>
+<td>
 <img src="Zlycasy.png" title="Brmlab to Zlý Časy (optionally via ISMB)"
 width="467" />
-<figcaption>Brmlab to Zlý Časy (optionally via ISMB)</figcaption>
-</figure></td>
+</td>
 <td><p>  </p></td>
 </tr>
 </tbody>
@@ -283,16 +281,14 @@ width="467" />
 <table>
 <tbody>
 <tr class="odd">
-<td><figure>
+<td>
 <img src="Repositive_logo_long.png" title="Repositive Limited logo"
 width="220" />
-<figcaption>Repositive Limited logo</figcaption>
-</figure></td>
+</td>
 <td><p>   </p></td>
-<td><figure>
+<td>
 <img src="SB_logo_navy.png" title="Seven Bridges" width="220" />
-<figcaption>Seven Bridges</figcaption>
-</figure></td>
+</td>
 </tr>
 </tbody>
 </table>

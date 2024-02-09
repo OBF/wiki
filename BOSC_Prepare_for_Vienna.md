@@ -332,10 +332,7 @@ problem
 
 ## BOSC 2007
 
-<figure>
 <img src="Pear.png" title="The Bosc Pair" />
-<figcaption>The Bosc Pair</figcaption>
-</figure>
 
 The 8th annual Bioinformatics Open Source Conference
 ([BOSC](../BOSC "wikilink") 2007) will take place in [Vienna,

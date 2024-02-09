@@ -8,10 +8,7 @@ tags:
  - BOSC Conferences
 ---
 
-<figure>
 <img src="Pear.png" title="BOSC logo" width="120" />
-<figcaption>BOSC logo</figcaption>
-</figure>
 
 This page has links to all the publicly available talk slides, videos
 and posters. Most of the slides and posters are on our [BOSC F1000
@@ -36,21 +33,18 @@ and welcome [Bina](http://bina.com/) as our newest sponsor.
 <table>
 <tbody>
 <tr class="odd">
-<td rowspan="2"><figure>
+<td rowspan="2">
 <img src="google-logo11w.png" title="Google" width="205" />
-<figcaption>Google</figcaption>
-</figure></td>
+</td>
 <td rowspan="2"><p>            </p></td>
-<td><figure>
+<td>
 <img src="Curoverse_logo.png" title="Curoverse logo" width="175" />
-<figcaption>Curoverse logo</figcaption>
-</figure></td>
+</td>
 </tr>
 <tr class="even">
-<td><figure>
+<td>
 <img src="Arvados.png" title="Arvados logo" width="150" />
-<figcaption>Arvados logo</figcaption>
-</figure></td>
+</td>
 </tr>
 </tbody>
 </table>

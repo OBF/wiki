@@ -4,10 +4,7 @@ permalink: BOSC/liveCD
 layout: wiki
 ---
 
-<figure>
 <img src="Pear.png" title="The Bosc Pair" />
-<figcaption>The Bosc Pair</figcaption>
-</figure>
 
 # BOSC Software Distribution
 

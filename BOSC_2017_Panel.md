@@ -8,10 +8,7 @@ tags:
  - BOSC Conferences
 ---
 
-<figure>
 <img src="Pear.png" title="BOSC logo" width="120" />
-<figcaption>BOSC logo</figcaption>
-</figure>
 
 ## Open Data: Standards, Opportunities and Challenges
 
@@ -25,11 +22,10 @@ health data).
 <table>
 <tbody>
 <tr class="odd">
-<td><figure>
+<td>
 <img src="monica-munoz-torres.jpg" title="Mónica Muñoz-Torres"
 width="120" />
-<figcaption>Mónica Muñoz-Torres</figcaption>
-</figure></td>
+</td>
 <td><p>Panel chair <strong>Mónica Muñoz-Torres</strong> (<a
 href="https://twitter.com/monimunozto">@monimunozto</a>) is the
 biocuration lead for Berkeley Bioinformatics Open-Source Projects (BBOP)
@@ -39,10 +35,9 @@ genomes of 5,000 arthropods (i5K Initiative) and is the chair of the
 International Society for Biocuration (ISB).</p></td>
 </tr>
 <tr class="even">
-<td><figure>
+<td>
 <img src="NickLoman.jpg" title="Nick Loman" width="120" />
-<figcaption>Nick Loman</figcaption>
-</figure></td>
+</td>
 <td><p><strong><a href="http://lab.loman.net/about/">Nick
 Loman</a></strong> (<a
 href="https://twitter.com/pathogenomenick">@pathogenomenick</a>) is
@@ -54,10 +49,9 @@ data to facilitate the surveillance and treatment of infectious
 disease.</p></td>
 </tr>
 <tr class="odd">
-<td><figure>
+<td>
 <img src="Madeleine-Ball.jpg" title="Madeleine Ball" width="120" />
-<figcaption>Madeleine Ball</figcaption>
-</figure></td>
+</td>
 <td><p><strong>Madeleine Ball</strong> is the Executive Director and
 co-founder of Open Humans, an organization dedicated to enabling
 individuals to access their data and share it with research studies. She
@@ -66,10 +60,9 @@ of her vision for opening human health data, Madeleine was recently
 awarded a Shuttleworth Foundation Fellowship.</p></td>
 </tr>
 <tr class="even">
-<td><figure>
+<td>
 <img src="andrew-su.jpg" title="Andrew Su" width="120" />
-<figcaption>Andrew Su</figcaption>
-</figure></td>
+</td>
 <td><p><strong>Andrew Su</strong> (<a
 href="https://twitter.com/andrewsu">@andrewsu</a>) is Professor at the
 Scripps Research Institute in the Department of Integrative, Structural
@@ -81,10 +74,9 @@ Mark2Cure, each of which engages “the crowd” to help organize biomedical
 knowledge.</p></td>
 </tr>
 <tr class="odd">
-<td><figure>
+<td>
 <img src="carole-goble.jpg" title="Carole Goble" width="120" />
-<figcaption>Carole Goble</figcaption>
-</figure></td>
+</td>
 <td><p><strong>Carole Goble</strong> is a full professor in the School
 of Computer Science at the University of Manchester, UK, where she leads
 an eScience group of Research Software Engineers and researchers. She is

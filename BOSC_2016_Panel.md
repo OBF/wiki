@@ -8,10 +8,7 @@ tags:
  - BOSC Conferences
 ---
 
-<figure>
 <img src="Pear.png" title="BOSC logo" width="120" />
-<figcaption>BOSC logo</figcaption>
-</figure>
 
 ## Growing and sustaining open source communities
 
@@ -24,11 +21,10 @@ organizational structures and funding models.
 <table>
 <tbody>
 <tr class="odd">
-<td><figure>
+<td>
 <img src="monica-munoz-torres.jpg" title="Mónica Muñoz-Torres"
 width="120" />
-<figcaption>Mónica Muñoz-Torres</figcaption>
-</figure></td>
+</td>
 <td><p>Panel chair <strong>Mónica Muñoz-Torres</strong> (<a
 href="https://twitter.com/monimunozto">@monimunozto</a>) is the
 biocuration lead for Berkeley Bioinformatics Open-Source Projects (BBOP)
@@ -46,11 +42,10 @@ involved in outreach activities to local high schools in an attempt to
 inspire students to pursue careers in STEM.</p></td>
 </tr>
 <tr class="even">
-<td><figure>
+<td>
 <img src="abigail-mayes.jpg" title="Abigail Cabunoc Mayes"
 width="120" />
-<figcaption>Abigail Cabunoc Mayes</figcaption>
-</figure></td>
+</td>
 <td><p><strong>Abigail Cabunoc Mayes</strong> (<a
 href="https://twitter.com/abbycabs">@abbycabs</a>) is the Lead Developer
 of the <a href="https://mozillascience.org/">Mozilla Science Lab</a>, an
@@ -65,10 +60,9 @@ bioinformatics and computer science, she builds tools that use the web
 to move science forward.</p></td>
 </tr>
 <tr class="odd">
-<td><figure>
+<td>
 <img src="bastian.jpg" title="Bastian Greshake" width="120" />
-<figcaption>Bastian Greshake</figcaption>
-</figure></td>
+</td>
 <td><p><strong>Bastian Greshake</strong> (<a
 href="https://twitter.com/gedankenstuecke">@gedankenstuecke</a>) is a
 biologist-turned-bioinformatician, currently working on his PhD in the
@@ -81,10 +75,9 @@ sustaining and growing a scientific open source project which is
 independent of traditional academic institutions.</p></td>
 </tr>
 <tr class="even">
-<td><figure>
+<td>
 <img src="jamie-whitacre.jpg" title="Jamie Whitacre" width="120" />
-<figcaption>Jamie Whitacre</figcaption>
-</figure></td>
+</td>
 <td><p><strong>Jamie Whitacre</strong> is the technical project manager
 for Project Jupyter, which was born out of the IPython Notebook in 2014.
 Jupyter is a web application that allows users to perform exploratory
@@ -97,10 +90,9 @@ Institute for Data Science and is an affiliate of the Lawrence Berkeley
 National Laboratory.</p></td>
 </tr>
 <tr class="odd">
-<td><figure>
+<td>
 <img src="john-chilton.jpg" title="John Chilton" width="120" />
-<figcaption>John Chilton</figcaption>
-</figure></td>
+</td>
 <td><p><strong>John Chilton</strong> (<a
 href="https://twitter.com/jmchilton">@jmchilton</a>) is a software
 developer on the <a href="https://galaxyproject.org/">Galaxy project</a>
@@ -114,10 +106,9 @@ of conduct</a>. He is also one of the co-founders of the <a
 href="http://www.commonwl.org/">Common Workflow Language</a>.</p></td>
 </tr>
 <tr class="even">
-<td><figure>
+<td>
 <img src="natasha-wood.png" title="Natasha Wood" width="120" />
-<figcaption>Natasha Wood</figcaption>
-</figure></td>
+</td>
 <td><p><strong>Natasha Wood</strong> (<a
 href="https://twitter.com/natasha_wood">@natasha_wood</a>) is an NRF
 Research Career Award Fellow and lecturer in the Department of

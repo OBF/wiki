@@ -9,10 +9,7 @@ keynote speakers:
 
 ### Holly Bik
 
-<figure>
 <img src="HollyBik.png" title="Holly Bik" width="180" />
-<figcaption>Holly Bik</figcaption>
-</figure>
 
 Dr Holly Bik is a Birmingham Fellow (assistant professor) in the School
 of Biosciences at the University of Birmingham, UK. She obtained her
@@ -47,10 +44,7 @@ Homepage: [Holly Bik](http://www.hollybik.com/about/), Twitter:
 
 ### Ewan Birney
 
-<figure>
 <img src="EwanBirney2.jpg" title="Ewan Birney" width="230" />
-<figcaption>Ewan Birney</figcaption>
-</figure>
 
 Dr Ewan Birney is Joint Associate Director of EMBL-EBI, as well as
 Interim Head of the Centre for Therapeutic Target Validation. Together

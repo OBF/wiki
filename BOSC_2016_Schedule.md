@@ -8,10 +8,7 @@ tags:
  - BOSC Conferences
 ---
 
-<figure>
 <img src="Pear.png" title="BOSC logo" width="120" />
-<figcaption>BOSC logo</figcaption>
-</figure>
 
 This page has links to all the publicly available talk slides, videos
 and posters. Most of the slides and posters are on our [BOSC F1000
@@ -32,16 +29,14 @@ sponsors for BOSC 2016,
 <table>
 <tbody>
 <tr class="odd">
-<td><figure>
+<td>
 <img src="Curoverse_logo.png" title="Curoverse logo" width="175" />
-<figcaption>Curoverse logo</figcaption>
-</figure></td>
+</td>
 </tr>
 <tr class="even">
-<td><figure>
+<td>
 <img src="Arvados.png" title="Arvados logo" width="150" />
-<figcaption>Arvados logo</figcaption>
-</figure></td>
+</td>
 </tr>
 </tbody>
 </table>

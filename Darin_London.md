@@ -6,10 +6,7 @@ tags:
  - People
 ---
 
-<figure>
 <img src="DarinLondon.jpg" title="DarinLondon.jpg" width="300" />
-<figcaption>DarinLondon.jpg</figcaption>
-</figure>
 
 Darin London is the chair for the [BOSC](BOSC "wikilink") conferences.
 Darin is currently employed at [Duke University](http://www.duke.edu)'s

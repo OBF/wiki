@@ -6,10 +6,7 @@ layout: wiki
 
 ## BOSC 2006
 
-<figure>
 <img src="Pear.png" title="The Bosc Pear" />
-<figcaption>The Bosc Pear</figcaption>
-</figure>
 
   
   

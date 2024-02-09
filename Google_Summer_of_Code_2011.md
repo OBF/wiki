@@ -4,10 +4,7 @@ permalink: Google_Summer_of_Code_2011
 layout: wiki
 ---
 
-<figure>
 <img src="Gsoc_2011_logo.png" title="Google Summer of Code 2011 logo" />
-<figcaption>Google Summer of Code 2011 logo</figcaption>
-</figure>
 
 The OBF was accepted into the 2011 Google Summer of Code (GSoC) program
 as an umbrella organization for all OBF-affiliated projects. [Program

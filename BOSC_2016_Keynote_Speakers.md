@@ -9,10 +9,7 @@ keynote speakers:
 
 ### Jennifer Gardy
 
-<figure>
 <img src="JenniferGardy.jpg" title="Jennifer Gardy" width="240" />
-<figcaption>Jennifer Gardy</figcaption>
-</figure>
 
 Dr. Jennifer Gardy is both a scientist and science communicator. She
 holds a PhD in Bioinformatics, and is an Assistant Professor of
@@ -62,10 +59,7 @@ preventing future pandemics.*
 
 ### Steven Salzberg
 
-<figure>
 <img src="StevenSalzberg.jpg" title="Steven Salzberg" width="210" />
-<figcaption>Steven Salzberg</figcaption>
-</figure>
 
 Dr. Steven Salzberg is the Bloomberg Distinguished Professor of
 Biomedical Engineering, Computer Science, and Biostatistics and the

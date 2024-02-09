@@ -10,11 +10,8 @@ redirect_from:
  - Gsoc
 ---
 
-<figure>
 <img src="GSoC15-logo-small.jpg"
 title="Google Summer of Code 2015 logo" />
-<figcaption>Google Summer of Code 2015 logo</figcaption>
-</figure>
 
 Google Summer of Code (GSoC) is a student internship program for
 open-source projects. The program offers eligible student developers
@@ -91,10 +88,7 @@ Our GSoC ideas from each project are collected here:
 
 ## OBF Projects Accepting Applicants
 
-<figure>
 <img src="BioPerl_logo_tiny.jpg" title="BioPerl logo" />
-<figcaption>BioPerl logo</figcaption>
-</figure>
 
 [BioPerl](bp:Google_Summer_of_Code "wikilink") :  
 
@@ -117,10 +111,7 @@ need work, as another source for student-conceived project ideas
 
 :\* IRC: `#bioperl` on [Freenode](http://freenode.net)
 
-<figure>
 <img src="Biopython_logo_tiny.png" title="Biopython logo" />
-<figcaption>Biopython logo</figcaption>
-</figure>
 
 [BioPython](https://biopython.org/wiki/Google_Summer_of_Code "wikilink") :  
 
@@ -139,10 +130,7 @@ contributors](https://biopython.org/wiki/Contributing "wikilink")
 
 :\* No IRC channel at present
 
-<figure>
 <img src="Biojava_logo_tiny.jpg" title="BioJava logo" />
-<figcaption>BioJava logo</figcaption>
-</figure>
 
 [BioJava](http://biojava.org/wiki/Google_Summer_of_Code) :  
 
@@ -162,10 +150,7 @@ sub-projects](http://code.open-bio.org/svnweb/index.cgi/biojava/)
 
 :\* No IRC channel at present
 
-<figure>
 <img src="BioRuby_logo_tiny.png" title="BioRuby logo" />
-<figcaption>BioRuby logo</figcaption>
-</figure>
 
 [BioRuby](http://bioruby.org) :  
 
@@ -182,10 +167,7 @@ list](http://lists.open-bio.org/mailman/listinfo/bioruby)
 
 :\* IRC: `#bioruby` on [Freenode](http://freenode.net)
 
-<figure>
 <img src="BioSQL_logo.png" title="BioSQL logo" width="160" />
-<figcaption>BioSQL logo</figcaption>
-</figure>
 
 [BioSQL](https://biosql.org "wikilink") :  
 

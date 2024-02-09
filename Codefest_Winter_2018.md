@@ -243,15 +243,13 @@ questions. You are very welcome at Codefest.
 <table>
 <tbody>
 <tr class="odd">
-<td><figure>
+<td>
 <img src="gcp-logo.png" title="Google Cloud" width="220" />
-<figcaption>Google Cloud</figcaption>
-</figure></td>
+</td>
 <td><p>   </p></td>
-<td><figure>
+<td>
 <img src="Veritas.png" title="Veritas" width="300" />
-<figcaption>Veritas</figcaption>
-</figure></td>
+</td>
 </tr>
 </tbody>
 </table>

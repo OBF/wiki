@@ -56,10 +56,7 @@ to accelerate scientific discovery.*
 
 ------------------------------------------------------------------------
 
-<figure>
 <img src="TitusBrown.jpg" title="C. Titus Brown" width="180" />
-<figcaption>C. Titus Brown</figcaption>
-</figure>
 
 ### C. Titus Brown
 

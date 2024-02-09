@@ -152,10 +152,9 @@ and discuss in real time.
 <table>
 <tbody>
 <tr class="odd">
-<td><figure>
+<td>
 <img src="TCDTrimmed.png" title="Trinity College Dubline" width="320" />
-<figcaption>Trinity College Dubline</figcaption>
-</figure></td>
+</td>
 </tr>
 </tbody>
 </table>
@@ -201,16 +200,14 @@ please get in touch with [Brad](https://github.com/chapmanb).
 <table>
 <tbody>
 <tr class="odd">
-<td><figure>
+<td>
 <img src="Curoverse_logo.png" title="Curoverse logo" width="175" />
-<figcaption>Curoverse logo</figcaption>
-</figure></td>
+</td>
 </tr>
 <tr class="even">
-<td><figure>
+<td>
 <img src="Arvados.png" title="Arvados logo" width="150" />
-<figcaption>Arvados logo</figcaption>
-</figure></td>
+</td>
 </tr>
 </tbody>
 </table>

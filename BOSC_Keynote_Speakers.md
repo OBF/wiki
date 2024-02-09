@@ -54,10 +54,7 @@ circuits in Drosophila.
 
 ### Cameron Neylon
 
-<figure>
 <img src="Neylon.jpg" title="Cameron Neylon" width="120" />
-<figcaption>Cameron Neylon</figcaption>
-</figure>
 
 Cameron Neylon is Advocacy Director for the Public Library of Science, a
 research biophysicist and well known agitator for opening up the process
