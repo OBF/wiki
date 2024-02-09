@@ -42,95 +42,111 @@ non-profit, community-run hackerspace). Codefest is FREE and open to all
 
 ## Schedule at a glance
 
-<table>
-<tbody>
-<tr class="odd">
-<td style="width: 50%; vertical-align: top;"><table>
-<tbody>
-<tr class="odd">
-<td style="background:#D0F781"><p><strong>Day 1 (Saturday, July
-22)</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Time</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>8:30-9:30</p></td>
-</tr>
-<tr class="even">
-<td><p>10:00-10:10</p></td>
-</tr>
-<tr class="odd">
-<td><p>10:10-10:45</p></td>
-</tr>
-<tr class="even">
-<td><p>10:45-12:20</p></td>
-</tr>
-<tr class="odd">
-<td><p>12:30-14:00</p></td>
-</tr>
-<tr class="even">
-<td><p>14:00-15:00</p></td>
-</tr>
-<tr class="odd">
-<td><p>15:00-16:00</p></td>
-</tr>
-<tr class="even">
-<td><p>16:30-17:30</p></td>
-</tr>
-<tr class="odd">
-<td><p>17:30-18:30</p></td>
-</tr>
-<tr class="even">
-<td><p>18:00-19:00</p></td>
-</tr>
-</tbody>
-</table></td>
-<td style="border: none"></td>
-<td style="width: 49%; vertical-align: top;"><table>
-<tbody>
-<tr class="odd">
-<td style="background:#FFFF80;"><p><strong>Day 2 (Sunday, July
-23)</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Time</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>8:30-9:30</p></td>
-</tr>
-<tr class="even">
-<td><p>10:00-10:05</p></td>
-</tr>
-<tr class="odd">
-<td><p>10:05-11:30</p></td>
-</tr>
-<tr class="even">
-<td><p>11:30-12:20</p></td>
-</tr>
-<tr class="odd">
-<td><p>12:30-14:00</p></td>
-</tr>
-<tr class="even">
-<td><p>14:00-15:00</p></td>
-</tr>
-<tr class="odd">
-<td><p>15:00-16:00</p></td>
-</tr>
-<tr class="even">
-<td><p>16:30-17:30</p></td>
-</tr>
-<tr class="odd">
-<td><p>17:30-18:30</p></td>
-</tr>
-<tr class="even">
-<td><p>18:00-19:00</p></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
+<table border="0">
+
+<tr>
+<td style="width: 50%; vertical-align: top;">
+<table border="1" cellspacing="0" cellpadding="7">
+<tr>
+<td style="background:#D0F781" colspan="2"> <b>Day 1 (Saturday, July 22)</b>
+</td></tr>
+<tr>
+<td> <b>Time</b> </td>
+<td> <b>Session</b>
+</td></tr>
+<tr>
+<td> 8:30-9:30 </td>
+<td> (ISMB announcements &amp; ISMB keynote)
+</td></tr>
+<tr>
+<td> 10:00-10:10 </td>
+<td> BOSC announcements
+</td></tr>
+<tr>
+<td> 10:10-10:45 </td>
+<td> Introduction to the Open Bioinformatics Foundation; OBF in the Google Summer of Code; Codefest 2017 Report
+</td></tr>
+<tr>
+<td> 10:45-12:20 </td>
+<td> Session: Workflows
+</td></tr>
+<tr>
+<td> 12:30-14:00 </td>
+<td> Lunch, Posters, <a rel="nofollow" class="external text" href="https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing">Birds of a Feather discussions (BoFs)</a>
+</td></tr>
+<tr>
+<td> 14:00-15:00 </td>
+<td> Session: Developer tools and libraries for open science and reproducibility
+</td></tr>
+<tr>
+<td> 15:00-16:00 </td>
+<td>  Session: Data Science &amp; Visualization
+</td></tr>
+<tr>
+<td> 16:30-17:30 </td>
+<td> <a href="/wiki/BOSC_2017_Keynote_Speakers" title="BOSC 2017 Keynote Speakers"> Keynote: Madeleine Ball</a>
+</td></tr>
+<tr>
+<td> 17:30-18:30 </td>
+<td> <a rel="nofollow" class="external text" href="https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing">Birds of a Feather discussions (BoFs)</a>
+</td></tr>
+<tr>
+<td> 18:00-19:00 </td>
+<td> <a rel="nofollow" class="external text" href="https://www.iscb.org/cms_addon/conferences/ismbeccb2017/posterlist.php?cat=B">Posters</a>
+</td></tr></table>
+</td>
+<td style="border: none">
+</td>
+<td style="width: 49%; vertical-align: top;">
+<table border="1" cellspacing="0" cellpadding="7">
+<tr>
+<td style="background:#FFFF80;" colspan="2"> <b>Day 2 (Sunday, July 23)</b>
+</td></tr>
+<tr>
+<td> <b>Time</b> </td>
+<td> <b>Session</b>
+</td></tr>
+<tr>
+<td> 8:30-9:30 </td>
+<td> (ISMB announcements &amp; ISMB keynote)
+</td></tr>
+<tr>
+<td> 10:00-10:05 </td>
+<td> BOSC announcements
+</td></tr>
+<tr>
+<td> 10:05-11:30 </td>
+<td> Session: Community Building and Citizen Science
+</td></tr>
+<tr>
+<td> 11:30-12:20 </td>
+<td> Late-Breaking Lightning Talks
+</td></tr>
+<tr>
+<td> 12:30-14:00 </td>
+<td> Lunch, Posters, <a rel="nofollow" class="external text" href="https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing">Birds of a Feather discussions (BoFs)</a>
+</td></tr>
+<tr>
+<td> 14:00-15:00 </td>
+<td> Session: Open Data
+</td></tr>
+<tr>
+<td> 15:00-16:00 </td>
+<td>  <a href="/wiki/BOSC_2017_Panel" title="BOSC 2017 Panel"> Panel: Open Data--Standards, Opportunities and Challenges</a>
+</td></tr>
+<tr>
+<td> 16:30-17:30 </td>
+<td> <a href="/wiki/BOSC_2017_Keynote_Speakers" title="BOSC 2017 Keynote Speakers"> Keynote (Nick Loman)</a> and closing remarks
+</td></tr>
+<tr>
+<td>  17:30-18:30 </td>
+<td> <a rel="nofollow" class="external text" href="https://docs.google.com/document/d/1pCkjxooRxHhh3mcqxy7h083mUxt2Ldh1N0kJRwNdjx8/edit?usp=sharing">Birds of a Feather discussions (BoFs)</a>
+</td></tr>
+<tr>
+<td> 18:00-19:00 </td>
+<td> <a rel="nofollow" class="external text" href="https://www.iscb.org/cms_addon/conferences/ismbeccb2017/posterlist.php?cat=B">Posters</a>
+</td></tr></table>
+</td></tr></table>
 
 # Complete schedule of talks
 
