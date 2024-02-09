@@ -168,7 +168,9 @@ community-run hackerspace in Prague.
 <tbody>
 <tr class="odd">
 <td>
+<a href="https://brmlab.cz/">
 <img src="Brmlab.png" title="Brmlab" width="400" />
+</a>
 </td>
 </tr>
 </tbody>
@@ -268,8 +270,8 @@ keynote\|registration\|reception is thus very possible!
 <tr class="odd">
 <td><p>  </p></td>
 <td>
-<img src="Zlycasy.png" title="Brmlab to Zlý Časy (optionally via ISMB)"
-width="467" />
+<a href="https://www.google.com/maps/dir/brmlab,+Bubensk%C3%A1,+Hole%C5%A1ovice,+Praha-Praha+7,+%C4%8Cesko/Zl%C3%BD+%C4%8Casy,+%C4%8Cestm%C3%ADrova,+Praha,+%C4%8Cesko/@50.0816251,14.4333811,14z/data=!4m16!4m15!1m5!1m1!1s0x470b94b80ce899d9:0xcc81f00a71b39b29!2m2!1d14.4359171!2d50.0984431!1m5!1m1!1s0x470b947e932889db:0xe7fd48b92656f255!2m2!1d14.4420491!2d50.0643445!2m1!5e1!3e3?hl=en"><img src="Zlycasy.png" title="Brmlab to Zlý Časy (optionally via ISMB)"
+width="467" /></a>
 </td>
 <td><p>  </p></td>
 </tr>
@@ -282,12 +284,16 @@ width="467" />
 <tbody>
 <tr class="odd">
 <td>
+<a href="https://repositive.io/">
 <img src="Repositive_logo_long.png" title="Repositive Limited logo"
 width="220" />
+</a>
 </td>
 <td><p>   </p></td>
 <td>
+<a href="https://www.sevenbridges.com/">
 <img src="SB_logo_navy.png" title="Seven Bridges" width="220" />
+</a>
 </td>
 </tr>
 </tbody>

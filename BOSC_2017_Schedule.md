@@ -613,7 +613,7 @@ advance--space limited)</p></td>
 
 ## Sponsors
 
-We are grateful to and welcome [The Hyve](http://thehyve.nl/) (open
+We are grateful to and welcome [The Hyve](https://thehyve.nl/) (open
 source solutions for bioinformatics), [Mozilla Science
 Lab](https://science.mozilla.org/) (a community of researchers,
 developers, and librarians making research open and accessible),
@@ -634,17 +634,23 @@ bosc@open-bio.org.
 <tbody>
 <tr class="odd">
 <td>
+<a href="https://thehyve.nl/">
 <img src="Thehyve-logo-small.png" title="The Hyve logo" width="200" />
+</a>
 </td>
 <td><p>   </p></td>
 <td>
+<a href="https://science.mozilla.org/">
 <img src="MSLLogo_small.png" title="Mozilla Science Lab logo"
 width="220" />
+</a>
 </td>
 <td><p>   </p></td>
 <td>
+<a href="https://repositive.io/">
 <img src="Repositive_logo_long.png" title="Repositive Limited logo"
 width="220" />
+</a>
 </td>
 </tr>
 </tbody>
@@ -655,15 +661,21 @@ width="220" />
 <tr class="odd">
 <td><p>   </p></td>
 <td>
+<a href="http://www.gigasciencejournal.com/">
 <img src="gigascience-07.png" title="GigaScience" width="200" />
+</a>
 </td>
 <td><p>   </p></td>
 <td>
+<a href="https://www.sevenbridges.com/">
 <img src="SB_logo_navy.png" title="Seven Bridges" width="220" />
+</a>
 </td>
 <td><p>   </p></td>
 <td>
+<a href="https://elifesciences.org/labs">
 <img src="eLife.png" title="eLife" width="200" />
+</a>
 </td>
 </tr>
 </tbody>

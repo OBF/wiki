@@ -6,12 +6,12 @@ layout: wiki
 
 OpenBio Codefest 2014 will take place July 9th and 10th, 2014 (the
 Wednesday and Thursday before [BOSC 2014](BOSC_2014 "wikilink")) in
-Cambridge, Massachusetts at [hack/reduce](http://www.hackreduce.org/).
+Cambridge, Massachusetts at [hack/reduce](https://www.hackreduce.org/).
 This is a great opportunity for open source bioinformatics developers to
 meet and work collaboratively. We hope to have developers from projects
-such as [BioPerl](http://bioperl.org),
-[BioJava](http://www.biojava.org), [Biopython](http://biopython.org),
-[BioRuby](http://www.bioruby.org), [Galaxy](http://wiki.g2.bx.psu.edu/)
+such as [BioPerl](https://bioperl.org),
+[BioJava](https://www.biojava.org), [Biopython](https://biopython.org),
+[BioRuby](https://www.bioruby.org), [Galaxy](http://wiki.g2.bx.psu.edu/)
 and [GenomeSpace](http://www.genomespace.org) in attendance. Everyone is
 welcome to attend.
 
@@ -66,18 +66,20 @@ so please sign up to receive updates.
 <tbody>
 <tr class="odd">
 <td>
+<a href="https://www.hackreduce.org/">
 <img src="hack-reduce-logo.png" title="hack/reduce logo" width="153" />
+</a>
 </td>
 </tr>
 </tbody>
 </table>
 
-[hack/reduce](http://www.hackreduce.org/), a wonderful hacker space in
+[hack/reduce](https://www.hackreduce.org/), a wonderful hacker space in
 Cambridge, has agreed to host us for the two days. It's located a short
 walk from the Kendall Square Red Line [T stop](http://mbta.com/):
 [Google map](http://goo.gl/maps/c8qkV)
 
-Thanks to [Amazon](http://aws.amazon.com) all participants will receive
+Thanks to [Amazon](https://aws.amazon.com) all participants will receive
 a \$100 AWS credit to support work at the Hackathon.
 
 Thanks to the generosity of our sponsors we will have coffee, lunch and
@@ -114,26 +116,34 @@ transfer from Green to Red at Park Street Station downtown.
 <tbody>
 <tr class="odd">
 <td>
+<a href="https://curoverse.com">
 <img src="Curoverse_logo.png" title="Curoverse logo" width="175" />
+</a>
 </td>
 <td rowspan="2"><p>        </p></td>
 <td rowspan="2">
+<a href="https://harbinger-partners.com/">>
 <img src="HP-logo-no-tagline.png" title="Harbinger Partners logo"
 width="131" />
+</a>
 </td>
 <td rowspan="2">
+<a href="https://aws.amazon.com/">
 <img src="Aws-logo.jpeg" title="AWS logo" width="150" />
+</a>
 </td>
 </tr>
 <tr class="even">
 <td>
+<a href="https://arvados.org/">
 <img src="Arvados.png" title="Arvados logo" width="150" />
+</a>
 </td>
 </tr>
 </tbody>
 </table>
 
-We thank [Curoverse](http://curoverse.com), [Harbinger Partners,
+We thank [Curoverse](https://curoverse.com), [Harbinger Partners,
 Inc.](http://harbinger-partners.com/) and [Amazon Web
 Services](http://aws.amazon.com/) for sponsoring the BOSC CodeFest 2014.
 

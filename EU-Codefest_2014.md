@@ -116,9 +116,8 @@ Advisor](http://www.tripadvisor.co.uk/Restaurant_Review-g186225-d1629033-Reviews
 
 |                                                                                             |
 |---------------------------------------------------------------------------------------------|
-| <img src="Arvados.png" title="Arvados logo" width="150"                                     
- alt="Arvados logo" /> <img src="curoverse_logo_2014.png" title="Curoverse logo" width="150"  
- alt="Curoverse logo" />                                                                      |
+| <a href="https://arvados.org/"><img src="Arvados.png" title="Arvados logo" width="150" alt="Arvados logo" /></a> <a href="https://curoverse.com"><img src="curoverse_logo_2014.png" title="Curoverse logo" width="150"  
+ alt="Curoverse logo" /></a> |
 
 ## Organizers
 

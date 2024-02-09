@@ -134,21 +134,29 @@ If the speaker also gave a talk, any poster link will be above (posters
 <tbody>
 <tr class="odd">
 <td rowspan="2">
+<a href="https://www.eaglegenomics.com/">
 <img src="Eagle_logo_2013.jpg" title="Eagle Genomics logo"
 width="120" />
+</a>
 </td>
 <td rowspan="2"><p>            </p></td>
 <td rowspan="2">
+<a href="http://www.gigasciencejournal.com/">
 <img src="gigascience-07.png" title="GigaScience" width="175" />
+</a>
 </td>
 <td rowspan="2"><p>        </p></td>
 <td>
+<a href="https://curoverse.com">
 <img src="Curoverse.png" title="Curoverse logo" width="175" />
+</a>
 </td>
 </tr>
 <tr class="even">
 <td>
+<a href="https://arvados.org/">
 <img src="Arvados.png" title="Arvados logo" width="150" />
+</a>
 </td>
 </tr>
 </tbody>
@@ -157,7 +165,7 @@ width="120" />
 We thank [Eagle Genomics](http://www.eaglegenomics.com/) for sponsoring
 the BOSC Student Travel Awards again this year, and welcome the open
 access journal [GigaScience](http://www.gigasciencejournal.com/), and
-[Curoverse](http://curoverse.com) (the team behind the open source
+[Curoverse](https://curoverse.com) (the team behind the open source
 platform [Arvados](http://arvados.org)) as new sponsors for BOSC 2014.
 
 We are grateful to [Google](http://www.google.com/) for their generous

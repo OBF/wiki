@@ -201,18 +201,24 @@ please get in touch with [Brad](https://github.com/chapmanb).
 <tbody>
 <tr class="odd">
 <td>
+<a href="https://curoverse.com">
 <img src="Curoverse_logo.png" title="Curoverse logo" width="175" />
+</a>
 </td>
-</tr>
-<tr class="even">
 <td>
+<a href="https://arvados.org/">
 <img src="Arvados.png" title="Arvados logo" width="150" />
+</a>
+</td><td>
+<a href="http://www.bina.org/">
+<img src="Bina_logo.png" title="Bina logo" width="200" />
+</a>
 </td>
 </tr>
 </tbody>
 </table>
 
-We thank [Curoverse](http://curoverse.com) and
+We thank [Curoverse](https://curoverse.com) and
 [Bina](http://www.bina.org) for sponsoring the BOSC CodeFest 2015.
 
 ## Organizers

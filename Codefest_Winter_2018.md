@@ -244,11 +244,15 @@ questions. You are very welcome at Codefest.
 <tbody>
 <tr class="odd">
 <td>
+<a href="https://cloud.google.com/">
 <img src="gcp-logo.png" title="Google Cloud" width="220" />
+</a>
 </td>
 <td><p>   </p></td>
 <td>
+<a href="https://www.veritasgenetics.com/">
 <img src="Veritas.png" title="Veritas" width="300" />
+</a>
 </td>
 </tr>
 </tbody>

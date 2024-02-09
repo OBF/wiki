@@ -23,9 +23,9 @@ The PDF of this schedule (without abstracts) is available
 
 ## Sponsors
 
-We are grateful to [Google](http://www.google.com/) for their generous
+We are grateful to [Google](https://www.google.com/) for their generous
 support for videorecording BOSC 2015, and we thank
-[Curoverse](http://curoverse.com) (the team behind the open source
+[Curoverse](https://curoverse.com) (the team behind the open source
 platform [Arvados](http://arvados.org)) and Open Access journal
 [GigaScience](http://www.gigasciencejournal.com/) as returning sponsors,
 and welcome [Bina](http://bina.com/) as our newest sponsor.
@@ -34,16 +34,22 @@ and welcome [Bina](http://bina.com/) as our newest sponsor.
 <tbody>
 <tr class="odd">
 <td rowspan="2">
+<a href="https://www.google.com/">
 <img src="google-logo11w.png" title="Google" width="205" />
+</a>
 </td>
 <td rowspan="2"><p>            </p></td>
 <td>
+<a href="https://curoverse.com">
 <img src="Curoverse_logo.png" title="Curoverse logo" width="175" />
+</a>
 </td>
 </tr>
 <tr class="even">
 <td>
+<a href="https://arvados.org/">
 <img src="Arvados.png" title="Arvados logo" width="150" />
+</a>
 </td>
 </tr>
 </tbody>

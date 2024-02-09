@@ -166,7 +166,9 @@ community space for creators.
 <tbody>
 <tr class="odd">
 <td>
+<a href="https://familab.org">
 <img src="FamiLAB-Logo3.gif" title="FamiLAB" width="400" />
+</a>
 </td>
 </tr>
 </tbody>
@@ -241,22 +243,28 @@ about the current status at any time.
 <tbody>
 <tr class="odd">
 <td>
+<a href="https://curoverse.com">
 <img src="Curoverse_logo.png" title="Curoverse logo" width="175" />
+</a>
 </td>
 <td rowspan="2"><p>     </p></td>
 <td rowspan="2">
+<a href="https://www.plos.org/?utm_source=plos&utm_medium=logo&utm_campaign=plos-1606-cdfstsp">
 <img src="PLOS-logo_2016.png" title="PLOS logo" width="243" />
+</a>
 </td>
 </tr>
 <tr class="even">
 <td>
+<a href="https://arvados.org/">
 <img src="Arvados.png" title="Arvados logo" width="150" />
+</a>
 </td>
 </tr>
 </tbody>
 </table>
 
-We thank [Curoverse](http://curoverse.com) for sponsoring the BOSC
+We thank [Curoverse](https://curoverse.com) for sponsoring the BOSC
 Codefest once again, and [welcome PLOS as a new Codefest 2016
 sponsor](https://www.plos.org/?utm_source=plos&utm_medium=logo&utm_campaign=plos-1606-cdfstsp).
 

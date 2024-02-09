@@ -22,7 +22,7 @@ is available.
 
 ## Sponsors
 
-We are grateful to [Curoverse](http://curoverse.com) (the team behind
+We are grateful to [Curoverse](https://curoverse.com) (the team behind
 the open source platform [Arvados](http://arvados.org)) as returning
 sponsors for BOSC 2016,
 
@@ -30,12 +30,16 @@ sponsors for BOSC 2016,
 <tbody>
 <tr class="odd">
 <td>
+<a href="https://curoverse.com">
 <img src="Curoverse_logo.png" title="Curoverse logo" width="175" />
+</a>
 </td>
 </tr>
 <tr class="even">
 <td>
+<a href="https://arvados.org/">
 <img src="Arvados.png" title="Arvados logo" width="150" />
+</a>
 </td>
 </tr>
 </tbody>
