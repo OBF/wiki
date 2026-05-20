@@ -18,8 +18,7 @@ Since 2010, people from the OBF project communities have regularly
 organized or co-organized short 2-3 day events preceding the [BOSC
 conference](BOSC "wikilink").
 
-- \[<https://galaxyproject.org/events/gccbosc2018/collaboration/>\|
-  CollaborationFest 2018\]
+- [CollaborationFest 2018](https://galaxyproject.org/events/gccbosc2018/collaboration/)
   - June 25-30, Portland, Oregon, United States
 - [Codefest 2017](Codefest_2017 "wikilink")
   - July 20-21, 2017, in Prague, Czech Republic.
