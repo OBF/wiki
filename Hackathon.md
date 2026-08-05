@@ -19,7 +19,7 @@ organized or co-organized short 2-3 day events preceding the [BOSC
 conference](BOSC "wikilink").
 
 - [CoFest 2026](https://www.open-bio.org/events/bosc-2026/collaborationfest/)
-  - July 17-18, 2026, in Washington, DC, USA.
+  - July 17-18, 2026, at Computer Craft headquarters in Washington, DC, USA.
 - [CoFest 2025](https://www.open-bio.org/events/bosc-2025/ismb-collaborationfest-2025/)
   - July 23-24, 2025, in Liverpool, UK (as part of ISMB/ECCB 2025).
 - [CoFest 2024](https://www.open-bio.org/events/bosc-2024/obf-bosc-collaborationfest-2024/)
