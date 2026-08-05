@@ -18,8 +18,24 @@ Since 2010, people from the OBF project communities have regularly
 organized or co-organized short 2-3 day events preceding the [BOSC
 conference](BOSC "wikilink").
 
+- [CoFest 2026](https://www.open-bio.org/events/bosc-2026/collaborationfest/)
+  - July 17-18, 2026, in Washington, DC, USA.
+- [CoFest 2025](https://www.open-bio.org/events/bosc-2025/ismb-collaborationfest-2025/)
+  - July 23-24, 2025, in Liverpool, UK (as part of ISMB/ECCB 2025).
+- [CoFest 2024](https://www.open-bio.org/events/bosc-2024/obf-bosc-collaborationfest-2024/)
+  - July 17-18, 2024, at UQAM, Montreal, Canada.
+- [CoFest 2023](https://www.open-bio.org/events/bosc-2023/obf-bosc-collaborationfest-2023/)
+  - July 22-23, 2023, at ENS Lyon, France.
+- [CoFest 2022](https://www.open-bio.org//events/bosc-2022/obf-bosc-collaborationfest/)
+  - July 15-16, 2022, at Madison Public Library, USA.
+- [CoFest 2021](https://www.open-bio.org/events/bosc-2021/collaborationfest/)
+  - July 31 - August 1, 2021, online only. 
+- [CollaborationFest 2020](https://www.open-bio.org/events/bosc-2020/bosc-2020-collaborationfest/)
+  - June 25-30, Portland, Oregon, USA.
+- [CollaborationFest 2019](https://www.open-bio.org/events/bosc-2019/bosc-2019-collaborationfest/)
+  - July 26-27, 2019, in Basel, Switzerland.
 - [CollaborationFest 2018](https://galaxyproject.org/events/gccbosc2018/collaboration/)
-  - June 25-30, Portland, Oregon, United States
+  - June 25-30, Portland, Oregon, USA.
 - [Codefest 2017](Codefest_2017 "wikilink")
   - July 20-21, 2017, in Prague, Czech Republic.
 - [Codefest 2016](Codefest_2016 "wikilink")
